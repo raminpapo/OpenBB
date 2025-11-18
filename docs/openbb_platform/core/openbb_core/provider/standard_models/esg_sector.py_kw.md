@@ -1,0 +1,44 @@
+# Keywords: openbb_platform/core/openbb_core/provider/standard_models/esg_sector.py
+
+## Extracted Keywords (40 total)
+
+- **Data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/esg_sector.py`
+- **ESGSectorData** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/esg_sector.py`
+- **ESGSectorQueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/esg_sector.py`
+- **QueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/esg_sector.py`
+- **abstract** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/esg_sector.py`
+- **class** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/esg_sector.py`
+- **data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/esg_sector.py`
+- **environmental** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/esg_sector.py`
+- **environmental_score** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/esg_sector.py`
+- **esg** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/esg_sector.py`
+- **esg_score** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/esg_sector.py`
+- **esgsectordata** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/esg_sector.py`
+- **esgsectorqueryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/esg_sector.py`
+- **float** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/esg_sector.py`
+- **for** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/esg_sector.py`
+- **from** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/esg_sector.py`
+- **get** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/esg_sector.py`
+- **governance** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/esg_sector.py`
+- **governance_score** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/esg_sector.py`
+- **import** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/esg_sector.py`
+- **information** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/esg_sector.py`
+- **int** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/esg_sector.py`
+- **model** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/esg_sector.py`
+- **openbb_core** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/esg_sector.py`
+- **openbb_core.provider.abstract.data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/esg_sector.py`
+- **openbb_core.provider.abstract.query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/esg_sector.py`
+- **parameter** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/esg_sector.py`
+- **provider** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/esg_sector.py`
+- **query** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/esg_sector.py`
+- **query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/esg_sector.py`
+- **queryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/esg_sector.py`
+- **returns** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/esg_sector.py`
+- **score** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/esg_sector.py`
+- **sector** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/esg_sector.py`
+- **social** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/esg_sector.py`
+- **social_score** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/esg_sector.py`
+- **standard** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/esg_sector.py`
+- **str** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/esg_sector.py`
+- **the** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/esg_sector.py`
+- **year** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/esg_sector.py`

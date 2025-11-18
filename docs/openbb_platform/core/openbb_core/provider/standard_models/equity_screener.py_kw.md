@@ -1,0 +1,43 @@
+# Keywords: openbb_platform/core/openbb_core/provider/standard_models/equity_screener.py
+
+## Extracted Keywords (39 total)
+
+- **DATA_DESCRIPTIONS** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_screener.py`
+- **Data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_screener.py`
+- **EquityScreenerData** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_screener.py`
+- **EquityScreenerQueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_screener.py`
+- **Field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_screener.py`
+- **QueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_screener.py`
+- **abstract** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_screener.py`
+- **class** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_screener.py`
+- **company** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_screener.py`
+- **data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_screener.py`
+- **data_descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_screener.py`
+- **default** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_screener.py`
+- **description** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_screener.py`
+- **descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_screener.py`
+- **equity** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_screener.py`
+- **equityscreenerdata** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_screener.py`
+- **equityscreenerqueryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_screener.py`
+- **field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_screener.py`
+- **from** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_screener.py`
+- **get** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_screener.py`
+- **import** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_screener.py`
+- **model** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_screener.py`
+- **name** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_screener.py`
+- **none** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_screener.py`
+- **openbb_core** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_screener.py`
+- **openbb_core.provider.abstract.data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_screener.py`
+- **openbb_core.provider.abstract.query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_screener.py`
+- **openbb_core.provider.utils.descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_screener.py`
+- **provider** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_screener.py`
+- **pydantic** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_screener.py`
+- **query** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_screener.py`
+- **query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_screener.py`
+- **queryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_screener.py`
+- **screener** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_screener.py`
+- **standard** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_screener.py`
+- **str** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_screener.py`
+- **symbol** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_screener.py`
+- **the** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_screener.py`
+- **utils** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_screener.py`

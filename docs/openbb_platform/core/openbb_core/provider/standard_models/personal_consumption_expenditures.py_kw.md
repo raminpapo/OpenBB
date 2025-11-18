@@ -1,0 +1,49 @@
+# Keywords: openbb_platform/core/openbb_core/provider/standard_models/personal_consumption_expenditures.py
+
+## Extracted Keywords (45 total)
+
+- **Data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/personal_consumption_expenditures.py`
+- **Field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/personal_consumption_expenditures.py`
+- **PersonalConsumptionExpendituresData** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/personal_consumption_expenditures.py`
+- **PersonalConsumptionExpendituresQueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/personal_consumption_expenditures.py`
+- **QueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/personal_consumption_expenditures.py`
+- **abstract** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/personal_consumption_expenditures.py`
+- **class** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/personal_consumption_expenditures.py`
+- **consumption** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/personal_consumption_expenditures.py`
+- **data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/personal_consumption_expenditures.py`
+- **data_descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/personal_consumption_expenditures.py`
+- **date** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/personal_consumption_expenditures.py`
+- **datetime** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/personal_consumption_expenditures.py`
+- **datetype** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/personal_consumption_expenditures.py`
+- **default** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/personal_consumption_expenditures.py`
+- **description** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/personal_consumption_expenditures.py`
+- **descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/personal_consumption_expenditures.py`
+- **expenditures** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/personal_consumption_expenditures.py`
+- **field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/personal_consumption_expenditures.py`
+- **float** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/personal_consumption_expenditures.py`
+- **from** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/personal_consumption_expenditures.py`
+- **get** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/personal_consumption_expenditures.py`
+- **import** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/personal_consumption_expenditures.py`
+- **latest** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/personal_consumption_expenditures.py`
+- **model** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/personal_consumption_expenditures.py`
+- **none** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/personal_consumption_expenditures.py`
+- **openbb_core** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/personal_consumption_expenditures.py`
+- **openbb_core.provider.abstract.data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/personal_consumption_expenditures.py`
+- **openbb_core.provider.abstract.query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/personal_consumption_expenditures.py`
+- **openbb_core.provider.utils.descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/personal_consumption_expenditures.py`
+- **personal** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/personal_consumption_expenditures.py`
+- **personalconsumptionexpendituresdata** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/personal_consumption_expenditures.py`
+- **personalconsumptionexpendituresqueryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/personal_consumption_expenditures.py`
+- **provider** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/personal_consumption_expenditures.py`
+- **pydantic** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/personal_consumption_expenditures.py`
+- **query** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/personal_consumption_expenditures.py`
+- **query_descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/personal_consumption_expenditures.py`
+- **query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/personal_consumption_expenditures.py`
+- **queryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/personal_consumption_expenditures.py`
+- **report** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/personal_consumption_expenditures.py`
+- **standard** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/personal_consumption_expenditures.py`
+- **str** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/personal_consumption_expenditures.py`
+- **symbol** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/personal_consumption_expenditures.py`
+- **the** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/personal_consumption_expenditures.py`
+- **utils** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/personal_consumption_expenditures.py`
+- **value** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/personal_consumption_expenditures.py`

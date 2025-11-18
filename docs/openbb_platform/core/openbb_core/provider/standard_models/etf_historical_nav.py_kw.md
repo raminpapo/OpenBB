@@ -1,0 +1,55 @@
+# Keywords: openbb_platform/core/openbb_core/provider/standard_models/etf_historical_nav.py
+
+## Extracted Keywords (51 total)
+
+- **Data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_historical_nav.py`
+- **EtfHistoricalNavData** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_historical_nav.py`
+- **EtfHistoricalNavQueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_historical_nav.py`
+- **Field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_historical_nav.py`
+- **QueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_historical_nav.py`
+- **abstract** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_historical_nav.py`
+- **asset** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_historical_nav.py`
+- **class** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_historical_nav.py`
+- **classmethod** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_historical_nav.py`
+- **cls** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_historical_nav.py`
+- **convert** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_historical_nav.py`
+- **data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_historical_nav.py`
+- **data_descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_historical_nav.py`
+- **date** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_historical_nav.py`
+- **datetime** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_historical_nav.py`
+- **datetype** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_historical_nav.py`
+- **def** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_historical_nav.py`
+- **description** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_historical_nav.py`
+- **descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_historical_nav.py`
+- **etf** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_historical_nav.py`
+- **etfhistoricalnavdata** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_historical_nav.py`
+- **etfhistoricalnavqueryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_historical_nav.py`
+- **field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_historical_nav.py`
+- **field_validator** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_historical_nav.py`
+- **float** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_historical_nav.py`
+- **from** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_historical_nav.py`
+- **get** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_historical_nav.py`
+- **historical** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_historical_nav.py`
+- **import** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_historical_nav.py`
+- **model** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_historical_nav.py`
+- **nav** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_historical_nav.py`
+- **net** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_historical_nav.py`
+- **openbb_core** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_historical_nav.py`
+- **openbb_core.provider.abstract.data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_historical_nav.py`
+- **openbb_core.provider.abstract.query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_historical_nav.py`
+- **openbb_core.provider.utils.descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_historical_nav.py`
+- **provider** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_historical_nav.py`
+- **pydantic** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_historical_nav.py`
+- **query** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_historical_nav.py`
+- **query_descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_historical_nav.py`
+- **query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_historical_nav.py`
+- **queryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_historical_nav.py`
+- **return** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_historical_nav.py`
+- **str** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_historical_nav.py`
+- **symbol** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_historical_nav.py`
+- **the** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_historical_nav.py`
+- **to_upper** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_historical_nav.py`
+- **upper** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_historical_nav.py`
+- **uppercase** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_historical_nav.py`
+- **utils** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_historical_nav.py`
+- **value** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_historical_nav.py`

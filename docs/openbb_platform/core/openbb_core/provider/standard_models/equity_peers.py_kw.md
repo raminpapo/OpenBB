@@ -1,0 +1,51 @@
+# Keywords: openbb_platform/core/openbb_core/provider/standard_models/equity_peers.py
+
+## Extracted Keywords (47 total)
+
+- **Data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_peers.py`
+- **EquityPeersData** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_peers.py`
+- **EquityPeersQueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_peers.py`
+- **Field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_peers.py`
+- **QueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_peers.py`
+- **abstract** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_peers.py`
+- **before** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_peers.py`
+- **check_fields** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_peers.py`
+- **class** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_peers.py`
+- **classmethod** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_peers.py`
+- **cls** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_peers.py`
+- **convert** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_peers.py`
+- **data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_peers.py`
+- **data_descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_peers.py`
+- **def** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_peers.py`
+- **description** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_peers.py`
+- **descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_peers.py`
+- **equity** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_peers.py`
+- **equitypeersdata** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_peers.py`
+- **equitypeersqueryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_peers.py`
+- **false** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_peers.py`
+- **field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_peers.py`
+- **field_validator** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_peers.py`
+- **from** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_peers.py`
+- **get** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_peers.py`
+- **import** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_peers.py`
+- **mode** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_peers.py`
+- **model** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_peers.py`
+- **openbb_core** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_peers.py`
+- **openbb_core.provider.abstract.data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_peers.py`
+- **openbb_core.provider.abstract.query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_peers.py`
+- **openbb_core.provider.utils.descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_peers.py`
+- **peers** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_peers.py`
+- **provider** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_peers.py`
+- **pydantic** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_peers.py`
+- **query** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_peers.py`
+- **query_descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_peers.py`
+- **query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_peers.py`
+- **queryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_peers.py`
+- **return** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_peers.py`
+- **standard** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_peers.py`
+- **str** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_peers.py`
+- **symbol** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_peers.py`
+- **to_upper** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_peers.py`
+- **upper** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_peers.py`
+- **uppercase** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_peers.py`
+- **utils** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/equity_peers.py`

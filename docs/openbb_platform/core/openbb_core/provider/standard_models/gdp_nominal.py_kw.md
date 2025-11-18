@@ -1,0 +1,52 @@
+# Keywords: openbb_platform/core/openbb_core/provider/standard_models/gdp_nominal.py
+
+## Extracted Keywords (48 total)
+
+- **Data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_nominal.py`
+- **Field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_nominal.py`
+- **GdpNominalData** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_nominal.py`
+- **GdpNominalQueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_nominal.py`
+- **QueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_nominal.py`
+- **abstract** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_nominal.py`
+- **and** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_nominal.py`
+- **class** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_nominal.py`
+- **country** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_nominal.py`
+- **data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_nominal.py`
+- **data_descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_nominal.py`
+- **date** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_nominal.py`
+- **datetime** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_nominal.py`
+- **datetype** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_nominal.py`
+- **default** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_nominal.py`
+- **description** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_nominal.py`
+- **descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_nominal.py`
+- **end_date** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_nominal.py`
+- **field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_nominal.py`
+- **float** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_nominal.py`
+- **for** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_nominal.py`
+- **from** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_nominal.py`
+- **gdp** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_nominal.py`
+- **gdpnominaldata** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_nominal.py`
+- **gdpnominalqueryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_nominal.py`
+- **get** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_nominal.py`
+- **import** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_nominal.py`
+- **int** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_nominal.py`
+- **model** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_nominal.py`
+- **nominal** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_nominal.py`
+- **none** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_nominal.py`
+- **openbb_core** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_nominal.py`
+- **openbb_core.provider.abstract.data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_nominal.py`
+- **openbb_core.provider.abstract.query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_nominal.py`
+- **openbb_core.provider.utils.descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_nominal.py`
+- **provider** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_nominal.py`
+- **pydantic** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_nominal.py`
+- **query** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_nominal.py`
+- **query_descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_nominal.py`
+- **query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_nominal.py`
+- **queryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_nominal.py`
+- **represented** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_nominal.py`
+- **standard** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_nominal.py`
+- **start_date** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_nominal.py`
+- **str** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_nominal.py`
+- **the** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_nominal.py`
+- **utils** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_nominal.py`
+- **value** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_nominal.py`

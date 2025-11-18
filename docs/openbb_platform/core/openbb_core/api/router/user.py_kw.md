@@ -1,0 +1,42 @@
+# Keywords: openbb_platform/core/openbb_core/api/router/user.py
+
+## Extracted Keywords (38 total)
+
+- **APIRouter** - Appears in `openbb_platform/core/openbb_core/api/router/user.py`
+- **Annotated** - Appears in `openbb_platform/core/openbb_core/api/router/user.py`
+- **UserSettings** - Appears in `openbb_platform/core/openbb_core/api/router/user.py`
+- **account** - Appears in `openbb_platform/core/openbb_core/api/router/user.py`
+- **annotated** - Appears in `openbb_platform/core/openbb_core/api/router/user.py`
+- **api** - Appears in `openbb_platform/core/openbb_core/api/router/user.py`
+- **apirouter** - Appears in `openbb_platform/core/openbb_core/api/router/user.py`
+- **app** - Appears in `openbb_platform/core/openbb_core/api/router/user.py`
+- **async** - Appears in `openbb_platform/core/openbb_core/api/router/user.py`
+- **auth** - Appears in `openbb_platform/core/openbb_core/api/router/user.py`
+- **auth_hook** - Appears in `openbb_platform/core/openbb_core/api/router/user.py`
+- **authenticate_user** - Appears in `openbb_platform/core/openbb_core/api/router/user.py`
+- **current** - Appears in `openbb_platform/core/openbb_core/api/router/user.py`
+- **def** - Appears in `openbb_platform/core/openbb_core/api/router/user.py`
+- **depends** - Appears in `openbb_platform/core/openbb_core/api/router/user.py`
+- **fastapi** - Appears in `openbb_platform/core/openbb_core/api/router/user.py`
+- **from** - Appears in `openbb_platform/core/openbb_core/api/router/user.py`
+- **get** - Appears in `openbb_platform/core/openbb_core/api/router/user.py`
+- **get_user_settings** - Appears in `openbb_platform/core/openbb_core/api/router/user.py`
+- **import** - Appears in `openbb_platform/core/openbb_core/api/router/user.py`
+- **model** - Appears in `openbb_platform/core/openbb_core/api/router/user.py`
+- **openbb** - Appears in `openbb_platform/core/openbb_core/api/router/user.py`
+- **openbb_core** - Appears in `openbb_platform/core/openbb_core/api/router/user.py`
+- **openbb_core.api.auth.user** - Appears in `openbb_platform/core/openbb_core/api/router/user.py`
+- **openbb_core.app.model.user_settings** - Appears in `openbb_platform/core/openbb_core/api/router/user.py`
+- **platform** - Appears in `openbb_platform/core/openbb_core/api/router/user.py`
+- **prefix** - Appears in `openbb_platform/core/openbb_core/api/router/user.py`
+- **read** - Appears in `openbb_platform/core/openbb_core/api/router/user.py`
+- **read_user_settings** - Appears in `openbb_platform/core/openbb_core/api/router/user.py`
+- **return** - Appears in `openbb_platform/core/openbb_core/api/router/user.py`
+- **router** - Appears in `openbb_platform/core/openbb_core/api/router/user.py`
+- **settings** - Appears in `openbb_platform/core/openbb_core/api/router/user.py`
+- **tags** - Appears in `openbb_platform/core/openbb_core/api/router/user.py`
+- **typing** - Appears in `openbb_platform/core/openbb_core/api/router/user.py`
+- **user** - Appears in `openbb_platform/core/openbb_core/api/router/user.py`
+- **user_settings** - Appears in `openbb_platform/core/openbb_core/api/router/user.py`
+- **user_settings_hook** - Appears in `openbb_platform/core/openbb_core/api/router/user.py`
+- **usersettings** - Appears in `openbb_platform/core/openbb_core/api/router/user.py`

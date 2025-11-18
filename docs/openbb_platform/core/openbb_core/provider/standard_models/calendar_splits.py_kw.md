@@ -1,0 +1,51 @@
+# Keywords: openbb_platform/core/openbb_core/provider/standard_models/calendar_splits.py
+
+## Extracted Keywords (47 total)
+
+- **CalendarSplitsData** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_splits.py`
+- **CalendarSplitsQueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_splits.py`
+- **Data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_splits.py`
+- **Field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_splits.py`
+- **QueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_splits.py`
+- **abstract** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_splits.py`
+- **calendar** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_splits.py`
+- **calendarsplitsdata** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_splits.py`
+- **calendarsplitsqueryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_splits.py`
+- **class** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_splits.py`
+- **data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_splits.py`
+- **data_descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_splits.py`
+- **date** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_splits.py`
+- **datetime** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_splits.py`
+- **datetype** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_splits.py`
+- **default** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_splits.py`
+- **denominator** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_splits.py`
+- **description** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_splits.py`
+- **descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_splits.py`
+- **end_date** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_splits.py`
+- **field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_splits.py`
+- **float** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_splits.py`
+- **from** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_splits.py`
+- **get** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_splits.py`
+- **import** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_splits.py`
+- **model** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_splits.py`
+- **none** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_splits.py`
+- **numerator** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_splits.py`
+- **openbb_core** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_splits.py`
+- **openbb_core.provider.abstract.data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_splits.py`
+- **openbb_core.provider.abstract.query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_splits.py`
+- **openbb_core.provider.utils.descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_splits.py`
+- **provider** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_splits.py`
+- **pydantic** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_splits.py`
+- **query** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_splits.py`
+- **query_descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_splits.py`
+- **query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_splits.py`
+- **queryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_splits.py`
+- **split** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_splits.py`
+- **splits** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_splits.py`
+- **standard** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_splits.py`
+- **start_date** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_splits.py`
+- **stock** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_splits.py`
+- **str** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_splits.py`
+- **symbol** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_splits.py`
+- **the** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_splits.py`
+- **utils** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_splits.py`

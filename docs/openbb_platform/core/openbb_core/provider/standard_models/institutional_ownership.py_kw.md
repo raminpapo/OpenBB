@@ -1,0 +1,57 @@
+# Keywords: openbb_platform/core/openbb_core/provider/standard_models/institutional_ownership.py
+
+## Extracted Keywords (53 total)
+
+- **Data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/institutional_ownership.py`
+- **Field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/institutional_ownership.py`
+- **InstitutionalOwnershipData** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/institutional_ownership.py`
+- **InstitutionalOwnershipQueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/institutional_ownership.py`
+- **QueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/institutional_ownership.py`
+- **abstract** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/institutional_ownership.py`
+- **before** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/institutional_ownership.py`
+- **check_fields** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/institutional_ownership.py`
+- **cik** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/institutional_ownership.py`
+- **class** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/institutional_ownership.py`
+- **classmethod** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/institutional_ownership.py`
+- **cls** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/institutional_ownership.py`
+- **convert** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/institutional_ownership.py`
+- **data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/institutional_ownership.py`
+- **data_descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/institutional_ownership.py`
+- **date** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/institutional_ownership.py`
+- **datetime** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/institutional_ownership.py`
+- **datetype** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/institutional_ownership.py`
+- **def** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/institutional_ownership.py`
+- **default** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/institutional_ownership.py`
+- **description** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/institutional_ownership.py`
+- **descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/institutional_ownership.py`
+- **false** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/institutional_ownership.py`
+- **field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/institutional_ownership.py`
+- **field_validator** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/institutional_ownership.py`
+- **from** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/institutional_ownership.py`
+- **get** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/institutional_ownership.py`
+- **import** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/institutional_ownership.py`
+- **institutional** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/institutional_ownership.py`
+- **institutionalownershipdata** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/institutional_ownership.py`
+- **institutionalownershipqueryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/institutional_ownership.py`
+- **mode** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/institutional_ownership.py`
+- **model** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/institutional_ownership.py`
+- **none** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/institutional_ownership.py`
+- **openbb_core** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/institutional_ownership.py`
+- **openbb_core.provider.abstract.data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/institutional_ownership.py`
+- **openbb_core.provider.abstract.query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/institutional_ownership.py`
+- **openbb_core.provider.utils.descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/institutional_ownership.py`
+- **ownership** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/institutional_ownership.py`
+- **provider** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/institutional_ownership.py`
+- **pydantic** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/institutional_ownership.py`
+- **query** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/institutional_ownership.py`
+- **query_descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/institutional_ownership.py`
+- **query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/institutional_ownership.py`
+- **queryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/institutional_ownership.py`
+- **return** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/institutional_ownership.py`
+- **standard** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/institutional_ownership.py`
+- **str** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/institutional_ownership.py`
+- **symbol** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/institutional_ownership.py`
+- **to_upper** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/institutional_ownership.py`
+- **upper** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/institutional_ownership.py`
+- **uppercase** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/institutional_ownership.py`
+- **utils** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/institutional_ownership.py`

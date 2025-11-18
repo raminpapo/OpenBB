@@ -1,0 +1,78 @@
+# Documentation: openbb_platform/providers/intrinio/tests/record/http/test_intrinio_fetchers/test_intrinio_equity_quote_fetcher_urllib3_v2.yaml
+
+## File Metadata
+- **Path**: `openbb_platform/providers/intrinio/tests/record/http/test_intrinio_fetchers/test_intrinio_equity_quote_fetcher_urllib3_v2.yaml`
+- **Size**: 1,269 characters, 41 lines
+- **Words**: 64
+- **Extension**: .yaml
+- **Classification**: Text file
+
+## Original Source
+
+```yaml
+interactions:
+- request:
+    body: null
+    headers:
+      Accept:
+      - application/json
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+    method: GET
+    uri: https://api-v2.intrinio.com/securities/AAPL/prices/realtime?api_key=MOCK_API_KEY&source=iex
+  response:
+    body:
+      string: !!binary |
+        H4sIAF07fWYAA1xRTU/CQBD9K5s512YpBaQ3uRgTD8ZoRI1p1u5QRra7tbtFkPDfnQaQj81e5r15
+        8+ZjAxV6r0r0kL1DpZoFhrxAG7CJhCEfyJb5Em2LkfDKoM8LZzUFctZHQlktvlsX8AQVqkHhrFkL
+        tVRk1KdB8UNhLlzbCI1GrVELT7WYIeoYPiIwyoe8bqhAyJJeP+4N9ligiiFIZJJeyeFVMnzqjbMB
+        /+t4NJRvsE/z9MtpI1Z9kj4UkrHcxTuWA+UXZ2QX/5OuRnvsQcajfgSFcR4vG5tTOT9iaXzdNet+
+        TrX9NAJcFXNlS8yXzrTVzmO/3QNiW2MiaGutAurc2fNJE5nJNEvGcZL2u0k9r68zAMJVN/jpaQ61
+        Lg/E2YLfkzg+ll4e7KA+Oz7zunO7YwH5XDNXO2cgmynjka2waBsKa8g2QJoTGchV+dWUX6wIVCyw
+        YfTm5uEeTrZxRmTPL8zNqCQGJpNbKeVk/DqYJowWrqqdJ270gp8+vqaw3f4BAAD//wMACXw+obgC
+        AAA=
+    headers:
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json
+      Date:
+      - Thu, 27 Jun 2024 10:13:49 GMT
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Origin,Accept-Encoding
+    status:
+      code: 200
+      message: OK
+version: 1
+
+```
+
+## High-Level Overview
+
+This is a .yaml file containing 41 lines of code.
+
+## Detailed Structure
+
+Standard text file.
+
+## Key Components
+
+No major components extracted.
+
+## Usage & Examples
+
+See source code for usage details.
+
+## Related Files
+
+No direct file references found.
+
+## Notes
+- Generated: 2025-11-18T07:54:40.189061
+- Generator: World's Best Repo Book Generator v1.0.0

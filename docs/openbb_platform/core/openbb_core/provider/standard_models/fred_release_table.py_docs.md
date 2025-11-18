@@ -1,0 +1,166 @@
+# Documentation: openbb_platform/core/openbb_core/provider/standard_models/fred_release_table.py
+
+## File Metadata
+- **Path**: `openbb_platform/core/openbb_core/provider/standard_models/fred_release_table.py`
+- **Size**: 2,763 characters, 93 lines
+- **Words**: 280
+- **Extension**: .py
+- **Classification**: Text file
+
+## Original Source
+
+```python
+"""FRED Release Table Standard Model."""
+
+from datetime import date as dateType
+
+from openbb_core.provider.abstract.data import Data
+from openbb_core.provider.abstract.query_params import QueryParams
+from openbb_core.provider.utils.descriptions import (
+    DATA_DESCRIPTIONS,
+    QUERY_DESCRIPTIONS,
+)
+from pydantic import Field, field_validator
+
+
+class ReleaseTableQueryParams(QueryParams):
+    """FRED Release Table Query."""
+
+    release_id: str = Field(
+        description="The ID of the release." + " Use `fred_search` to find releases.",
+    )
+    element_id: str | None = Field(
+        default=None,
+        description="The element ID of a specific table in the release.",
+    )
+    date: None | dateType | str = Field(
+        default=None,
+        description=QUERY_DESCRIPTIONS.get("date", ""),
+    )
+
+    @field_validator("date", mode="before", check_fields=False)
+    @classmethod
+    def _validate_date(cls, v):
+        """Validate the date."""
+        # pylint: disable=import-outside-toplevel
+        from pandas import to_datetime
+
+        if v is None:
+            return None
+        if isinstance(v, dateType):
+            return v.strftime("%Y-%m-%d")
+        new_dates: list = []
+        if isinstance(v, str):
+            dates = v.split(",")
+        if isinstance(v, list):
+            dates = v
+        for date in dates:
+            new_dates.append(to_datetime(date).date().strftime("%Y-%m-%d"))
+
+        return ",".join(new_dates) if new_dates else None
+
+
+class ReleaseTableData(Data):
+    """FRED Release Table Data."""
+
+    date: dateType | None = Field(
+        default=None, description=DATA_DESCRIPTIONS.get("date", "")
+    )
+    level: int | None = Field(
+        default=None,
+        description="The indentation level of the element.",
+    )
+    element_type: str | None = Field(
+        default=None,
+        description="The type of the element.",
+    )
+    line: int | None = Field(
+        default=None,
+        description="The line number of the element.",
+    )
+    element_id: str | None = Field(
+        default=None,
+        description="The element id in the parent/child relationship.",
+    )
+    parent_id: str | None = Field(
+        default=None,
+        description="The parent id in the parent/child relationship.",
+    )
+    children: str | None = Field(
+        default=None,
+        description="The element_id of each child, as a comma-separated string.",
+    )
+    symbol: str | None = Field(
+        default=None,
+        description=DATA_DESCRIPTIONS.get("symbol", ""),
+    )
+    name: str | None = Field(
+        default=None,
+        description="The name of the series.",
+    )
+    value: float | None = Field(
+        default=None,
+        description="The reported value of the series.",
+    )
+
+```
+
+## High-Level Overview
+
+FRED Release Table Standard Model.
+
+from datetime import date as dateType
+
+from openbb_core.provider.abstract.data import Data
+from openbb_core.provider.abstract.query_params import QueryParams
+from openbb_core.provider.utils.descriptions import (
+DATA_DESCRIPTIONS,
+QUERY_DESCRIPTIONS,
+)
+from pydantic import Field, field_validator
+
+
+class ReleaseTableQueryParams(QueryParams):
+FRED Release Table Query.
+Validate the date.
+# pylint: disable=import-outside-toplevel
+from pandas import to_datetime
+
+if v is None:
+
+## Detailed Structure
+
+### Python File Structure
+
+**Classes** (2):
+`ReleaseTableQueryParams`, `ReleaseTableData`
+
+**Functions** (1):
+`_validate_date`
+
+**Imports** (11):
+`datetime`, `date`, `openbb_core.provider.abstract.data`, `Data`, `openbb_core.provider.abstract.query_params`, `QueryParams`, `openbb_core.provider.utils.descriptions`, `pydantic`, `Field`, `pandas`, `to_datetime`
+
+
+## Key Components
+
+**Class `ReleaseTableQueryParams`**: FRED Release Table Query.
+
+**Class `ReleaseTableData`**: FRED Release Table Data.
+
+## Usage & Examples
+
+See source code for usage details.
+
+## Related Files
+
+- `datetime`
+- `openbb_core.provider.abstract.data`
+- `openbb_core.provider.abstract.query_params`
+- `openbb_core.provider.utils.descriptions`
+- `pydantic`
+- `pandas`
+
+## Notes
+- Generated: 2025-11-18T07:54:35.643055
+- Generator: World's Best Repo Book Generator v1.0.0

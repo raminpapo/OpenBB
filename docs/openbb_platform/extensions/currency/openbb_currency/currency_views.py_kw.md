@@ -1,0 +1,43 @@
+# Keywords: openbb_platform/extensions/currency/openbb_currency/currency_views.py
+
+## Extracted Keywords (39 total)
+
+- **CurrencyViews** - Appears in `openbb_platform/extensions/currency/openbb_currency/currency_views.py`
+- **TYPE_CHECKING** - Appears in `openbb_platform/extensions/currency/openbb_currency/currency_views.py`
+- **any** - Appears in `openbb_platform/extensions/currency/openbb_currency/currency_views.py`
+- **chart** - Appears in `openbb_platform/extensions/currency/openbb_currency/currency_views.py`
+- **charts** - Appears in `openbb_platform/extensions/currency/openbb_currency/currency_views.py`
+- **class** - Appears in `openbb_platform/extensions/currency/openbb_currency/currency_views.py`
+- **core** - Appears in `openbb_platform/extensions/currency/openbb_currency/currency_views.py`
+- **currency** - Appears in `openbb_platform/extensions/currency/openbb_currency/currency_views.py`
+- **currency_price_historical** - Appears in `openbb_platform/extensions/currency/openbb_currency/currency_views.py`
+- **currencyviews** - Appears in `openbb_platform/extensions/currency/openbb_currency/currency_views.py`
+- **def** - Appears in `openbb_platform/extensions/currency/openbb_currency/currency_views.py`
+- **dict** - Appears in `openbb_platform/extensions/currency/openbb_currency/currency_views.py`
+- **disable** - Appears in `openbb_platform/extensions/currency/openbb_currency/currency_views.py`
+- **extension** - Appears in `openbb_platform/extensions/currency/openbb_currency/currency_views.py`
+- **for** - Appears in `openbb_platform/extensions/currency/openbb_currency/currency_views.py`
+- **from** - Appears in `openbb_platform/extensions/currency/openbb_currency/currency_views.py`
+- **historical** - Appears in `openbb_platform/extensions/currency/openbb_currency/currency_views.py`
+- **import** - Appears in `openbb_platform/extensions/currency/openbb_currency/currency_views.py`
+- **kwargs** - Appears in `openbb_platform/extensions/currency/openbb_currency/currency_views.py`
+- **noqa** - Appears in `openbb_platform/extensions/currency/openbb_currency/currency_views.py`
+- **openbb_charting** - Appears in `openbb_platform/extensions/currency/openbb_currency/currency_views.py`
+- **openbb_charting.charts.price_historical** - Appears in `openbb_platform/extensions/currency/openbb_currency/currency_views.py`
+- **openbb_charting.core.openbb_figure** - Appears in `openbb_platform/extensions/currency/openbb_currency/currency_views.py`
+- **openbb_figure** - Appears in `openbb_platform/extensions/currency/openbb_currency/currency_views.py`
+- **openbbfigure** - Appears in `openbb_platform/extensions/currency/openbb_currency/currency_views.py`
+- **outside** - Appears in `openbb_platform/extensions/currency/openbb_currency/currency_views.py`
+- **plr0912** - Appears in `openbb_platform/extensions/currency/openbb_currency/currency_views.py`
+- **price** - Appears in `openbb_platform/extensions/currency/openbb_currency/currency_views.py`
+- **price_historical** - Appears in `openbb_platform/extensions/currency/openbb_currency/currency_views.py`
+- **pylint** - Appears in `openbb_platform/extensions/currency/openbb_currency/currency_views.py`
+- **return** - Appears in `openbb_platform/extensions/currency/openbb_currency/currency_views.py`
+- **staticmethod** - Appears in `openbb_platform/extensions/currency/openbb_currency/currency_views.py`
+- **str** - Appears in `openbb_platform/extensions/currency/openbb_currency/currency_views.py`
+- **the** - Appears in `openbb_platform/extensions/currency/openbb_currency/currency_views.py`
+- **toplevel** - Appears in `openbb_platform/extensions/currency/openbb_currency/currency_views.py`
+- **tuple** - Appears in `openbb_platform/extensions/currency/openbb_currency/currency_views.py`
+- **type_checking** - Appears in `openbb_platform/extensions/currency/openbb_currency/currency_views.py`
+- **typing** - Appears in `openbb_platform/extensions/currency/openbb_currency/currency_views.py`
+- **views** - Appears in `openbb_platform/extensions/currency/openbb_currency/currency_views.py`

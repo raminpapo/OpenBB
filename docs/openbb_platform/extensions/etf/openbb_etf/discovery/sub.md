@@ -1,0 +1,12 @@
+# Keywords Summary: openbb_platform/extensions/etf/openbb_etf/discovery
+
+**Path**: `openbb_platform/extensions/etf/openbb_etf/discovery`
+
+## Merged Keywords from Child Files
+
+Found 2 keyword files in this folder.
+
+### Sample Keywords
+
+- Keywords from: `discovery_router.py_kw.md`
+- Keywords from: `__init__.py_kw.md`

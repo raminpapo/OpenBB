@@ -1,0 +1,56 @@
+# Keywords: openbb_platform/providers/benzinga/openbb_benzinga/__init__.py
+
+## Extracted Keywords (52 total)
+
+- **BenzingaAnalystSearchFetcher** - Appears in `openbb_platform/providers/benzinga/openbb_benzinga/__init__.py`
+- **BenzingaCompanyNewsFetcher** - Appears in `openbb_platform/providers/benzinga/openbb_benzinga/__init__.py`
+- **BenzingaPriceTargetFetcher** - Appears in `openbb_platform/providers/benzinga/openbb_benzinga/__init__.py`
+- **BenzingaWorldNewsFetcher** - Appears in `openbb_platform/providers/benzinga/openbb_benzinga/__init__.py`
+- **Provider** - Appears in `openbb_platform/providers/benzinga/openbb_benzinga/__init__.py`
+- **abstract** - Appears in `openbb_platform/providers/benzinga/openbb_benzinga/__init__.py`
+- **analyst_search** - Appears in `openbb_platform/providers/benzinga/openbb_benzinga/__init__.py`
+- **analystsearch** - Appears in `openbb_platform/providers/benzinga/openbb_benzinga/__init__.py`
+- **api** - Appears in `openbb_platform/providers/benzinga/openbb_benzinga/__init__.py`
+- **api_key** - Appears in `openbb_platform/providers/benzinga/openbb_benzinga/__init__.py`
+- **benzinga** - Appears in `openbb_platform/providers/benzinga/openbb_benzinga/__init__.py`
+- **benzinga_provider** - Appears in `openbb_platform/providers/benzinga/openbb_benzinga/__init__.py`
+- **benzingaanalystsearchfetcher** - Appears in `openbb_platform/providers/benzinga/openbb_benzinga/__init__.py`
+- **benzingacompanynewsfetcher** - Appears in `openbb_platform/providers/benzinga/openbb_benzinga/__init__.py`
+- **benzingapricetargetfetcher** - Appears in `openbb_platform/providers/benzinga/openbb_benzinga/__init__.py`
+- **benzingaworldnewsfetcher** - Appears in `openbb_platform/providers/benzinga/openbb_benzinga/__init__.py`
+- **com** - Appears in `openbb_platform/providers/benzinga/openbb_benzinga/__init__.py`
+- **company_news** - Appears in `openbb_platform/providers/benzinga/openbb_benzinga/__init__.py`
+- **companynews** - Appears in `openbb_platform/providers/benzinga/openbb_benzinga/__init__.py`
+- **credentials** - Appears in `openbb_platform/providers/benzinga/openbb_benzinga/__init__.py`
+- **data** - Appears in `openbb_platform/providers/benzinga/openbb_benzinga/__init__.py`
+- **description** - Appears in `openbb_platform/providers/benzinga/openbb_benzinga/__init__.py`
+- **fetcher_dict** - Appears in `openbb_platform/providers/benzinga/openbb_benzinga/__init__.py`
+- **financial** - Appears in `openbb_platform/providers/benzinga/openbb_benzinga/__init__.py`
+- **focused** - Appears in `openbb_platform/providers/benzinga/openbb_benzinga/__init__.py`
+- **from** - Appears in `openbb_platform/providers/benzinga/openbb_benzinga/__init__.py`
+- **https** - Appears in `openbb_platform/providers/benzinga/openbb_benzinga/__init__.py`
+- **import** - Appears in `openbb_platform/providers/benzinga/openbb_benzinga/__init__.py`
+- **information** - Appears in `openbb_platform/providers/benzinga/openbb_benzinga/__init__.py`
+- **market** - Appears in `openbb_platform/providers/benzinga/openbb_benzinga/__init__.py`
+- **models** - Appears in `openbb_platform/providers/benzinga/openbb_benzinga/__init__.py`
+- **module** - Appears in `openbb_platform/providers/benzinga/openbb_benzinga/__init__.py`
+- **moves** - Appears in `openbb_platform/providers/benzinga/openbb_benzinga/__init__.py`
+- **name** - Appears in `openbb_platform/providers/benzinga/openbb_benzinga/__init__.py`
+- **offers** - Appears in `openbb_platform/providers/benzinga/openbb_benzinga/__init__.py`
+- **openbb_benzinga** - Appears in `openbb_platform/providers/benzinga/openbb_benzinga/__init__.py`
+- **openbb_benzinga.models.analyst_search** - Appears in `openbb_platform/providers/benzinga/openbb_benzinga/__init__.py`
+- **openbb_benzinga.models.company_news** - Appears in `openbb_platform/providers/benzinga/openbb_benzinga/__init__.py`
+- **openbb_benzinga.models.price_target** - Appears in `openbb_platform/providers/benzinga/openbb_benzinga/__init__.py`
+- **openbb_benzinga.models.world_news** - Appears in `openbb_platform/providers/benzinga/openbb_benzinga/__init__.py`
+- **openbb_core** - Appears in `openbb_platform/providers/benzinga/openbb_benzinga/__init__.py`
+- **openbb_core.provider.abstract.provider** - Appears in `openbb_platform/providers/benzinga/openbb_benzinga/__init__.py`
+- **price_target** - Appears in `openbb_platform/providers/benzinga/openbb_benzinga/__init__.py`
+- **pricetarget** - Appears in `openbb_platform/providers/benzinga/openbb_benzinga/__init__.py`
+- **provider** - Appears in `openbb_platform/providers/benzinga/openbb_benzinga/__init__.py`
+- **repr_name** - Appears in `openbb_platform/providers/benzinga/openbb_benzinga/__init__.py`
+- **that** - Appears in `openbb_platform/providers/benzinga/openbb_benzinga/__init__.py`
+- **the** - Appears in `openbb_platform/providers/benzinga/openbb_benzinga/__init__.py`
+- **website** - Appears in `openbb_platform/providers/benzinga/openbb_benzinga/__init__.py`
+- **world_news** - Appears in `openbb_platform/providers/benzinga/openbb_benzinga/__init__.py`
+- **worldnews** - Appears in `openbb_platform/providers/benzinga/openbb_benzinga/__init__.py`
+- **www** - Appears in `openbb_platform/providers/benzinga/openbb_benzinga/__init__.py`

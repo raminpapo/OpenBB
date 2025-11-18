@@ -1,0 +1,48 @@
+# Keywords: openbb_platform/core/openbb_core/provider/standard_models/non_farm_payrolls.py
+
+## Extracted Keywords (44 total)
+
+- **Data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/non_farm_payrolls.py`
+- **Field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/non_farm_payrolls.py`
+- **NonFarmPayrollsData** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/non_farm_payrolls.py`
+- **NonFarmPayrollsQueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/non_farm_payrolls.py`
+- **QueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/non_farm_payrolls.py`
+- **abstract** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/non_farm_payrolls.py`
+- **class** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/non_farm_payrolls.py`
+- **data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/non_farm_payrolls.py`
+- **data_descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/non_farm_payrolls.py`
+- **date** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/non_farm_payrolls.py`
+- **datetime** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/non_farm_payrolls.py`
+- **datetype** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/non_farm_payrolls.py`
+- **default** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/non_farm_payrolls.py`
+- **description** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/non_farm_payrolls.py`
+- **descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/non_farm_payrolls.py`
+- **field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/non_farm_payrolls.py`
+- **float** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/non_farm_payrolls.py`
+- **from** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/non_farm_payrolls.py`
+- **get** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/non_farm_payrolls.py`
+- **import** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/non_farm_payrolls.py`
+- **latest** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/non_farm_payrolls.py`
+- **model** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/non_farm_payrolls.py`
+- **none** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/non_farm_payrolls.py`
+- **nonfarm** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/non_farm_payrolls.py`
+- **nonfarmpayrollsdata** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/non_farm_payrolls.py`
+- **nonfarmpayrollsqueryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/non_farm_payrolls.py`
+- **openbb_core** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/non_farm_payrolls.py`
+- **openbb_core.provider.abstract.data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/non_farm_payrolls.py`
+- **openbb_core.provider.abstract.query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/non_farm_payrolls.py`
+- **openbb_core.provider.utils.descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/non_farm_payrolls.py`
+- **payrolls** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/non_farm_payrolls.py`
+- **provider** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/non_farm_payrolls.py`
+- **pydantic** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/non_farm_payrolls.py`
+- **query** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/non_farm_payrolls.py`
+- **query_descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/non_farm_payrolls.py`
+- **query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/non_farm_payrolls.py`
+- **queryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/non_farm_payrolls.py`
+- **report** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/non_farm_payrolls.py`
+- **standard** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/non_farm_payrolls.py`
+- **str** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/non_farm_payrolls.py`
+- **symbol** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/non_farm_payrolls.py`
+- **the** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/non_farm_payrolls.py`
+- **utils** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/non_farm_payrolls.py`
+- **value** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/non_farm_payrolls.py`

@@ -1,0 +1,53 @@
+# Keywords: openbb_platform/core/openbb_core/provider/standard_models/high_quality_market.py
+
+## Extracted Keywords (49 total)
+
+- **Data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/high_quality_market.py`
+- **Field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/high_quality_market.py`
+- **HighQualityMarketCorporateBondData** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/high_quality_market.py`
+- **HighQualityMarketCorporateBondQueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/high_quality_market.py`
+- **QueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/high_quality_market.py`
+- **abstract** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/high_quality_market.py`
+- **bond** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/high_quality_market.py`
+- **class** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/high_quality_market.py`
+- **corporate** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/high_quality_market.py`
+- **data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/high_quality_market.py`
+- **data_descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/high_quality_market.py`
+- **date** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/high_quality_market.py`
+- **datetime** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/high_quality_market.py`
+- **datetype** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/high_quality_market.py`
+- **default** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/high_quality_market.py`
+- **description** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/high_quality_market.py`
+- **descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/high_quality_market.py`
+- **field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/high_quality_market.py`
+- **float** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/high_quality_market.py`
+- **from** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/high_quality_market.py`
+- **frontend_multiply** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/high_quality_market.py`
+- **get** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/high_quality_market.py`
+- **high** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/high_quality_market.py`
+- **highqualitymarketcorporatebonddata** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/high_quality_market.py`
+- **highqualitymarketcorporatebondqueryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/high_quality_market.py`
+- **import** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/high_quality_market.py`
+- **interest** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/high_quality_market.py`
+- **json_schema_extra** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/high_quality_market.py`
+- **market** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/high_quality_market.py`
+- **maturity** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/high_quality_market.py`
+- **model** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/high_quality_market.py`
+- **none** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/high_quality_market.py`
+- **openbb_core** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/high_quality_market.py`
+- **openbb_core.provider.abstract.data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/high_quality_market.py`
+- **openbb_core.provider.abstract.query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/high_quality_market.py`
+- **openbb_core.provider.utils.descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/high_quality_market.py`
+- **percent** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/high_quality_market.py`
+- **provider** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/high_quality_market.py`
+- **pydantic** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/high_quality_market.py`
+- **quality** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/high_quality_market.py`
+- **query** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/high_quality_market.py`
+- **query_descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/high_quality_market.py`
+- **query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/high_quality_market.py`
+- **queryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/high_quality_market.py`
+- **rate** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/high_quality_market.py`
+- **standard** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/high_quality_market.py`
+- **str** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/high_quality_market.py`
+- **unit_measurement** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/high_quality_market.py`
+- **utils** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/high_quality_market.py`

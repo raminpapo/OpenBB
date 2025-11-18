@@ -1,0 +1,44 @@
+# Keywords: frontend-components/plotly/src/components/Dialogs/AlertDialog.tsx
+
+## Extracted Keywords (40 total)
+
+- **AlertDialog** - Appears in `frontend-components/plotly/src/components/Dialogs/AlertDialog.tsx`
+- **_btn** - Appears in `frontend-components/plotly/src/components/Dialogs/AlertDialog.tsx`
+- **alertdialog** - Appears in `frontend-components/plotly/src/components/Dialogs/AlertDialog.tsx`
+- **boolean** - Appears in `frontend-components/plotly/src/components/Dialogs/AlertDialog.tsx`
+- **button** - Appears in `frontend-components/plotly/src/components/Dialogs/AlertDialog.tsx`
+- **classname** - Appears in `frontend-components/plotly/src/components/Dialogs/AlertDialog.tsx`
+- **close** - Appears in `frontend-components/plotly/src/components/Dialogs/AlertDialog.tsx`
+- **column** - Appears in `frontend-components/plotly/src/components/Dialogs/AlertDialog.tsx`
+- **commondialog** - Appears in `frontend-components/plotly/src/components/Dialogs/AlertDialog.tsx`
+- **content** - Appears in `frontend-components/plotly/src/components/Dialogs/AlertDialog.tsx`
+- **default** - Appears in `frontend-components/plotly/src/components/Dialogs/AlertDialog.tsx`
+- **description** - Appears in `frontend-components/plotly/src/components/Dialogs/AlertDialog.tsx`
+- **dialogs** - Appears in `frontend-components/plotly/src/components/Dialogs/AlertDialog.tsx`
+- **display** - Appears in `frontend-components/plotly/src/components/Dialogs/AlertDialog.tsx`
+- **div** - Appears in `frontend-components/plotly/src/components/Dialogs/AlertDialog.tsx`
+- **export** - Appears in `frontend-components/plotly/src/components/Dialogs/AlertDialog.tsx`
+- **flex** - Appears in `frontend-components/plotly/src/components/Dialogs/AlertDialog.tsx`
+- **flexdirection** - Appears in `frontend-components/plotly/src/components/Dialogs/AlertDialog.tsx`
+- **float** - Appears in `frontend-components/plotly/src/components/Dialogs/AlertDialog.tsx`
+- **from** - Appears in `frontend-components/plotly/src/components/Dialogs/AlertDialog.tsx`
+- **function** - Appears in `frontend-components/plotly/src/components/Dialogs/AlertDialog.tsx`
+- **gap** - Appears in `frontend-components/plotly/src/components/Dialogs/AlertDialog.tsx`
+- **htmlfor** - Appears in `frontend-components/plotly/src/components/Dialogs/AlertDialog.tsx`
+- **import** - Appears in `frontend-components/plotly/src/components/Dialogs/AlertDialog.tsx`
+- **label** - Appears in `frontend-components/plotly/src/components/Dialogs/AlertDialog.tsx`
+- **margintop** - Appears in `frontend-components/plotly/src/components/Dialogs/AlertDialog.tsx`
+- **onclick** - Appears in `frontend-components/plotly/src/components/Dialogs/AlertDialog.tsx`
+- **open** - Appears in `frontend-components/plotly/src/components/Dialogs/AlertDialog.tsx`
+- **padding** - Appears in `frontend-components/plotly/src/components/Dialogs/AlertDialog.tsx`
+- **popup_content** - Appears in `frontend-components/plotly/src/components/Dialogs/AlertDialog.tsx`
+- **popup_title** - Appears in `frontend-components/plotly/src/components/Dialogs/AlertDialog.tsx`
+- **return** - Appears in `frontend-components/plotly/src/components/Dialogs/AlertDialog.tsx`
+- **right** - Appears in `frontend-components/plotly/src/components/Dialogs/AlertDialog.tsx`
+- **string** - Appears in `frontend-components/plotly/src/components/Dialogs/AlertDialog.tsx`
+- **style** - Appears in `frontend-components/plotly/src/components/Dialogs/AlertDialog.tsx`
+- **title** - Appears in `frontend-components/plotly/src/components/Dialogs/AlertDialog.tsx`
+- **title_text** - Appears in `frontend-components/plotly/src/components/Dialogs/AlertDialog.tsx`
+- **type** - Appears in `frontend-components/plotly/src/components/Dialogs/AlertDialog.tsx`
+- **void** - Appears in `frontend-components/plotly/src/components/Dialogs/AlertDialog.tsx`
+- **width** - Appears in `frontend-components/plotly/src/components/Dialogs/AlertDialog.tsx`

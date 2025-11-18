@@ -1,0 +1,45 @@
+# Keywords: openbb_platform/extensions/mcp_server/tests/utils/test_compress_schema.py
+
+## Extracted Keywords (41 total)
+
+- **additionalproperties** - Appears in `openbb_platform/extensions/mcp_server/tests/utils/test_compress_schema.py`
+- **all** - Appears in `openbb_platform/extensions/mcp_server/tests/utils/test_compress_schema.py`
+- **assert** - Appears in `openbb_platform/extensions/mcp_server/tests/utils/test_compress_schema.py`
+- **combination** - Appears in `openbb_platform/extensions/mcp_server/tests/utils/test_compress_schema.py`
+- **compress_schema** - Appears in `openbb_platform/extensions/mcp_server/tests/utils/test_compress_schema.py`
+- **compressed** - Appears in `openbb_platform/extensions/mcp_server/tests/utils/test_compress_schema.py`
+- **compression** - Appears in `openbb_platform/extensions/mcp_server/tests/utils/test_compress_schema.py`
+- **def** - Appears in `openbb_platform/extensions/mcp_server/tests/utils/test_compress_schema.py`
+- **defs** - Appears in `openbb_platform/extensions/mcp_server/tests/utils/test_compress_schema.py`
+- **false** - Appears in `openbb_platform/extensions/mcp_server/tests/utils/test_compress_schema.py`
+- **fastmcp** - Appears in `openbb_platform/extensions/mcp_server/tests/utils/test_compress_schema.py`
+- **fastmcp.utilities.json_schema** - Appears in `openbb_platform/extensions/mcp_server/tests/utils/test_compress_schema.py`
+- **from** - Appears in `openbb_platform/extensions/mcp_server/tests/utils/test_compress_schema.py`
+- **functionalities** - Appears in `openbb_platform/extensions/mcp_server/tests/utils/test_compress_schema.py`
+- **functionality** - Appears in `openbb_platform/extensions/mcp_server/tests/utils/test_compress_schema.py`
+- **import** - Appears in `openbb_platform/extensions/mcp_server/tests/utils/test_compress_schema.py`
+- **integer** - Appears in `openbb_platform/extensions/mcp_server/tests/utils/test_compress_schema.py`
+- **json_schema** - Appears in `openbb_platform/extensions/mcp_server/tests/utils/test_compress_schema.py`
+- **not** - Appears in `openbb_platform/extensions/mcp_server/tests/utils/test_compress_schema.py`
+- **properties** - Appears in `openbb_platform/extensions/mcp_server/tests/utils/test_compress_schema.py`
+- **prune_additional_properties** - Appears in `openbb_platform/extensions/mcp_server/tests/utils/test_compress_schema.py`
+- **prune_defs** - Appears in `openbb_platform/extensions/mcp_server/tests/utils/test_compress_schema.py`
+- **prune_params** - Appears in `openbb_platform/extensions/mcp_server/tests/utils/test_compress_schema.py`
+- **prune_titles** - Appears in `openbb_platform/extensions/mcp_server/tests/utils/test_compress_schema.py`
+- **ref** - Appears in `openbb_platform/extensions/mcp_server/tests/utils/test_compress_schema.py`
+- **required** - Appears in `openbb_platform/extensions/mcp_server/tests/utils/test_compress_schema.py`
+- **schema** - Appears in `openbb_platform/extensions/mcp_server/tests/utils/test_compress_schema.py`
+- **string** - Appears in `openbb_platform/extensions/mcp_server/tests/utils/test_compress_schema.py`
+- **test** - Appears in `openbb_platform/extensions/mcp_server/tests/utils/test_compress_schema.py`
+- **test_combined_compression** - Appears in `openbb_platform/extensions/mcp_server/tests/utils/test_compress_schema.py`
+- **test_prune_additional_properties** - Appears in `openbb_platform/extensions/mcp_server/tests/utils/test_compress_schema.py`
+- **test_prune_defs** - Appears in `openbb_platform/extensions/mcp_server/tests/utils/test_compress_schema.py`
+- **test_prune_params** - Appears in `openbb_platform/extensions/mcp_server/tests/utils/test_compress_schema.py`
+- **test_prune_titles** - Appears in `openbb_platform/extensions/mcp_server/tests/utils/test_compress_schema.py`
+- **the** - Appears in `openbb_platform/extensions/mcp_server/tests/utils/test_compress_schema.py`
+- **title** - Appears in `openbb_platform/extensions/mcp_server/tests/utils/test_compress_schema.py`
+- **true** - Appears in `openbb_platform/extensions/mcp_server/tests/utils/test_compress_schema.py`
+- **type** - Appears in `openbb_platform/extensions/mcp_server/tests/utils/test_compress_schema.py`
+- **unused** - Appears in `openbb_platform/extensions/mcp_server/tests/utils/test_compress_schema.py`
+- **used** - Appears in `openbb_platform/extensions/mcp_server/tests/utils/test_compress_schema.py`
+- **utilities** - Appears in `openbb_platform/extensions/mcp_server/tests/utils/test_compress_schema.py`

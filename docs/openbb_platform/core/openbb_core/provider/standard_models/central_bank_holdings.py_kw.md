@@ -1,0 +1,42 @@
+# Keywords: openbb_platform/core/openbb_core/provider/standard_models/central_bank_holdings.py
+
+## Extracted Keywords (38 total)
+
+- **CentralBankHoldingsData** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/central_bank_holdings.py`
+- **CentralBankHoldingsQueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/central_bank_holdings.py`
+- **Data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/central_bank_holdings.py`
+- **Field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/central_bank_holdings.py`
+- **QueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/central_bank_holdings.py`
+- **abstract** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/central_bank_holdings.py`
+- **bank** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/central_bank_holdings.py`
+- **central** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/central_bank_holdings.py`
+- **centralbankholdingsdata** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/central_bank_holdings.py`
+- **centralbankholdingsqueryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/central_bank_holdings.py`
+- **class** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/central_bank_holdings.py`
+- **data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/central_bank_holdings.py`
+- **data_descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/central_bank_holdings.py`
+- **date** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/central_bank_holdings.py`
+- **datetime** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/central_bank_holdings.py`
+- **datetype** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/central_bank_holdings.py`
+- **default** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/central_bank_holdings.py`
+- **description** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/central_bank_holdings.py`
+- **descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/central_bank_holdings.py`
+- **field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/central_bank_holdings.py`
+- **from** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/central_bank_holdings.py`
+- **get** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/central_bank_holdings.py`
+- **holdings** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/central_bank_holdings.py`
+- **import** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/central_bank_holdings.py`
+- **model** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/central_bank_holdings.py`
+- **none** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/central_bank_holdings.py`
+- **openbb_core** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/central_bank_holdings.py`
+- **openbb_core.provider.abstract.data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/central_bank_holdings.py`
+- **openbb_core.provider.abstract.query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/central_bank_holdings.py`
+- **openbb_core.provider.utils.descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/central_bank_holdings.py`
+- **provider** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/central_bank_holdings.py`
+- **pydantic** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/central_bank_holdings.py`
+- **query** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/central_bank_holdings.py`
+- **query_descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/central_bank_holdings.py`
+- **query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/central_bank_holdings.py`
+- **queryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/central_bank_holdings.py`
+- **standard** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/central_bank_holdings.py`
+- **utils** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/central_bank_holdings.py`

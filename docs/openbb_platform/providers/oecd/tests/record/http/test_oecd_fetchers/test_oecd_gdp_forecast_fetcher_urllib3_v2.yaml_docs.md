@@ -1,0 +1,86 @@
+# Documentation: openbb_platform/providers/oecd/tests/record/http/test_oecd_fetchers/test_oecd_gdp_forecast_fetcher_urllib3_v2.yaml
+
+## File Metadata
+- **Path**: `openbb_platform/providers/oecd/tests/record/http/test_oecd_fetchers/test_oecd_gdp_forecast_fetcher_urllib3_v2.yaml`
+- **Size**: 1,621 characters, 49 lines
+- **Words**: 80
+- **Extension**: .yaml
+- **Classification**: Text file
+
+## Original Source
+
+```yaml
+interactions:
+- request:
+    body: null
+    headers:
+      Accept:
+      - application/vnd.sdmx.data+csv; charset=utf-8
+    method: GET
+    uri: https://sdmx.oecd.org/public/rest/data/OECD.ECO.MAD,DSD_EO@DF_EO,1.1/USA.GDPV_USD.A?detail=dataonly&dimensionAtObservation=TIME_PERIOD&endPeriod=2024-01-01&format=csvfile&startPeriod=2023-01-01
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcpl
+        VmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ip4evzl+
+        9vzL745enT77/Y9fnR6Pvjg9fv3Vq9PRs1enPzF6c/bF6e//8vTV2ZdPR18+ef37/+Tx869O+bfX
+        b47ffPV69NWLsze/v3lF/vjq+ZvRyVevXp2+OPl9Rk+OXzMAAvvm218+/fL5l5//PqOnpydnXxw/
+        fz16+ers5PT3R5vR8dPvfPX6zRenL978xsmXpydPx6cnX46/OH766Onrp7//6Ze/59Nn9O/W7nj3
+        zuir18ejz5++/Mnf/6vXT0fHo72dvXujvd0HD+4/vL9z79Pde7v3Rub5jZP/B2ir18HhAAAA
+    headers:
+      Accept-Ranges:
+      - values
+      Cache-Control:
+      - no-store,no-cache
+      Content-Disposition:
+      - attachment; filename="OECD.ECO.MAD,DSD_EO@DF_EO,1.1+USA.GDPV_USD.A.csv"
+      Content-Encoding:
+      - gzip
+      Content-Language:
+      - en,en-US
+      Content-Type:
+      - application/vnd.sdmx.data+csv; charset=utf-8
+      Date:
+      - Sat, 13 Jul 2024 18:47:04 GMT
+      Pragma:
+      - no-cache
+      Strict-Transport-Security:
+      - max-age=2592000
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept,Accept-Encoding,Accept-Encoding
+      X-Server-Node:
+      - Server 2
+      api-supported-versions:
+      - '1'
+    status:
+      code: 200
+      message: OK
+version: 1
+
+```
+
+## High-Level Overview
+
+This is a .yaml file containing 49 lines of code.
+
+## Detailed Structure
+
+Standard text file.
+
+## Key Components
+
+No major components extracted.
+
+## Usage & Examples
+
+See source code for usage details.
+
+## Related Files
+
+No direct file references found.
+
+## Notes
+- Generated: 2025-11-18T07:54:40.476822
+- Generator: World's Best Repo Book Generator v1.0.0

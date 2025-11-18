@@ -1,0 +1,48 @@
+# Keywords: openbb_platform/core/openbb_core/provider/standard_models/calendar_events.py
+
+## Extracted Keywords (44 total)
+
+- **CalendarEventsData** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_events.py`
+- **CalendarEventsQueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_events.py`
+- **Data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_events.py`
+- **Field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_events.py`
+- **QueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_events.py`
+- **abstract** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_events.py`
+- **calendar** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_events.py`
+- **calendareventsdata** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_events.py`
+- **calendareventsqueryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_events.py`
+- **class** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_events.py`
+- **company** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_events.py`
+- **data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_events.py`
+- **data_descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_events.py`
+- **date** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_events.py`
+- **datetime** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_events.py`
+- **datetype** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_events.py`
+- **default** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_events.py`
+- **description** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_events.py`
+- **descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_events.py`
+- **end_date** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_events.py`
+- **event** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_events.py`
+- **events** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_events.py`
+- **field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_events.py`
+- **from** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_events.py`
+- **get** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_events.py`
+- **import** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_events.py`
+- **model** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_events.py`
+- **none** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_events.py`
+- **openbb_core** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_events.py`
+- **openbb_core.provider.abstract.data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_events.py`
+- **openbb_core.provider.abstract.query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_events.py`
+- **openbb_core.provider.utils.descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_events.py`
+- **provider** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_events.py`
+- **pydantic** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_events.py`
+- **query** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_events.py`
+- **query_descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_events.py`
+- **query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_events.py`
+- **queryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_events.py`
+- **standard** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_events.py`
+- **start_date** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_events.py`
+- **str** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_events.py`
+- **symbol** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_events.py`
+- **the** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_events.py`
+- **utils** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_events.py`

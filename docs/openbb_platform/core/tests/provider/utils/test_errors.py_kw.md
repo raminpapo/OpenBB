@@ -1,0 +1,49 @@
+# Keywords: openbb_platform/core/tests/provider/utils/test_errors.py
+
+## Extracted Keywords (45 total)
+
+- **EmptyDataError** - Appears in `openbb_platform/core/tests/provider/utils/test_errors.py`
+- **OpenBBError** - Appears in `openbb_platform/core/tests/provider/utils/test_errors.py`
+- **abstract** - Appears in `openbb_platform/core/tests/provider/utils/test_errors.py`
+- **adjusting** - Appears in `openbb_platform/core/tests/provider/utils/test_errors.py`
+- **app** - Appears in `openbb_platform/core/tests/provider/utils/test_errors.py`
+- **assert** - Appears in `openbb_platform/core/tests/provider/utils/test_errors.py`
+- **custom** - Appears in `openbb_platform/core/tests/provider/utils/test_errors.py`
+- **custom_message** - Appears in `openbb_platform/core/tests/provider/utils/test_errors.py`
+- **data** - Appears in `openbb_platform/core/tests/provider/utils/test_errors.py`
+- **def** - Appears in `openbb_platform/core/tests/provider/utils/test_errors.py`
+- **emptydataerror** - Appears in `openbb_platform/core/tests/provider/utils/test_errors.py`
+- **error** - Appears in `openbb_platform/core/tests/provider/utils/test_errors.py`
+- **errors** - Appears in `openbb_platform/core/tests/provider/utils/test_errors.py`
+- **exc_info** - Appears in `openbb_platform/core/tests/provider/utils/test_errors.py`
+- **for** - Appears in `openbb_platform/core/tests/provider/utils/test_errors.py`
+- **found** - Appears in `openbb_platform/core/tests/provider/utils/test_errors.py`
+- **from** - Appears in `openbb_platform/core/tests/provider/utils/test_errors.py`
+- **function_that_raises_empty_data_error** - Appears in `openbb_platform/core/tests/provider/utils/test_errors.py`
+- **function_that_raises_provider_error** - Appears in `openbb_platform/core/tests/provider/utils/test_errors.py`
+- **import** - Appears in `openbb_platform/core/tests/provider/utils/test_errors.py`
+- **message** - Appears in `openbb_platform/core/tests/provider/utils/test_errors.py`
+- **model** - Appears in `openbb_platform/core/tests/provider/utils/test_errors.py`
+- **occurred** - Appears in `openbb_platform/core/tests/provider/utils/test_errors.py`
+- **openbb_core** - Appears in `openbb_platform/core/tests/provider/utils/test_errors.py`
+- **openbb_core.app.model.abstract.error** - Appears in `openbb_platform/core/tests/provider/utils/test_errors.py`
+- **openbb_core.provider.utils.errors** - Appears in `openbb_platform/core/tests/provider/utils/test_errors.py`
+- **openbberror** - Appears in `openbb_platform/core/tests/provider/utils/test_errors.py`
+- **parameters** - Appears in `openbb_platform/core/tests/provider/utils/test_errors.py`
+- **provider** - Appears in `openbb_platform/core/tests/provider/utils/test_errors.py`
+- **pytest** - Appears in `openbb_platform/core/tests/provider/utils/test_errors.py`
+- **query** - Appears in `openbb_platform/core/tests/provider/utils/test_errors.py`
+- **raise** - Appears in `openbb_platform/core/tests/provider/utils/test_errors.py`
+- **raised** - Appears in `openbb_platform/core/tests/provider/utils/test_errors.py`
+- **raises** - Appears in `openbb_platform/core/tests/provider/utils/test_errors.py`
+- **results** - Appears in `openbb_platform/core/tests/provider/utils/test_errors.py`
+- **str** - Appears in `openbb_platform/core/tests/provider/utils/test_errors.py`
+- **test** - Appears in `openbb_platform/core/tests/provider/utils/test_errors.py`
+- **test_empty_data_error_custom_message** - Appears in `openbb_platform/core/tests/provider/utils/test_errors.py`
+- **test_empty_data_error_is_raised** - Appears in `openbb_platform/core/tests/provider/utils/test_errors.py`
+- **test_provider_error_is_raised** - Appears in `openbb_platform/core/tests/provider/utils/test_errors.py`
+- **the** - Appears in `openbb_platform/core/tests/provider/utils/test_errors.py`
+- **try** - Appears in `openbb_platform/core/tests/provider/utils/test_errors.py`
+- **utils** - Appears in `openbb_platform/core/tests/provider/utils/test_errors.py`
+- **value** - Appears in `openbb_platform/core/tests/provider/utils/test_errors.py`
+- **with** - Appears in `openbb_platform/core/tests/provider/utils/test_errors.py`

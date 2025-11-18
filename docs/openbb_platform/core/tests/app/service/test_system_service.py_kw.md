@@ -1,0 +1,47 @@
+# Keywords: openbb_platform/core/tests/app/service/test_system_service.py
+
+## Extracted Keywords (43 total)
+
+- **SystemService** - Appears in `openbb_platform/core/tests/app/service/test_system_service.py`
+- **_read_from_file** - Appears in `openbb_platform/core/tests/app/service/test_system_service.py`
+- **access** - Appears in `openbb_platform/core/tests/app/service/test_system_service.py`
+- **app** - Appears in `openbb_platform/core/tests/app/service/test_system_service.py`
+- **assert** - Appears in `openbb_platform/core/tests/app/service/test_system_service.py`
+- **def** - Appears in `openbb_platform/core/tests/app/service/test_system_service.py`
+- **default** - Appears in `openbb_platform/core/tests/app/service/test_system_service.py`
+- **disable** - Appears in `openbb_platform/core/tests/app/service/test_system_service.py`
+- **fixture** - Appears in `openbb_platform/core/tests/app/service/test_system_service.py`
+- **for** - Appears in `openbb_platform/core/tests/app/service/test_system_service.py`
+- **from** - Appears in `openbb_platform/core/tests/app/service/test_system_service.py`
+- **import** - Appears in `openbb_platform/core/tests/app/service/test_system_service.py`
+- **init** - Appears in `openbb_platform/core/tests/app/service/test_system_service.py`
+- **module** - Appears in `openbb_platform/core/tests/app/service/test_system_service.py`
+- **name** - Appears in `openbb_platform/core/tests/app/service/test_system_service.py`
+- **openbb_core** - Appears in `openbb_platform/core/tests/app/service/test_system_service.py`
+- **openbb_core.app.service.system_service** - Appears in `openbb_platform/core/tests/app/service/test_system_service.py`
+- **outer** - Appears in `openbb_platform/core/tests/app/service/test_system_service.py`
+- **protected** - Appears in `openbb_platform/core/tests/app/service/test_system_service.py`
+- **pylint** - Appears in `openbb_platform/core/tests/app/service/test_system_service.py`
+- **pytest** - Appears in `openbb_platform/core/tests/app/service/test_system_service.py`
+- **read** - Appears in `openbb_platform/core/tests/app/service/test_system_service.py`
+- **redefined** - Appears in `openbb_platform/core/tests/app/service/test_system_service.py`
+- **refresh** - Appears in `openbb_platform/core/tests/app/service/test_system_service.py`
+- **refresh_system_settings** - Appears in `openbb_platform/core/tests/app/service/test_system_service.py`
+- **return** - Appears in `openbb_platform/core/tests/app/service/test_system_service.py`
+- **service** - Appears in `openbb_platform/core/tests/app/service/test_system_service.py`
+- **setter** - Appears in `openbb_platform/core/tests/app/service/test_system_service.py`
+- **settings** - Appears in `openbb_platform/core/tests/app/service/test_system_service.py`
+- **system** - Appears in `openbb_platform/core/tests/app/service/test_system_service.py`
+- **system_service** - Appears in `openbb_platform/core/tests/app/service/test_system_service.py`
+- **system_settings** - Appears in `openbb_platform/core/tests/app/service/test_system_service.py`
+- **systemservice** - Appears in `openbb_platform/core/tests/app/service/test_system_service.py`
+- **test** - Appears in `openbb_platform/core/tests/app/service/test_system_service.py`
+- **test_read_from_file** - Appears in `openbb_platform/core/tests/app/service/test_system_service.py`
+- **test_refresh_system_settings** - Appears in `openbb_platform/core/tests/app/service/test_system_service.py`
+- **test_system_service_init** - Appears in `openbb_platform/core/tests/app/service/test_system_service.py`
+- **test_system_settings** - Appears in `openbb_platform/core/tests/app/service/test_system_service.py`
+- **test_system_settings_setter** - Appears in `openbb_platform/core/tests/app/service/test_system_service.py`
+- **test_write_to_file** - Appears in `openbb_platform/core/tests/app/service/test_system_service.py`
+- **the** - Appears in `openbb_platform/core/tests/app/service/test_system_service.py`
+- **write** - Appears in `openbb_platform/core/tests/app/service/test_system_service.py`
+- **write_to_file** - Appears in `openbb_platform/core/tests/app/service/test_system_service.py`

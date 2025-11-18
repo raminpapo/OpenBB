@@ -1,0 +1,101 @@
+# Documentation: openbb_platform/providers/fmp/tests/record/http/test_fmp_fetchers/test_fmp_crypto_historical_fetcher_urllib3_v2.yaml
+
+## File Metadata
+- **Path**: `openbb_platform/providers/fmp/tests/record/http/test_fmp_fetchers/test_fmp_crypto_historical_fetcher_urllib3_v2.yaml`
+- **Size**: 2,237 characters, 64 lines
+- **Words**: 106
+- **Extension**: .yaml
+- **Classification**: Text file
+
+## Original Source
+
+```yaml
+interactions:
+- request:
+    body: null
+    headers:
+      Accept:
+      - application/json
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+    method: GET
+    uri: https://financialmodelingprep.com/stable/historical-price-eod/full?apikey=MOCK_API_KEY&from=2023-01-01&symbol=BTCUSD&to=2023-01-10
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAA6WWz24TQQzG732KKOfGmvGM/wxH4AGQgBPiUErUIKVJRUsrhHh3vJt4NruTILEc
+        crFnd/zzZ3+bT1eLxS/7LRbLx5/3X/bb5avF8vWHNx/fv11eH+Jfb57WXRQDplWIqxg8s39Y7ywT
+        JYpAycfo5tvdpo/mkiHJMbrdvxyOZoJ4jN1u94/rw9GcgI7R5/32x30fJg2akpZc/IHNze6uSyET
+        EI+i79bfb9e7p+45oEy1nOeXm4f+jhQJEIUs/Pv637FDabHRWBywYqfCgA5TsQNC8aMDd984bcCV
+        MUti5TGipQhB4yg4cAdI1q/6NufGEIAKzubWKTeXjIOwlTuyAOGYm0sMkFu9+8413EVYFaVE165i
+        R/0Ld4QgJXi2cofEVuVcajlD7QU7MheTT1yjihxslv1oRR43rSKLLYSwzUGDvCLgdIF4FSCkhLGg
+        X+7U/TXlP6acG241rcgrqWoHFIjec0dnCaA+AqfoCqFWWqc855iYscQxZpdCHK5sx1xQcbretiwC
+        qnOxqcXOGaaWxioItVynFjI5mt3u+8buXAN14k4epXa3V1FBLg25SR5jDNPttluSXT5/u3MDzqxQ
+        3L+GUVe/uoptTq5nsLu++QycWFpGG3Ib2joeVWwhyDKKjnabkBtqUTY/mMuczjDb+1yQyiym9lRs
+        DqFBZi4DwYnS5gTmTBjGcJZC4MsmHiIxlbpGldnKgUjzNxtb6hjBB3SA1gLFo05N5irV20/BeRiV
+        ARyDGaOQfWyn4ESm50XylKxnDXb3yctzoWMDTSmCTu3MbGjqZbmcEdoaRu1nC+3vC5sl1gccVwrI
+        Zdx8xsWIE3A4rPPV5z9bfNi/ngkAAA==
+    headers:
+      Access-Control-Allow-Credentials:
+      - 'true'
+      Access-Control-Allow-Headers:
+      - X-Requested-With, content-type, auth-token, Authorization, stripe-signature,
+        APPS, publicauthkey, privateauthkey
+      Access-Control-Allow-Methods:
+      - GET, POST, OPTIONS
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Max-Age:
+      - '3600'
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Tue, 23 Sep 2025 03:08:15 GMT
+      Etag:
+      - W/"99e-NWbevsSGsF1WGWtvc56i8BfSRbs"
+      Server:
+      - nginx/1.18.0 (Ubuntu)
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Powered-By:
+      - Express
+    status:
+      code: 200
+      message: OK
+version: 1
+
+```
+
+## High-Level Overview
+
+This is a .yaml file containing 64 lines of code.
+
+## Detailed Structure
+
+Standard text file.
+
+## Key Components
+
+No major components extracted.
+
+## Usage & Examples
+
+See source code for usage details.
+
+## Related Files
+
+No direct file references found.
+
+## Notes
+- Generated: 2025-11-18T07:54:39.474318
+- Generator: World's Best Repo Book Generator v1.0.0

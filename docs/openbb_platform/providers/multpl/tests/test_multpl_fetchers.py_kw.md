@@ -1,0 +1,50 @@
+# Keywords: openbb_platform/providers/multpl/tests/test_multpl_fetchers.py
+
+## Extracted Keywords (46 total)
+
+- **MultplSP500MultiplesFetcher** - Appears in `openbb_platform/providers/multpl/tests/test_multpl_fetchers.py`
+- **UserService** - Appears in `openbb_platform/providers/multpl/tests/test_multpl_fetchers.py`
+- **agent** - Appears in `openbb_platform/providers/multpl/tests/test_multpl_fetchers.py`
+- **app** - Appears in `openbb_platform/providers/multpl/tests/test_multpl_fetchers.py`
+- **assert** - Appears in `openbb_platform/providers/multpl/tests/test_multpl_fetchers.py`
+- **configuration** - Appears in `openbb_platform/providers/multpl/tests/test_multpl_fetchers.py`
+- **credentials** - Appears in `openbb_platform/providers/multpl/tests/test_multpl_fetchers.py`
+- **def** - Appears in `openbb_platform/providers/multpl/tests/test_multpl_fetchers.py`
+- **default_user_settings** - Appears in `openbb_platform/providers/multpl/tests/test_multpl_fetchers.py`
+- **fetcher** - Appears in `openbb_platform/providers/multpl/tests/test_multpl_fetchers.py`
+- **filter_headers** - Appears in `openbb_platform/providers/multpl/tests/test_multpl_fetchers.py`
+- **fixture** - Appears in `openbb_platform/providers/multpl/tests/test_multpl_fetchers.py`
+- **from** - Appears in `openbb_platform/providers/multpl/tests/test_multpl_fetchers.py`
+- **import** - Appears in `openbb_platform/providers/multpl/tests/test_multpl_fetchers.py`
+- **json** - Appears in `openbb_platform/providers/multpl/tests/test_multpl_fetchers.py`
+- **mark** - Appears in `openbb_platform/providers/multpl/tests/test_multpl_fetchers.py`
+- **mode** - Appears in `openbb_platform/providers/multpl/tests/test_multpl_fetchers.py`
+- **model_dump** - Appears in `openbb_platform/providers/multpl/tests/test_multpl_fetchers.py`
+- **models** - Appears in `openbb_platform/providers/multpl/tests/test_multpl_fetchers.py`
+- **module** - Appears in `openbb_platform/providers/multpl/tests/test_multpl_fetchers.py`
+- **multiples** - Appears in `openbb_platform/providers/multpl/tests/test_multpl_fetchers.py`
+- **multpl** - Appears in `openbb_platform/providers/multpl/tests/test_multpl_fetchers.py`
+- **multplsp500multiplesfetcher** - Appears in `openbb_platform/providers/multpl/tests/test_multpl_fetchers.py`
+- **none** - Appears in `openbb_platform/providers/multpl/tests/test_multpl_fetchers.py`
+- **openbb_core** - Appears in `openbb_platform/providers/multpl/tests/test_multpl_fetchers.py`
+- **openbb_core.app.service.user_service** - Appears in `openbb_platform/providers/multpl/tests/test_multpl_fetchers.py`
+- **openbb_multpl** - Appears in `openbb_platform/providers/multpl/tests/test_multpl_fetchers.py`
+- **openbb_multpl.models.sp500_multiples** - Appears in `openbb_platform/providers/multpl/tests/test_multpl_fetchers.py`
+- **params** - Appears in `openbb_platform/providers/multpl/tests/test_multpl_fetchers.py`
+- **pytest** - Appears in `openbb_platform/providers/multpl/tests/test_multpl_fetchers.py`
+- **record_http** - Appears in `openbb_platform/providers/multpl/tests/test_multpl_fetchers.py`
+- **result** - Appears in `openbb_platform/providers/multpl/tests/test_multpl_fetchers.py`
+- **return** - Appears in `openbb_platform/providers/multpl/tests/test_multpl_fetchers.py`
+- **scope** - Appears in `openbb_platform/providers/multpl/tests/test_multpl_fetchers.py`
+- **service** - Appears in `openbb_platform/providers/multpl/tests/test_multpl_fetchers.py`
+- **sp500** - Appears in `openbb_platform/providers/multpl/tests/test_multpl_fetchers.py`
+- **sp500_multiples** - Appears in `openbb_platform/providers/multpl/tests/test_multpl_fetchers.py`
+- **test** - Appears in `openbb_platform/providers/multpl/tests/test_multpl_fetchers.py`
+- **test_credentials** - Appears in `openbb_platform/providers/multpl/tests/test_multpl_fetchers.py`
+- **test_multpl_sp500_multiples_fetcher** - Appears in `openbb_platform/providers/multpl/tests/test_multpl_fetchers.py`
+- **tests** - Appears in `openbb_platform/providers/multpl/tests/test_multpl_fetchers.py`
+- **user** - Appears in `openbb_platform/providers/multpl/tests/test_multpl_fetchers.py`
+- **user_service** - Appears in `openbb_platform/providers/multpl/tests/test_multpl_fetchers.py`
+- **userservice** - Appears in `openbb_platform/providers/multpl/tests/test_multpl_fetchers.py`
+- **vcr** - Appears in `openbb_platform/providers/multpl/tests/test_multpl_fetchers.py`
+- **vcr_config** - Appears in `openbb_platform/providers/multpl/tests/test_multpl_fetchers.py`

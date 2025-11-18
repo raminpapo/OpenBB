@@ -1,0 +1,52 @@
+# Keywords: openbb_platform/core/openbb_core/provider/standard_models/port_volume.py
+
+## Extracted Keywords (48 total)
+
+- **Data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/port_volume.py`
+- **Field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/port_volume.py`
+- **PortVolumeData** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/port_volume.py`
+- **PortVolumeQueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/port_volume.py`
+- **QueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/port_volume.py`
+- **abstract** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/port_volume.py`
+- **class** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/port_volume.py`
+- **code** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/port_volume.py`
+- **country** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/port_volume.py`
+- **data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/port_volume.py`
+- **data_descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/port_volume.py`
+- **date** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/port_volume.py`
+- **datetime** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/port_volume.py`
+- **datetype** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/port_volume.py`
+- **default** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/port_volume.py`
+- **description** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/port_volume.py`
+- **descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/port_volume.py`
+- **end_date** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/port_volume.py`
+- **field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/port_volume.py`
+- **from** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/port_volume.py`
+- **get** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/port_volume.py`
+- **import** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/port_volume.py`
+- **located** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/port_volume.py`
+- **model** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/port_volume.py`
+- **name** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/port_volume.py`
+- **none** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/port_volume.py`
+- **openbb_core** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/port_volume.py`
+- **openbb_core.provider.abstract.data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/port_volume.py`
+- **openbb_core.provider.abstract.query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/port_volume.py`
+- **openbb_core.provider.utils.descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/port_volume.py`
+- **port** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/port_volume.py`
+- **port_code** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/port_volume.py`
+- **port_name** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/port_volume.py`
+- **portvolumedata** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/port_volume.py`
+- **portvolumequeryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/port_volume.py`
+- **provider** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/port_volume.py`
+- **pydantic** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/port_volume.py`
+- **query** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/port_volume.py`
+- **query_descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/port_volume.py`
+- **query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/port_volume.py`
+- **queryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/port_volume.py`
+- **standard** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/port_volume.py`
+- **start_date** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/port_volume.py`
+- **str** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/port_volume.py`
+- **the** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/port_volume.py`
+- **utils** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/port_volume.py`
+- **volume** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/port_volume.py`
+- **where** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/port_volume.py`

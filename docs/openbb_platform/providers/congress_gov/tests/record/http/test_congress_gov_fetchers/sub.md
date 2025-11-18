@@ -1,0 +1,13 @@
+# Keywords Summary: openbb_platform/providers/congress_gov/tests/record/http/test_congress_gov_fetchers
+
+**Path**: `openbb_platform/providers/congress_gov/tests/record/http/test_congress_gov_fetchers`
+
+## Merged Keywords from Child Files
+
+Found 3 keyword files in this folder.
+
+### Sample Keywords
+
+- Keywords from: `test_congress_bills_fetcher_urllib3_v2.yaml_kw.md`
+- Keywords from: `test_congress_bill_info_fetcher_urllib3_v2.yaml_kw.md`
+- Keywords from: `test_congress_bill_text_fetcher_urllib3_v2.yaml_kw.md`

@@ -1,0 +1,52 @@
+# Keywords: desktop/src/components/Toast.tsx
+
+## Extracted Keywords (48 total)
+
+- **Toast** - Appears in `desktop/src/components/Toast.tsx`
+- **between** - Appears in `desktop/src/components/Toast.tsx`
+- **body** - Appears in `desktop/src/components/Toast.tsx`
+- **bold** - Appears in `desktop/src/components/Toast.tsx`
+- **button** - Appears in `desktop/src/components/Toast.tsx`
+- **buttontext** - Appears in `desktop/src/components/Toast.tsx`
+- **center** - Appears in `desktop/src/components/Toast.tsx`
+- **children** - Appears in `desktop/src/components/Toast.tsx`
+- **classname** - Appears in `desktop/src/components/Toast.tsx`
+- **col** - Appears in `desktop/src/components/Toast.tsx`
+- **components** - Appears in `desktop/src/components/Toast.tsx`
+- **const** - Appears in `desktop/src/components/Toast.tsx`
+- **container** - Appears in `desktop/src/components/Toast.tsx`
+- **customicon** - Appears in `desktop/src/components/Toast.tsx`
+- **default** - Appears in `desktop/src/components/Toast.tsx`
+- **div** - Appears in `desktop/src/components/Toast.tsx`
+- **end** - Appears in `desktop/src/components/Toast.tsx`
+- **export** - Appears in `desktop/src/components/Toast.tsx`
+- **flex** - Appears in `desktop/src/components/Toast.tsx`
+- **flex1** - Appears in `desktop/src/components/Toast.tsx`
+- **from** - Appears in `desktop/src/components/Toast.tsx`
+- **gap** - Appears in `desktop/src/components/Toast.tsx`
+- **icon** - Appears in `desktop/src/components/Toast.tsx`
+- **import** - Appears in `desktop/src/components/Toast.tsx`
+- **info** - Appears in `desktop/src/components/Toast.tsx`
+- **interface** - Appears in `desktop/src/components/Toast.tsx`
+- **items** - Appears in `desktop/src/components/Toast.tsx`
+- **justify** - Appears in `desktop/src/components/Toast.tsx`
+- **left** - Appears in `desktop/src/components/Toast.tsx`
+- **medium** - Appears in `desktop/src/components/Toast.tsx`
+- **onbuttonclick** - Appears in `desktop/src/components/Toast.tsx`
+- **onclick** - Appears in `desktop/src/components/Toast.tsx`
+- **onclose** - Appears in `desktop/src/components/Toast.tsx`
+- **openbb** - Appears in `desktop/src/components/Toast.tsx`
+- **pro** - Appears in `desktop/src/components/Toast.tsx`
+- **react** - Appears in `desktop/src/components/Toast.tsx`
+- **reactnode** - Appears in `desktop/src/components/Toast.tsx`
+- **return** - Appears in `desktop/src/components/Toast.tsx`
+- **size** - Appears in `desktop/src/components/Toast.tsx`
+- **span** - Appears in `desktop/src/components/Toast.tsx`
+- **start** - Appears in `desktop/src/components/Toast.tsx`
+- **string** - Appears in `desktop/src/components/Toast.tsx`
+- **title** - Appears in `desktop/src/components/Toast.tsx`
+- **toast** - Appears in `desktop/src/components/Toast.tsx`
+- **toastprops** - Appears in `desktop/src/components/Toast.tsx`
+- **type** - Appears in `desktop/src/components/Toast.tsx`
+- **variant** - Appears in `desktop/src/components/Toast.tsx`
+- **void** - Appears in `desktop/src/components/Toast.tsx`

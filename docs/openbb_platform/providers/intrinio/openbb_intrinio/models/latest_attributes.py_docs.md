@@ -1,0 +1,178 @@
+# Documentation: openbb_platform/providers/intrinio/openbb_intrinio/models/latest_attributes.py
+
+## File Metadata
+- **Path**: `openbb_platform/providers/intrinio/openbb_intrinio/models/latest_attributes.py`
+- **Size**: 3,344 characters, 100 lines
+- **Words**: 243
+- **Extension**: .py
+- **Classification**: Text file
+
+## Original Source
+
+```python
+"""Intrinio Latest Attributes Model."""
+
+import warnings
+from typing import Any
+
+from openbb_core.app.model.abstract.warning import OpenBBWarning
+from openbb_core.provider.abstract.fetcher import Fetcher
+from openbb_core.provider.standard_models.latest_attributes import (
+    LatestAttributesData,
+    LatestAttributesQueryParams,
+)
+from openbb_core.provider.utils.helpers import (
+    ClientResponse,
+    amake_requests,
+)
+
+
+class IntrinioLatestAttributesQueryParams(LatestAttributesQueryParams):
+    """Intrinio Latest Attributes Query.
+
+    Source: https://docs.intrinio.com/documentation/web_api/get_data_point_number_v2
+            https://docs.intrinio.com/documentation/web_api/get_data_point_text_v2
+    """
+
+    __json_schema_extra__ = {
+        "tag": {"multiple_items_allowed": True},
+        "symbol": {"multiple_items_allowed": True},
+    }
+
+
+class IntrinioLatestAttributesData(LatestAttributesData):
+    """Intrinio Latest Attributes Data."""
+
+
+class IntrinioLatestAttributesFetcher(
+    Fetcher[
+        IntrinioLatestAttributesQueryParams,
+        list[IntrinioLatestAttributesData],
+    ]
+):
+    """Transform the query, extract and transform the data from the Intrinio endpoints."""
+
+    @staticmethod
+    def transform_query(params: dict[str, Any]) -> IntrinioLatestAttributesQueryParams:
+        """Transform the query params."""
+        return IntrinioLatestAttributesQueryParams(**params)
+
+    @staticmethod
+    async def aextract_data(
+        query: IntrinioLatestAttributesQueryParams,  # pylint: disable=unused-argument
+        credentials: dict[str, str] | None,
+        **kwargs: Any,
+    ) -> dict:
+        """Return the raw data from the Intrinio endpoint."""
+        api_key = credentials.get("intrinio_api_key") if credentials else ""
+
+        base_url = "https://api-v2.intrinio.com/companies"
+
+        def generate_url(symbol: str, tag: str) -> str:
+            """Return the url for the given symbol and tag."""
+            return f"{base_url}/{symbol}/data_point/{tag}?api_key={api_key}"
+
+        async def callback(response: ClientResponse, _: Any) -> dict:
+            """Return the response."""
+            response_data = await response.json()
+
+            if isinstance(response_data, dict) and (
+                "error" in response_data or "message" in response_data
+            ):
+                warnings.warn(
+                    message=str(response_data.get("error"))
+                    or str(response_data.get("message")),
+                    category=OpenBBWarning,
+                )
+                return {}
+            if not response_data:
+                return {}
+
+            tag = response.url.parts[-1]
+            symbol = response.url.parts[-3]
+
+            return {"symbol": symbol, "tag": tag, "value": response_data}
+
+        urls = [
+            generate_url(symbol, tag)
+            for symbol in query.symbol.split(",")
+            for tag in query.tag.split(",")
+        ]
+
+        return await amake_requests(urls, callback, **kwargs)
+
+    @staticmethod
+    def transform_data(
+        query: IntrinioLatestAttributesQueryParams,  # pylint: disable=unused-argument
+        data: dict,
+        **kwargs: Any,
+    ) -> list[IntrinioLatestAttributesData]:
+        """Return the transformed data."""
+        return [IntrinioLatestAttributesData.model_validate(d) for d in data]
+
+```
+
+## High-Level Overview
+
+Intrinio Latest Attributes Model.
+
+import warnings
+from typing import Any
+
+from openbb_core.app.model.abstract.warning import OpenBBWarning
+from openbb_core.provider.abstract.fetcher import Fetcher
+from openbb_core.provider.standard_models.latest_attributes import (
+LatestAttributesData,
+LatestAttributesQueryParams,
+)
+from openbb_core.provider.utils.helpers import (
+ClientResponse,
+amake_requests,
+)
+
+
+class IntrinioLatestAttributesQueryParams(LatestAttributesQueryParams):
+Intrinio Latest Attributes Query.
+
+
+## Detailed Structure
+
+### Python File Structure
+
+**Classes** (3):
+`IntrinioLatestAttributesQueryParams`, `IntrinioLatestAttributesData`, `IntrinioLatestAttributesFetcher`
+
+**Functions** (5):
+`transform_query`, `aextract_data`, `generate_url`, `callback`, `transform_data`
+
+**Imports** (11):
+`warnings`, `typing`, `Any`, `openbb_core.app.model.abstract.warning`, `OpenBBWarning`, `openbb_core.provider.abstract.fetcher`, `Fetcher`, `openbb_core.provider.standard_models.latest_attributes`, `openbb_core.provider.utils.helpers`, `the`, `the`
+
+
+## Key Components
+
+**Class `IntrinioLatestAttributesQueryParams`**: Intrinio Latest Attributes Query.
+
+    Source: https://docs.intrinio.com/documentation/web_api/get_data_point_number_v2
+            https://docs.intrinio.com/documentation/web_api/get_data_point_text_
+
+**Class `IntrinioLatestAttributesData`**: Intrinio Latest Attributes Data.
+
+**Class `IntrinioLatestAttributesFetcher`**: Transform the query, extract and transform the data from the Intrinio endpoints.
+
+## Usage & Examples
+
+See source code for usage details.
+
+## Related Files
+
+- `warnings`
+- `typing`
+- `openbb_core.app.model.abstract.warning`
+- `openbb_core.provider.abstract.fetcher`
+- `openbb_core.provider.standard_models.latest_attributes`
+- `openbb_core.provider.utils.helpers`
+
+## Notes
+- Generated: 2025-11-18T07:54:40.134272
+- Generator: World's Best Repo Book Generator v1.0.0

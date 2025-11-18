@@ -1,0 +1,44 @@
+# Keywords: openbb_platform/core/openbb_core/provider/standard_models/sonia_rates.py
+
+## Extracted Keywords (40 total)
+
+- **Data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/sonia_rates.py`
+- **Field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/sonia_rates.py`
+- **QueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/sonia_rates.py`
+- **SONIAData** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/sonia_rates.py`
+- **SONIAQueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/sonia_rates.py`
+- **abstract** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/sonia_rates.py`
+- **class** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/sonia_rates.py`
+- **data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/sonia_rates.py`
+- **data_descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/sonia_rates.py`
+- **date** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/sonia_rates.py`
+- **datetime** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/sonia_rates.py`
+- **datetype** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/sonia_rates.py`
+- **default** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/sonia_rates.py`
+- **description** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/sonia_rates.py`
+- **descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/sonia_rates.py`
+- **end_date** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/sonia_rates.py`
+- **field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/sonia_rates.py`
+- **float** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/sonia_rates.py`
+- **from** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/sonia_rates.py`
+- **get** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/sonia_rates.py`
+- **import** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/sonia_rates.py`
+- **model** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/sonia_rates.py`
+- **none** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/sonia_rates.py`
+- **openbb_core** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/sonia_rates.py`
+- **openbb_core.provider.abstract.data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/sonia_rates.py`
+- **openbb_core.provider.abstract.query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/sonia_rates.py`
+- **openbb_core.provider.utils.descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/sonia_rates.py`
+- **provider** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/sonia_rates.py`
+- **pydantic** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/sonia_rates.py`
+- **query** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/sonia_rates.py`
+- **query_descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/sonia_rates.py`
+- **query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/sonia_rates.py`
+- **queryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/sonia_rates.py`
+- **rate** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/sonia_rates.py`
+- **sonia** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/sonia_rates.py`
+- **soniadata** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/sonia_rates.py`
+- **soniaqueryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/sonia_rates.py`
+- **standard** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/sonia_rates.py`
+- **start_date** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/sonia_rates.py`
+- **utils** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/sonia_rates.py`

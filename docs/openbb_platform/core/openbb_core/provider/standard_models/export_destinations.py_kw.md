@@ -1,0 +1,49 @@
+# Keywords: openbb_platform/core/openbb_core/provider/standard_models/export_destinations.py
+
+## Extracted Keywords (45 total)
+
+- **Data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/export_destinations.py`
+- **ExportDestinationsData** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/export_destinations.py`
+- **ExportDestinationsQueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/export_destinations.py`
+- **Field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/export_destinations.py`
+- **QUERY_DESCRIPTIONS** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/export_destinations.py`
+- **QueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/export_destinations.py`
+- **abstract** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/export_destinations.py`
+- **class** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/export_destinations.py`
+- **country** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/export_destinations.py`
+- **currency** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/export_destinations.py`
+- **data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/export_destinations.py`
+- **description** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/export_destinations.py`
+- **descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/export_destinations.py`
+- **destination** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/export_destinations.py`
+- **destination_country** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/export_destinations.py`
+- **destinations** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/export_destinations.py`
+- **export** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/export_destinations.py`
+- **exportdestinationsdata** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/export_destinations.py`
+- **exportdestinationsqueryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/export_destinations.py`
+- **field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/export_destinations.py`
+- **float** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/export_destinations.py`
+- **from** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/export_destinations.py`
+- **get** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/export_destinations.py`
+- **import** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/export_destinations.py`
+- **int** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/export_destinations.py`
+- **json_schema_extra** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/export_destinations.py`
+- **model** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/export_destinations.py`
+- **openbb_core** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/export_destinations.py`
+- **openbb_core.provider.abstract.data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/export_destinations.py`
+- **openbb_core.provider.abstract.query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/export_destinations.py`
+- **openbb_core.provider.utils.descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/export_destinations.py`
+- **origin** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/export_destinations.py`
+- **origin_country** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/export_destinations.py`
+- **provider** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/export_destinations.py`
+- **pydantic** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/export_destinations.py`
+- **query** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/export_destinations.py`
+- **query_descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/export_destinations.py`
+- **query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/export_destinations.py`
+- **queryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/export_destinations.py`
+- **standard** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/export_destinations.py`
+- **str** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/export_destinations.py`
+- **the** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/export_destinations.py`
+- **unit_measurement** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/export_destinations.py`
+- **utils** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/export_destinations.py`
+- **value** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/export_destinations.py`

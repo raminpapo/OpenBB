@@ -1,0 +1,52 @@
+# Keywords: openbb_platform/core/openbb_core/provider/standard_models/index_sectors.py
+
+## Extracted Keywords (48 total)
+
+- **Data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/index_sectors.py`
+- **Field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/index_sectors.py`
+- **IndexSectorsData** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/index_sectors.py`
+- **IndexSectorsQueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/index_sectors.py`
+- **QUERY_DESCRIPTIONS** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/index_sectors.py`
+- **QueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/index_sectors.py`
+- **abstract** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/index_sectors.py`
+- **class** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/index_sectors.py`
+- **classmethod** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/index_sectors.py`
+- **cls** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/index_sectors.py`
+- **convert** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/index_sectors.py`
+- **data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/index_sectors.py`
+- **def** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/index_sectors.py`
+- **description** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/index_sectors.py`
+- **descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/index_sectors.py`
+- **field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/index_sectors.py`
+- **field_validator** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/index_sectors.py`
+- **float** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/index_sectors.py`
+- **from** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/index_sectors.py`
+- **get** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/index_sectors.py`
+- **import** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/index_sectors.py`
+- **index** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/index_sectors.py`
+- **indexsectorsdata** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/index_sectors.py`
+- **indexsectorsqueryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/index_sectors.py`
+- **model** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/index_sectors.py`
+- **name** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/index_sectors.py`
+- **openbb_core** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/index_sectors.py`
+- **openbb_core.provider.abstract.data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/index_sectors.py`
+- **openbb_core.provider.abstract.query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/index_sectors.py`
+- **openbb_core.provider.utils.descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/index_sectors.py`
+- **provider** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/index_sectors.py`
+- **pydantic** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/index_sectors.py`
+- **query** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/index_sectors.py`
+- **query_descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/index_sectors.py`
+- **query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/index_sectors.py`
+- **queryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/index_sectors.py`
+- **return** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/index_sectors.py`
+- **sector** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/index_sectors.py`
+- **sectors** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/index_sectors.py`
+- **standard** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/index_sectors.py`
+- **str** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/index_sectors.py`
+- **symbol** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/index_sectors.py`
+- **the** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/index_sectors.py`
+- **to_upper** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/index_sectors.py`
+- **upper** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/index_sectors.py`
+- **uppercase** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/index_sectors.py`
+- **utils** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/index_sectors.py`
+- **weight** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/index_sectors.py`

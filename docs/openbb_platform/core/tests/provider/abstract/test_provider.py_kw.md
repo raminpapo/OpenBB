@@ -1,0 +1,48 @@
+# Keywords: openbb_platform/core/tests/provider/abstract/test_provider.py
+
+## Extracted Keywords (44 total)
+
+- **Fetcher** - Appears in `openbb_platform/core/tests/provider/abstract/test_provider.py`
+- **Provider** - Appears in `openbb_platform/core/tests/provider/abstract/test_provider.py`
+- **abstract** - Appears in `openbb_platform/core/tests/provider/abstract/test_provider.py`
+- **api_key** - Appears in `openbb_platform/core/tests/provider/abstract/test_provider.py`
+- **assert** - Appears in `openbb_platform/core/tests/provider/abstract/test_provider.py`
+- **basic** - Appears in `openbb_platform/core/tests/provider/abstract/test_provider.py`
+- **class** - Appears in `openbb_platform/core/tests/provider/abstract/test_provider.py`
+- **com** - Appears in `openbb_platform/core/tests/provider/abstract/test_provider.py`
+- **credentials** - Appears in `openbb_platform/core/tests/provider/abstract/test_provider.py`
+- **def** - Appears in `openbb_platform/core/tests/provider/abstract/test_provider.py`
+- **description** - Appears in `openbb_platform/core/tests/provider/abstract/test_provider.py`
+- **example** - Appears in `openbb_platform/core/tests/provider/abstract/test_provider.py`
+- **expected_credentials** - Appears in `openbb_platform/core/tests/provider/abstract/test_provider.py`
+- **fetcher** - Appears in `openbb_platform/core/tests/provider/abstract/test_provider.py`
+- **fetcher1** - Appears in `openbb_platform/core/tests/provider/abstract/test_provider.py`
+- **fetcher_dict** - Appears in `openbb_platform/core/tests/provider/abstract/test_provider.py`
+- **formatting** - Appears in `openbb_platform/core/tests/provider/abstract/test_provider.py`
+- **from** - Appears in `openbb_platform/core/tests/provider/abstract/test_provider.py`
+- **https** - Appears in `openbb_platform/core/tests/provider/abstract/test_provider.py`
+- **import** - Appears in `openbb_platform/core/tests/provider/abstract/test_provider.py`
+- **initialization** - Appears in `openbb_platform/core/tests/provider/abstract/test_provider.py`
+- **key1** - Appears in `openbb_platform/core/tests/provider/abstract/test_provider.py`
+- **key2** - Appears in `openbb_platform/core/tests/provider/abstract/test_provider.py`
+- **name** - Appears in `openbb_platform/core/tests/provider/abstract/test_provider.py`
+- **none** - Appears in `openbb_platform/core/tests/provider/abstract/test_provider.py`
+- **openbb_core** - Appears in `openbb_platform/core/tests/provider/abstract/test_provider.py`
+- **openbb_core.provider.abstract.fetcher** - Appears in `openbb_platform/core/tests/provider/abstract/test_provider.py`
+- **openbb_core.provider.abstract.provider** - Appears in `openbb_platform/core/tests/provider/abstract/test_provider.py`
+- **optional** - Appears in `openbb_platform/core/tests/provider/abstract/test_provider.py`
+- **parameters** - Appears in `openbb_platform/core/tests/provider/abstract/test_provider.py`
+- **provider** - Appears in `openbb_platform/core/tests/provider/abstract/test_provider.py`
+- **required** - Appears in `openbb_platform/core/tests/provider/abstract/test_provider.py`
+- **simple** - Appears in `openbb_platform/core/tests/provider/abstract/test_provider.py`
+- **test** - Appears in `openbb_platform/core/tests/provider/abstract/test_provider.py`
+- **test_provider_credentials_formatting** - Appears in `openbb_platform/core/tests/provider/abstract/test_provider.py`
+- **test_provider_initialization** - Appears in `openbb_platform/core/tests/provider/abstract/test_provider.py`
+- **test_provider_with_optional_parameters** - Appears in `openbb_platform/core/tests/provider/abstract/test_provider.py`
+- **testprovider** - Appears in `openbb_platform/core/tests/provider/abstract/test_provider.py`
+- **testprovider_api_key** - Appears in `openbb_platform/core/tests/provider/abstract/test_provider.py`
+- **testprovider_key1** - Appears in `openbb_platform/core/tests/provider/abstract/test_provider.py`
+- **testprovider_key2** - Appears in `openbb_platform/core/tests/provider/abstract/test_provider.py`
+- **the** - Appears in `openbb_platform/core/tests/provider/abstract/test_provider.py`
+- **website** - Appears in `openbb_platform/core/tests/provider/abstract/test_provider.py`
+- **with** - Appears in `openbb_platform/core/tests/provider/abstract/test_provider.py`

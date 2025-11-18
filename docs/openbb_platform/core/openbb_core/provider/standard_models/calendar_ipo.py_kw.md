@@ -1,0 +1,55 @@
+# Keywords: openbb_platform/core/openbb_core/provider/standard_models/calendar_ipo.py
+
+## Extracted Keywords (51 total)
+
+- **CalendarIpoData** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_ipo.py`
+- **CalendarIpoQueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_ipo.py`
+- **Data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_ipo.py`
+- **Field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_ipo.py`
+- **QueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_ipo.py`
+- **abstract** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_ipo.py`
+- **calendar** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_ipo.py`
+- **calendaripodata** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_ipo.py`
+- **calendaripoqueryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_ipo.py`
+- **class** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_ipo.py`
+- **data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_ipo.py`
+- **data_descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_ipo.py`
+- **date** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_ipo.py`
+- **datetime** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_ipo.py`
+- **datetype** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_ipo.py`
+- **default** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_ipo.py`
+- **description** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_ipo.py`
+- **descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_ipo.py`
+- **end_date** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_ipo.py`
+- **exchange** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_ipo.py`
+- **field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_ipo.py`
+- **first** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_ipo.py`
+- **from** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_ipo.py`
+- **get** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_ipo.py`
+- **import** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_ipo.py`
+- **int** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_ipo.py`
+- **ipo** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_ipo.py`
+- **ipo_date** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_ipo.py`
+- **limit** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_ipo.py`
+- **major** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_ipo.py`
+- **model** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_ipo.py`
+- **none** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_ipo.py`
+- **openbb_core** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_ipo.py`
+- **openbb_core.provider.abstract.data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_ipo.py`
+- **openbb_core.provider.abstract.query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_ipo.py`
+- **openbb_core.provider.utils.descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_ipo.py`
+- **provider** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_ipo.py`
+- **pydantic** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_ipo.py`
+- **query** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_ipo.py`
+- **query_descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_ipo.py`
+- **query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_ipo.py`
+- **queryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_ipo.py`
+- **standard** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_ipo.py`
+- **start_date** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_ipo.py`
+- **stock** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_ipo.py`
+- **str** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_ipo.py`
+- **symbol** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_ipo.py`
+- **the** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_ipo.py`
+- **trades** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_ipo.py`
+- **utils** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_ipo.py`
+- **when** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/calendar_ipo.py`

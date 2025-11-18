@@ -1,0 +1,57 @@
+# Keywords: openbb_platform/providers/government_us/tests/test_government_us_fetchers.py
+
+## Extracted Keywords (53 total)
+
+- **UserService** - Appears in `openbb_platform/providers/government_us/tests/test_government_us_fetchers.py`
+- **agent** - Appears in `openbb_platform/providers/government_us/tests/test_government_us_fetchers.py`
+- **app** - Appears in `openbb_platform/providers/government_us/tests/test_government_us_fetchers.py`
+- **assert** - Appears in `openbb_platform/providers/government_us/tests/test_government_us_fetchers.py`
+- **config** - Appears in `openbb_platform/providers/government_us/tests/test_government_us_fetchers.py`
+- **credentials** - Appears in `openbb_platform/providers/government_us/tests/test_government_us_fetchers.py`
+- **date** - Appears in `openbb_platform/providers/government_us/tests/test_government_us_fetchers.py`
+- **datetime** - Appears in `openbb_platform/providers/government_us/tests/test_government_us_fetchers.py`
+- **def** - Appears in `openbb_platform/providers/government_us/tests/test_government_us_fetchers.py`
+- **default_user_settings** - Appears in `openbb_platform/providers/government_us/tests/test_government_us_fetchers.py`
+- **end_date** - Appears in `openbb_platform/providers/government_us/tests/test_government_us_fetchers.py`
+- **fetcher** - Appears in `openbb_platform/providers/government_us/tests/test_government_us_fetchers.py`
+- **fetchers** - Appears in `openbb_platform/providers/government_us/tests/test_government_us_fetchers.py`
+- **filter_headers** - Appears in `openbb_platform/providers/government_us/tests/test_government_us_fetchers.py`
+- **filter_query_parameters** - Appears in `openbb_platform/providers/government_us/tests/test_government_us_fetchers.py`
+- **fixture** - Appears in `openbb_platform/providers/government_us/tests/test_government_us_fetchers.py`
+- **from** - Appears in `openbb_platform/providers/government_us/tests/test_government_us_fetchers.py`
+- **government** - Appears in `openbb_platform/providers/government_us/tests/test_government_us_fetchers.py`
+- **governmentustreasuryauctionsfetcher** - Appears in `openbb_platform/providers/government_us/tests/test_government_us_fetchers.py`
+- **governmentustreasurypricesfetcher** - Appears in `openbb_platform/providers/government_us/tests/test_government_us_fetchers.py`
+- **import** - Appears in `openbb_platform/providers/government_us/tests/test_government_us_fetchers.py`
+- **json** - Appears in `openbb_platform/providers/government_us/tests/test_government_us_fetchers.py`
+- **mark** - Appears in `openbb_platform/providers/government_us/tests/test_government_us_fetchers.py`
+- **mode** - Appears in `openbb_platform/providers/government_us/tests/test_government_us_fetchers.py`
+- **model_dump** - Appears in `openbb_platform/providers/government_us/tests/test_government_us_fetchers.py`
+- **models** - Appears in `openbb_platform/providers/government_us/tests/test_government_us_fetchers.py`
+- **module** - Appears in `openbb_platform/providers/government_us/tests/test_government_us_fetchers.py`
+- **none** - Appears in `openbb_platform/providers/government_us/tests/test_government_us_fetchers.py`
+- **openbb_core** - Appears in `openbb_platform/providers/government_us/tests/test_government_us_fetchers.py`
+- **openbb_core.app.service.user_service** - Appears in `openbb_platform/providers/government_us/tests/test_government_us_fetchers.py`
+- **openbb_government_us** - Appears in `openbb_platform/providers/government_us/tests/test_government_us_fetchers.py`
+- **openbb_government_us.models.treasury_auctions** - Appears in `openbb_platform/providers/government_us/tests/test_government_us_fetchers.py`
+- **openbb_government_us.models.treasury_prices** - Appears in `openbb_platform/providers/government_us/tests/test_government_us_fetchers.py`
+- **params** - Appears in `openbb_platform/providers/government_us/tests/test_government_us_fetchers.py`
+- **pytest** - Appears in `openbb_platform/providers/government_us/tests/test_government_us_fetchers.py`
+- **record_http** - Appears in `openbb_platform/providers/government_us/tests/test_government_us_fetchers.py`
+- **result** - Appears in `openbb_platform/providers/government_us/tests/test_government_us_fetchers.py`
+- **return** - Appears in `openbb_platform/providers/government_us/tests/test_government_us_fetchers.py`
+- **scope** - Appears in `openbb_platform/providers/government_us/tests/test_government_us_fetchers.py`
+- **service** - Appears in `openbb_platform/providers/government_us/tests/test_government_us_fetchers.py`
+- **start_date** - Appears in `openbb_platform/providers/government_us/tests/test_government_us_fetchers.py`
+- **test** - Appears in `openbb_platform/providers/government_us/tests/test_government_us_fetchers.py`
+- **test_credentials** - Appears in `openbb_platform/providers/government_us/tests/test_government_us_fetchers.py`
+- **test_government_us_treasury_auctions_fetcher** - Appears in `openbb_platform/providers/government_us/tests/test_government_us_fetchers.py`
+- **test_government_us_treasury_prices_fetcher** - Appears in `openbb_platform/providers/government_us/tests/test_government_us_fetchers.py`
+- **tests** - Appears in `openbb_platform/providers/government_us/tests/test_government_us_fetchers.py`
+- **treasury_auctions** - Appears in `openbb_platform/providers/government_us/tests/test_government_us_fetchers.py`
+- **treasury_prices** - Appears in `openbb_platform/providers/government_us/tests/test_government_us_fetchers.py`
+- **user** - Appears in `openbb_platform/providers/government_us/tests/test_government_us_fetchers.py`
+- **user_service** - Appears in `openbb_platform/providers/government_us/tests/test_government_us_fetchers.py`
+- **userservice** - Appears in `openbb_platform/providers/government_us/tests/test_government_us_fetchers.py`
+- **vcr** - Appears in `openbb_platform/providers/government_us/tests/test_government_us_fetchers.py`
+- **vcr_config** - Appears in `openbb_platform/providers/government_us/tests/test_government_us_fetchers.py`

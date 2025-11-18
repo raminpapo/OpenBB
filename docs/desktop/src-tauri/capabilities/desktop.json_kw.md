@@ -1,0 +1,52 @@
+# Keywords: desktop/src-tauri/capabilities/desktop.json
+
+## Extracted Keywords (48 total)
+
+- **all** - Appears in `desktop/src-tauri/capabilities/desktop.json`
+- **allow** - Appears in `desktop/src-tauri/capabilities/desktop.json`
+- **app** - Appears in `desktop/src-tauri/capabilities/desktop.json`
+- **appcache** - Appears in `desktop/src-tauri/capabilities/desktop.json`
+- **appconfig** - Appears in `desktop/src-tauri/capabilities/desktop.json`
+- **applocaldata** - Appears in `desktop/src-tauri/capabilities/desktop.json`
+- **applog** - Appears in `desktop/src-tauri/capabilities/desktop.json`
+- **cache** - Appears in `desktop/src-tauri/capabilities/desktop.json`
+- **capability** - Appears in `desktop/src-tauri/capabilities/desktop.json`
+- **config** - Appears in `desktop/src-tauri/capabilities/desktop.json`
+- **copy** - Appears in `desktop/src-tauri/capabilities/desktop.json`
+- **core** - Appears in `desktop/src-tauri/capabilities/desktop.json`
+- **create** - Appears in `desktop/src-tauri/capabilities/desktop.json`
+- **data** - Appears in `desktop/src-tauri/capabilities/desktop.json`
+- **default** - Appears in `desktop/src-tauri/capabilities/desktop.json`
+- **desktop** - Appears in `desktop/src-tauri/capabilities/desktop.json`
+- **dialog** - Appears in `desktop/src-tauri/capabilities/desktop.json`
+- **dir** - Appears in `desktop/src-tauri/capabilities/desktop.json`
+- **execute** - Appears in `desktop/src-tauri/capabilities/desktop.json`
+- **exists** - Appears in `desktop/src-tauri/capabilities/desktop.json`
+- **file** - Appears in `desktop/src-tauri/capabilities/desktop.json`
+- **files** - Appears in `desktop/src-tauri/capabilities/desktop.json`
+- **home** - Appears in `desktop/src-tauri/capabilities/desktop.json`
+- **identifier** - Appears in `desktop/src-tauri/capabilities/desktop.json`
+- **linux** - Appears in `desktop/src-tauri/capabilities/desktop.json`
+- **localdata** - Appears in `desktop/src-tauri/capabilities/desktop.json`
+- **log** - Appears in `desktop/src-tauri/capabilities/desktop.json`
+- **macos** - Appears in `desktop/src-tauri/capabilities/desktop.json`
+- **mkdir** - Appears in `desktop/src-tauri/capabilities/desktop.json`
+- **open** - Appears in `desktop/src-tauri/capabilities/desktop.json`
+- **opener** - Appears in `desktop/src-tauri/capabilities/desktop.json`
+- **path** - Appears in `desktop/src-tauri/capabilities/desktop.json`
+- **permissions** - Appears in `desktop/src-tauri/capabilities/desktop.json`
+- **platforms** - Appears in `desktop/src-tauri/capabilities/desktop.json`
+- **read** - Appears in `desktop/src-tauri/capabilities/desktop.json`
+- **recursive** - Appears in `desktop/src-tauri/capabilities/desktop.json`
+- **remove** - Appears in `desktop/src-tauri/capabilities/desktop.json`
+- **rename** - Appears in `desktop/src-tauri/capabilities/desktop.json`
+- **scope** - Appears in `desktop/src-tauri/capabilities/desktop.json`
+- **shell** - Appears in `desktop/src-tauri/capabilities/desktop.json`
+- **spawn** - Appears in `desktop/src-tauri/capabilities/desktop.json`
+- **temp** - Appears in `desktop/src-tauri/capabilities/desktop.json`
+- **unwatch** - Appears in `desktop/src-tauri/capabilities/desktop.json`
+- **updater** - Appears in `desktop/src-tauri/capabilities/desktop.json`
+- **urls** - Appears in `desktop/src-tauri/capabilities/desktop.json`
+- **watch** - Appears in `desktop/src-tauri/capabilities/desktop.json`
+- **windows** - Appears in `desktop/src-tauri/capabilities/desktop.json`
+- **write** - Appears in `desktop/src-tauri/capabilities/desktop.json`

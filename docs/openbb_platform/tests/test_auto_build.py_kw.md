@@ -1,0 +1,55 @@
+# Keywords: openbb_platform/tests/test_auto_build.py
+
+## Extracted Keywords (51 total)
+
+- **_packagebuilder** - Appears in `openbb_platform/tests/test_auto_build.py`
+- **assert_called_once** - Appears in `openbb_platform/tests/test_auto_build.py`
+- **auto_build** - Appears in `openbb_platform/tests/test_auto_build.py`
+- **autouse** - Appears in `openbb_platform/tests/test_auto_build.py`
+- **called** - Appears in `openbb_platform/tests/test_auto_build.py`
+- **def** - Appears in `openbb_platform/tests/test_auto_build.py`
+- **disable** - Appears in `openbb_platform/tests/test_auto_build.py`
+- **else** - Appears in `openbb_platform/tests/test_auto_build.py`
+- **feature** - Appears in `openbb_platform/tests/test_auto_build.py`
+- **fixture** - Appears in `openbb_platform/tests/test_auto_build.py`
+- **for** - Appears in `openbb_platform/tests/test_auto_build.py`
+- **from** - Appears in `openbb_platform/tests/test_auto_build.py`
+- **import** - Appears in `openbb_platform/tests/test_auto_build.py`
+- **importing** - Appears in `openbb_platform/tests/test_auto_build.py`
+- **importlib** - Appears in `openbb_platform/tests/test_auto_build.py`
+- **integration** - Appears in `openbb_platform/tests/test_auto_build.py`
+- **mark** - Appears in `openbb_platform/tests/test_auto_build.py`
+- **mock** - Appears in `openbb_platform/tests/test_auto_build.py`
+- **mock_auto_build** - Appears in `openbb_platform/tests/test_auto_build.py`
+- **mocks** - Appears in `openbb_platform/tests/test_auto_build.py`
+- **module** - Appears in `openbb_platform/tests/test_auto_build.py`
+- **modules** - Appears in `openbb_platform/tests/test_auto_build.py`
+- **name** - Appears in `openbb_platform/tests/test_auto_build.py`
+- **none** - Appears in `openbb_platform/tests/test_auto_build.py`
+- **openbb** - Appears in `openbb_platform/tests/test_auto_build.py`
+- **openbb_module** - Appears in `openbb_platform/tests/test_auto_build.py`
+- **outer** - Appears in `openbb_platform/tests/test_auto_build.py`
+- **outside** - Appears in `openbb_platform/tests/test_auto_build.py`
+- **pass** - Appears in `openbb_platform/tests/test_auto_build.py`
+- **patch** - Appears in `openbb_platform/tests/test_auto_build.py`
+- **pylint** - Appears in `openbb_platform/tests/test_auto_build.py`
+- **pytest** - Appears in `openbb_platform/tests/test_auto_build.py`
+- **redefined** - Appears in `openbb_platform/tests/test_auto_build.py`
+- **reload** - Appears in `openbb_platform/tests/test_auto_build.py`
+- **return** - Appears in `openbb_platform/tests/test_auto_build.py`
+- **return_value** - Appears in `openbb_platform/tests/test_auto_build.py`
+- **set** - Appears in `openbb_platform/tests/test_auto_build.py`
+- **setup_mocks** - Appears in `openbb_platform/tests/test_auto_build.py`
+- **sys** - Appears in `openbb_platform/tests/test_auto_build.py`
+- **test** - Appears in `openbb_platform/tests/test_auto_build.py`
+- **test_autobuild_called** - Appears in `openbb_platform/tests/test_auto_build.py`
+- **that** - Appears in `openbb_platform/tests/test_auto_build.py`
+- **the** - Appears in `openbb_platform/tests/test_auto_build.py`
+- **toplevel** - Appears in `openbb_platform/tests/test_auto_build.py`
+- **true** - Appears in `openbb_platform/tests/test_auto_build.py`
+- **unittest** - Appears in `openbb_platform/tests/test_auto_build.py`
+- **unittest.mock** - Appears in `openbb_platform/tests/test_auto_build.py`
+- **unused** - Appears in `openbb_platform/tests/test_auto_build.py`
+- **upon** - Appears in `openbb_platform/tests/test_auto_build.py`
+- **with** - Appears in `openbb_platform/tests/test_auto_build.py`
+- **yield** - Appears in `openbb_platform/tests/test_auto_build.py`

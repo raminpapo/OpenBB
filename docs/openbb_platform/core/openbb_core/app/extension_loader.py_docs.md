@@ -1,0 +1,272 @@
+# Documentation: openbb_platform/core/openbb_core/app/extension_loader.py
+
+## File Metadata
+- **Path**: `openbb_platform/core/openbb_core/app/extension_loader.py`
+- **Size**: 7,051 characters, 195 lines
+- **Words**: 568
+- **Extension**: .py
+- **Classification**: Text file
+
+## Original Source
+
+```python
+"""Extension Loader."""
+
+from enum import Enum
+from functools import lru_cache
+from typing import TYPE_CHECKING, Any
+
+from importlib_metadata import EntryPoint, EntryPoints, entry_points
+from openbb_core.app.model.abstract.singleton import SingletonMeta
+from openbb_core.app.model.extension import Extension
+
+if TYPE_CHECKING:
+    from openbb_core.app.router import Router
+    from openbb_core.provider.abstract.provider import Provider
+
+
+class OpenBBGroups(Enum):
+    """OpenBB Extension Groups."""
+
+    core = "openbb_core_extension"
+    provider = "openbb_provider_extension"
+    obbject = "openbb_obbject_extension"
+
+    @staticmethod
+    def groups() -> list[str]:
+        """Return the OpenBBGroups."""
+        return [
+            OpenBBGroups.core.value,
+            OpenBBGroups.provider.value,
+            OpenBBGroups.obbject.value,
+        ]
+
+
+class ExtensionLoader(metaclass=SingletonMeta):
+    """Extension loader class."""
+
+    def __init__(
+        self,
+    ) -> None:
+        """Initialize the extension loader."""
+        self._obbject_entry_points: EntryPoints = self._sorted_entry_points(
+            group=OpenBBGroups.obbject.value
+        )
+        self._core_entry_points: EntryPoints = self._sorted_entry_points(
+            group=OpenBBGroups.core.value
+        )
+        self._provider_entry_points: EntryPoints = self._sorted_entry_points(
+            group=OpenBBGroups.provider.value
+        )
+        self._obbject_objects: dict[str, Extension] = {}
+        self._core_objects: dict[str, Router] = {}
+        self._provider_objects: dict[str, Provider] = {}
+        self._on_command_output_callbacks: dict[str, list[Extension]] = {}
+        self._register_command_output_callbacks()
+
+    @property
+    def on_command_output_callbacks(self) -> dict[str, list[Extension]]:
+        """Return the on command output callbacks."""
+        return self._on_command_output_callbacks
+
+    def _register_command_output_callbacks(self) -> None:
+        """Register extensions that act on command output."""
+        for ext in self.obbject_objects.values():
+            if ext.on_command_output:
+                paths = ext.command_output_paths or ["*"]
+                for path in paths:
+                    if path not in self._on_command_output_callbacks:
+                        self._on_command_output_callbacks[path] = []
+                    self._on_command_output_callbacks[path].append(ext)
+
+    @property
+    def obbject_entry_points(self) -> EntryPoints:
+        """Return the obbject entry points."""
+        return self._obbject_entry_points
+
+    @property
+    def core_entry_points(self) -> EntryPoints:
+        """Return the core entry points."""
+        return self._core_entry_points
+
+    @property
+    def provider_entry_points(self) -> EntryPoints:
+        """Return the provider entry points."""
+        return self._provider_entry_points
+
+    @property
+    def entry_points(self) -> list[EntryPoints]:
+        """Return the entry points."""
+        return [
+            self._core_entry_points,
+            self._provider_entry_points,
+            self._obbject_entry_points,
+        ]
+
+    @staticmethod
+    def _get_entry_point(
+        entry_points_: EntryPoints, ext_name: str
+    ) -> EntryPoint | None:
+        """Given an extension name and a list of entry points, return the corresponding entry point."""
+        return next((ep for ep in entry_points_ if ep.name == ext_name), None)
+
+    def get_obbject_entry_point(self, ext_name: str) -> EntryPoint | None:
+        """Given an extension name, return the corresponding entry point."""
+        return self._get_entry_point(self._obbject_entry_points, ext_name)
+
+    def get_core_entry_point(self, ext_name: str) -> EntryPoint | None:
+        """Given an extension name, return the corresponding entry point."""
+        return self._get_entry_point(self._core_entry_points, ext_name)
+
+    def get_provider_entry_point(self, ext_name: str) -> EntryPoint | None:
+        """Given an extension name, return the corresponding entry point."""
+        return self._get_entry_point(self._provider_entry_points, ext_name)
+
+    @property
+    @lru_cache
+    def obbject_objects(self) -> dict[str, Extension]:
+        """Return a dict of obbject extension objects."""
+        self._obbject_objects = self._load_entry_points(
+            self._obbject_entry_points, OpenBBGroups.obbject
+        )
+        return self._obbject_objects
+
+    @property
+    @lru_cache
+    def core_objects(self) -> dict[str, "Router"]:
+        """Return a dict of core extension objects."""
+        self._core_objects = self._load_entry_points(
+            self._core_entry_points, OpenBBGroups.core
+        )
+        return self._core_objects
+
+    @property
+    @lru_cache
+    def provider_objects(self) -> dict[str, "Provider"]:
+        """Return a dict of provider extension objects."""
+        self._provider_objects = self._load_entry_points(
+            self._provider_entry_points, OpenBBGroups.provider
+        )
+        return self._provider_objects
+
+    @staticmethod
+    def _sorted_entry_points(group: str) -> EntryPoints:
+        """Return a sorted dictionary of entry points."""
+        return sorted(entry_points(group=group))  # type: ignore
+
+    def _load_entry_points(
+        self, entry_points_: EntryPoints, group: OpenBBGroups
+    ) -> dict[str, Any]:
+        """Return a dict of objects matching the entry points."""
+
+        def load_obbject(eps: EntryPoints) -> dict[str, Extension]:
+            """
+            Return a dictionary of obbject objects.
+
+            Keys are entry point names and values are instances of the Extension class.
+            """
+            return {
+                ep.name: entry
+                for ep in eps
+                if isinstance((entry := ep.load()), Extension)
+            }
+
+        def load_core(eps: EntryPoints) -> dict[str, "Router"]:
+            """Return a dictionary of core objects."""
+            # pylint: disable=import-outside-toplevel
+            from openbb_core.app.router import Router
+
+            return {
+                ep.name: entry for ep in eps if isinstance((entry := ep.load()), Router)
+            }
+
+        def load_provider(eps: EntryPoints) -> dict[str, "Provider"]:
+            """
+            Return a dictionary of provider objects.
+
+            Keys are entry point names and values are instances of the Provider class.
+            """
+            # pylint: disable=import-outside-toplevel
+            from openbb_core.provider.abstract.provider import Provider
+
+            entries: dict = {}
+            for ep in eps:
+                try:
+                    if isinstance((entry := ep.load()), Provider):
+                        entries[ep.name] = entry
+                except ModuleNotFoundError:
+                    continue
+            return entries
+
+        func = {
+            OpenBBGroups.obbject: load_obbject,
+            OpenBBGroups.core: load_core,
+            OpenBBGroups.provider: load_provider,
+        }
+        return func[group](entry_points_)  # type: ignore
+
+```
+
+## High-Level Overview
+
+Extension Loader.
+
+from enum import Enum
+from functools import lru_cache
+from typing import TYPE_CHECKING, Any
+
+from importlib_metadata import EntryPoint, EntryPoints, entry_points
+from openbb_core.app.model.abstract.singleton import SingletonMeta
+from openbb_core.app.model.extension import Extension
+
+if TYPE_CHECKING:
+from openbb_core.app.router import Router
+from openbb_core.provider.abstract.provider import Provider
+
+
+class OpenBBGroups(Enum):
+OpenBB Extension Groups.
+Return the OpenBBGroups.
+return [
+OpenBBGroups.core.value,
+
+## Detailed Structure
+
+### Python File Structure
+
+**Classes** (2):
+`OpenBBGroups`, `ExtensionLoader`
+
+**Functions** (20):
+`groups`, `__init__`, `on_command_output_callbacks`, `_register_command_output_callbacks`, `obbject_entry_points`, `core_entry_points`, `provider_entry_points`, `entry_points`, `_get_entry_point`, `get_obbject_entry_point`, `get_core_entry_point`, `get_provider_entry_point`, `obbject_objects`, `core_objects`, `provider_objects`, `_sorted_entry_points`, `_load_entry_points`, `load_obbject`, `load_core`, `load_provider`
+
+**Imports** (20):
+`enum`, `Enum`, `functools`, `lru_cache`, `typing`, `TYPE_CHECKING`, `importlib_metadata`, `EntryPoint`, `openbb_core.app.model.abstract.singleton`, `SingletonMeta`, `openbb_core.app.model.extension`, `Extension`, `openbb_core.app.router`, `Router`, `openbb_core.provider.abstract.provider`, `Provider`, `openbb_core.app.router`, `Router`, `openbb_core.provider.abstract.provider`, `Provider`
+
+
+## Key Components
+
+**Class `OpenBBGroups`**: OpenBB Extension Groups.
+
+**Class `ExtensionLoader`**: Extension loader class.
+
+## Usage & Examples
+
+See source code for usage details.
+
+## Related Files
+
+- `enum`
+- `functools`
+- `typing`
+- `importlib_metadata`
+- `openbb_core.app.model.abstract.singleton`
+- `openbb_core.app.model.extension`
+- `openbb_core.app.router`
+- `openbb_core.provider.abstract.provider`
+- `openbb_core.app.router`
+- `openbb_core.provider.abstract.provider`
+
+## Notes
+- Generated: 2025-11-18T07:54:35.417283
+- Generator: World's Best Repo Book Generator v1.0.0

@@ -1,0 +1,42 @@
+# Keywords: openbb_platform/core/tests/provider/abstract/test_query_params.py
+
+## Extracted Keywords (38 total)
+
+- **AliasedQueryParams** - Appears in `openbb_platform/core/tests/provider/abstract/test_query_params.py`
+- **QueryParams** - Appears in `openbb_platform/core/tests/provider/abstract/test_query_params.py`
+- **__alias_dict__** - Appears in `openbb_platform/core/tests/provider/abstract/test_query_params.py`
+- **__repr__** - Appears in `openbb_platform/core/tests/provider/abstract/test_query_params.py`
+- **abstract** - Appears in `openbb_platform/core/tests/provider/abstract/test_query_params.py`
+- **alias1** - Appears in `openbb_platform/core/tests/provider/abstract/test_query_params.py`
+- **aliasedqueryparams** - Appears in `openbb_platform/core/tests/provider/abstract/test_query_params.py`
+- **aliases** - Appears in `openbb_platform/core/tests/provider/abstract/test_query_params.py`
+- **arg** - Appears in `openbb_platform/core/tests/provider/abstract/test_query_params.py`
+- **assert** - Appears in `openbb_platform/core/tests/provider/abstract/test_query_params.py`
+- **call** - Appears in `openbb_platform/core/tests/provider/abstract/test_query_params.py`
+- **class** - Appears in `openbb_platform/core/tests/provider/abstract/test_query_params.py`
+- **def** - Appears in `openbb_platform/core/tests/provider/abstract/test_query_params.py`
+- **dumped_params** - Appears in `openbb_platform/core/tests/provider/abstract/test_query_params.py`
+- **from** - Appears in `openbb_platform/core/tests/provider/abstract/test_query_params.py`
+- **ignore** - Appears in `openbb_platform/core/tests/provider/abstract/test_query_params.py`
+- **import** - Appears in `openbb_platform/core/tests/provider/abstract/test_query_params.py`
+- **method** - Appears in `openbb_platform/core/tests/provider/abstract/test_query_params.py`
+- **model_dump** - Appears in `openbb_platform/core/tests/provider/abstract/test_query_params.py`
+- **openbb_core** - Appears in `openbb_platform/core/tests/provider/abstract/test_query_params.py`
+- **openbb_core.provider.abstract.query_params** - Appears in `openbb_platform/core/tests/provider/abstract/test_query_params.py`
+- **param1** - Appears in `openbb_platform/core/tests/provider/abstract/test_query_params.py`
+- **param2** - Appears in `openbb_platform/core/tests/provider/abstract/test_query_params.py`
+- **params** - Appears in `openbb_platform/core/tests/provider/abstract/test_query_params.py`
+- **provider** - Appears in `openbb_platform/core/tests/provider/abstract/test_query_params.py`
+- **query_params** - Appears in `openbb_platform/core/tests/provider/abstract/test_query_params.py`
+- **queryparams** - Appears in `openbb_platform/core/tests/provider/abstract/test_query_params.py`
+- **str** - Appears in `openbb_platform/core/tests/provider/abstract/test_query_params.py`
+- **test** - Appears in `openbb_platform/core/tests/provider/abstract/test_query_params.py`
+- **test_query_params_no_alias** - Appears in `openbb_platform/core/tests/provider/abstract/test_query_params.py`
+- **test_query_params_repr** - Appears in `openbb_platform/core/tests/provider/abstract/test_query_params.py`
+- **test_query_params_with_alias** - Appears in `openbb_platform/core/tests/provider/abstract/test_query_params.py`
+- **the** - Appears in `openbb_platform/core/tests/provider/abstract/test_query_params.py`
+- **type** - Appears in `openbb_platform/core/tests/provider/abstract/test_query_params.py`
+- **value1** - Appears in `openbb_platform/core/tests/provider/abstract/test_query_params.py`
+- **value2** - Appears in `openbb_platform/core/tests/provider/abstract/test_query_params.py`
+- **with** - Appears in `openbb_platform/core/tests/provider/abstract/test_query_params.py`
+- **without** - Appears in `openbb_platform/core/tests/provider/abstract/test_query_params.py`

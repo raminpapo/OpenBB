@@ -1,0 +1,57 @@
+# Keywords: cookiecutter/openbb_cookiecutter/template/{{cookiecutter.project_tag}}/pyproject.toml
+
+## Extracted Keywords (53 total)
+
+- **_provider** - Appears in `cookiecutter/openbb_cookiecutter/template/{{cookiecutter.project_tag}}/pyproject.toml`
+- **_views** - Appears in `cookiecutter/openbb_cookiecutter/template/{{cookiecutter.project_tag}}/pyproject.toml`
+- **agpl** - Appears in `cookiecutter/openbb_cookiecutter/template/{{cookiecutter.project_tag}}/pyproject.toml`
+- **api** - Appears in `cookiecutter/openbb_cookiecutter/template/{{cookiecutter.project_tag}}/pyproject.toml`
+- **authors** - Appears in `cookiecutter/openbb_cookiecutter/template/{{cookiecutter.project_tag}}/pyproject.toml`
+- **backend** - Appears in `cookiecutter/openbb_cookiecutter/template/{{cookiecutter.project_tag}}/pyproject.toml`
+- **build** - Appears in `cookiecutter/openbb_cookiecutter/template/{{cookiecutter.project_tag}}/pyproject.toml`
+- **class_ext** - Appears in `cookiecutter/openbb_cookiecutter/template/{{cookiecutter.project_tag}}/pyproject.toml`
+- **cookiecutter** - Appears in `cookiecutter/openbb_cookiecutter/template/{{cookiecutter.project_tag}}/pyproject.toml`
+- **core** - Appears in `cookiecutter/openbb_cookiecutter/template/{{cookiecutter.project_tag}}/pyproject.toml`
+- **dependencies** - Appears in `cookiecutter/openbb_cookiecutter/template/{{cookiecutter.project_tag}}/pyproject.toml`
+- **description** - Appears in `cookiecutter/openbb_cookiecutter/template/{{cookiecutter.project_tag}}/pyproject.toml`
+- **dev** - Appears in `cookiecutter/openbb_cookiecutter/template/{{cookiecutter.project_tag}}/pyproject.toml`
+- **devtools** - Appears in `cookiecutter/openbb_cookiecutter/template/{{cookiecutter.project_tag}}/pyproject.toml`
+- **email** - Appears in `cookiecutter/openbb_cookiecutter/template/{{cookiecutter.project_tag}}/pyproject.toml`
+- **ext** - Appears in `cookiecutter/openbb_cookiecutter/template/{{cookiecutter.project_tag}}/pyproject.toml`
+- **full_name** - Appears in `cookiecutter/openbb_cookiecutter/template/{{cookiecutter.project_tag}}/pyproject.toml`
+- **group** - Appears in `cookiecutter/openbb_cookiecutter/template/{{cookiecutter.project_tag}}/pyproject.toml`
+- **include** - Appears in `cookiecutter/openbb_cookiecutter/template/{{cookiecutter.project_tag}}/pyproject.toml`
+- **license** - Appears in `cookiecutter/openbb_cookiecutter/template/{{cookiecutter.project_tag}}/pyproject.toml`
+- **masonry** - Appears in `cookiecutter/openbb_cookiecutter/template/{{cookiecutter.project_tag}}/pyproject.toml`
+- **name** - Appears in `cookiecutter/openbb_cookiecutter/template/{{cookiecutter.project_tag}}/pyproject.toml`
+- **nonblocking_plugin** - Appears in `cookiecutter/openbb_cookiecutter/template/{{cookiecutter.project_tag}}/pyproject.toml`
+- **obbject** - Appears in `cookiecutter/openbb_cookiecutter/template/{{cookiecutter.project_tag}}/pyproject.toml`
+- **obbject_name** - Appears in `cookiecutter/openbb_cookiecutter/template/{{cookiecutter.project_tag}}/pyproject.toml`
+- **only** - Appears in `cookiecutter/openbb_cookiecutter/template/{{cookiecutter.project_tag}}/pyproject.toml`
+- **openbb** - Appears in `cookiecutter/openbb_cookiecutter/template/{{cookiecutter.project_tag}}/pyproject.toml`
+- **openbb_charting_extension** - Appears in `cookiecutter/openbb_cookiecutter/template/{{cookiecutter.project_tag}}/pyproject.toml`
+- **openbb_core_extension** - Appears in `cookiecutter/openbb_cookiecutter/template/{{cookiecutter.project_tag}}/pyproject.toml`
+- **openbb_obbject_extension** - Appears in `cookiecutter/openbb_cookiecutter/template/{{cookiecutter.project_tag}}/pyproject.toml`
+- **openbb_provider_extension** - Appears in `cookiecutter/openbb_cookiecutter/template/{{cookiecutter.project_tag}}/pyproject.toml`
+- **package_name** - Appears in `cookiecutter/openbb_cookiecutter/template/{{cookiecutter.project_tag}}/pyproject.toml`
+- **packages** - Appears in `cookiecutter/openbb_cookiecutter/template/{{cookiecutter.project_tag}}/pyproject.toml`
+- **platform** - Appears in `cookiecutter/openbb_cookiecutter/template/{{cookiecutter.project_tag}}/pyproject.toml`
+- **plugins** - Appears in `cookiecutter/openbb_cookiecutter/template/{{cookiecutter.project_tag}}/pyproject.toml`
+- **poetry** - Appears in `cookiecutter/openbb_cookiecutter/template/{{cookiecutter.project_tag}}/pyproject.toml`
+- **project_name** - Appears in `cookiecutter/openbb_cookiecutter/template/{{cookiecutter.project_tag}}/pyproject.toml`
+- **project_tag** - Appears in `cookiecutter/openbb_cookiecutter/template/{{cookiecutter.project_tag}}/pyproject.toml`
+- **provider_name** - Appears in `cookiecutter/openbb_cookiecutter/template/{{cookiecutter.project_tag}}/pyproject.toml`
+- **providers** - Appears in `cookiecutter/openbb_cookiecutter/template/{{cookiecutter.project_tag}}/pyproject.toml`
+- **python** - Appears in `cookiecutter/openbb_cookiecutter/template/{{cookiecutter.project_tag}}/pyproject.toml`
+- **readme** - Appears in `cookiecutter/openbb_cookiecutter/template/{{cookiecutter.project_tag}}/pyproject.toml`
+- **replace** - Appears in `cookiecutter/openbb_cookiecutter/template/{{cookiecutter.project_tag}}/pyproject.toml`
+- **requires** - Appears in `cookiecutter/openbb_cookiecutter/template/{{cookiecutter.project_tag}}/pyproject.toml`
+- **router** - Appears in `cookiecutter/openbb_cookiecutter/template/{{cookiecutter.project_tag}}/pyproject.toml`
+- **router_name** - Appears in `cookiecutter/openbb_cookiecutter/template/{{cookiecutter.project_tag}}/pyproject.toml`
+- **routers** - Appears in `cookiecutter/openbb_cookiecutter/template/{{cookiecutter.project_tag}}/pyproject.toml`
+- **system** - Appears in `cookiecutter/openbb_cookiecutter/template/{{cookiecutter.project_tag}}/pyproject.toml`
+- **title** - Appears in `cookiecutter/openbb_cookiecutter/template/{{cookiecutter.project_tag}}/pyproject.toml`
+- **to_string** - Appears in `cookiecutter/openbb_cookiecutter/template/{{cookiecutter.project_tag}}/pyproject.toml`
+- **tool** - Appears in `cookiecutter/openbb_cookiecutter/template/{{cookiecutter.project_tag}}/pyproject.toml`
+- **version** - Appears in `cookiecutter/openbb_cookiecutter/template/{{cookiecutter.project_tag}}/pyproject.toml`
+- **views** - Appears in `cookiecutter/openbb_cookiecutter/template/{{cookiecutter.project_tag}}/pyproject.toml`

@@ -1,0 +1,45 @@
+# Keywords: openbb_platform/obbject_extensions/charting/pyproject.toml
+
+## Extracted Keywords (41 total)
+
+- **agpl** - Appears in `openbb_platform/obbject_extensions/charting/pyproject.toml`
+- **api** - Appears in `openbb_platform/obbject_extensions/charting/pyproject.toml`
+- **authors** - Appears in `openbb_platform/obbject_extensions/charting/pyproject.toml`
+- **backend** - Appears in `openbb_platform/obbject_extensions/charting/pyproject.toml`
+- **build** - Appears in `openbb_platform/obbject_extensions/charting/pyproject.toml`
+- **charting** - Appears in `openbb_platform/obbject_extensions/charting/pyproject.toml`
+- **core** - Appears in `openbb_platform/obbject_extensions/charting/pyproject.toml`
+- **dependencies** - Appears in `openbb_platform/obbject_extensions/charting/pyproject.toml`
+- **description** - Appears in `openbb_platform/obbject_extensions/charting/pyproject.toml`
+- **explicitly** - Appears in `openbb_platform/obbject_extensions/charting/pyproject.toml`
+- **ext** - Appears in `openbb_platform/obbject_extensions/charting/pyproject.toml`
+- **extension** - Appears in `openbb_platform/obbject_extensions/charting/pyproject.toml`
+- **extras** - Appears in `openbb_platform/obbject_extensions/charting/pyproject.toml`
+- **for** - Appears in `openbb_platform/obbject_extensions/charting/pyproject.toml`
+- **forces** - Appears in `openbb_platform/obbject_extensions/charting/pyproject.toml`
+- **hello** - Appears in `openbb_platform/obbject_extensions/charting/pyproject.toml`
+- **include** - Appears in `openbb_platform/obbject_extensions/charting/pyproject.toml`
+- **license** - Appears in `openbb_platform/obbject_extensions/charting/pyproject.toml`
+- **masonry** - Appears in `openbb_platform/obbject_extensions/charting/pyproject.toml`
+- **name** - Appears in `openbb_platform/obbject_extensions/charting/pyproject.toml`
+- **nbformat** - Appears in `openbb_platform/obbject_extensions/charting/pyproject.toml`
+- **only** - Appears in `openbb_platform/obbject_extensions/charting/pyproject.toml`
+- **openbb** - Appears in `openbb_platform/obbject_extensions/charting/pyproject.toml`
+- **openbb_charting** - Appears in `openbb_platform/obbject_extensions/charting/pyproject.toml`
+- **openbb_obbject_extension** - Appears in `openbb_platform/obbject_extensions/charting/pyproject.toml`
+- **optional** - Appears in `openbb_platform/obbject_extensions/charting/pyproject.toml`
+- **packages** - Appears in `openbb_platform/obbject_extensions/charting/pyproject.toml`
+- **pandas** - Appears in `openbb_platform/obbject_extensions/charting/pyproject.toml`
+- **plotly** - Appears in `openbb_platform/obbject_extensions/charting/pyproject.toml`
+- **plugins** - Appears in `openbb_platform/obbject_extensions/charting/pyproject.toml`
+- **poetry** - Appears in `openbb_platform/obbject_extensions/charting/pyproject.toml`
+- **python** - Appears in `openbb_platform/obbject_extensions/charting/pyproject.toml`
+- **pywry** - Appears in `openbb_platform/obbject_extensions/charting/pyproject.toml`
+- **readme** - Appears in `openbb_platform/obbject_extensions/charting/pyproject.toml`
+- **requires** - Appears in `openbb_platform/obbject_extensions/charting/pyproject.toml`
+- **scipy** - Appears in `openbb_platform/obbject_extensions/charting/pyproject.toml`
+- **system** - Appears in `openbb_platform/obbject_extensions/charting/pyproject.toml`
+- **team** - Appears in `openbb_platform/obbject_extensions/charting/pyproject.toml`
+- **tool** - Appears in `openbb_platform/obbject_extensions/charting/pyproject.toml`
+- **true** - Appears in `openbb_platform/obbject_extensions/charting/pyproject.toml`
+- **version** - Appears in `openbb_platform/obbject_extensions/charting/pyproject.toml`

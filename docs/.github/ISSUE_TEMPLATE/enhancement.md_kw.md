@@ -1,0 +1,49 @@
+# Keywords: .github/ISSUE_TEMPLATE/enhancement.md
+
+## Extracted Keywords (45 total)
+
+- **about** - Appears in `.github/ISSUE_TEMPLATE/enhancement.md`
+- **add** - Appears in `.github/ISSUE_TEMPLATE/enhancement.md`
+- **additional** - Appears in `.github/ISSUE_TEMPLATE/enhancement.md`
+- **after** - Appears in `.github/ISSUE_TEMPLATE/enhancement.md`
+- **and** - Appears in `.github/ISSUE_TEMPLATE/enhancement.md`
+- **any** - Appears in `.github/ISSUE_TEMPLATE/enhancement.md`
+- **assignees** - Appears in `.github/ISSUE_TEMPLATE/enhancement.md`
+- **bit** - Appears in `.github/ISSUE_TEMPLATE/enhancement.md`
+- **context** - Appears in `.github/ISSUE_TEMPLATE/enhancement.md`
+- **current** - Appears in `.github/ISSUE_TEMPLATE/enhancement.md`
+- **describe** - Appears in `.github/ISSUE_TEMPLATE/enhancement.md`
+- **description** - Appears in `.github/ISSUE_TEMPLATE/enhancement.md`
+- **enhancement** - Appears in `.github/ISSUE_TEMPLATE/enhancement.md`
+- **feature** - Appears in `.github/ISSUE_TEMPLATE/enhancement.md`
+- **have** - Appears in `.github/ISSUE_TEMPLATE/enhancement.md`
+- **here** - Appears in `.github/ISSUE_TEMPLATE/enhancement.md`
+- **how** - Appears in `.github/ISSUE_TEMPLATE/enhancement.md`
+- **ideal** - Appears in `.github/ISSUE_TEMPLATE/enhancement.md`
+- **improve** - Appears in `.github/ISSUE_TEMPLATE/enhancement.md`
+- **improved** - Appears in `.github/ISSUE_TEMPLATE/enhancement.md`
+- **improvement** - Appears in `.github/ISSUE_TEMPLATE/enhancement.md`
+- **information** - Appears in `.github/ISSUE_TEMPLATE/enhancement.md`
+- **labels** - Appears in `.github/ISSUE_TEMPLATE/enhancement.md`
+- **like** - Appears in `.github/ISSUE_TEMPLATE/enhancement.md`
+- **name** - Appears in `.github/ISSUE_TEMPLATE/enhancement.md`
+- **other** - Appears in `.github/ISSUE_TEMPLATE/enhancement.md`
+- **possibly** - Appears in `.github/ISSUE_TEMPLATE/enhancement.md`
+- **project** - Appears in `.github/ISSUE_TEMPLATE/enhancement.md`
+- **screenshots** - Appears in `.github/ISSUE_TEMPLATE/enhancement.md`
+- **should** - Appears in `.github/ISSUE_TEMPLATE/enhancement.md`
+- **something** - Appears in `.github/ISSUE_TEMPLATE/enhancement.md`
+- **suggestion** - Appears in `.github/ISSUE_TEMPLATE/enhancement.md`
+- **that** - Appears in `.github/ISSUE_TEMPLATE/enhancement.md`
+- **the** - Appears in `.github/ISSUE_TEMPLATE/enhancement.md`
+- **this** - Appears in `.github/ISSUE_TEMPLATE/enhancement.md`
+- **thought** - Appears in `.github/ISSUE_TEMPLATE/enhancement.md`
+- **title** - Appears in `.github/ISSUE_TEMPLATE/enhancement.md`
+- **type** - Appears in `.github/ISSUE_TEMPLATE/enhancement.md`
+- **want** - Appears in `.github/ISSUE_TEMPLATE/enhancement.md`
+- **way** - Appears in `.github/ISSUE_TEMPLATE/enhancement.md`
+- **what** - Appears in `.github/ISSUE_TEMPLATE/enhancement.md`
+- **why** - Appears in `.github/ISSUE_TEMPLATE/enhancement.md`
+- **would** - Appears in `.github/ISSUE_TEMPLATE/enhancement.md`
+- **you** - Appears in `.github/ISSUE_TEMPLATE/enhancement.md`
+- **your** - Appears in `.github/ISSUE_TEMPLATE/enhancement.md`

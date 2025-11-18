@@ -1,0 +1,96 @@
+# Documentation: openbb_platform/providers/fmp/tests/record/http/test_fmp_fetchers/test_fmp_equity_historical_fetcher_urllib3_v2.yaml
+
+## File Metadata
+- **Path**: `openbb_platform/providers/fmp/tests/record/http/test_fmp_fetchers/test_fmp_equity_historical_fetcher_urllib3_v2.yaml`
+- **Size**: 1,838 characters, 59 lines
+- **Words**: 101
+- **Extension**: .yaml
+- **Classification**: Text file
+
+## Original Source
+
+```yaml
+interactions:
+- request:
+    body: null
+    headers:
+      Accept:
+      - application/json
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+    method: GET
+    uri: https://financialmodelingprep.com/stable/historical-price-eod/full?apikey=MOCK_API_KEY&from=2023-01-01&symbol=AAPL&to=2023-01-10
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAA53UPW+DQAwG4L2/AjEHy74vH92yd8hedUhTlFQiIWrSRFXV/94jxcdnhjKwvAf4
+        Hmzu+SFJvsOVJOnpa/9aleljki6Xq6d08Ze+rc9FnSlUOkPKCGWlOhaHsEIaQbkm271vd7eM2qys
+        rnWkPJBqok1ZnYrmWdZNeKnKz32dOu1zpxDl5t36sK1zBMO9bFV8bIrD+bakHXp5/eW6PjZvx1zZ
+        EP4s/uvEfMIZ60enBkMDZw4+n3CSHToZOUdP4o/OLGji3UNpWFTGKtlIh5r7eVA3hCoHKKgIDWVF
+        JVAzAQ16F9sgUM9sDQ9IIdfgqJe1TAVe5keIioFxbjftCMkQv7wg6wryYVsky0ZapAUcIzEMLaMf
+        dVMB3VNmBG7EdEA8D2kmOhlbFJG+rSnI4In7jkgX/qkRMifSTk+NrO2HvYk1xE4KdJxseGY79dQh
+        JBU6MzseWYpHSLeb8XcSKJEiYjs+hDIL6m47zdDI4PBGfHj5BUrZ11tqBQAA
+    headers:
+      Access-Control-Allow-Credentials:
+      - 'true'
+      Access-Control-Allow-Headers:
+      - X-Requested-With, content-type, auth-token, Authorization, stripe-signature,
+        APPS, publicauthkey, privateauthkey
+      Access-Control-Allow-Methods:
+      - GET, POST, OPTIONS
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Max-Age:
+      - '3600'
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Tue, 23 Sep 2025 03:08:17 GMT
+      Etag:
+      - W/"56a-X8I0y3QptEWCGv3fTqy0PnWTBvM"
+      Server:
+      - nginx/1.18.0 (Ubuntu)
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Powered-By:
+      - Express
+    status:
+      code: 200
+      message: OK
+version: 1
+
+```
+
+## High-Level Overview
+
+This is a .yaml file containing 59 lines of code.
+
+## Detailed Structure
+
+Standard text file.
+
+## Key Components
+
+No major components extracted.
+
+## Usage & Examples
+
+See source code for usage details.
+
+## Related Files
+
+No direct file references found.
+
+## Notes
+- Generated: 2025-11-18T07:54:39.566420
+- Generator: World's Best Repo Book Generator v1.0.0

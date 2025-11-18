@@ -1,0 +1,41 @@
+# Keywords: desktop/src-tauri/tauri.macos.conf.json
+
+## Extracted Keywords (37 total)
+
+- **all** - Appears in `desktop/src-tauri/tauri.macos.conf.json`
+- **applicationfolderposition** - Appears in `desktop/src-tauri/tauri.macos.conf.json`
+- **appposition** - Appears in `desktop/src-tauri/tauri.macos.conf.json`
+- **beforebundlecommand** - Appears in `desktop/src-tauri/tauri.macos.conf.json`
+- **build** - Appears in `desktop/src-tauri/tauri.macos.conf.json`
+- **bundle** - Appears in `desktop/src-tauri/tauri.macos.conf.json`
+- **cargo** - Appears in `desktop/src-tauri/tauri.macos.conf.json`
+- **cdx** - Appears in `desktop/src-tauri/tauri.macos.conf.json`
+- **data** - Appears in `desktop/src-tauri/tauri.macos.conf.json`
+- **desktop** - Appears in `desktop/src-tauri/tauri.macos.conf.json`
+- **dmg** - Appears in `desktop/src-tauri/tauri.macos.conf.json`
+- **dylib** - Appears in `desktop/src-tauri/tauri.macos.conf.json`
+- **entitlements** - Appears in `desktop/src-tauri/tauri.macos.conf.json`
+- **fix_dylibs** - Appears in `desktop/src-tauri/tauri.macos.conf.json`
+- **frameworks** - Appears in `desktop/src-tauri/tauri.macos.conf.json`
+- **height** - Appears in `desktop/src-tauri/tauri.macos.conf.json`
+- **libcrypto** - Appears in `desktop/src-tauri/tauri.macos.conf.json`
+- **libssl** - Appears in `desktop/src-tauri/tauri.macos.conf.json`
+- **macos** - Appears in `desktop/src-tauri/tauri.macos.conf.json`
+- **minimumsystemversion** - Appears in `desktop/src-tauri/tauri.macos.conf.json`
+- **npm** - Appears in `desktop/src-tauri/tauri.macos.conf.json`
+- **open** - Appears in `desktop/src-tauri/tauri.macos.conf.json`
+- **openbb** - Appears in `desktop/src-tauri/tauri.macos.conf.json`
+- **platform** - Appears in `desktop/src-tauri/tauri.macos.conf.json`
+- **plist** - Appears in `desktop/src-tauri/tauri.macos.conf.json`
+- **resources** - Appears in `desktop/src-tauri/tauri.macos.conf.json`
+- **runner** - Appears in `desktop/src-tauri/tauri.macos.conf.json`
+- **sbom** - Appears in `desktop/src-tauri/tauri.macos.conf.json`
+- **scripts** - Appears in `desktop/src-tauri/tauri.macos.conf.json`
+- **src** - Appears in `desktop/src-tauri/tauri.macos.conf.json`
+- **targets** - Appears in `desktop/src-tauri/tauri.macos.conf.json`
+- **tauri** - Appears in `desktop/src-tauri/tauri.macos.conf.json`
+- **users** - Appears in `desktop/src-tauri/tauri.macos.conf.json`
+- **width** - Appears in `desktop/src-tauri/tauri.macos.conf.json`
+- **windowsize** - Appears in `desktop/src-tauri/tauri.macos.conf.json`
+- **work** - Appears in `desktop/src-tauri/tauri.macos.conf.json`
+- **xml** - Appears in `desktop/src-tauri/tauri.macos.conf.json`

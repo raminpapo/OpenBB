@@ -1,0 +1,57 @@
+# Keywords: openbb_platform/core/openbb_core/provider/standard_models/country_interest_rates.py
+
+## Extracted Keywords (53 total)
+
+- **CountryInterestRatesData** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/country_interest_rates.py`
+- **CountryInterestRatesQueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/country_interest_rates.py`
+- **Data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/country_interest_rates.py`
+- **Field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/country_interest_rates.py`
+- **QueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/country_interest_rates.py`
+- **abstract** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/country_interest_rates.py`
+- **class** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/country_interest_rates.py`
+- **country** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/country_interest_rates.py`
+- **countryinterestratesdata** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/country_interest_rates.py`
+- **countryinterestratesqueryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/country_interest_rates.py`
+- **data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/country_interest_rates.py`
+- **data_descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/country_interest_rates.py`
+- **date** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/country_interest_rates.py`
+- **datetime** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/country_interest_rates.py`
+- **datetype** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/country_interest_rates.py`
+- **default** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/country_interest_rates.py`
+- **description** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/country_interest_rates.py`
+- **descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/country_interest_rates.py`
+- **end_date** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/country_interest_rates.py`
+- **field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/country_interest_rates.py`
+- **float** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/country_interest_rates.py`
+- **for** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/country_interest_rates.py`
+- **from** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/country_interest_rates.py`
+- **frontend_multiply** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/country_interest_rates.py`
+- **get** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/country_interest_rates.py`
+- **given** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/country_interest_rates.py`
+- **import** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/country_interest_rates.py`
+- **interest** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/country_interest_rates.py`
+- **json_schema_extra** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/country_interest_rates.py`
+- **model** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/country_interest_rates.py`
+- **none** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/country_interest_rates.py`
+- **openbb_core** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/country_interest_rates.py`
+- **openbb_core.provider.abstract.data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/country_interest_rates.py`
+- **openbb_core.provider.abstract.query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/country_interest_rates.py`
+- **openbb_core.provider.utils.descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/country_interest_rates.py`
+- **percent** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/country_interest_rates.py`
+- **provider** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/country_interest_rates.py`
+- **pydantic** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/country_interest_rates.py`
+- **query** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/country_interest_rates.py`
+- **query_descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/country_interest_rates.py`
+- **query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/country_interest_rates.py`
+- **queryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/country_interest_rates.py`
+- **rate** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/country_interest_rates.py`
+- **rates** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/country_interest_rates.py`
+- **standard** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/country_interest_rates.py`
+- **start_date** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/country_interest_rates.py`
+- **str** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/country_interest_rates.py`
+- **the** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/country_interest_rates.py`
+- **unit_measurment** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/country_interest_rates.py`
+- **united_states** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/country_interest_rates.py`
+- **utils** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/country_interest_rates.py`
+- **value** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/country_interest_rates.py`
+- **which** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/country_interest_rates.py`

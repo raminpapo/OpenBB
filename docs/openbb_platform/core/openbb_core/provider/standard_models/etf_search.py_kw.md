@@ -1,0 +1,42 @@
+# Keywords: openbb_platform/core/openbb_core/provider/standard_models/etf_search.py
+
+## Extracted Keywords (38 total)
+
+- **DATA_DESCRIPTIONS** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_search.py`
+- **Data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_search.py`
+- **EtfSearchData** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_search.py`
+- **EtfSearchQueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_search.py`
+- **Field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_search.py`
+- **QueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_search.py`
+- **abstract** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_search.py`
+- **class** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_search.py`
+- **data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_search.py`
+- **data_descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_search.py`
+- **default** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_search.py`
+- **description** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_search.py`
+- **descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_search.py`
+- **etf** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_search.py`
+- **etfsearchdata** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_search.py`
+- **etfsearchqueryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_search.py`
+- **field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_search.py`
+- **from** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_search.py`
+- **get** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_search.py`
+- **import** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_search.py`
+- **model** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_search.py`
+- **name** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_search.py`
+- **none** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_search.py`
+- **openbb_core** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_search.py`
+- **openbb_core.provider.abstract.data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_search.py`
+- **openbb_core.provider.abstract.query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_search.py`
+- **openbb_core.provider.utils.descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_search.py`
+- **provider** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_search.py`
+- **pydantic** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_search.py`
+- **query** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_search.py`
+- **query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_search.py`
+- **queryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_search.py`
+- **search** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_search.py`
+- **standard** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_search.py`
+- **str** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_search.py`
+- **symbol** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_search.py`
+- **the** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_search.py`
+- **utils** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_search.py`

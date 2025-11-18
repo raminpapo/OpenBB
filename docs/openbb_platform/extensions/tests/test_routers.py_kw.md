@@ -1,0 +1,55 @@
+# Keywords: openbb_platform/extensions/tests/test_routers.py
+
+## Extracted Keywords (51 total)
+
+- **.utils.router_testers** - Appears in `openbb_platform/extensions/tests/test_routers.py`
+- **all** - Appears in `openbb_platform/extensions/tests/test_routers.py`
+- **are** - Appears in `openbb_platform/extensions/tests/test_routers.py`
+- **assert** - Appears in `openbb_platform/extensions/tests/test_routers.py`
+- **certain** - Appears in `openbb_platform/extensions/tests/test_routers.py`
+- **check_router_command_examples** - Appears in `openbb_platform/extensions/tests/test_routers.py`
+- **check_router_function_models** - Appears in `openbb_platform/extensions/tests/test_routers.py`
+- **check_router_model_functions_signature** - Appears in `openbb_platform/extensions/tests/test_routers.py`
+- **command** - Appears in `openbb_platform/extensions/tests/test_routers.py`
+- **correct** - Appears in `openbb_platform/extensions/tests/test_routers.py`
+- **def** - Appears in `openbb_platform/extensions/tests/test_routers.py`
+- **endpoints** - Appears in `openbb_platform/extensions/tests/test_routers.py`
+- **example** - Appears in `openbb_platform/extensions/tests/test_routers.py`
+- **examples** - Appears in `openbb_platform/extensions/tests/test_routers.py`
+- **exist** - Appears in `openbb_platform/extensions/tests/test_routers.py`
+- **follow** - Appears in `openbb_platform/extensions/tests/test_routers.py`
+- **for** - Appears in `openbb_platform/extensions/tests/test_routers.py`
+- **from** - Appears in `openbb_platform/extensions/tests/test_routers.py`
+- **functions** - Appears in `openbb_platform/extensions/tests/test_routers.py`
+- **have** - Appears in `openbb_platform/extensions/tests/test_routers.py`
+- **import** - Appears in `openbb_platform/extensions/tests/test_routers.py`
+- **interface** - Appears in `openbb_platform/extensions/tests/test_routers.py`
+- **invalid_examples** - Appears in `openbb_platform/extensions/tests/test_routers.py`
+- **join** - Appears in `openbb_platform/extensions/tests/test_routers.py`
+- **least** - Appears in `openbb_platform/extensions/tests/test_routers.py`
+- **map** - Appears in `openbb_platform/extensions/tests/test_routers.py`
+- **missing_args** - Appears in `openbb_platform/extensions/tests/test_routers.py`
+- **missing_models** - Appears in `openbb_platform/extensions/tests/test_routers.py`
+- **models** - Appears in `openbb_platform/extensions/tests/test_routers.py`
+- **none** - Appears in `openbb_platform/extensions/tests/test_routers.py`
+- **not** - Appears in `openbb_platform/extensions/tests/test_routers.py`
+- **one** - Appears in `openbb_platform/extensions/tests/test_routers.py`
+- **parameters** - Appears in `openbb_platform/extensions/tests/test_routers.py`
+- **params** - Appears in `openbb_platform/extensions/tests/test_routers.py`
+- **provider** - Appears in `openbb_platform/extensions/tests/test_routers.py`
+- **required** - Appears in `openbb_platform/extensions/tests/test_routers.py`
+- **router** - Appears in `openbb_platform/extensions/tests/test_routers.py`
+- **router_testers** - Appears in `openbb_platform/extensions/tests/test_routers.py`
+- **routers** - Appears in `openbb_platform/extensions/tests/test_routers.py`
+- **rules** - Appears in `openbb_platform/extensions/tests/test_routers.py`
+- **should** - Appears in `openbb_platform/extensions/tests/test_routers.py`
+- **signature** - Appears in `openbb_platform/extensions/tests/test_routers.py`
+- **sorted** - Appears in `openbb_platform/extensions/tests/test_routers.py`
+- **test** - Appears in `openbb_platform/extensions/tests/test_routers.py`
+- **test_router_examples_rules** - Appears in `openbb_platform/extensions/tests/test_routers.py`
+- **test_router_function_models** - Appears in `openbb_platform/extensions/tests/test_routers.py`
+- **test_router_model_functions_signature** - Appears in `openbb_platform/extensions/tests/test_routers.py`
+- **the** - Appears in `openbb_platform/extensions/tests/test_routers.py`
+- **using** - Appears in `openbb_platform/extensions/tests/test_routers.py`
+- **utils** - Appears in `openbb_platform/extensions/tests/test_routers.py`
+- **valid** - Appears in `openbb_platform/extensions/tests/test_routers.py`

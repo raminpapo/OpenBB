@@ -1,0 +1,102 @@
+# Documentation: openbb_platform/providers/fmp/tests/record/http/test_fmp_fetchers/test_fmp_calendar_splits_fetcher_urllib3_v2.yaml
+
+## File Metadata
+- **Path**: `openbb_platform/providers/fmp/tests/record/http/test_fmp_fetchers/test_fmp_calendar_splits_fetcher_urllib3_v2.yaml`
+- **Size**: 2,339 characters, 65 lines
+- **Words**: 107
+- **Extension**: .yaml
+- **Classification**: Text file
+
+## Original Source
+
+```yaml
+interactions:
+- request:
+    body: null
+    headers:
+      Accept:
+      - application/json
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+    method: GET
+    uri: https://financialmodelingprep.com/stable/splits-calendar?apikey=MOCK_API_KEY&from=2023-01-01&to=2023-01-10
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAA7XYS2vbQBAH8Hs+hfE5EfuQZKm33bUsKdaru4obU3pIaQ6FxoY0PZTS716H4OYy
+        M3iMfMhFDvwY/Wf2oc9Xs9mfw99sNv/5++nr/sf8w2ze19bHUTDz67dfvj28PL4+V0LpGyFvpDj+
+        svv19Pj88LJ/Pvwsj//9uNs/fd8dn4rD07/XEGOb2q2jMDIZpXNEErgl8oWIqjWTgp0UVaTOplIU
+        XstrPPry8chU6omKSfBaTDDRLRNJpMKqIVrA910d2Z5HSZEszqDMbVeHiq0pmMKdumxXGCHy0wMi
+        us2MVTEFQXRaWYV6CiLBCddW1ZZnJBJTCMZ0k+RBvCxXmW0fWXRkYCaGnRh3Nj5yHYqkp9eiUcJs
+        x7spBKJ7w9p3xPoCKwmcCY4MzVCMvo+6wIO4856mWU4syTCimYg3rQljUTTscrjv7V3CF8pppO5+
+        HHgCu9PKxvHr4DbA/067NOTakT3+XKO2y4CvliCRwrGkeCxLs8G3L0byWuF1DEv8TSWnE7hQWuqc
+        DBsqS5HJp04umSLPyZxyMhQxG4e3L0MgdskslopdB3Kx0Hgl/VBOEz1eyVh09xcmPDGGcG+xCdNY
+        Zv+yI984GTHreB0FATtptlig1Kq7jwyeSgxb+oxLSyjcnXe+WFKbMejFMIZKZTuQ+xeIIHcjog1G
+        /KQPCvBI4hOZxZpcwOBsuO287B25PzIUoqPfw+fmwg3fVjbg1yOQ4B7BhFiklw8mkwn10QJRlDhj
+        NHvblEwHRvCvI3UbzlhnmMGMQ1fg66Y+vRBNrWN26SZBJH5KsnXvpyAUHsjKtHWzdcYX1EjCloCX
+        Mkl9tZR5nItojS/9jLLwqtqPbbThEYpJdGYbjGG/NHiRwVtg5VtqYOC3pWI0GTyayjQN00EQlNjQ
+        F2M4lwQbGzybw2xSexmnGDyZMH6irjAKTB+57lFf4HzhtjeWTUlJTufVl3+zDrVvKRkAAA==
+    headers:
+      Access-Control-Allow-Credentials:
+      - 'true'
+      Access-Control-Allow-Headers:
+      - X-Requested-With, content-type, auth-token, Authorization, stripe-signature,
+        APPS, publicauthkey, privateauthkey
+      Access-Control-Allow-Methods:
+      - GET, POST, OPTIONS
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Max-Age:
+      - '3600'
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Tue, 23 Sep 2025 03:08:31 GMT
+      Etag:
+      - W/"1929-yo+0fF7WaOmjnIiUEzILPVXyI8U"
+      Server:
+      - nginx/1.18.0 (Ubuntu)
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Powered-By:
+      - Express
+    status:
+      code: 200
+      message: OK
+version: 1
+
+```
+
+## High-Level Overview
+
+This is a .yaml file containing 65 lines of code.
+
+## Detailed Structure
+
+Standard text file.
+
+## Key Components
+
+No major components extracted.
+
+## Usage & Examples
+
+See source code for usage details.
+
+## Related Files
+
+No direct file references found.
+
+## Notes
+- Generated: 2025-11-18T07:54:39.465483
+- Generator: World's Best Repo Book Generator v1.0.0

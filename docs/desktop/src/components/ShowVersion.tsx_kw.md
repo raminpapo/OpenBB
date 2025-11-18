@@ -1,0 +1,47 @@
+# Keywords: desktop/src/components/ShowVersion.tsx
+
+## Extracted Keywords (43 total)
+
+- **ShowVersion** - Appears in `desktop/src/components/ShowVersion.tsx`
+- **api** - Appears in `desktop/src/components/ShowVersion.tsx`
+- **app** - Appears in `desktop/src/components/ShowVersion.tsx`
+- **apps** - Appears in `desktop/src/components/ShowVersion.tsx`
+- **async** - Appears in `desktop/src/components/ShowVersion.tsx`
+- **await** - Appears in `desktop/src/components/ShowVersion.tsx`
+- **body** - Appears in `desktop/src/components/ShowVersion.tsx`
+- **cachedVersion** - Appears in `desktop/src/components/ShowVersion.tsx`
+- **cachedversion** - Appears in `desktop/src/components/ShowVersion.tsx`
+- **catch** - Appears in `desktop/src/components/ShowVersion.tsx`
+- **classname** - Appears in `desktop/src/components/ShowVersion.tsx`
+- **console** - Appears in `desktop/src/components/ShowVersion.tsx`
+- **const** - Appears in `desktop/src/components/ShowVersion.tsx`
+- **default** - Appears in `desktop/src/components/ShowVersion.tsx`
+- **div** - Appears in `desktop/src/components/ShowVersion.tsx`
+- **error** - Appears in `desktop/src/components/ShowVersion.tsx`
+- **export** - Appears in `desktop/src/components/ShowVersion.tsx`
+- **failed** - Appears in `desktop/src/components/ShowVersion.tsx`
+- **from** - Appears in `desktop/src/components/ShowVersion.tsx`
+- **function** - Appears in `desktop/src/components/ShowVersion.tsx`
+- **get** - Appears in `desktop/src/components/ShowVersion.tsx`
+- **getversion** - Appears in `desktop/src/components/ShowVersion.tsx`
+- **import** - Appears in `desktop/src/components/ShowVersion.tsx`
+- **let** - Appears in `desktop/src/components/ShowVersion.tsx`
+- **null** - Appears in `desktop/src/components/ShowVersion.tsx`
+- **promise** - Appears in `desktop/src/components/ShowVersion.tsx`
+- **react** - Appears in `desktop/src/components/ShowVersion.tsx`
+- **regular** - Appears in `desktop/src/components/ShowVersion.tsx`
+- **return** - Appears in `desktop/src/components/ShowVersion.tsx`
+- **safeGetVersion** - Appears in `desktop/src/components/ShowVersion.tsx`
+- **safegetversion** - Appears in `desktop/src/components/ShowVersion.tsx`
+- **secondary** - Appears in `desktop/src/components/ShowVersion.tsx`
+- **setversion** - Appears in `desktop/src/components/ShowVersion.tsx`
+- **showversion** - Appears in `desktop/src/components/ShowVersion.tsx`
+- **string** - Appears in `desktop/src/components/ShowVersion.tsx`
+- **tauri** - Appears in `desktop/src/components/ShowVersion.tsx`
+- **text** - Appears in `desktop/src/components/ShowVersion.tsx`
+- **theme** - Appears in `desktop/src/components/ShowVersion.tsx`
+- **then** - Appears in `desktop/src/components/ShowVersion.tsx`
+- **try** - Appears in `desktop/src/components/ShowVersion.tsx`
+- **useeffect** - Appears in `desktop/src/components/ShowVersion.tsx`
+- **usestate** - Appears in `desktop/src/components/ShowVersion.tsx`
+- **version** - Appears in `desktop/src/components/ShowVersion.tsx`

@@ -1,0 +1,12 @@
+# Keywords Summary: openbb_platform/providers/ecb/tests
+
+**Path**: `openbb_platform/providers/ecb/tests`
+
+## Merged Keywords from Child Files
+
+Found 2 keyword files in this folder.
+
+### Sample Keywords
+
+- Keywords from: `test_ecb_fetchers.py_kw.md`
+- Keywords from: `__init__.py_kw.md`

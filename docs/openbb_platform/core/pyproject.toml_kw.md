@@ -1,0 +1,54 @@
+# Keywords: openbb_platform/core/pyproject.toml
+
+## Extracted Keywords (50 total)
+
+- **agpl** - Appears in `openbb_platform/core/pyproject.toml`
+- **aiohttp** - Appears in `openbb_platform/core/pyproject.toml`
+- **api** - Appears in `openbb_platform/core/pyproject.toml`
+- **authors** - Appears in `openbb_platform/core/pyproject.toml`
+- **backend** - Appears in `openbb_platform/core/pyproject.toml`
+- **build** - Appears in `openbb_platform/core/pyproject.toml`
+- **code** - Appears in `openbb_platform/core/pyproject.toml`
+- **core** - Appears in `openbb_platform/core/pyproject.toml`
+- **dependencies** - Appears in `openbb_platform/core/pyproject.toml`
+- **description** - Appears in `openbb_platform/core/pyproject.toml`
+- **dotenv** - Appears in `openbb_platform/core/pyproject.toml`
+- **fastapi** - Appears in `openbb_platform/core/pyproject.toml`
+- **functionality** - Appears in `openbb_platform/core/pyproject.toml`
+- **generated** - Appears in `openbb_platform/core/pyproject.toml`
+- **hello** - Appears in `openbb_platform/core/pyproject.toml`
+- **here** - Appears in `openbb_platform/core/pyproject.toml`
+- **html5lib** - Appears in `openbb_platform/core/pyproject.toml`
+- **importlib** - Appears in `openbb_platform/core/pyproject.toml`
+- **include** - Appears in `openbb_platform/core/pyproject.toml`
+- **license** - Appears in `openbb_platform/core/pyproject.toml`
+- **lint** - Appears in `openbb_platform/core/pyproject.toml`
+- **main** - Appears in `openbb_platform/core/pyproject.toml`
+- **masonry** - Appears in `openbb_platform/core/pyproject.toml`
+- **metadata** - Appears in `openbb_platform/core/pyproject.toml`
+- **multipart** - Appears in `openbb_platform/core/pyproject.toml`
+- **name** - Appears in `openbb_platform/core/pyproject.toml`
+- **needed** - Appears in `openbb_platform/core/pyproject.toml`
+- **only** - Appears in `openbb_platform/core/pyproject.toml`
+- **openbb** - Appears in `openbb_platform/core/pyproject.toml`
+- **openbb_core** - Appears in `openbb_platform/core/pyproject.toml`
+- **package** - Appears in `openbb_platform/core/pyproject.toml`
+- **packages** - Appears in `openbb_platform/core/pyproject.toml`
+- **pandas** - Appears in `openbb_platform/core/pyproject.toml`
+- **poetry** - Appears in `openbb_platform/core/pyproject.toml`
+- **pydantic** - Appears in `openbb_platform/core/pyproject.toml`
+- **pyjwt** - Appears in `openbb_platform/core/pyproject.toml`
+- **python** - Appears in `openbb_platform/core/pyproject.toml`
+- **readme** - Appears in `openbb_platform/core/pyproject.toml`
+- **requests** - Appears in `openbb_platform/core/pyproject.toml`
+- **requires** - Appears in `openbb_platform/core/pyproject.toml`
+- **ruff** - Appears in `openbb_platform/core/pyproject.toml`
+- **scripts** - Appears in `openbb_platform/core/pyproject.toml`
+- **system** - Appears in `openbb_platform/core/pyproject.toml`
+- **team** - Appears in `openbb_platform/core/pyproject.toml`
+- **tool** - Appears in `openbb_platform/core/pyproject.toml`
+- **uuid7** - Appears in `openbb_platform/core/pyproject.toml`
+- **uvicorn** - Appears in `openbb_platform/core/pyproject.toml`
+- **version** - Appears in `openbb_platform/core/pyproject.toml`
+- **websockets** - Appears in `openbb_platform/core/pyproject.toml`
+- **with** - Appears in `openbb_platform/core/pyproject.toml`

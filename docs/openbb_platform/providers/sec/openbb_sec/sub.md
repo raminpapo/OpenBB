@@ -1,0 +1,11 @@
+# Keywords Summary: openbb_platform/providers/sec/openbb_sec
+
+**Path**: `openbb_platform/providers/sec/openbb_sec`
+
+## Merged Keywords from Child Files
+
+Found 1 keyword files in this folder.
+
+### Sample Keywords
+
+- Keywords from: `__init__.py_kw.md`

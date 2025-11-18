@@ -1,0 +1,56 @@
+# Keywords: frontend-components/plotly/package.json
+
+## Extracted Keywords (52 total)
+
+- **access** - Appears in `frontend-components/plotly/package.json`
+- **autoprefixer** - Appears in `frontend-components/plotly/package.json`
+- **brace** - Appears in `frontend-components/plotly/package.json`
+- **build** - Appears in `frontend-components/plotly/package.json`
+- **build_tsc** - Appears in `frontend-components/plotly/package.json`
+- **charting** - Appears in `frontend-components/plotly/package.json`
+- **clsx** - Appears in `frontend-components/plotly/package.json`
+- **core** - Appears in `frontend-components/plotly/package.json`
+- **dependencies** - Appears in `frontend-components/plotly/package.json`
+- **deploy** - Appears in `frontend-components/plotly/package.json`
+- **dev** - Appears in `frontend-components/plotly/package.json`
+- **devdependencies** - Appears in `frontend-components/plotly/package.json`
+- **dialog** - Appears in `frontend-components/plotly/package.json`
+- **dist** - Appears in `frontend-components/plotly/package.json`
+- **dom** - Appears in `frontend-components/plotly/package.json`
+- **esbuild** - Appears in `frontend-components/plotly/package.json`
+- **expansion** - Appears in `frontend-components/plotly/package.json`
+- **file** - Appears in `frontend-components/plotly/package.json`
+- **hook** - Appears in `frontend-components/plotly/package.json`
+- **hotkeys** - Appears in `frontend-components/plotly/package.json`
+- **html** - Appears in `frontend-components/plotly/package.json`
+- **image** - Appears in `frontend-components/plotly/package.json`
+- **index** - Appears in `frontend-components/plotly/package.json`
+- **lodash** - Appears in `frontend-components/plotly/package.json`
+- **min** - Appears in `frontend-components/plotly/package.json`
+- **name** - Appears in `frontend-components/plotly/package.json`
+- **node** - Appears in `frontend-components/plotly/package.json`
+- **npm** - Appears in `frontend-components/plotly/package.json`
+- **obbject_extensions** - Appears in `frontend-components/plotly/package.json`
+- **openbb_charting** - Appears in `frontend-components/plotly/package.json`
+- **openbb_platform** - Appears in `frontend-components/plotly/package.json`
+- **plotly** - Appears in `frontend-components/plotly/package.json`
+- **plugin** - Appears in `frontend-components/plotly/package.json`
+- **postcss** - Appears in `frontend-components/plotly/package.json`
+- **preview** - Appears in `frontend-components/plotly/package.json`
+- **private** - Appears in `frontend-components/plotly/package.json`
+- **radix** - Appears in `frontend-components/plotly/package.json`
+- **react** - Appears in `frontend-components/plotly/package.json`
+- **rollup** - Appears in `frontend-components/plotly/package.json`
+- **run** - Appears in `frontend-components/plotly/package.json`
+- **scripts** - Appears in `frontend-components/plotly/package.json`
+- **singlefile** - Appears in `frontend-components/plotly/package.json`
+- **system** - Appears in `frontend-components/plotly/package.json`
+- **tailwindcss** - Appears in `frontend-components/plotly/package.json`
+- **true** - Appears in `frontend-components/plotly/package.json`
+- **tsc** - Appears in `frontend-components/plotly/package.json`
+- **types** - Appears in `frontend-components/plotly/package.json`
+- **typescript** - Appears in `frontend-components/plotly/package.json`
+- **version** - Appears in `frontend-components/plotly/package.json`
+- **vite** - Appears in `frontend-components/plotly/package.json`
+- **vitejs** - Appears in `frontend-components/plotly/package.json`
+- **wicg** - Appears in `frontend-components/plotly/package.json`

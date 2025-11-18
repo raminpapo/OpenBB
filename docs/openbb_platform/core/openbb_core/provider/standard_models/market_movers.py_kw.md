@@ -1,0 +1,53 @@
+# Keywords: openbb_platform/core/openbb_core/provider/standard_models/market_movers.py
+
+## Extracted Keywords (49 total)
+
+- **DATA_DESCRIPTIONS** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/market_movers.py`
+- **Data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/market_movers.py`
+- **Field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/market_movers.py`
+- **MarketMoversData** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/market_movers.py`
+- **MarketMoversQueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/market_movers.py`
+- **QueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/market_movers.py`
+- **abstract** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/market_movers.py`
+- **associated** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/market_movers.py`
+- **change** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/market_movers.py`
+- **change_percent** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/market_movers.py`
+- **class** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/market_movers.py`
+- **data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/market_movers.py`
+- **data_descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/market_movers.py`
+- **default** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/market_movers.py`
+- **description** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/market_movers.py`
+- **descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/market_movers.py`
+- **field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/market_movers.py`
+- **float** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/market_movers.py`
+- **from** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/market_movers.py`
+- **get** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/market_movers.py`
+- **import** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/market_movers.py`
+- **last** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/market_movers.py`
+- **market** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/market_movers.py`
+- **marketmoversdata** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/market_movers.py`
+- **marketmoversqueryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/market_movers.py`
+- **model** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/market_movers.py`
+- **movers** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/market_movers.py`
+- **name** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/market_movers.py`
+- **none** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/market_movers.py`
+- **open** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/market_movers.py`
+- **open.** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/market_movers.py`
+- **openbb_core** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/market_movers.py`
+- **openbb_core.provider.abstract.data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/market_movers.py`
+- **openbb_core.provider.abstract.query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/market_movers.py`
+- **openbb_core.provider.utils.descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/market_movers.py`
+- **percent** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/market_movers.py`
+- **price** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/market_movers.py`
+- **provider** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/market_movers.py`
+- **pydantic** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/market_movers.py`
+- **query** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/market_movers.py`
+- **query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/market_movers.py`
+- **queryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/market_movers.py`
+- **standard** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/market_movers.py`
+- **str** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/market_movers.py`
+- **symbol** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/market_movers.py`
+- **the** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/market_movers.py`
+- **ticker** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/market_movers.py`
+- **utils** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/market_movers.py`
+- **with** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/market_movers.py`

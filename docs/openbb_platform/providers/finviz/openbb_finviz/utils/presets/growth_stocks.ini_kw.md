@@ -1,0 +1,47 @@
+# Keywords: openbb_platform/providers/finviz/openbb_finviz/utils/presets/growth_stocks.ini
+
+## Extracted Keywords (43 total)
+
+- **above** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/growth_stocks.ini`
+- **author** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/growth_stocks.ini`
+- **average** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/growth_stocks.ini`
+- **cap** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/growth_stocks.ini`
+- **country** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/growth_stocks.ini`
+- **day** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/growth_stocks.ini`
+- **debt** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/growth_stocks.ini`
+- **description** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/growth_stocks.ini`
+- **descriptive** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/growth_stocks.ini`
+- **earnings** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/growth_stocks.ini`
+- **eps** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/growth_stocks.ini`
+- **equity** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/growth_stocks.ini`
+- **fundamental** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/growth_stocks.ini`
+- **gainers** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/growth_stocks.ini`
+- **general** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/growth_stocks.ini`
+- **growth** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/growth_stocks.ini`
+- **growthnext** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/growth_stocks.ini`
+- **growthpast** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/growth_stocks.ini`
+- **growthqtr** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/growth_stocks.ini`
+- **growththis** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/growth_stocks.ini`
+- **johnnydankseed** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/growth_stocks.ini`
+- **market** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/growth_stocks.ini`
+- **micro** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/growth_stocks.ini`
+- **moving** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/growth_stocks.ini`
+- **order** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/growth_stocks.ini`
+- **over** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/growth_stocks.ini`
+- **peg** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/growth_stocks.ini`
+- **preset** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/growth_stocks.ini`
+- **price** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/growth_stocks.ini`
+- **qtr** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/growth_stocks.ini`
+- **signal** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/growth_stocks.ini`
+- **simple** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/growth_stocks.ini`
+- **sma20** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/growth_stocks.ini`
+- **sma200** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/growth_stocks.ini`
+- **sma50** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/growth_stocks.ini`
+- **stocks** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/growth_stocks.ini`
+- **technical** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/growth_stocks.ini`
+- **top** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/growth_stocks.ini`
+- **under** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/growth_stocks.ini`
+- **usa** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/growth_stocks.ini`
+- **volume** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/growth_stocks.ini`
+- **year** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/growth_stocks.ini`
+- **years** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/growth_stocks.ini`

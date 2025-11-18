@@ -1,0 +1,41 @@
+# Keywords: desktop/src/contexts/EnvironmentCreationContext.tsx
+
+## Extracted Keywords (37 total)
+
+- **EnvironmentCreationContext** - Appears in `desktop/src/contexts/EnvironmentCreationContext.tsx`
+- **EnvironmentCreationProvider** - Appears in `desktop/src/contexts/EnvironmentCreationContext.tsx`
+- **boolean** - Appears in `desktop/src/contexts/EnvironmentCreationContext.tsx`
+- **children** - Appears in `desktop/src/contexts/EnvironmentCreationContext.tsx`
+- **const** - Appears in `desktop/src/contexts/EnvironmentCreationContext.tsx`
+- **context** - Appears in `desktop/src/contexts/EnvironmentCreationContext.tsx`
+- **createcontext** - Appears in `desktop/src/contexts/EnvironmentCreationContext.tsx`
+- **environmentcreationcontext** - Appears in `desktop/src/contexts/EnvironmentCreationContext.tsx`
+- **environmentcreationcontexttype** - Appears in `desktop/src/contexts/EnvironmentCreationContext.tsx`
+- **environmentcreationprovider** - Appears in `desktop/src/contexts/EnvironmentCreationContext.tsx`
+- **environmentcreationproviderprops** - Appears in `desktop/src/contexts/EnvironmentCreationContext.tsx`
+- **error** - Appears in `desktop/src/contexts/EnvironmentCreationContext.tsx`
+- **export** - Appears in `desktop/src/contexts/EnvironmentCreationContext.tsx`
+- **false** - Appears in `desktop/src/contexts/EnvironmentCreationContext.tsx`
+- **from** - Appears in `desktop/src/contexts/EnvironmentCreationContext.tsx`
+- **import** - Appears in `desktop/src/contexts/EnvironmentCreationContext.tsx`
+- **interface** - Appears in `desktop/src/contexts/EnvironmentCreationContext.tsx`
+- **iscreating** - Appears in `desktop/src/contexts/EnvironmentCreationContext.tsx`
+- **iscreatingenvironment** - Appears in `desktop/src/contexts/EnvironmentCreationContext.tsx`
+- **must** - Appears in `desktop/src/contexts/EnvironmentCreationContext.tsx`
+- **new** - Appears in `desktop/src/contexts/EnvironmentCreationContext.tsx`
+- **provider** - Appears in `desktop/src/contexts/EnvironmentCreationContext.tsx`
+- **react** - Appears in `desktop/src/contexts/EnvironmentCreationContext.tsx`
+- **reactnode** - Appears in `desktop/src/contexts/EnvironmentCreationContext.tsx`
+- **return** - Appears in `desktop/src/contexts/EnvironmentCreationContext.tsx`
+- **setiscreatingenvironment** - Appears in `desktop/src/contexts/EnvironmentCreationContext.tsx`
+- **throw** - Appears in `desktop/src/contexts/EnvironmentCreationContext.tsx`
+- **type** - Appears in `desktop/src/contexts/EnvironmentCreationContext.tsx`
+- **undefined** - Appears in `desktop/src/contexts/EnvironmentCreationContext.tsx`
+- **useEnvironmentCreation** - Appears in `desktop/src/contexts/EnvironmentCreationContext.tsx`
+- **usecontext** - Appears in `desktop/src/contexts/EnvironmentCreationContext.tsx`
+- **used** - Appears in `desktop/src/contexts/EnvironmentCreationContext.tsx`
+- **useenvironmentcreation** - Appears in `desktop/src/contexts/EnvironmentCreationContext.tsx`
+- **usestate** - Appears in `desktop/src/contexts/EnvironmentCreationContext.tsx`
+- **value** - Appears in `desktop/src/contexts/EnvironmentCreationContext.tsx`
+- **void** - Appears in `desktop/src/contexts/EnvironmentCreationContext.tsx`
+- **within** - Appears in `desktop/src/contexts/EnvironmentCreationContext.tsx`

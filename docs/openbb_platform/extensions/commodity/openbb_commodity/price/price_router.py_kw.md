@@ -1,0 +1,56 @@
+# Keywords: openbb_platform/extensions/commodity/openbb_commodity/price/price_router.py
+
+## Extracted Keywords (52 total)
+
+- **APIEx** - Appears in `openbb_platform/extensions/commodity/openbb_commodity/price/price_router.py`
+- **CommandContext** - Appears in `openbb_platform/extensions/commodity/openbb_commodity/price/price_router.py`
+- **OBBject** - Appears in `openbb_platform/extensions/commodity/openbb_commodity/price/price_router.py`
+- **Query** - Appears in `openbb_platform/extensions/commodity/openbb_commodity/price/price_router.py`
+- **Router** - Appears in `openbb_platform/extensions/commodity/openbb_commodity/price/price_router.py`
+- **apiex** - Appears in `openbb_platform/extensions/commodity/openbb_commodity/price/price_router.py`
+- **app** - Appears in `openbb_platform/extensions/commodity/openbb_commodity/price/price_router.py`
+- **argument** - Appears in `openbb_platform/extensions/commodity/openbb_commodity/price/price_router.py`
+- **async** - Appears in `openbb_platform/extensions/commodity/openbb_commodity/price/price_router.py`
+- **await** - Appears in `openbb_platform/extensions/commodity/openbb_commodity/price/price_router.py`
+- **command** - Appears in `openbb_platform/extensions/commodity/openbb_commodity/price/price_router.py`
+- **command_context** - Appears in `openbb_platform/extensions/commodity/openbb_commodity/price/price_router.py`
+- **commandcontext** - Appears in `openbb_platform/extensions/commodity/openbb_commodity/price/price_router.py`
+- **commodity** - Appears in `openbb_platform/extensions/commodity/openbb_commodity/price/price_router.py`
+- **commodityspotprices** - Appears in `openbb_platform/extensions/commodity/openbb_commodity/price/price_router.py`
+- **def** - Appears in `openbb_platform/extensions/commodity/openbb_commodity/price/price_router.py`
+- **disable** - Appears in `openbb_platform/extensions/commodity/openbb_commodity/price/price_router.py`
+- **example** - Appears in `openbb_platform/extensions/commodity/openbb_commodity/price/price_router.py`
+- **examples** - Appears in `openbb_platform/extensions/commodity/openbb_commodity/price/price_router.py`
+- **extra_params** - Appears in `openbb_platform/extensions/commodity/openbb_commodity/price/price_router.py`
+- **extraparams** - Appears in `openbb_platform/extensions/commodity/openbb_commodity/price/price_router.py`
+- **fred** - Appears in `openbb_platform/extensions/commodity/openbb_commodity/price/price_router.py`
+- **from** - Appears in `openbb_platform/extensions/commodity/openbb_commodity/price/price_router.py`
+- **from_query** - Appears in `openbb_platform/extensions/commodity/openbb_commodity/price/price_router.py`
+- **import** - Appears in `openbb_platform/extensions/commodity/openbb_commodity/price/price_router.py`
+- **locals** - Appears in `openbb_platform/extensions/commodity/openbb_commodity/price/price_router.py`
+- **model** - Appears in `openbb_platform/extensions/commodity/openbb_commodity/price/price_router.py`
+- **obbject** - Appears in `openbb_platform/extensions/commodity/openbb_commodity/price/price_router.py`
+- **openbb_core** - Appears in `openbb_platform/extensions/commodity/openbb_commodity/price/price_router.py`
+- **openbb_core.app.model.command_context** - Appears in `openbb_platform/extensions/commodity/openbb_commodity/price/price_router.py`
+- **openbb_core.app.model.example** - Appears in `openbb_platform/extensions/commodity/openbb_commodity/price/price_router.py`
+- **openbb_core.app.model.obbject** - Appears in `openbb_platform/extensions/commodity/openbb_commodity/price/price_router.py`
+- **openbb_core.app.provider_interface** - Appears in `openbb_platform/extensions/commodity/openbb_commodity/price/price_router.py`
+- **openbb_core.app.query** - Appears in `openbb_platform/extensions/commodity/openbb_commodity/price/price_router.py`
+- **openbb_core.app.router** - Appears in `openbb_platform/extensions/commodity/openbb_commodity/price/price_router.py`
+- **parameters** - Appears in `openbb_platform/extensions/commodity/openbb_commodity/price/price_router.py`
+- **prefix** - Appears in `openbb_platform/extensions/commodity/openbb_commodity/price/price_router.py`
+- **price** - Appears in `openbb_platform/extensions/commodity/openbb_commodity/price/price_router.py`
+- **prices** - Appears in `openbb_platform/extensions/commodity/openbb_commodity/price/price_router.py`
+- **provider** - Appears in `openbb_platform/extensions/commodity/openbb_commodity/price/price_router.py`
+- **provider_choices** - Appears in `openbb_platform/extensions/commodity/openbb_commodity/price/price_router.py`
+- **provider_interface** - Appears in `openbb_platform/extensions/commodity/openbb_commodity/price/price_router.py`
+- **providerchoices** - Appears in `openbb_platform/extensions/commodity/openbb_commodity/price/price_router.py`
+- **pylint** - Appears in `openbb_platform/extensions/commodity/openbb_commodity/price/price_router.py`
+- **query** - Appears in `openbb_platform/extensions/commodity/openbb_commodity/price/price_router.py`
+- **return** - Appears in `openbb_platform/extensions/commodity/openbb_commodity/price/price_router.py`
+- **router** - Appears in `openbb_platform/extensions/commodity/openbb_commodity/price/price_router.py`
+- **spot** - Appears in `openbb_platform/extensions/commodity/openbb_commodity/price/price_router.py`
+- **standard_params** - Appears in `openbb_platform/extensions/commodity/openbb_commodity/price/price_router.py`
+- **standardparams** - Appears in `openbb_platform/extensions/commodity/openbb_commodity/price/price_router.py`
+- **unused** - Appears in `openbb_platform/extensions/commodity/openbb_commodity/price/price_router.py`
+- **wti** - Appears in `openbb_platform/extensions/commodity/openbb_commodity/price/price_router.py`

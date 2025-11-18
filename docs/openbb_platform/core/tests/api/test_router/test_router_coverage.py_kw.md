@@ -1,0 +1,45 @@
+# Keywords: openbb_platform/core/tests/api/test_router/test_router_coverage.py
+
+## Extracted Keywords (41 total)
+
+- **api** - Appears in `openbb_platform/core/tests/api/test_router/test_router_coverage.py`
+- **assert** - Appears in `openbb_platform/core/tests/api/test_router/test_router_coverage.py`
+- **command** - Appears in `openbb_platform/core/tests/api/test_router/test_router_coverage.py`
+- **command1** - Appears in `openbb_platform/core/tests/api/test_router/test_router_coverage.py`
+- **command_coverage** - Appears in `openbb_platform/core/tests/api/test_router/test_router_coverage.py`
+- **commandmap** - Appears in `openbb_platform/core/tests/api/test_router/test_router_coverage.py`
+- **commands_model** - Appears in `openbb_platform/core/tests/api/test_router/test_router_coverage.py`
+- **coverage** - Appears in `openbb_platform/core/tests/api/test_router/test_router_coverage.py`
+- **coverage1** - Appears in `openbb_platform/core/tests/api/test_router/test_router_coverage.py`
+- **coverage2** - Appears in `openbb_platform/core/tests/api/test_router/test_router_coverage.py`
+- **def** - Appears in `openbb_platform/core/tests/api/test_router/test_router_coverage.py`
+- **for** - Appears in `openbb_platform/core/tests/api/test_router/test_router_coverage.py`
+- **from** - Appears in `openbb_platform/core/tests/api/test_router/test_router_coverage.py`
+- **get** - Appears in `openbb_platform/core/tests/api/test_router/test_router_coverage.py`
+- **get_command_coverage** - Appears in `openbb_platform/core/tests/api/test_router/test_router_coverage.py`
+- **get_provider_coverage** - Appears in `openbb_platform/core/tests/api/test_router/test_router_coverage.py`
+- **import** - Appears in `openbb_platform/core/tests/api/test_router/test_router_coverage.py`
+- **map** - Appears in `openbb_platform/core/tests/api/test_router/test_router_coverage.py`
+- **mock** - Appears in `openbb_platform/core/tests/api/test_router/test_router_coverage.py`
+- **mock_command_map** - Appears in `openbb_platform/core/tests/api/test_router/test_router_coverage.py`
+- **mock_provider_interface** - Appears in `openbb_platform/core/tests/api/test_router/test_router_coverage.py`
+- **model** - Appears in `openbb_platform/core/tests/api/test_router/test_router_coverage.py`
+- **model1** - Appears in `openbb_platform/core/tests/api/test_router/test_router_coverage.py`
+- **module** - Appears in `openbb_platform/core/tests/api/test_router/test_router_coverage.py`
+- **openbb_core** - Appears in `openbb_platform/core/tests/api/test_router/test_router_coverage.py`
+- **openbb_core.api.router.coverage** - Appears in `openbb_platform/core/tests/api/test_router/test_router_coverage.py`
+- **patch** - Appears in `openbb_platform/core/tests/api/test_router/test_router_coverage.py`
+- **provider** - Appears in `openbb_platform/core/tests/api/test_router/test_router_coverage.py`
+- **provider1** - Appears in `openbb_platform/core/tests/api/test_router/test_router_coverage.py`
+- **provider_coverage** - Appears in `openbb_platform/core/tests/api/test_router/test_router_coverage.py`
+- **providerinterface** - Appears in `openbb_platform/core/tests/api/test_router/test_router_coverage.py`
+- **response** - Appears in `openbb_platform/core/tests/api/test_router/test_router_coverage.py`
+- **return_value** - Appears in `openbb_platform/core/tests/api/test_router/test_router_coverage.py`
+- **router** - Appears in `openbb_platform/core/tests/api/test_router/test_router_coverage.py`
+- **test** - Appears in `openbb_platform/core/tests/api/test_router/test_router_coverage.py`
+- **test_get_command_coverage** - Appears in `openbb_platform/core/tests/api/test_router/test_router_coverage.py`
+- **test_get_command_model** - Appears in `openbb_platform/core/tests/api/test_router/test_router_coverage.py`
+- **test_get_provider_coverage** - Appears in `openbb_platform/core/tests/api/test_router/test_router_coverage.py`
+- **the** - Appears in `openbb_platform/core/tests/api/test_router/test_router_coverage.py`
+- **unittest** - Appears in `openbb_platform/core/tests/api/test_router/test_router_coverage.py`
+- **unittest.mock** - Appears in `openbb_platform/core/tests/api/test_router/test_router_coverage.py`

@@ -1,0 +1,53 @@
+# Keywords: openbb_platform/core/openbb_core/provider/standard_models/trailing_dividend_yield.py
+
+## Extracted Keywords (49 total)
+
+- **Data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/trailing_dividend_yield.py`
+- **Field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/trailing_dividend_yield.py`
+- **QueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/trailing_dividend_yield.py`
+- **TrailingDivYieldData** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/trailing_dividend_yield.py`
+- **TrailingDivYieldQueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/trailing_dividend_yield.py`
+- **abstract** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/trailing_dividend_yield.py`
+- **class** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/trailing_dividend_yield.py`
+- **data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/trailing_dividend_yield.py`
+- **data_descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/trailing_dividend_yield.py`
+- **date** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/trailing_dividend_yield.py`
+- **datetime** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/trailing_dividend_yield.py`
+- **datetype** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/trailing_dividend_yield.py`
+- **days** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/trailing_dividend_yield.py`
+- **default** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/trailing_dividend_yield.py`
+- **description** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/trailing_dividend_yield.py`
+- **descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/trailing_dividend_yield.py`
+- **dividend** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/trailing_dividend_yield.py`
+- **field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/trailing_dividend_yield.py`
+- **float** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/trailing_dividend_yield.py`
+- **from** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/trailing_dividend_yield.py`
+- **get** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/trailing_dividend_yield.py`
+- **import** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/trailing_dividend_yield.py`
+- **int** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/trailing_dividend_yield.py`
+- **limit** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/trailing_dividend_yield.py`
+- **model** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/trailing_dividend_yield.py`
+- **none** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/trailing_dividend_yield.py`
+- **number** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/trailing_dividend_yield.py`
+- **openbb_core** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/trailing_dividend_yield.py`
+- **openbb_core.provider.abstract.data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/trailing_dividend_yield.py`
+- **openbb_core.provider.abstract.query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/trailing_dividend_yield.py`
+- **openbb_core.provider.utils.descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/trailing_dividend_yield.py`
+- **provider** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/trailing_dividend_yield.py`
+- **pydantic** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/trailing_dividend_yield.py`
+- **query** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/trailing_dividend_yield.py`
+- **query_descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/trailing_dividend_yield.py`
+- **query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/trailing_dividend_yield.py`
+- **queryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/trailing_dividend_yield.py`
+- **standard** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/trailing_dividend_yield.py`
+- **str** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/trailing_dividend_yield.py`
+- **symbol** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/trailing_dividend_yield.py`
+- **the** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/trailing_dividend_yield.py`
+- **trading** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/trailing_dividend_yield.py`
+- **trailing** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/trailing_dividend_yield.py`
+- **trailing_dividend_yield** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/trailing_dividend_yield.py`
+- **trailingdivyielddata** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/trailing_dividend_yield.py`
+- **trailingdivyieldqueryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/trailing_dividend_yield.py`
+- **utils** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/trailing_dividend_yield.py`
+- **year** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/trailing_dividend_yield.py`
+- **yield** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/trailing_dividend_yield.py`

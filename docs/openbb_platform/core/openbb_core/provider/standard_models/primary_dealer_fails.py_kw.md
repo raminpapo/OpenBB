@@ -1,0 +1,47 @@
+# Keywords: openbb_platform/core/openbb_core/provider/standard_models/primary_dealer_fails.py
+
+## Extracted Keywords (43 total)
+
+- **Data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/primary_dealer_fails.py`
+- **Field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/primary_dealer_fails.py`
+- **PrimaryDealerFailsData** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/primary_dealer_fails.py`
+- **PrimaryDealerFailsQueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/primary_dealer_fails.py`
+- **QueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/primary_dealer_fails.py`
+- **abstract** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/primary_dealer_fails.py`
+- **class** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/primary_dealer_fails.py`
+- **data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/primary_dealer_fails.py`
+- **data_descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/primary_dealer_fails.py`
+- **date** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/primary_dealer_fails.py`
+- **datetime** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/primary_dealer_fails.py`
+- **datetype** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/primary_dealer_fails.py`
+- **dealer** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/primary_dealer_fails.py`
+- **default** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/primary_dealer_fails.py`
+- **description** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/primary_dealer_fails.py`
+- **descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/primary_dealer_fails.py`
+- **end_date** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/primary_dealer_fails.py`
+- **fails** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/primary_dealer_fails.py`
+- **field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/primary_dealer_fails.py`
+- **from** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/primary_dealer_fails.py`
+- **get** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/primary_dealer_fails.py`
+- **import** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/primary_dealer_fails.py`
+- **model** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/primary_dealer_fails.py`
+- **none** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/primary_dealer_fails.py`
+- **openbb_core** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/primary_dealer_fails.py`
+- **openbb_core.provider.abstract.data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/primary_dealer_fails.py`
+- **openbb_core.provider.abstract.query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/primary_dealer_fails.py`
+- **openbb_core.provider.utils.descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/primary_dealer_fails.py`
+- **primary** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/primary_dealer_fails.py`
+- **primarydealerfailsdata** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/primary_dealer_fails.py`
+- **primarydealerfailsqueryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/primary_dealer_fails.py`
+- **primray** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/primary_dealer_fails.py`
+- **provider** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/primary_dealer_fails.py`
+- **pydantic** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/primary_dealer_fails.py`
+- **query** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/primary_dealer_fails.py`
+- **query_descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/primary_dealer_fails.py`
+- **query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/primary_dealer_fails.py`
+- **queryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/primary_dealer_fails.py`
+- **standard** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/primary_dealer_fails.py`
+- **start_date** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/primary_dealer_fails.py`
+- **str** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/primary_dealer_fails.py`
+- **symbol** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/primary_dealer_fails.py`
+- **utils** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/primary_dealer_fails.py`

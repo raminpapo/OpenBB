@@ -1,0 +1,47 @@
+# Keywords: openbb_platform/core/openbb_core/provider/standard_models/industry_pe.py
+
+## Extracted Keywords (43 total)
+
+- **DATA_DESCRIPTIONS** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/industry_pe.py`
+- **Data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/industry_pe.py`
+- **Field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/industry_pe.py`
+- **IndustryPEData** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/industry_pe.py`
+- **IndustryPEQueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/industry_pe.py`
+- **QueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/industry_pe.py`
+- **abstract** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/industry_pe.py`
+- **class** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/industry_pe.py`
+- **data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/industry_pe.py`
+- **data_descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/industry_pe.py`
+- **date** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/industry_pe.py`
+- **datetime** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/industry_pe.py`
+- **datetype** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/industry_pe.py`
+- **default** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/industry_pe.py`
+- **description** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/industry_pe.py`
+- **descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/industry_pe.py`
+- **exchange** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/industry_pe.py`
+- **field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/industry_pe.py`
+- **float** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/industry_pe.py`
+- **from** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/industry_pe.py`
+- **get** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/industry_pe.py`
+- **import** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/industry_pe.py`
+- **industry** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/industry_pe.py`
+- **industrypedata** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/industry_pe.py`
+- **industrypequeryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/industry_pe.py`
+- **model** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/industry_pe.py`
+- **name** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/industry_pe.py`
+- **none** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/industry_pe.py`
+- **openbb_core** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/industry_pe.py`
+- **openbb_core.provider.abstract.data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/industry_pe.py`
+- **openbb_core.provider.abstract.query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/industry_pe.py`
+- **openbb_core.provider.utils.descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/industry_pe.py`
+- **provider** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/industry_pe.py`
+- **pydantic** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/industry_pe.py`
+- **query** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/industry_pe.py`
+- **query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/industry_pe.py`
+- **queryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/industry_pe.py`
+- **ratio** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/industry_pe.py`
+- **standard** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/industry_pe.py`
+- **str** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/industry_pe.py`
+- **the** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/industry_pe.py`
+- **utils** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/industry_pe.py`
+- **where** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/industry_pe.py`

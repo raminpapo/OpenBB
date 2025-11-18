@@ -1,0 +1,49 @@
+# Keywords: openbb_platform/extensions/platform_api/pyproject.toml
+
+## Extracted Keywords (45 total)
+
+- **agpl** - Appears in `openbb_platform/extensions/platform_api/pyproject.toml`
+- **and** - Appears in `openbb_platform/extensions/platform_api/pyproject.toml`
+- **api** - Appears in `openbb_platform/extensions/platform_api/pyproject.toml`
+- **authors** - Appears in `openbb_platform/extensions/platform_api/pyproject.toml`
+- **backend** - Appears in `openbb_platform/extensions/platform_api/pyproject.toml`
+- **build** - Appears in `openbb_platform/extensions/platform_api/pyproject.toml`
+- **builder** - Appears in `openbb_platform/extensions/platform_api/pyproject.toml`
+- **com** - Appears in `openbb_platform/extensions/platform_api/pyproject.toml`
+- **connector** - Appears in `openbb_platform/extensions/platform_api/pyproject.toml`
+- **core** - Appears in `openbb_platform/extensions/platform_api/pyproject.toml`
+- **deepdiff** - Appears in `openbb_platform/extensions/platform_api/pyproject.toml`
+- **dependencies** - Appears in `openbb_platform/extensions/platform_api/pyproject.toml`
+- **description** - Appears in `openbb_platform/extensions/platform_api/pyproject.toml`
+- **docs** - Appears in `openbb_platform/extensions/platform_api/pyproject.toml`
+- **documentation** - Appears in `openbb_platform/extensions/platform_api/pyproject.toml`
+- **finance** - Appears in `openbb_platform/extensions/platform_api/pyproject.toml`
+- **for** - Appears in `openbb_platform/extensions/platform_api/pyproject.toml`
+- **github** - Appears in `openbb_platform/extensions/platform_api/pyproject.toml`
+- **hello** - Appears in `openbb_platform/extensions/platform_api/pyproject.toml`
+- **homepage** - Appears in `openbb_platform/extensions/platform_api/pyproject.toml`
+- **https** - Appears in `openbb_platform/extensions/platform_api/pyproject.toml`
+- **include** - Appears in `openbb_platform/extensions/platform_api/pyproject.toml`
+- **launch** - Appears in `openbb_platform/extensions/platform_api/pyproject.toml`
+- **license** - Appears in `openbb_platform/extensions/platform_api/pyproject.toml`
+- **main** - Appears in `openbb_platform/extensions/platform_api/pyproject.toml`
+- **masonry** - Appears in `openbb_platform/extensions/platform_api/pyproject.toml`
+- **name** - Appears in `openbb_platform/extensions/platform_api/pyproject.toml`
+- **only** - Appears in `openbb_platform/extensions/platform_api/pyproject.toml`
+- **openbb** - Appears in `openbb_platform/extensions/platform_api/pyproject.toml`
+- **openbb_platform_api** - Appears in `openbb_platform/extensions/platform_api/pyproject.toml`
+- **packages** - Appears in `openbb_platform/extensions/platform_api/pyproject.toml`
+- **platform** - Appears in `openbb_platform/extensions/platform_api/pyproject.toml`
+- **poetry** - Appears in `openbb_platform/extensions/platform_api/pyproject.toml`
+- **python** - Appears in `openbb_platform/extensions/platform_api/pyproject.toml`
+- **readme** - Appears in `openbb_platform/extensions/platform_api/pyproject.toml`
+- **repository** - Appears in `openbb_platform/extensions/platform_api/pyproject.toml`
+- **requires** - Appears in `openbb_platform/extensions/platform_api/pyproject.toml`
+- **script** - Appears in `openbb_platform/extensions/platform_api/pyproject.toml`
+- **scripts** - Appears in `openbb_platform/extensions/platform_api/pyproject.toml`
+- **system** - Appears in `openbb_platform/extensions/platform_api/pyproject.toml`
+- **the** - Appears in `openbb_platform/extensions/platform_api/pyproject.toml`
+- **tool** - Appears in `openbb_platform/extensions/platform_api/pyproject.toml`
+- **version** - Appears in `openbb_platform/extensions/platform_api/pyproject.toml`
+- **widgets** - Appears in `openbb_platform/extensions/platform_api/pyproject.toml`
+- **workspace** - Appears in `openbb_platform/extensions/platform_api/pyproject.toml`

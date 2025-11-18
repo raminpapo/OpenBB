@@ -1,0 +1,44 @@
+# Keywords: desktop/src/main.tsx
+
+## Extracted Keywords (40 total)
+
+- **app** - Appears in `desktop/src/main.tsx`
+- **client** - Appears in `desktop/src/main.tsx`
+- **const** - Appears in `desktop/src/main.tsx`
+- **create** - Appears in `desktop/src/main.tsx`
+- **createroot** - Appears in `desktop/src/main.tsx`
+- **createrouter** - Appears in `desktop/src/main.tsx`
+- **css** - Appears in `desktop/src/main.tsx`
+- **declare** - Appears in `desktop/src/main.tsx`
+- **document** - Appears in `desktop/src/main.tsx`
+- **dom** - Appears in `desktop/src/main.tsx`
+- **for** - Appears in `desktop/src/main.tsx`
+- **from** - Appears in `desktop/src/main.tsx`
+- **gen** - Appears in `desktop/src/main.tsx`
+- **generated** - Appears in `desktop/src/main.tsx`
+- **getelementbyid** - Appears in `desktop/src/main.tsx`
+- **import** - Appears in `desktop/src/main.tsx`
+- **innerhtml** - Appears in `desktop/src/main.tsx`
+- **instance** - Appears in `desktop/src/main.tsx`
+- **interface** - Appears in `desktop/src/main.tsx`
+- **module** - Appears in `desktop/src/main.tsx`
+- **new** - Appears in `desktop/src/main.tsx`
+- **react** - Appears in `desktop/src/main.tsx`
+- **reactdom** - Appears in `desktop/src/main.tsx`
+- **register** - Appears in `desktop/src/main.tsx`
+- **render** - Appears in `desktop/src/main.tsx`
+- **root** - Appears in `desktop/src/main.tsx`
+- **rootElement** - Appears in `desktop/src/main.tsx`
+- **rootelement** - Appears in `desktop/src/main.tsx`
+- **route** - Appears in `desktop/src/main.tsx`
+- **router** - Appears in `desktop/src/main.tsx`
+- **routerprovider** - Appears in `desktop/src/main.tsx`
+- **routetree** - Appears in `desktop/src/main.tsx`
+- **safety** - Appears in `desktop/src/main.tsx`
+- **strictmode** - Appears in `desktop/src/main.tsx`
+- **styles** - Appears in `desktop/src/main.tsx`
+- **tanstack** - Appears in `desktop/src/main.tsx`
+- **the** - Appears in `desktop/src/main.tsx`
+- **tree** - Appears in `desktop/src/main.tsx`
+- **type** - Appears in `desktop/src/main.tsx`
+- **typeof** - Appears in `desktop/src/main.tsx`

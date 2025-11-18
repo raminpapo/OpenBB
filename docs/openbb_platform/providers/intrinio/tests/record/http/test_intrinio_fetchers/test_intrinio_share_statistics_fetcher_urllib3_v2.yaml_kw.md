@@ -1,0 +1,54 @@
+# Keywords: openbb_platform/providers/intrinio/tests/record/http/test_intrinio_fetchers/test_intrinio_share_statistics_fetcher_urllib3_v2.yaml
+
+## Extracted Keywords (50 total)
+
+- **aapl** - Appears in `openbb_platform/providers/intrinio/tests/record/http/test_intrinio_fetchers/test_intrinio_share_statistics_fetcher_urllib3_v2.yaml`
+- **accept** - Appears in `openbb_platform/providers/intrinio/tests/record/http/test_intrinio_fetchers/test_intrinio_share_statistics_fetcher_urllib3_v2.yaml`
+- **adjweightedavebasicdilutedsharesos** - Appears in `openbb_platform/providers/intrinio/tests/record/http/test_intrinio_fetchers/test_intrinio_share_statistics_fetcher_urllib3_v2.yaml`
+- **alive** - Appears in `openbb_platform/providers/intrinio/tests/record/http/test_intrinio_fetchers/test_intrinio_share_statistics_fetcher_urllib3_v2.yaml`
+- **api** - Appears in `openbb_platform/providers/intrinio/tests/record/http/test_intrinio_fetchers/test_intrinio_share_statistics_fetcher_urllib3_v2.yaml`
+- **api_key** - Appears in `openbb_platform/providers/intrinio/tests/record/http/test_intrinio_fetchers/test_intrinio_share_statistics_fetcher_urllib3_v2.yaml`
+- **application** - Appears in `openbb_platform/providers/intrinio/tests/record/http/test_intrinio_fetchers/test_intrinio_share_statistics_fetcher_urllib3_v2.yaml`
+- **binary** - Appears in `openbb_platform/providers/intrinio/tests/record/http/test_intrinio_fetchers/test_intrinio_share_statistics_fetcher_urllib3_v2.yaml`
+- **body** - Appears in `openbb_platform/providers/intrinio/tests/record/http/test_intrinio_fetchers/test_intrinio_share_statistics_fetcher_urllib3_v2.yaml`
+- **chunked** - Appears in `openbb_platform/providers/intrinio/tests/record/http/test_intrinio_fetchers/test_intrinio_share_statistics_fetcher_urllib3_v2.yaml`
+- **code** - Appears in `openbb_platform/providers/intrinio/tests/record/http/test_intrinio_fetchers/test_intrinio_share_statistics_fetcher_urllib3_v2.yaml`
+- **com** - Appears in `openbb_platform/providers/intrinio/tests/record/http/test_intrinio_fetchers/test_intrinio_share_statistics_fetcher_urllib3_v2.yaml`
+- **companies** - Appears in `openbb_platform/providers/intrinio/tests/record/http/test_intrinio_fetchers/test_intrinio_share_statistics_fetcher_urllib3_v2.yaml`
+- **connection** - Appears in `openbb_platform/providers/intrinio/tests/record/http/test_intrinio_fetchers/test_intrinio_share_statistics_fetcher_urllib3_v2.yaml`
+- **content** - Appears in `openbb_platform/providers/intrinio/tests/record/http/test_intrinio_fetchers/test_intrinio_share_statistics_fetcher_urllib3_v2.yaml`
+- **data_point** - Appears in `openbb_platform/providers/intrinio/tests/record/http/test_intrinio_fetchers/test_intrinio_share_statistics_fetcher_urllib3_v2.yaml`
+- **date** - Appears in `openbb_platform/providers/intrinio/tests/record/http/test_intrinio_fetchers/test_intrinio_share_statistics_fetcher_urllib3_v2.yaml`
+- **deflate** - Appears in `openbb_platform/providers/intrinio/tests/record/http/test_intrinio_fetchers/test_intrinio_share_statistics_fetcher_urllib3_v2.yaml`
+- **encoding** - Appears in `openbb_platform/providers/intrinio/tests/record/http/test_intrinio_fetchers/test_intrinio_share_statistics_fetcher_urllib3_v2.yaml`
+- **get** - Appears in `openbb_platform/providers/intrinio/tests/record/http/test_intrinio_fetchers/test_intrinio_share_statistics_fetcher_urllib3_v2.yaml`
+- **gmt** - Appears in `openbb_platform/providers/intrinio/tests/record/http/test_intrinio_fetchers/test_intrinio_share_statistics_fetcher_urllib3_v2.yaml`
+- **gzip** - Appears in `openbb_platform/providers/intrinio/tests/record/http/test_intrinio_fetchers/test_intrinio_share_statistics_fetcher_urllib3_v2.yaml`
+- **h4siaha7fwyaazi0nty2mbawmjaw0dmaaaaa** - Appears in `openbb_platform/providers/intrinio/tests/record/http/test_intrinio_fetchers/test_intrinio_share_statistics_fetcher_urllib3_v2.yaml`
+- **h4siaha7fwyaaziyttq0ndm1aam9awaaaad** - Appears in `openbb_platform/providers/intrinio/tests/record/http/test_intrinio_fetchers/test_intrinio_share_statistics_fetcher_urllib3_v2.yaml`
+- **headers** - Appears in `openbb_platform/providers/intrinio/tests/record/http/test_intrinio_fetchers/test_intrinio_share_statistics_fetcher_urllib3_v2.yaml`
+- **https** - Appears in `openbb_platform/providers/intrinio/tests/record/http/test_intrinio_fetchers/test_intrinio_share_statistics_fetcher_urllib3_v2.yaml`
+- **interactions** - Appears in `openbb_platform/providers/intrinio/tests/record/http/test_intrinio_fetchers/test_intrinio_share_statistics_fetcher_urllib3_v2.yaml`
+- **intrinio** - Appears in `openbb_platform/providers/intrinio/tests/record/http/test_intrinio_fetchers/test_intrinio_share_statistics_fetcher_urllib3_v2.yaml`
+- **json** - Appears in `openbb_platform/providers/intrinio/tests/record/http/test_intrinio_fetchers/test_intrinio_share_statistics_fetcher_urllib3_v2.yaml`
+- **jun** - Appears in `openbb_platform/providers/intrinio/tests/record/http/test_intrinio_fetchers/test_intrinio_share_statistics_fetcher_urllib3_v2.yaml`
+- **keep** - Appears in `openbb_platform/providers/intrinio/tests/record/http/test_intrinio_fetchers/test_intrinio_share_statistics_fetcher_urllib3_v2.yaml`
+- **message** - Appears in `openbb_platform/providers/intrinio/tests/record/http/test_intrinio_fetchers/test_intrinio_share_statistics_fetcher_urllib3_v2.yaml`
+- **method** - Appears in `openbb_platform/providers/intrinio/tests/record/http/test_intrinio_fetchers/test_intrinio_share_statistics_fetcher_urllib3_v2.yaml`
+- **mock_api_key** - Appears in `openbb_platform/providers/intrinio/tests/record/http/test_intrinio_fetchers/test_intrinio_share_statistics_fetcher_urllib3_v2.yaml`
+- **null** - Appears in `openbb_platform/providers/intrinio/tests/record/http/test_intrinio_fetchers/test_intrinio_share_statistics_fetcher_urllib3_v2.yaml`
+- **number** - Appears in `openbb_platform/providers/intrinio/tests/record/http/test_intrinio_fetchers/test_intrinio_share_statistics_fetcher_urllib3_v2.yaml`
+- **origin** - Appears in `openbb_platform/providers/intrinio/tests/record/http/test_intrinio_fetchers/test_intrinio_share_statistics_fetcher_urllib3_v2.yaml`
+- **public_float** - Appears in `openbb_platform/providers/intrinio/tests/record/http/test_intrinio_fetchers/test_intrinio_share_statistics_fetcher_urllib3_v2.yaml`
+- **request** - Appears in `openbb_platform/providers/intrinio/tests/record/http/test_intrinio_fetchers/test_intrinio_share_statistics_fetcher_urllib3_v2.yaml`
+- **response** - Appears in `openbb_platform/providers/intrinio/tests/record/http/test_intrinio_fetchers/test_intrinio_share_statistics_fetcher_urllib3_v2.yaml`
+- **status** - Appears in `openbb_platform/providers/intrinio/tests/record/http/test_intrinio_fetchers/test_intrinio_share_statistics_fetcher_urllib3_v2.yaml`
+- **string** - Appears in `openbb_platform/providers/intrinio/tests/record/http/test_intrinio_fetchers/test_intrinio_share_statistics_fetcher_urllib3_v2.yaml`
+- **thu** - Appears in `openbb_platform/providers/intrinio/tests/record/http/test_intrinio_fetchers/test_intrinio_share_statistics_fetcher_urllib3_v2.yaml`
+- **transfer** - Appears in `openbb_platform/providers/intrinio/tests/record/http/test_intrinio_fetchers/test_intrinio_share_statistics_fetcher_urllib3_v2.yaml`
+- **type** - Appears in `openbb_platform/providers/intrinio/tests/record/http/test_intrinio_fetchers/test_intrinio_share_statistics_fetcher_urllib3_v2.yaml`
+- **uri** - Appears in `openbb_platform/providers/intrinio/tests/record/http/test_intrinio_fetchers/test_intrinio_share_statistics_fetcher_urllib3_v2.yaml`
+- **vary** - Appears in `openbb_platform/providers/intrinio/tests/record/http/test_intrinio_fetchers/test_intrinio_share_statistics_fetcher_urllib3_v2.yaml`
+- **version** - Appears in `openbb_platform/providers/intrinio/tests/record/http/test_intrinio_fetchers/test_intrinio_share_statistics_fetcher_urllib3_v2.yaml`
+- **weightedavebasicdilutedsharesos** - Appears in `openbb_platform/providers/intrinio/tests/record/http/test_intrinio_fetchers/test_intrinio_share_statistics_fetcher_urllib3_v2.yaml`
+- **wmawsojcg8aaaa** - Appears in `openbb_platform/providers/intrinio/tests/record/http/test_intrinio_fetchers/test_intrinio_share_statistics_fetcher_urllib3_v2.yaml`

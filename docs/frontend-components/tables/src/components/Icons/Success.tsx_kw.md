@@ -1,0 +1,42 @@
+# Keywords: frontend-components/tables/src/components/Icons/Success.tsx
+
+## Extracted Keywords (38 total)
+
+- **SuccessIcon** - Appears in `frontend-components/tables/src/components/Icons/Success.tsx`
+- **aria** - Appears in `frontend-components/tables/src/components/Icons/Success.tsx`
+- **const** - Appears in `frontend-components/tables/src/components/Icons/Success.tsx`
+- **currentcolor** - Appears in `frontend-components/tables/src/components/Icons/Success.tsx`
+- **default** - Appears in `frontend-components/tables/src/components/Icons/Success.tsx`
+- **export** - Appears in `frontend-components/tables/src/components/Icons/Success.tsx`
+- **fill** - Appears in `frontend-components/tables/src/components/Icons/Success.tsx`
+- **from** - Appears in `frontend-components/tables/src/components/Icons/Success.tsx`
+- **height** - Appears in `frontend-components/tables/src/components/Icons/Success.tsx`
+- **http** - Appears in `frontend-components/tables/src/components/Icons/Success.tsx`
+- **import** - Appears in `frontend-components/tables/src/components/Icons/Success.tsx`
+- **interface** - Appears in `frontend-components/tables/src/components/Icons/Success.tsx`
+- **labelledby** - Appears in `frontend-components/tables/src/components/Icons/Success.tsx`
+- **m16** - Appears in `frontend-components/tables/src/components/Icons/Success.tsx`
+- **none** - Appears in `frontend-components/tables/src/components/Icons/Success.tsx`
+- **null** - Appears in `frontend-components/tables/src/components/Icons/Success.tsx`
+- **org** - Appears in `frontend-components/tables/src/components/Icons/Success.tsx`
+- **path** - Appears in `frontend-components/tables/src/components/Icons/Success.tsx`
+- **props** - Appears in `frontend-components/tables/src/components/Icons/Success.tsx`
+- **react** - Appears in `frontend-components/tables/src/components/Icons/Success.tsx`
+- **round** - Appears in `frontend-components/tables/src/components/Icons/Success.tsx`
+- **string** - Appears in `frontend-components/tables/src/components/Icons/Success.tsx`
+- **stroke** - Appears in `frontend-components/tables/src/components/Icons/Success.tsx`
+- **strokelinecap** - Appears in `frontend-components/tables/src/components/Icons/Success.tsx`
+- **strokelinejoin** - Appears in `frontend-components/tables/src/components/Icons/Success.tsx`
+- **strokewidth** - Appears in `frontend-components/tables/src/components/Icons/Success.tsx`
+- **successicon** - Appears in `frontend-components/tables/src/components/Icons/Success.tsx`
+- **svg** - Appears in `frontend-components/tables/src/components/Icons/Success.tsx`
+- **svgprops** - Appears in `frontend-components/tables/src/components/Icons/Success.tsx`
+- **svgrprops** - Appears in `frontend-components/tables/src/components/Icons/Success.tsx`
+- **svgsvgelement** - Appears in `frontend-components/tables/src/components/Icons/Success.tsx`
+- **title** - Appears in `frontend-components/tables/src/components/Icons/Success.tsx`
+- **titleid** - Appears in `frontend-components/tables/src/components/Icons/Success.tsx`
+- **type** - Appears in `frontend-components/tables/src/components/Icons/Success.tsx`
+- **viewbox** - Appears in `frontend-components/tables/src/components/Icons/Success.tsx`
+- **width** - Appears in `frontend-components/tables/src/components/Icons/Success.tsx`
+- **www** - Appears in `frontend-components/tables/src/components/Icons/Success.tsx`
+- **xmlns** - Appears in `frontend-components/tables/src/components/Icons/Success.tsx`

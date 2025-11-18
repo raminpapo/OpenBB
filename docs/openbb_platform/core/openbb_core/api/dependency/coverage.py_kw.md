@@ -1,0 +1,41 @@
+# Keywords: openbb_platform/core/openbb_core/api/dependency/coverage.py
+
+## Extracted Keywords (37 total)
+
+- **Annotated** - Appears in `openbb_platform/core/openbb_core/api/dependency/coverage.py`
+- **AuthService** - Appears in `openbb_platform/core/openbb_core/api/dependency/coverage.py`
+- **CommandMap** - Appears in `openbb_platform/core/openbb_core/api/dependency/coverage.py`
+- **Depends** - Appears in `openbb_platform/core/openbb_core/api/dependency/coverage.py`
+- **ProviderInterface** - Appears in `openbb_platform/core/openbb_core/api/dependency/coverage.py`
+- **annotated** - Appears in `openbb_platform/core/openbb_core/api/dependency/coverage.py`
+- **app** - Appears in `openbb_platform/core/openbb_core/api/dependency/coverage.py`
+- **async** - Appears in `openbb_platform/core/openbb_core/api/dependency/coverage.py`
+- **auth_hook** - Appears in `openbb_platform/core/openbb_core/api/dependency/coverage.py`
+- **auth_service** - Appears in `openbb_platform/core/openbb_core/api/dependency/coverage.py`
+- **authservice** - Appears in `openbb_platform/core/openbb_core/api/dependency/coverage.py`
+- **command** - Appears in `openbb_platform/core/openbb_core/api/dependency/coverage.py`
+- **commandmap** - Appears in `openbb_platform/core/openbb_core/api/dependency/coverage.py`
+- **coverage** - Appears in `openbb_platform/core/openbb_core/api/dependency/coverage.py`
+- **def** - Appears in `openbb_platform/core/openbb_core/api/dependency/coverage.py`
+- **dependency** - Appears in `openbb_platform/core/openbb_core/api/dependency/coverage.py`
+- **depends** - Appears in `openbb_platform/core/openbb_core/api/dependency/coverage.py`
+- **fastapi** - Appears in `openbb_platform/core/openbb_core/api/dependency/coverage.py`
+- **from** - Appears in `openbb_platform/core/openbb_core/api/dependency/coverage.py`
+- **get** - Appears in `openbb_platform/core/openbb_core/api/dependency/coverage.py`
+- **get_command_map** - Appears in `openbb_platform/core/openbb_core/api/dependency/coverage.py`
+- **get_provider_interface** - Appears in `openbb_platform/core/openbb_core/api/dependency/coverage.py`
+- **import** - Appears in `openbb_platform/core/openbb_core/api/dependency/coverage.py`
+- **interface** - Appears in `openbb_platform/core/openbb_core/api/dependency/coverage.py`
+- **map** - Appears in `openbb_platform/core/openbb_core/api/dependency/coverage.py`
+- **none** - Appears in `openbb_platform/core/openbb_core/api/dependency/coverage.py`
+- **openbb_core** - Appears in `openbb_platform/core/openbb_core/api/dependency/coverage.py`
+- **openbb_core.app.provider_interface** - Appears in `openbb_platform/core/openbb_core/api/dependency/coverage.py`
+- **openbb_core.app.router** - Appears in `openbb_platform/core/openbb_core/api/dependency/coverage.py`
+- **openbb_core.app.service.auth_service** - Appears in `openbb_platform/core/openbb_core/api/dependency/coverage.py`
+- **provider** - Appears in `openbb_platform/core/openbb_core/api/dependency/coverage.py`
+- **provider_interface** - Appears in `openbb_platform/core/openbb_core/api/dependency/coverage.py`
+- **providerinterface** - Appears in `openbb_platform/core/openbb_core/api/dependency/coverage.py`
+- **return** - Appears in `openbb_platform/core/openbb_core/api/dependency/coverage.py`
+- **router** - Appears in `openbb_platform/core/openbb_core/api/dependency/coverage.py`
+- **service** - Appears in `openbb_platform/core/openbb_core/api/dependency/coverage.py`
+- **typing** - Appears in `openbb_platform/core/openbb_core/api/dependency/coverage.py`

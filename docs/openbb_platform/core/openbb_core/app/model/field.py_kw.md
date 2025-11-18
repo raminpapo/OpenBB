@@ -1,0 +1,51 @@
+# Keywords: openbb_platform/core/openbb_core/app/model/field.py
+
+## Extracted Keywords (47 total)
+
+- **Any** - Appears in `openbb_platform/core/openbb_core/app/model/field.py`
+- **FieldInfo** - Appears in `openbb_platform/core/openbb_core/app/model/field.py`
+- **OpenBBField** - Appears in `openbb_platform/core/openbb_core/app/model/field.py`
+- **__init__** - Appears in `openbb_platform/core/openbb_core/app/model/field.py`
+- **__repr__** - Appears in `openbb_platform/core/openbb_core/app/model/field.py`
+- **any** - Appears in `openbb_platform/core/openbb_core/app/model/field.py`
+- **arg** - Appears in `openbb_platform/core/openbb_core/app/model/field.py`
+- **attr** - Appears in `openbb_platform/core/openbb_core/app/model/field.py`
+- **avoid** - Appears in `openbb_platform/core/openbb_core/app/model/field.py`
+- **characters** - Appears in `openbb_platform/core/openbb_core/app/model/field.py`
+- **choices** - Appears in `openbb_platform/core/openbb_core/app/model/field.py`
+- **class** - Appears in `openbb_platform/core/openbb_core/app/model/field.py`
+- **custom** - Appears in `openbb_platform/core/openbb_core/app/model/field.py`
+- **decoding** - Appears in `openbb_platform/core/openbb_core/app/model/field.py`
+- **def** - Appears in `openbb_platform/core/openbb_core/app/model/field.py`
+- **description** - Appears in `openbb_platform/core/openbb_core/app/model/field.py`
+- **else** - Appears in `openbb_platform/core/openbb_core/app/model/field.py`
+- **field** - Appears in `openbb_platform/core/openbb_core/app/model/field.py`
+- **fieldinfo** - Appears in `openbb_platform/core/openbb_core/app/model/field.py`
+- **fields** - Appears in `openbb_platform/core/openbb_core/app/model/field.py`
+- **for** - Appears in `openbb_platform/core/openbb_core/app/model/field.py`
+- **from** - Appears in `openbb_platform/core/openbb_core/app/model/field.py`
+- **get** - Appears in `openbb_platform/core/openbb_core/app/model/field.py`
+- **ignore** - Appears in `openbb_platform/core/openbb_core/app/model/field.py`
+- **import** - Appears in `openbb_platform/core/openbb_core/app/model/field.py`
+- **initialize** - Appears in `openbb_platform/core/openbb_core/app/model/field.py`
+- **json_schema_extra** - Appears in `openbb_platform/core/openbb_core/app/model/field.py`
+- **like** - Appears in `openbb_platform/core/openbb_core/app/model/field.py`
+- **list** - Appears in `openbb_platform/core/openbb_core/app/model/field.py`
+- **none** - Appears in `openbb_platform/core/openbb_core/app/model/field.py`
+- **openbb** - Appears in `openbb_platform/core/openbb_core/app/model/field.py`
+- **openbbfield** - Appears in `openbb_platform/core/openbb_core/app/model/field.py`
+- **override** - Appears in `openbb_platform/core/openbb_core/app/model/field.py`
+- **property** - Appears in `openbb_platform/core/openbb_core/app/model/field.py`
+- **pydantic** - Appears in `openbb_platform/core/openbb_core/app/model/field.py`
+- **pydantic.fields** - Appears in `openbb_platform/core/openbb_core/app/model/field.py`
+- **repr** - Appears in `openbb_platform/core/openbb_core/app/model/field.py`
+- **return** - Appears in `openbb_platform/core/openbb_core/app/model/field.py`
+- **self** - Appears in `openbb_platform/core/openbb_core/app/model/field.py`
+- **special** - Appears in `openbb_platform/core/openbb_core/app/model/field.py`
+- **str** - Appears in `openbb_platform/core/openbb_core/app/model/field.py`
+- **super** - Appears in `openbb_platform/core/openbb_core/app/model/field.py`
+- **type** - Appears in `openbb_platform/core/openbb_core/app/model/field.py`
+- **typing** - Appears in `openbb_platform/core/openbb_core/app/model/field.py`
+- **union** - Appears in `openbb_platform/core/openbb_core/app/model/field.py`
+- **use** - Appears in `openbb_platform/core/openbb_core/app/model/field.py`
+- **value** - Appears in `openbb_platform/core/openbb_core/app/model/field.py`

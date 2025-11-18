@@ -1,0 +1,46 @@
+# Keywords: cookiecutter/pyproject.toml
+
+## Extracted Keywords (42 total)
+
+- **agpl** - Appears in `cookiecutter/pyproject.toml`
+- **api** - Appears in `cookiecutter/pyproject.toml`
+- **authors** - Appears in `cookiecutter/pyproject.toml`
+- **backend** - Appears in `cookiecutter/pyproject.toml`
+- **build** - Appears in `cookiecutter/pyproject.toml`
+- **cli** - Appears in `cookiecutter/pyproject.toml`
+- **com** - Appears in `cookiecutter/pyproject.toml`
+- **cookiecutter** - Appears in `cookiecutter/pyproject.toml`
+- **core** - Appears in `cookiecutter/pyproject.toml`
+- **dependencies** - Appears in `cookiecutter/pyproject.toml`
+- **description** - Appears in `cookiecutter/pyproject.toml`
+- **extensions** - Appears in `cookiecutter/pyproject.toml`
+- **finance** - Appears in `cookiecutter/pyproject.toml`
+- **for** - Appears in `cookiecutter/pyproject.toml`
+- **github** - Appears in `cookiecutter/pyproject.toml`
+- **hello** - Appears in `cookiecutter/pyproject.toml`
+- **homepage** - Appears in `cookiecutter/pyproject.toml`
+- **https** - Appears in `cookiecutter/pyproject.toml`
+- **include** - Appears in `cookiecutter/pyproject.toml`
+- **license** - Appears in `cookiecutter/pyproject.toml`
+- **main** - Appears in `cookiecutter/pyproject.toml`
+- **masonry** - Appears in `cookiecutter/pyproject.toml`
+- **name** - Appears in `cookiecutter/pyproject.toml`
+- **only** - Appears in `cookiecutter/pyproject.toml`
+- **openbb** - Appears in `cookiecutter/pyproject.toml`
+- **openbb_cookiecutter** - Appears in `cookiecutter/pyproject.toml`
+- **package** - Appears in `cookiecutter/pyproject.toml`
+- **packages** - Appears in `cookiecutter/pyproject.toml`
+- **plugins** - Appears in `cookiecutter/pyproject.toml`
+- **poetry** - Appears in `cookiecutter/pyproject.toml`
+- **python** - Appears in `cookiecutter/pyproject.toml`
+- **readme** - Appears in `cookiecutter/pyproject.toml`
+- **repository** - Appears in `cookiecutter/pyproject.toml`
+- **requires** - Appears in `cookiecutter/pyproject.toml`
+- **scripts** - Appears in `cookiecutter/pyproject.toml`
+- **system** - Appears in `cookiecutter/pyproject.toml`
+- **team** - Appears in `cookiecutter/pyproject.toml`
+- **template** - Appears in `cookiecutter/pyproject.toml`
+- **templates** - Appears in `cookiecutter/pyproject.toml`
+- **the** - Appears in `cookiecutter/pyproject.toml`
+- **tool** - Appears in `cookiecutter/pyproject.toml`
+- **version** - Appears in `cookiecutter/pyproject.toml`

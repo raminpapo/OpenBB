@@ -1,0 +1,53 @@
+# Keywords: openbb_platform/core/openbb_core/provider/standard_models/fed_projections.py
+
+## Extracted Keywords (49 total)
+
+- **DATA_DESCRIPTIONS** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/fed_projections.py`
+- **Data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/fed_projections.py`
+- **Field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/fed_projections.py`
+- **PROJECTIONData** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/fed_projections.py`
+- **PROJECTIONQueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/fed_projections.py`
+- **QueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/fed_projections.py`
+- **abstract** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/fed_projections.py`
+- **central** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/fed_projections.py`
+- **central_tendency_high** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/fed_projections.py`
+- **central_tendency_low** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/fed_projections.py`
+- **central_tendency_midpoint** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/fed_projections.py`
+- **class** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/fed_projections.py`
+- **data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/fed_projections.py`
+- **data_descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/fed_projections.py`
+- **date** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/fed_projections.py`
+- **datetime** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/fed_projections.py`
+- **datetype** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/fed_projections.py`
+- **description** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/fed_projections.py`
+- **descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/fed_projections.py`
+- **field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/fed_projections.py`
+- **float** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/fed_projections.py`
+- **from** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/fed_projections.py`
+- **get** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/fed_projections.py`
+- **high** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/fed_projections.py`
+- **import** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/fed_projections.py`
+- **low** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/fed_projections.py`
+- **median** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/fed_projections.py`
+- **midpoint** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/fed_projections.py`
+- **model** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/fed_projections.py`
+- **none** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/fed_projections.py`
+- **openbb_core** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/fed_projections.py`
+- **openbb_core.provider.abstract.data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/fed_projections.py`
+- **openbb_core.provider.abstract.query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/fed_projections.py`
+- **openbb_core.provider.utils.descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/fed_projections.py`
+- **projection** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/fed_projections.py`
+- **projectiondata** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/fed_projections.py`
+- **projectionqueryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/fed_projections.py`
+- **provider** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/fed_projections.py`
+- **pydantic** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/fed_projections.py`
+- **query** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/fed_projections.py`
+- **query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/fed_projections.py`
+- **queryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/fed_projections.py`
+- **range_high** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/fed_projections.py`
+- **range_low** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/fed_projections.py`
+- **range_midpoint** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/fed_projections.py`
+- **rates** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/fed_projections.py`
+- **standard** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/fed_projections.py`
+- **tendency** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/fed_projections.py`
+- **utils** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/fed_projections.py`

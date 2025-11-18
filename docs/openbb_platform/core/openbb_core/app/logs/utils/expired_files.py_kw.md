@@ -1,0 +1,54 @@
+# Keywords: openbb_platform/core/openbb_core/app/logs/utils/expired_files.py
+
+## Extracted Keywords (50 total)
+
+- **Path** - Appears in `openbb_platform/core/openbb_core/app/logs/utils/expired_files.py`
+- **a** - Appears in `openbb_platform/core/openbb_core/app/logs/utils/expired_files.py`
+- **ago** - Appears in `openbb_platform/core/openbb_core/app/logs/utils/expired_files.py`
+- **and** - Appears in `openbb_platform/core/openbb_core/app/logs/utils/expired_files.py`
+- **append** - Appears in `openbb_platform/core/openbb_core/app/logs/utils/expired_files.py`
+- **before_timestamp** - Appears in `openbb_platform/core/openbb_core/app/logs/utils/expired_files.py`
+- **check** - Appears in `openbb_platform/core/openbb_core/app/logs/utils/expired_files.py`
+- **contextlib** - Appears in `openbb_platform/core/openbb_core/app/logs/utils/expired_files.py`
+- **datetime** - Appears in `openbb_platform/core/openbb_core/app/logs/utils/expired_files.py`
+- **days** - Appears in `openbb_platform/core/openbb_core/app/logs/utils/expired_files.py`
+- **def** - Appears in `openbb_platform/core/openbb_core/app/logs/utils/expired_files.py`
+- **directory** - Appears in `openbb_platform/core/openbb_core/app/logs/utils/expired_files.py`
+- **exists** - Appears in `openbb_platform/core/openbb_core/app/logs/utils/expired_files.py`
+- **expired** - Appears in `openbb_platform/core/openbb_core/app/logs/utils/expired_files.py`
+- **expired_files** - Appears in `openbb_platform/core/openbb_core/app/logs/utils/expired_files.py`
+- **file** - Appears in `openbb_platform/core/openbb_core/app/logs/utils/expired_files.py`
+- **file_list** - Appears in `openbb_platform/core/openbb_core/app/logs/utils/expired_files.py`
+- **files** - Appears in `openbb_platform/core/openbb_core/app/logs/utils/expired_files.py`
+- **float** - Appears in `openbb_platform/core/openbb_core/app/logs/utils/expired_files.py`
+- **for** - Appears in `openbb_platform/core/openbb_core/app/logs/utils/expired_files.py`
+- **from** - Appears in `openbb_platform/core/openbb_core/app/logs/utils/expired_files.py`
+- **get** - Appears in `openbb_platform/core/openbb_core/app/logs/utils/expired_files.py`
+- **get_expired_file_list** - Appears in `openbb_platform/core/openbb_core/app/logs/utils/expired_files.py`
+- **get_timestamp_from_x_days** - Appears in `openbb_platform/core/openbb_core/app/logs/utils/expired_files.py`
+- **import** - Appears in `openbb_platform/core/openbb_core/app/logs/utils/expired_files.py`
+- **int** - Appears in `openbb_platform/core/openbb_core/app/logs/utils/expired_files.py`
+- **is_dir** - Appears in `openbb_platform/core/openbb_core/app/logs/utils/expired_files.py`
+- **is_file** - Appears in `openbb_platform/core/openbb_core/app/logs/utils/expired_files.py`
+- **iterdir** - Appears in `openbb_platform/core/openbb_core/app/logs/utils/expired_files.py`
+- **list** - Appears in `openbb_platform/core/openbb_core/app/logs/utils/expired_files.py`
+- **lstat** - Appears in `openbb_platform/core/openbb_core/app/logs/utils/expired_files.py`
+- **management** - Appears in `openbb_platform/core/openbb_core/app/logs/utils/expired_files.py`
+- **missing_ok** - Appears in `openbb_platform/core/openbb_core/app/logs/utils/expired_files.py`
+- **now** - Appears in `openbb_platform/core/openbb_core/app/logs/utils/expired_files.py`
+- **path** - Appears in `openbb_platform/core/openbb_core/app/logs/utils/expired_files.py`
+- **pathlib** - Appears in `openbb_platform/core/openbb_core/app/logs/utils/expired_files.py`
+- **permissionerror** - Appears in `openbb_platform/core/openbb_core/app/logs/utils/expired_files.py`
+- **remove** - Appears in `openbb_platform/core/openbb_core/app/logs/utils/expired_files.py`
+- **remove_file_list** - Appears in `openbb_platform/core/openbb_core/app/logs/utils/expired_files.py`
+- **return** - Appears in `openbb_platform/core/openbb_core/app/logs/utils/expired_files.py`
+- **st_mtime** - Appears in `openbb_platform/core/openbb_core/app/logs/utils/expired_files.py`
+- **suppress** - Appears in `openbb_platform/core/openbb_core/app/logs/utils/expired_files.py`
+- **the** - Appears in `openbb_platform/core/openbb_core/app/logs/utils/expired_files.py`
+- **timestamp** - Appears in `openbb_platform/core/openbb_core/app/logs/utils/expired_files.py`
+- **timestamp_from_x_days** - Appears in `openbb_platform/core/openbb_core/app/logs/utils/expired_files.py`
+- **true** - Appears in `openbb_platform/core/openbb_core/app/logs/utils/expired_files.py`
+- **unlink** - Appears in `openbb_platform/core/openbb_core/app/logs/utils/expired_files.py`
+- **utilities** - Appears in `openbb_platform/core/openbb_core/app/logs/utils/expired_files.py`
+- **with** - Appears in `openbb_platform/core/openbb_core/app/logs/utils/expired_files.py`
+- **x** - Appears in `openbb_platform/core/openbb_core/app/logs/utils/expired_files.py`

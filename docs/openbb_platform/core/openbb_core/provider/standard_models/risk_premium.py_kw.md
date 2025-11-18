@@ -1,0 +1,45 @@
+# Keywords: openbb_platform/core/openbb_core/provider/standard_models/risk_premium.py
+
+## Extracted Keywords (41 total)
+
+- **Data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/risk_premium.py`
+- **Field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/risk_premium.py`
+- **QueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/risk_premium.py`
+- **RiskPremiumData** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/risk_premium.py`
+- **RiskPremiumQueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/risk_premium.py`
+- **abstract** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/risk_premium.py`
+- **class** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/risk_premium.py`
+- **continent** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/risk_premium.py`
+- **country** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/risk_premium.py`
+- **country_risk_premium** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/risk_premium.py`
+- **data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/risk_premium.py`
+- **default** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/risk_premium.py`
+- **description** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/risk_premium.py`
+- **equity** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/risk_premium.py`
+- **field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/risk_premium.py`
+- **for** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/risk_premium.py`
+- **from** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/risk_premium.py`
+- **import** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/risk_premium.py`
+- **market** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/risk_premium.py`
+- **model** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/risk_premium.py`
+- **none** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/risk_premium.py`
+- **nonnegativefloat** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/risk_premium.py`
+- **openbb_core** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/risk_premium.py`
+- **openbb_core.provider.abstract.data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/risk_premium.py`
+- **openbb_core.provider.abstract.query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/risk_premium.py`
+- **positivefloat** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/risk_premium.py`
+- **premium** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/risk_premium.py`
+- **provider** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/risk_premium.py`
+- **pydantic** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/risk_premium.py`
+- **query** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/risk_premium.py`
+- **query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/risk_premium.py`
+- **queryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/risk_premium.py`
+- **risk** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/risk_premium.py`
+- **riskpremiumdata** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/risk_premium.py`
+- **riskpremiumqueryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/risk_premium.py`
+- **specific** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/risk_premium.py`
+- **standard** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/risk_premium.py`
+- **str** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/risk_premium.py`
+- **the** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/risk_premium.py`
+- **total** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/risk_premium.py`
+- **total_equity_risk_premium** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/risk_premium.py`

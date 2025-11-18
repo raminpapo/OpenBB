@@ -1,0 +1,54 @@
+# Keywords: openbb_platform/core/openbb_core/provider/standard_models/commodity_spot_prices.py
+
+## Extracted Keywords (50 total)
+
+- **CommoditySpotPricesData** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/commodity_spot_prices.py`
+- **CommoditySpotPricesQueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/commodity_spot_prices.py`
+- **Data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/commodity_spot_prices.py`
+- **Field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/commodity_spot_prices.py`
+- **QueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/commodity_spot_prices.py`
+- **abstract** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/commodity_spot_prices.py`
+- **class** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/commodity_spot_prices.py`
+- **commodity** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/commodity_spot_prices.py`
+- **commodityspotpricesdata** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/commodity_spot_prices.py`
+- **commodityspotpricesqueryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/commodity_spot_prices.py`
+- **currency** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/commodity_spot_prices.py`
+- **data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/commodity_spot_prices.py`
+- **data_descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/commodity_spot_prices.py`
+- **date** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/commodity_spot_prices.py`
+- **datetime** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/commodity_spot_prices.py`
+- **datetype** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/commodity_spot_prices.py`
+- **default** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/commodity_spot_prices.py`
+- **description** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/commodity_spot_prices.py`
+- **descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/commodity_spot_prices.py`
+- **end_date** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/commodity_spot_prices.py`
+- **field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/commodity_spot_prices.py`
+- **float** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/commodity_spot_prices.py`
+- **from** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/commodity_spot_prices.py`
+- **get** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/commodity_spot_prices.py`
+- **import** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/commodity_spot_prices.py`
+- **json_schema_extra** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/commodity_spot_prices.py`
+- **model** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/commodity_spot_prices.py`
+- **name** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/commodity_spot_prices.py`
+- **none** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/commodity_spot_prices.py`
+- **openbb_core** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/commodity_spot_prices.py`
+- **openbb_core.provider.abstract.data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/commodity_spot_prices.py`
+- **openbb_core.provider.abstract.query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/commodity_spot_prices.py`
+- **openbb_core.provider.utils.descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/commodity_spot_prices.py`
+- **price** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/commodity_spot_prices.py`
+- **prices** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/commodity_spot_prices.py`
+- **provider** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/commodity_spot_prices.py`
+- **pydantic** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/commodity_spot_prices.py`
+- **query** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/commodity_spot_prices.py`
+- **query_descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/commodity_spot_prices.py`
+- **query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/commodity_spot_prices.py`
+- **queryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/commodity_spot_prices.py`
+- **spot** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/commodity_spot_prices.py`
+- **standard** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/commodity_spot_prices.py`
+- **start_date** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/commodity_spot_prices.py`
+- **str** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/commodity_spot_prices.py`
+- **symbol** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/commodity_spot_prices.py`
+- **the** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/commodity_spot_prices.py`
+- **unit** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/commodity_spot_prices.py`
+- **unit_measurement** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/commodity_spot_prices.py`
+- **utils** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/commodity_spot_prices.py`

@@ -1,0 +1,47 @@
+# Keywords: openbb_platform/core/openbb_core/provider/standard_models/dwpcr_rates.py
+
+## Extracted Keywords (43 total)
+
+- **Data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/dwpcr_rates.py`
+- **DiscountWindowPrimaryCreditRateData** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/dwpcr_rates.py`
+- **DiscountWindowPrimaryCreditRateParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/dwpcr_rates.py`
+- **Field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/dwpcr_rates.py`
+- **QueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/dwpcr_rates.py`
+- **abstract** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/dwpcr_rates.py`
+- **class** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/dwpcr_rates.py`
+- **credit** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/dwpcr_rates.py`
+- **data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/dwpcr_rates.py`
+- **data_descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/dwpcr_rates.py`
+- **date** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/dwpcr_rates.py`
+- **datetime** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/dwpcr_rates.py`
+- **datetype** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/dwpcr_rates.py`
+- **default** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/dwpcr_rates.py`
+- **description** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/dwpcr_rates.py`
+- **descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/dwpcr_rates.py`
+- **discount** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/dwpcr_rates.py`
+- **discountwindowprimarycreditratedata** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/dwpcr_rates.py`
+- **discountwindowprimarycreditrateparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/dwpcr_rates.py`
+- **end_date** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/dwpcr_rates.py`
+- **field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/dwpcr_rates.py`
+- **float** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/dwpcr_rates.py`
+- **from** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/dwpcr_rates.py`
+- **get** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/dwpcr_rates.py`
+- **import** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/dwpcr_rates.py`
+- **model** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/dwpcr_rates.py`
+- **none** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/dwpcr_rates.py`
+- **openbb_core** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/dwpcr_rates.py`
+- **openbb_core.provider.abstract.data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/dwpcr_rates.py`
+- **openbb_core.provider.abstract.query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/dwpcr_rates.py`
+- **openbb_core.provider.utils.descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/dwpcr_rates.py`
+- **primary** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/dwpcr_rates.py`
+- **provider** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/dwpcr_rates.py`
+- **pydantic** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/dwpcr_rates.py`
+- **query** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/dwpcr_rates.py`
+- **query_descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/dwpcr_rates.py`
+- **query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/dwpcr_rates.py`
+- **queryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/dwpcr_rates.py`
+- **rate** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/dwpcr_rates.py`
+- **standard** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/dwpcr_rates.py`
+- **start_date** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/dwpcr_rates.py`
+- **utils** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/dwpcr_rates.py`
+- **window** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/dwpcr_rates.py`

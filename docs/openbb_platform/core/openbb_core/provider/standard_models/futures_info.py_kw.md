@@ -1,0 +1,47 @@
+# Keywords: openbb_platform/core/openbb_core/provider/standard_models/futures_info.py
+
+## Extracted Keywords (43 total)
+
+- **DATA_DESCRIPTIONS** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/futures_info.py`
+- **Data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/futures_info.py`
+- **Field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/futures_info.py`
+- **FuturesInfoData** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/futures_info.py`
+- **FuturesInfoQueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/futures_info.py`
+- **QueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/futures_info.py`
+- **abstract** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/futures_info.py`
+- **class** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/futures_info.py`
+- **create** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/futures_info.py`
+- **custom** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/futures_info.py`
+- **data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/futures_info.py`
+- **data_descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/futures_info.py`
+- **description** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/futures_info.py`
+- **descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/futures_info.py`
+- **docstrings** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/futures_info.py`
+- **empty** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/futures_info.py`
+- **field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/futures_info.py`
+- **from** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/futures_info.py`
+- **futures** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/futures_info.py`
+- **futuresinfodata** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/futures_info.py`
+- **futuresinfoqueryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/futures_info.py`
+- **get** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/futures_info.py`
+- **import** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/futures_info.py`
+- **info** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/futures_info.py`
+- **instruments** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/futures_info.py`
+- **leaving** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/futures_info.py`
+- **let** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/futures_info.py`
+- **model** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/futures_info.py`
+- **openbb_core** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/futures_info.py`
+- **openbb_core.provider.abstract.data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/futures_info.py`
+- **openbb_core.provider.abstract.query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/futures_info.py`
+- **openbb_core.provider.utils.descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/futures_info.py`
+- **provider** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/futures_info.py`
+- **pydantic** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/futures_info.py`
+- **query** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/futures_info.py`
+- **query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/futures_info.py`
+- **queryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/futures_info.py`
+- **standard** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/futures_info.py`
+- **str** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/futures_info.py`
+- **symbol** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/futures_info.py`
+- **the** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/futures_info.py`
+- **this** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/futures_info.py`
+- **utils** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/futures_info.py`

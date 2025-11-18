@@ -1,0 +1,13 @@
+# Keywords Summary: cookiecutter
+
+**Path**: `cookiecutter`
+
+## Merged Keywords from Child Files
+
+Found 3 keyword files in this folder.
+
+### Sample Keywords
+
+- Keywords from: `README.md_kw.md`
+- Keywords from: `cookiecutter.json_kw.md`
+- Keywords from: `pyproject.toml_kw.md`

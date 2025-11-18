@@ -1,0 +1,41 @@
+# Keywords: openbb_platform/providers/finviz/openbb_finviz/utils/presets/profitable_low_price_sales.ini
+
+## Extracted Keywords (37 total)
+
+- **and** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/profitable_low_price_sales.ini`
+- **ascend** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/profitable_low_price_sales.ini`
+- **author** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/profitable_low_price_sales.ini`
+- **average** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/profitable_low_price_sales.ini`
+- **cap** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/profitable_low_price_sales.ini`
+- **companies** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/profitable_low_price_sales.ini`
+- **decent** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/profitable_low_price_sales.ini`
+- **description** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/profitable_low_price_sales.ini`
+- **descriptive** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/profitable_low_price_sales.ini`
+- **fundamental** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/profitable_low_price_sales.ini`
+- **general** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/profitable_low_price_sales.ini`
+- **growth** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/profitable_low_price_sales.ini`
+- **growthpast** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/profitable_low_price_sales.ini`
+- **growthqtr** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/profitable_low_price_sales.ini`
+- **high** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/profitable_low_price_sales.ini`
+- **low** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/profitable_low_price_sales.ini`
+- **margin** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/profitable_low_price_sales.ini`
+- **market** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/profitable_low_price_sales.ini`
+- **mid** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/profitable_low_price_sales.ini`
+- **net** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/profitable_low_price_sales.ini`
+- **openbb** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/profitable_low_price_sales.ini`
+- **order** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/profitable_low_price_sales.ini`
+- **over** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/profitable_low_price_sales.ini`
+- **positive** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/profitable_low_price_sales.ini`
+- **preset** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/profitable_low_price_sales.ini`
+- **price** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/profitable_low_price_sales.ini`
+- **profit** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/profitable_low_price_sales.ini`
+- **profitable** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/profitable_low_price_sales.ini`
+- **qtr** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/profitable_low_price_sales.ini`
+- **sales** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/profitable_low_price_sales.ini`
+- **technical** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/profitable_low_price_sales.ini`
+- **trading** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/profitable_low_price_sales.ini`
+- **true** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/profitable_low_price_sales.ini`
+- **under** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/profitable_low_price_sales.ini`
+- **volume** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/profitable_low_price_sales.ini`
+- **with** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/profitable_low_price_sales.ini`
+- **years** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/profitable_low_price_sales.ini`

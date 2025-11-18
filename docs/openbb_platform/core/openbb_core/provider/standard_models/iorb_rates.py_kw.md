@@ -1,0 +1,44 @@
+# Keywords: openbb_platform/core/openbb_core/provider/standard_models/iorb_rates.py
+
+## Extracted Keywords (40 total)
+
+- **Data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/iorb_rates.py`
+- **Field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/iorb_rates.py`
+- **IORBData** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/iorb_rates.py`
+- **IORBQueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/iorb_rates.py`
+- **QueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/iorb_rates.py`
+- **abstract** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/iorb_rates.py`
+- **class** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/iorb_rates.py`
+- **data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/iorb_rates.py`
+- **data_descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/iorb_rates.py`
+- **date** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/iorb_rates.py`
+- **datetime** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/iorb_rates.py`
+- **datetype** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/iorb_rates.py`
+- **default** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/iorb_rates.py`
+- **description** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/iorb_rates.py`
+- **descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/iorb_rates.py`
+- **end_date** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/iorb_rates.py`
+- **field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/iorb_rates.py`
+- **float** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/iorb_rates.py`
+- **from** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/iorb_rates.py`
+- **get** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/iorb_rates.py`
+- **import** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/iorb_rates.py`
+- **iorb** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/iorb_rates.py`
+- **iorbdata** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/iorb_rates.py`
+- **iorbqueryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/iorb_rates.py`
+- **model** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/iorb_rates.py`
+- **none** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/iorb_rates.py`
+- **openbb_core** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/iorb_rates.py`
+- **openbb_core.provider.abstract.data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/iorb_rates.py`
+- **openbb_core.provider.abstract.query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/iorb_rates.py`
+- **openbb_core.provider.utils.descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/iorb_rates.py`
+- **provider** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/iorb_rates.py`
+- **pydantic** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/iorb_rates.py`
+- **query** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/iorb_rates.py`
+- **query_descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/iorb_rates.py`
+- **query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/iorb_rates.py`
+- **queryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/iorb_rates.py`
+- **rate** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/iorb_rates.py`
+- **standard** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/iorb_rates.py`
+- **start_date** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/iorb_rates.py`
+- **utils** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/iorb_rates.py`

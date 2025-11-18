@@ -1,0 +1,49 @@
+# Keywords: openbb_platform/providers/cftc/pyproject.toml
+
+## Extracted Keywords (45 total)
+
+- **agpl** - Appears in `openbb_platform/providers/cftc/pyproject.toml`
+- **and** - Appears in `openbb_platform/providers/cftc/pyproject.toml`
+- **api** - Appears in `openbb_platform/providers/cftc/pyproject.toml`
+- **authors** - Appears in `openbb_platform/providers/cftc/pyproject.toml`
+- **backend** - Appears in `openbb_platform/providers/cftc/pyproject.toml`
+- **build** - Appears in `openbb_platform/providers/cftc/pyproject.toml`
+- **cftc** - Appears in `openbb_platform/providers/cftc/pyproject.toml`
+- **cftc_provider** - Appears in `openbb_platform/providers/cftc/pyproject.toml`
+- **commission** - Appears in `openbb_platform/providers/cftc/pyproject.toml`
+- **commodity** - Appears in `openbb_platform/providers/cftc/pyproject.toml`
+- **core** - Appears in `openbb_platform/providers/cftc/pyproject.toml`
+- **dependencies** - Appears in `openbb_platform/providers/cftc/pyproject.toml`
+- **derivatives** - Appears in `openbb_platform/providers/cftc/pyproject.toml`
+- **description** - Appears in `openbb_platform/providers/cftc/pyproject.toml`
+- **futures** - Appears in `openbb_platform/providers/cftc/pyproject.toml`
+- **hello** - Appears in `openbb_platform/providers/cftc/pyproject.toml`
+- **include** - Appears in `openbb_platform/providers/cftc/pyproject.toml`
+- **integrity** - Appears in `openbb_platform/providers/cftc/pyproject.toml`
+- **license** - Appears in `openbb_platform/providers/cftc/pyproject.toml`
+- **markets** - Appears in `openbb_platform/providers/cftc/pyproject.toml`
+- **masonry** - Appears in `openbb_platform/providers/cftc/pyproject.toml`
+- **mission** - Appears in `openbb_platform/providers/cftc/pyproject.toml`
+- **name** - Appears in `openbb_platform/providers/cftc/pyproject.toml`
+- **only** - Appears in `openbb_platform/providers/cftc/pyproject.toml`
+- **openbb** - Appears in `openbb_platform/providers/cftc/pyproject.toml`
+- **openbb_cftc** - Appears in `openbb_platform/providers/cftc/pyproject.toml`
+- **openbb_provider_extension** - Appears in `openbb_platform/providers/cftc/pyproject.toml`
+- **packages** - Appears in `openbb_platform/providers/cftc/pyproject.toml`
+- **plugins** - Appears in `openbb_platform/providers/cftc/pyproject.toml`
+- **poetry** - Appears in `openbb_platform/providers/cftc/pyproject.toml`
+- **promote** - Appears in `openbb_platform/providers/cftc/pyproject.toml`
+- **python** - Appears in `openbb_platform/providers/cftc/pyproject.toml`
+- **readme** - Appears in `openbb_platform/providers/cftc/pyproject.toml`
+- **regulation** - Appears in `openbb_platform/providers/cftc/pyproject.toml`
+- **requires** - Appears in `openbb_platform/providers/cftc/pyproject.toml`
+- **resilience** - Appears in `openbb_platform/providers/cftc/pyproject.toml`
+- **sound** - Appears in `openbb_platform/providers/cftc/pyproject.toml`
+- **system** - Appears in `openbb_platform/providers/cftc/pyproject.toml`
+- **team** - Appears in `openbb_platform/providers/cftc/pyproject.toml`
+- **the** - Appears in `openbb_platform/providers/cftc/pyproject.toml`
+- **through** - Appears in `openbb_platform/providers/cftc/pyproject.toml`
+- **tool** - Appears in `openbb_platform/providers/cftc/pyproject.toml`
+- **trading** - Appears in `openbb_platform/providers/cftc/pyproject.toml`
+- **version** - Appears in `openbb_platform/providers/cftc/pyproject.toml`
+- **vibrancy** - Appears in `openbb_platform/providers/cftc/pyproject.toml`

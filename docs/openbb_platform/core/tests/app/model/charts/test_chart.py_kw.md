@@ -1,0 +1,54 @@
+# Keywords: openbb_platform/core/tests/app/model/charts/test_chart.py
+
+## Extracted Keywords (50 total)
+
+- **Chart** - Appears in `openbb_platform/core/tests/app/model/charts/test_chart.py`
+- **act** - Appears in `openbb_platform/core/tests/app/model/charts/test_chart.py`
+- **add** - Appears in `openbb_platform/core/tests/app/model/charts/test_chart.py`
+- **after** - Appears in `openbb_platform/core/tests/app/model/charts/test_chart.py`
+- **app** - Appears in `openbb_platform/core/tests/app/model/charts/test_chart.py`
+- **arrange** - Appears in `openbb_platform/core/tests/app/model/charts/test_chart.py`
+- **assert** - Appears in `openbb_platform/core/tests/app/model/charts/test_chart.py`
+- **assignment** - Appears in `openbb_platform/core/tests/app/model/charts/test_chart.py`
+- **chart** - Appears in `openbb_platform/core/tests/app/model/charts/test_chart.py`
+- **chart_format** - Appears in `openbb_platform/core/tests/app/model/charts/test_chart.py`
+- **charting** - Appears in `openbb_platform/core/tests/app/model/charts/test_chart.py`
+- **charts** - Appears in `openbb_platform/core/tests/app/model/charts/test_chart.py`
+- **config** - Appears in `openbb_platform/core/tests/app/model/charts/test_chart.py`
+- **content** - Appears in `openbb_platform/core/tests/app/model/charts/test_chart.py`
+- **custom** - Appears in `openbb_platform/core/tests/app/model/charts/test_chart.py`
+- **data** - Appears in `openbb_platform/core/tests/app/model/charts/test_chart.py`
+- **def** - Appears in `openbb_platform/core/tests/app/model/charts/test_chart.py`
+- **default** - Appears in `openbb_platform/core/tests/app/model/charts/test_chart.py`
+- **format** - Appears in `openbb_platform/core/tests/app/model/charts/test_chart.py`
+- **from** - Appears in `openbb_platform/core/tests/app/model/charts/test_chart.py`
+- **function** - Appears in `openbb_platform/core/tests/app/model/charts/test_chart.py`
+- **ignore** - Appears in `openbb_platform/core/tests/app/model/charts/test_chart.py`
+- **import** - Appears in `openbb_platform/core/tests/app/model/charts/test_chart.py`
+- **invalid** - Appears in `openbb_platform/core/tests/app/model/charts/test_chart.py`
+- **invalid_field** - Appears in `openbb_platform/core/tests/app/model/charts/test_chart.py`
+- **method** - Appears in `openbb_platform/core/tests/app/model/charts/test_chart.py`
+- **model** - Appears in `openbb_platform/core/tests/app/model/charts/test_chart.py`
+- **none** - Appears in `openbb_platform/core/tests/app/model/charts/test_chart.py`
+- **openbb_core** - Appears in `openbb_platform/core/tests/app/model/charts/test_chart.py`
+- **openbb_core.app.model.charts.chart** - Appears in `openbb_platform/core/tests/app/model/charts/test_chart.py`
+- **plotly** - Appears in `openbb_platform/core/tests/app/model/charts/test_chart.py`
+- **properly** - Appears in `openbb_platform/core/tests/app/model/charts/test_chart.py`
+- **pytest** - Appears in `openbb_platform/core/tests/app/model/charts/test_chart.py`
+- **raises** - Appears in `openbb_platform/core/tests/app/model/charts/test_chart.py`
+- **refactored** - Appears in `openbb_platform/core/tests/app/model/charts/test_chart.py`
+- **show** - Appears in `openbb_platform/core/tests/app/model/charts/test_chart.py`
+- **test** - Appears in `openbb_platform/core/tests/app/model/charts/test_chart.py`
+- **test_charting_assignment_validation** - Appears in `openbb_platform/core/tests/app/model/charts/test_chart.py`
+- **test_charting_config_validation** - Appears in `openbb_platform/core/tests/app/model/charts/test_chart.py`
+- **test_charting_custom_values** - Appears in `openbb_platform/core/tests/app/model/charts/test_chart.py`
+- **test_charting_default_values** - Appears in `openbb_platform/core/tests/app/model/charts/test_chart.py`
+- **test_show** - Appears in `openbb_platform/core/tests/app/model/charts/test_chart.py`
+- **the** - Appears in `openbb_platform/core/tests/app/model/charts/test_chart.py`
+- **todo** - Appears in `openbb_platform/core/tests/app/model/charts/test_chart.py`
+- **type** - Appears in `openbb_platform/core/tests/app/model/charts/test_chart.py`
+- **validation** - Appears in `openbb_platform/core/tests/app/model/charts/test_chart.py`
+- **value** - Appears in `openbb_platform/core/tests/app/model/charts/test_chart.py`
+- **valueerror** - Appears in `openbb_platform/core/tests/app/model/charts/test_chart.py`
+- **values** - Appears in `openbb_platform/core/tests/app/model/charts/test_chart.py`
+- **with** - Appears in `openbb_platform/core/tests/app/model/charts/test_chart.py`

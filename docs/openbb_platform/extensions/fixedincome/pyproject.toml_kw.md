@@ -1,0 +1,41 @@
+# Keywords: openbb_platform/extensions/fixedincome/pyproject.toml
+
+## Extracted Keywords (37 total)
+
+- **agpl** - Appears in `openbb_platform/extensions/fixedincome/pyproject.toml`
+- **api** - Appears in `openbb_platform/extensions/fixedincome/pyproject.toml`
+- **authors** - Appears in `openbb_platform/extensions/fixedincome/pyproject.toml`
+- **backend** - Appears in `openbb_platform/extensions/fixedincome/pyproject.toml`
+- **build** - Appears in `openbb_platform/extensions/fixedincome/pyproject.toml`
+- **core** - Appears in `openbb_platform/extensions/fixedincome/pyproject.toml`
+- **dependencies** - Appears in `openbb_platform/extensions/fixedincome/pyproject.toml`
+- **description** - Appears in `openbb_platform/extensions/fixedincome/pyproject.toml`
+- **extension** - Appears in `openbb_platform/extensions/fixedincome/pyproject.toml`
+- **fixed** - Appears in `openbb_platform/extensions/fixedincome/pyproject.toml`
+- **fixedincome** - Appears in `openbb_platform/extensions/fixedincome/pyproject.toml`
+- **fixedincome_router** - Appears in `openbb_platform/extensions/fixedincome/pyproject.toml`
+- **fixedincome_views** - Appears in `openbb_platform/extensions/fixedincome/pyproject.toml`
+- **fixedincomeviews** - Appears in `openbb_platform/extensions/fixedincome/pyproject.toml`
+- **for** - Appears in `openbb_platform/extensions/fixedincome/pyproject.toml`
+- **hello** - Appears in `openbb_platform/extensions/fixedincome/pyproject.toml`
+- **include** - Appears in `openbb_platform/extensions/fixedincome/pyproject.toml`
+- **income** - Appears in `openbb_platform/extensions/fixedincome/pyproject.toml`
+- **license** - Appears in `openbb_platform/extensions/fixedincome/pyproject.toml`
+- **masonry** - Appears in `openbb_platform/extensions/fixedincome/pyproject.toml`
+- **name** - Appears in `openbb_platform/extensions/fixedincome/pyproject.toml`
+- **only** - Appears in `openbb_platform/extensions/fixedincome/pyproject.toml`
+- **openbb** - Appears in `openbb_platform/extensions/fixedincome/pyproject.toml`
+- **openbb_charting_extension** - Appears in `openbb_platform/extensions/fixedincome/pyproject.toml`
+- **openbb_core_extension** - Appears in `openbb_platform/extensions/fixedincome/pyproject.toml`
+- **openbb_fixedincome** - Appears in `openbb_platform/extensions/fixedincome/pyproject.toml`
+- **packages** - Appears in `openbb_platform/extensions/fixedincome/pyproject.toml`
+- **plugins** - Appears in `openbb_platform/extensions/fixedincome/pyproject.toml`
+- **poetry** - Appears in `openbb_platform/extensions/fixedincome/pyproject.toml`
+- **python** - Appears in `openbb_platform/extensions/fixedincome/pyproject.toml`
+- **readme** - Appears in `openbb_platform/extensions/fixedincome/pyproject.toml`
+- **requires** - Appears in `openbb_platform/extensions/fixedincome/pyproject.toml`
+- **router** - Appears in `openbb_platform/extensions/fixedincome/pyproject.toml`
+- **system** - Appears in `openbb_platform/extensions/fixedincome/pyproject.toml`
+- **team** - Appears in `openbb_platform/extensions/fixedincome/pyproject.toml`
+- **tool** - Appears in `openbb_platform/extensions/fixedincome/pyproject.toml`
+- **version** - Appears in `openbb_platform/extensions/fixedincome/pyproject.toml`

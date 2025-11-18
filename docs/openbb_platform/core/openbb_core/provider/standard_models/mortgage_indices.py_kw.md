@@ -1,0 +1,54 @@
+# Keywords: openbb_platform/core/openbb_core/provider/standard_models/mortgage_indices.py
+
+## Extracted Keywords (50 total)
+
+- **Data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/mortgage_indices.py`
+- **Field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/mortgage_indices.py`
+- **MortgageIndicesData** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/mortgage_indices.py`
+- **MortgageIndicesQueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/mortgage_indices.py`
+- **QueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/mortgage_indices.py`
+- **abstract** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/mortgage_indices.py`
+- **class** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/mortgage_indices.py`
+- **data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/mortgage_indices.py`
+- **data_descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/mortgage_indices.py`
+- **date** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/mortgage_indices.py`
+- **datetime** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/mortgage_indices.py`
+- **datetype** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/mortgage_indices.py`
+- **default** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/mortgage_indices.py`
+- **description** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/mortgage_indices.py`
+- **descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/mortgage_indices.py`
+- **end_date** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/mortgage_indices.py`
+- **field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/mortgage_indices.py`
+- **float** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/mortgage_indices.py`
+- **from** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/mortgage_indices.py`
+- **frontend_multiply** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/mortgage_indices.py`
+- **get** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/mortgage_indices.py`
+- **import** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/mortgage_indices.py`
+- **index** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/mortgage_indices.py`
+- **indices** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/mortgage_indices.py`
+- **json_schema_extra** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/mortgage_indices.py`
+- **model** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/mortgage_indices.py`
+- **mortgage** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/mortgage_indices.py`
+- **mortgageindicesdata** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/mortgage_indices.py`
+- **mortgageindicesqueryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/mortgage_indices.py`
+- **name** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/mortgage_indices.py`
+- **none** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/mortgage_indices.py`
+- **openbb_core** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/mortgage_indices.py`
+- **openbb_core.provider.abstract.data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/mortgage_indices.py`
+- **openbb_core.provider.abstract.query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/mortgage_indices.py`
+- **openbb_core.provider.utils.descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/mortgage_indices.py`
+- **percent** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/mortgage_indices.py`
+- **provider** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/mortgage_indices.py`
+- **pydantic** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/mortgage_indices.py`
+- **query** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/mortgage_indices.py`
+- **query_descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/mortgage_indices.py`
+- **query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/mortgage_indices.py`
+- **queryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/mortgage_indices.py`
+- **rate** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/mortgage_indices.py`
+- **standard** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/mortgage_indices.py`
+- **start_date** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/mortgage_indices.py`
+- **str** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/mortgage_indices.py`
+- **symbol** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/mortgage_indices.py`
+- **the** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/mortgage_indices.py`
+- **unit_measurement** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/mortgage_indices.py`
+- **utils** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/mortgage_indices.py`

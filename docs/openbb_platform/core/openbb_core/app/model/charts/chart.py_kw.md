@@ -1,0 +1,53 @@
+# Keywords: openbb_platform/core/openbb_core/app/model/charts/chart.py
+
+## Extracted Keywords (49 total)
+
+- **Any** - Appears in `openbb_platform/core/openbb_core/app/model/charts/chart.py`
+- **BaseModel** - Appears in `openbb_platform/core/openbb_core/app/model/charts/chart.py`
+- **Chart** - Appears in `openbb_platform/core/openbb_core/app/model/charts/chart.py`
+- **__class__** - Appears in `openbb_platform/core/openbb_core/app/model/charts/chart.py`
+- **__name__** - Appears in `openbb_platform/core/openbb_core/app/model/charts/chart.py`
+- **__repr__** - Appears in `openbb_platform/core/openbb_core/app/model/charts/chart.py`
+- **any** - Appears in `openbb_platform/core/openbb_core/app/model/charts/chart.py`
+- **attribute** - Appears in `openbb_platform/core/openbb_core/app/model/charts/chart.py`
+- **basemodel** - Appears in `openbb_platform/core/openbb_core/app/model/charts/chart.py`
+- **chart** - Appears in `openbb_platform/core/openbb_core/app/model/charts/chart.py`
+- **class** - Appears in `openbb_platform/core/openbb_core/app/model/charts/chart.py`
+- **complementary** - Appears in `openbb_platform/core/openbb_core/app/model/charts/chart.py`
+- **configdict** - Appears in `openbb_platform/core/openbb_core/app/model/charts/chart.py`
+- **content** - Appears in `openbb_platform/core/openbb_core/app/model/charts/chart.py`
+- **core** - Appears in `openbb_platform/core/openbb_core/app/model/charts/chart.py`
+- **def** - Appears in `openbb_platform/core/openbb_core/app/model/charts/chart.py`
+- **default** - Appears in `openbb_platform/core/openbb_core/app/model/charts/chart.py`
+- **description** - Appears in `openbb_platform/core/openbb_core/app/model/charts/chart.py`
+- **dict** - Appears in `openbb_platform/core/openbb_core/app/model/charts/chart.py`
+- **exclude_from_api** - Appears in `openbb_platform/core/openbb_core/app/model/charts/chart.py`
+- **field** - Appears in `openbb_platform/core/openbb_core/app/model/charts/chart.py`
+- **fig** - Appears in `openbb_platform/core/openbb_core/app/model/charts/chart.py`
+- **figure** - Appears in `openbb_platform/core/openbb_core/app/model/charts/chart.py`
+- **for** - Appears in `openbb_platform/core/openbb_core/app/model/charts/chart.py`
+- **format** - Appears in `openbb_platform/core/openbb_core/app/model/charts/chart.py`
+- **from** - Appears in `openbb_platform/core/openbb_core/app/model/charts/chart.py`
+- **import** - Appears in `openbb_platform/core/openbb_core/app/model/charts/chart.py`
+- **items** - Appears in `openbb_platform/core/openbb_core/app/model/charts/chart.py`
+- **join** - Appears in `openbb_platform/core/openbb_core/app/model/charts/chart.py`
+- **json_schema_extra** - Appears in `openbb_platform/core/openbb_core/app/model/charts/chart.py`
+- **model** - Appears in `openbb_platform/core/openbb_core/app/model/charts/chart.py`
+- **model_config** - Appears in `openbb_platform/core/openbb_core/app/model/charts/chart.py`
+- **model_dump** - Appears in `openbb_platform/core/openbb_core/app/model/charts/chart.py`
+- **none** - Appears in `openbb_platform/core/openbb_core/app/model/charts/chart.py`
+- **object** - Appears in `openbb_platform/core/openbb_core/app/model/charts/chart.py`
+- **openbb** - Appears in `openbb_platform/core/openbb_core/app/model/charts/chart.py`
+- **pydantic** - Appears in `openbb_platform/core/openbb_core/app/model/charts/chart.py`
+- **raw** - Appears in `openbb_platform/core/openbb_core/app/model/charts/chart.py`
+- **representation** - Appears in `openbb_platform/core/openbb_core/app/model/charts/chart.py`
+- **return** - Appears in `openbb_platform/core/openbb_core/app/model/charts/chart.py`
+- **self** - Appears in `openbb_platform/core/openbb_core/app/model/charts/chart.py`
+- **specifies** - Appears in `openbb_platform/core/openbb_core/app/model/charts/chart.py`
+- **str** - Appears in `openbb_platform/core/openbb_core/app/model/charts/chart.py`
+- **string** - Appears in `openbb_platform/core/openbb_core/app/model/charts/chart.py`
+- **textual** - Appears in `openbb_platform/core/openbb_core/app/model/charts/chart.py`
+- **the** - Appears in `openbb_platform/core/openbb_core/app/model/charts/chart.py`
+- **true** - Appears in `openbb_platform/core/openbb_core/app/model/charts/chart.py`
+- **typing** - Appears in `openbb_platform/core/openbb_core/app/model/charts/chart.py`
+- **validate_assignment** - Appears in `openbb_platform/core/openbb_core/app/model/charts/chart.py`

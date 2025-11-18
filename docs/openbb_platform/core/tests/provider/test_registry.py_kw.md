@@ -1,0 +1,42 @@
+# Keywords: openbb_platform/core/tests/provider/test_registry.py
+
+## Extracted Keywords (38 total)
+
+- **Provider** - Appears in `openbb_platform/core/tests/provider/test_registry.py`
+- **Registry** - Appears in `openbb_platform/core/tests/provider/test_registry.py`
+- **abstract** - Appears in `openbb_platform/core/tests/provider/test_registry.py`
+- **assert** - Appears in `openbb_platform/core/tests/provider/test_registry.py`
+- **benzinga** - Appears in `openbb_platform/core/tests/provider/test_registry.py`
+- **core_providers** - Appears in `openbb_platform/core/tests/provider/test_registry.py`
+- **def** - Appears in `openbb_platform/core/tests/provider/test_registry.py`
+- **description** - Appears in `openbb_platform/core/tests/provider/test_registry.py`
+- **execute** - Appears in `openbb_platform/core/tests/provider/test_registry.py`
+- **fmp** - Appears in `openbb_platform/core/tests/provider/test_registry.py`
+- **for** - Appears in `openbb_platform/core/tests/provider/test_registry.py`
+- **fred** - Appears in `openbb_platform/core/tests/provider/test_registry.py`
+- **from** - Appears in `openbb_platform/core/tests/provider/test_registry.py`
+- **from_extensions** - Appears in `openbb_platform/core/tests/provider/test_registry.py`
+- **import** - Appears in `openbb_platform/core/tests/provider/test_registry.py`
+- **include_provider** - Appears in `openbb_platform/core/tests/provider/test_registry.py`
+- **intrinio** - Appears in `openbb_platform/core/tests/provider/test_registry.py`
+- **isinstance** - Appears in `openbb_platform/core/tests/provider/test_registry.py`
+- **just** - Appears in `openbb_platform/core/tests/provider/test_registry.py`
+- **len** - Appears in `openbb_platform/core/tests/provider/test_registry.py`
+- **loading** - Appears in `openbb_platform/core/tests/provider/test_registry.py`
+- **mock_provider** - Appears in `openbb_platform/core/tests/provider/test_registry.py`
+- **name** - Appears in `openbb_platform/core/tests/provider/test_registry.py`
+- **openbb_core** - Appears in `openbb_platform/core/tests/provider/test_registry.py`
+- **openbb_core.provider.abstract.provider** - Appears in `openbb_platform/core/tests/provider/test_registry.py`
+- **openbb_core.provider.registry** - Appears in `openbb_platform/core/tests/provider/test_registry.py`
+- **polygon** - Appears in `openbb_platform/core/tests/provider/test_registry.py`
+- **process** - Appears in `openbb_platform/core/tests/provider/test_registry.py`
+- **provider** - Appears in `openbb_platform/core/tests/provider/test_registry.py`
+- **providers** - Appears in `openbb_platform/core/tests/provider/test_registry.py`
+- **registry** - Appears in `openbb_platform/core/tests/provider/test_registry.py`
+- **registryloader** - Appears in `openbb_platform/core/tests/provider/test_registry.py`
+- **test** - Appears in `openbb_platform/core/tests/provider/test_registry.py`
+- **test_registry** - Appears in `openbb_platform/core/tests/provider/test_registry.py`
+- **test_registry_loader_integration** - Appears in `openbb_platform/core/tests/provider/test_registry.py`
+- **testprovider** - Appears in `openbb_platform/core/tests/provider/test_registry.py`
+- **the** - Appears in `openbb_platform/core/tests/provider/test_registry.py`
+- **values** - Appears in `openbb_platform/core/tests/provider/test_registry.py`

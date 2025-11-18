@@ -1,0 +1,49 @@
+# Keywords: openbb_platform/core/tests/app/static/test_coverage.py
+
+## Extracted Keywords (45 total)
+
+- **BaseApp** - Appears in `openbb_platform/core/tests/app/static/test_coverage.py`
+- **CommandRunner** - Appears in `openbb_platform/core/tests/app/static/test_coverage.py`
+- **Coverage** - Appears in `openbb_platform/core/tests/app/static/test_coverage.py`
+- **app** - Appears in `openbb_platform/core/tests/app/static/test_coverage.py`
+- **app_factory** - Appears in `openbb_platform/core/tests/app/static/test_coverage.py`
+- **assert** - Appears in `openbb_platform/core/tests/app/static/test_coverage.py`
+- **baseapp** - Appears in `openbb_platform/core/tests/app/static/test_coverage.py`
+- **command_coverage** - Appears in `openbb_platform/core/tests/app/static/test_coverage.py`
+- **command_runner** - Appears in `openbb_platform/core/tests/app/static/test_coverage.py`
+- **commandrunner** - Appears in `openbb_platform/core/tests/app/static/test_coverage.py`
+- **commands** - Appears in `openbb_platform/core/tests/app/static/test_coverage.py`
+- **coverage** - Appears in `openbb_platform/core/tests/app/static/test_coverage.py`
+- **def** - Appears in `openbb_platform/core/tests/app/static/test_coverage.py`
+- **dict** - Appears in `openbb_platform/core/tests/app/static/test_coverage.py`
+- **disable** - Appears in `openbb_platform/core/tests/app/static/test_coverage.py`
+- **file** - Appears in `openbb_platform/core/tests/app/static/test_coverage.py`
+- **fixture** - Appears in `openbb_platform/core/tests/app/static/test_coverage.py`
+- **from** - Appears in `openbb_platform/core/tests/app/static/test_coverage.py`
+- **import** - Appears in `openbb_platform/core/tests/app/static/test_coverage.py`
+- **init** - Appears in `openbb_platform/core/tests/app/static/test_coverage.py`
+- **instance** - Appears in `openbb_platform/core/tests/app/static/test_coverage.py`
+- **isinstance** - Appears in `openbb_platform/core/tests/app/static/test_coverage.py`
+- **module** - Appears in `openbb_platform/core/tests/app/static/test_coverage.py`
+- **name** - Appears in `openbb_platform/core/tests/app/static/test_coverage.py`
+- **openbb_core** - Appears in `openbb_platform/core/tests/app/static/test_coverage.py`
+- **openbb_core.app.command_runner** - Appears in `openbb_platform/core/tests/app/static/test_coverage.py`
+- **openbb_core.app.static.app_factory** - Appears in `openbb_platform/core/tests/app/static/test_coverage.py`
+- **openbb_core.app.static.coverage** - Appears in `openbb_platform/core/tests/app/static/test_coverage.py`
+- **outer** - Appears in `openbb_platform/core/tests/app/static/test_coverage.py`
+- **pass** - Appears in `openbb_platform/core/tests/app/static/test_coverage.py`
+- **provider_coverage** - Appears in `openbb_platform/core/tests/app/static/test_coverage.py`
+- **providers** - Appears in `openbb_platform/core/tests/app/static/test_coverage.py`
+- **pylint** - Appears in `openbb_platform/core/tests/app/static/test_coverage.py`
+- **pytest** - Appears in `openbb_platform/core/tests/app/static/test_coverage.py`
+- **redefined** - Appears in `openbb_platform/core/tests/app/static/test_coverage.py`
+- **reference** - Appears in `openbb_platform/core/tests/app/static/test_coverage.py`
+- **return** - Appears in `openbb_platform/core/tests/app/static/test_coverage.py`
+- **scope** - Appears in `openbb_platform/core/tests/app/static/test_coverage.py`
+- **static** - Appears in `openbb_platform/core/tests/app/static/test_coverage.py`
+- **test** - Appears in `openbb_platform/core/tests/app/static/test_coverage.py`
+- **test_coverage_commands** - Appears in `openbb_platform/core/tests/app/static/test_coverage.py`
+- **test_coverage_init** - Appears in `openbb_platform/core/tests/app/static/test_coverage.py`
+- **test_coverage_providers** - Appears in `openbb_platform/core/tests/app/static/test_coverage.py`
+- **test_coverage_reference** - Appears in `openbb_platform/core/tests/app/static/test_coverage.py`
+- **the** - Appears in `openbb_platform/core/tests/app/static/test_coverage.py`

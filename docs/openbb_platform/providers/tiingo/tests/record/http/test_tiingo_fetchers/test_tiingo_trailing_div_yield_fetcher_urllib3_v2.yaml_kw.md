@@ -1,0 +1,57 @@
+# Keywords: openbb_platform/providers/tiingo/tests/record/http/test_tiingo_fetchers/test_tiingo_trailing_div_yield_fetcher_urllib3_v2.yaml
+
+## Extracted Keywords (53 total)
+
+- **accept** - Appears in `openbb_platform/providers/tiingo/tests/record/http/test_tiingo_fetchers/test_tiingo_trailing_div_yield_fetcher_urllib3_v2.yaml`
+- **actions** - Appears in `openbb_platform/providers/tiingo/tests/record/http/test_tiingo_fetchers/test_tiingo_trailing_div_yield_fetcher_urllib3_v2.yaml`
+- **alive** - Appears in `openbb_platform/providers/tiingo/tests/record/http/test_tiingo_fetchers/test_tiingo_trailing_div_yield_fetcher_urllib3_v2.yaml`
+- **allow** - Appears in `openbb_platform/providers/tiingo/tests/record/http/test_tiingo_fetchers/test_tiingo_trailing_div_yield_fetcher_urllib3_v2.yaml`
+- **api** - Appears in `openbb_platform/providers/tiingo/tests/record/http/test_tiingo_fetchers/test_tiingo_trailing_div_yield_fetcher_urllib3_v2.yaml`
+- **application** - Appears in `openbb_platform/providers/tiingo/tests/record/http/test_tiingo_fetchers/test_tiingo_trailing_div_yield_fetcher_urllib3_v2.yaml`
+- **body** - Appears in `openbb_platform/providers/tiingo/tests/record/http/test_tiingo_fetchers/test_tiingo_trailing_div_yield_fetcher_urllib3_v2.yaml`
+- **code** - Appears in `openbb_platform/providers/tiingo/tests/record/http/test_tiingo_fetchers/test_tiingo_trailing_div_yield_fetcher_urllib3_v2.yaml`
+- **com** - Appears in `openbb_platform/providers/tiingo/tests/record/http/test_tiingo_fetchers/test_tiingo_trailing_div_yield_fetcher_urllib3_v2.yaml`
+- **connection** - Appears in `openbb_platform/providers/tiingo/tests/record/http/test_tiingo_fetchers/test_tiingo_trailing_div_yield_fetcher_urllib3_v2.yaml`
+- **content** - Appears in `openbb_platform/providers/tiingo/tests/record/http/test_tiingo_fetchers/test_tiingo_trailing_div_yield_fetcher_urllib3_v2.yaml`
+- **cookie** - Appears in `openbb_platform/providers/tiingo/tests/record/http/test_tiingo_fetchers/test_tiingo_trailing_div_yield_fetcher_urllib3_v2.yaml`
+- **corporate** - Appears in `openbb_platform/providers/tiingo/tests/record/http/test_tiingo_fetchers/test_tiingo_trailing_div_yield_fetcher_urllib3_v2.yaml`
+- **date** - Appears in `openbb_platform/providers/tiingo/tests/record/http/test_tiingo_fetchers/test_tiingo_trailing_div_yield_fetcher_urllib3_v2.yaml`
+- **deflate** - Appears in `openbb_platform/providers/tiingo/tests/record/http/test_tiingo_fetchers/test_tiingo_trailing_div_yield_fetcher_urllib3_v2.yaml`
+- **distribution** - Appears in `openbb_platform/providers/tiingo/tests/record/http/test_tiingo_fetchers/test_tiingo_trailing_div_yield_fetcher_urllib3_v2.yaml`
+- **encoding** - Appears in `openbb_platform/providers/tiingo/tests/record/http/test_tiingo_fetchers/test_tiingo_trailing_div_yield_fetcher_urllib3_v2.yaml`
+- **frame** - Appears in `openbb_platform/providers/tiingo/tests/record/http/test_tiingo_fetchers/test_tiingo_trailing_div_yield_fetcher_urllib3_v2.yaml`
+- **get** - Appears in `openbb_platform/providers/tiingo/tests/record/http/test_tiingo_fetchers/test_tiingo_trailing_div_yield_fetcher_urllib3_v2.yaml`
+- **gmt** - Appears in `openbb_platform/providers/tiingo/tests/record/http/test_tiingo_fetchers/test_tiingo_trailing_div_yield_fetcher_urllib3_v2.yaml`
+- **gzip** - Appears in `openbb_platform/providers/tiingo/tests/record/http/test_tiingo_fetchers/test_tiingo_trailing_div_yield_fetcher_urllib3_v2.yaml`
+- **head** - Appears in `openbb_platform/providers/tiingo/tests/record/http/test_tiingo_fetchers/test_tiingo_trailing_div_yield_fetcher_urllib3_v2.yaml`
+- **headers** - Appears in `openbb_platform/providers/tiingo/tests/record/http/test_tiingo_fetchers/test_tiingo_trailing_div_yield_fetcher_urllib3_v2.yaml`
+- **https** - Appears in `openbb_platform/providers/tiingo/tests/record/http/test_tiingo_fetchers/test_tiingo_trailing_div_yield_fetcher_urllib3_v2.yaml`
+- **interactions** - Appears in `openbb_platform/providers/tiingo/tests/record/http/test_tiingo_fetchers/test_tiingo_trailing_div_yield_fetcher_urllib3_v2.yaml`
+- **json** - Appears in `openbb_platform/providers/tiingo/tests/record/http/test_tiingo_fetchers/test_tiingo_trailing_div_yield_fetcher_urllib3_v2.yaml`
+- **jun** - Appears in `openbb_platform/providers/tiingo/tests/record/http/test_tiingo_fetchers/test_tiingo_trailing_div_yield_fetcher_urllib3_v2.yaml`
+- **keep** - Appears in `openbb_platform/providers/tiingo/tests/record/http/test_tiingo_fetchers/test_tiingo_trailing_div_yield_fetcher_urllib3_v2.yaml`
+- **length** - Appears in `openbb_platform/providers/tiingo/tests/record/http/test_tiingo_fetchers/test_tiingo_trailing_div_yield_fetcher_urllib3_v2.yaml`
+- **message** - Appears in `openbb_platform/providers/tiingo/tests/record/http/test_tiingo_fetchers/test_tiingo_trailing_div_yield_fetcher_urllib3_v2.yaml`
+- **method** - Appears in `openbb_platform/providers/tiingo/tests/record/http/test_tiingo_fetchers/test_tiingo_trailing_div_yield_fetcher_urllib3_v2.yaml`
+- **mock_token** - Appears in `openbb_platform/providers/tiingo/tests/record/http/test_tiingo_fetchers/test_tiingo_trailing_div_yield_fetcher_urllib3_v2.yaml`
+- **nginx** - Appears in `openbb_platform/providers/tiingo/tests/record/http/test_tiingo_fetchers/test_tiingo_trailing_div_yield_fetcher_urllib3_v2.yaml`
+- **null** - Appears in `openbb_platform/providers/tiingo/tests/record/http/test_tiingo_fetchers/test_tiingo_trailing_div_yield_fetcher_urllib3_v2.yaml`
+- **options** - Appears in `openbb_platform/providers/tiingo/tests/record/http/test_tiingo_fetchers/test_tiingo_trailing_div_yield_fetcher_urllib3_v2.yaml`
+- **origin** - Appears in `openbb_platform/providers/tiingo/tests/record/http/test_tiingo_fetchers/test_tiingo_trailing_div_yield_fetcher_urllib3_v2.yaml`
+- **request** - Appears in `openbb_platform/providers/tiingo/tests/record/http/test_tiingo_fetchers/test_tiingo_trailing_div_yield_fetcher_urllib3_v2.yaml`
+- **response** - Appears in `openbb_platform/providers/tiingo/tests/record/http/test_tiingo_fetchers/test_tiingo_trailing_div_yield_fetcher_urllib3_v2.yaml`
+- **sameorigin** - Appears in `openbb_platform/providers/tiingo/tests/record/http/test_tiingo_fetchers/test_tiingo_trailing_div_yield_fetcher_urllib3_v2.yaml`
+- **schd** - Appears in `openbb_platform/providers/tiingo/tests/record/http/test_tiingo_fetchers/test_tiingo_trailing_div_yield_fetcher_urllib3_v2.yaml`
+- **server** - Appears in `openbb_platform/providers/tiingo/tests/record/http/test_tiingo_fetchers/test_tiingo_trailing_div_yield_fetcher_urllib3_v2.yaml`
+- **status** - Appears in `openbb_platform/providers/tiingo/tests/record/http/test_tiingo_fetchers/test_tiingo_trailing_div_yield_fetcher_urllib3_v2.yaml`
+- **string** - Appears in `openbb_platform/providers/tiingo/tests/record/http/test_tiingo_fetchers/test_tiingo_trailing_div_yield_fetcher_urllib3_v2.yaml`
+- **thu** - Appears in `openbb_platform/providers/tiingo/tests/record/http/test_tiingo_fetchers/test_tiingo_trailing_div_yield_fetcher_urllib3_v2.yaml`
+- **tiingo** - Appears in `openbb_platform/providers/tiingo/tests/record/http/test_tiingo_fetchers/test_tiingo_trailing_div_yield_fetcher_urllib3_v2.yaml`
+- **token** - Appears in `openbb_platform/providers/tiingo/tests/record/http/test_tiingo_fetchers/test_tiingo_trailing_div_yield_fetcher_urllib3_v2.yaml`
+- **trailingdiv1y** - Appears in `openbb_platform/providers/tiingo/tests/record/http/test_tiingo_fetchers/test_tiingo_trailing_div_yield_fetcher_urllib3_v2.yaml`
+- **type** - Appears in `openbb_platform/providers/tiingo/tests/record/http/test_tiingo_fetchers/test_tiingo_trailing_div_yield_fetcher_urllib3_v2.yaml`
+- **ubuntu** - Appears in `openbb_platform/providers/tiingo/tests/record/http/test_tiingo_fetchers/test_tiingo_trailing_div_yield_fetcher_urllib3_v2.yaml`
+- **uri** - Appears in `openbb_platform/providers/tiingo/tests/record/http/test_tiingo_fetchers/test_tiingo_trailing_div_yield_fetcher_urllib3_v2.yaml`
+- **vary** - Appears in `openbb_platform/providers/tiingo/tests/record/http/test_tiingo_fetchers/test_tiingo_trailing_div_yield_fetcher_urllib3_v2.yaml`
+- **version** - Appears in `openbb_platform/providers/tiingo/tests/record/http/test_tiingo_fetchers/test_tiingo_trailing_div_yield_fetcher_urllib3_v2.yaml`
+- **yield** - Appears in `openbb_platform/providers/tiingo/tests/record/http/test_tiingo_fetchers/test_tiingo_trailing_div_yield_fetcher_urllib3_v2.yaml`

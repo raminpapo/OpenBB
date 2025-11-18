@@ -1,0 +1,834 @@
+# Documentation: openbb_platform/providers/tmx/tests/record/http/test_tmx_fetchers/test_tmx_company_filings_fetcher_urllib3_v2.yaml
+
+## File Metadata
+- **Path**: `openbb_platform/providers/tmx/tests/record/http/test_tmx_fetchers/test_tmx_company_filings_fetcher_urllib3_v2.yaml`
+- **Size**: 22,786 characters, 797 lines
+- **Words**: 1,724
+- **Extension**: .yaml
+- **Classification**: Text file
+
+## Original Source
+
+```yaml
+interactions:
+- request:
+    body: '{"operationName": "getCompanyFilings", "variables": {"symbol": "SHOP",
+      "fromDate": "2023-07-28", "toDate": "2023-08-03", "limit": 1000}, "query": "query
+      getCompanyFilings($symbol: String!, $fromDate: String, $toDate: String, $limit:
+      Int) {\n  filings: getCompanyFilings(\n  symbol: $symbol\n  fromDate: $fromDate\n  toDate:
+      $toDate\n  limit: $limit\n  ) {\nsize\nfilingDate\ndescription\nname\nurlToPdf\n}\n}"}'
+    headers:
+      Accept:
+      - '*/*'
+      Content-Type:
+      - application/json
+      authority:
+      - app-money.tmx.com
+      locale:
+      - en
+      referer:
+      - https://money.tmx.com/en/quote/SHOP
+    method: POST
+    uri: https://app-money.tmx.com/graphql
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAA82TQWvbMBSA7/sVxhCzoTiWZTuNA2aEJGY5tAmk7DJ2kCW5EdiSJ8mELOS/T269
+        duu6wyhJdxAS0nvPft/HO7oUG+xOj27JKy7utDv9cnQ1/87cqWiratjfL7CxNy6CKPLhxIeRO3Qp
+        00TxxnAp7NNcCsNFK1vtUK5JJXWrmI0SuO4yE+SHMM2R4ztzpgwvOcFdpiNLhwvDFK+d/he6kHzt
+        vF9+sOmtqm7lhpa2xM6YRk+DADfN6FsrDasZ5XhEZB10TQRU7kUlMc3vy3zcs6LG2lZe0SyEIUTQ
+        U6zMxjEpSHwVxpQkCUxIWYxJnIbUM4eGZZtFPvf0oS5klW0/rTeDaDafefYTDRaHG9tKtt3JhpcH
+        sBJkBOYV1hrMwLYtpKJcWErgs7Qc7sB2hxXTXilVfdtVhhD5DysMUdJtEMb3z4snjtlPTMAHv2EC
+        sgQ9JtBj6kLyNRigyXKAUs8iYLZzRrNfJJ2G/4PM5aVlFm8hM3qtzOXbyLxeeLPzuUnQMzf4gm5g
+        evW3QbteDNB4dlHQq8fJEFgQjitHG9zBFUYHijVSmfN5iOJnHiaXnJEI+jAcv+Rh9TgHPRTwBGWA
+        8gcsr9GE/lXTDdtrR7GKYc3O5AMXk6LECSIQx0XExkVEcXTJuZikdovs6Q8fXfeg7/4l7Mg9fT2d
+        3v0AKMfSszgIAAA=
+    headers:
+      Access-Control-Allow-Origin:
+      - '*'
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Security-Policy:
+      - frame-ancestors 'none'; default-src 'self'
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Fri, 28 Jun 2024 14:41:24 GMT
+      Etag:
+      - W/"838-thh0SjQVKTQbgk9+eAk7wJbeuuU"
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Origin, Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-DNS-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-XSS-Protection:
+      - 1; mode=block
+    status:
+      code: 200
+      message: OK
+- request:
+    body: '{"operationName": "getCompanyFilings", "variables": {"symbol": "SHOP",
+      "fromDate": "2023-08-25", "toDate": "2023-08-31", "limit": 1000}, "query": "query
+      getCompanyFilings($symbol: String!, $fromDate: String, $toDate: String, $limit:
+      Int) {\n  filings: getCompanyFilings(\n  symbol: $symbol\n  fromDate: $fromDate\n  toDate:
+      $toDate\n  limit: $limit\n  ) {\nsize\nfilingDate\ndescription\nname\nurlToPdf\n}\n}"}'
+    headers:
+      Accept:
+      - '*/*'
+      Content-Type:
+      - application/json
+      authority:
+      - app-money.tmx.com
+      locale:
+      - en
+      referer:
+      - https://money.tmx.com/en/quote/SHOP
+    method: POST
+    uri: https://app-money.tmx.com/graphql
+  response:
+    body:
+      string: '{"data":{"filings":[]}}
+
+        '
+    headers:
+      Access-Control-Allow-Origin:
+      - '*'
+      Connection:
+      - keep-alive
+      Content-Length:
+      - '24'
+      Content-Security-Policy:
+      - frame-ancestors 'none'; default-src 'self'
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Fri, 28 Jun 2024 14:41:24 GMT
+      Etag:
+      - W/"18-YqxSvZ09xIbNEA8V1atJvD3G14s"
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Vary:
+      - Origin, Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-DNS-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-XSS-Protection:
+      - 1; mode=block
+    status:
+      code: 200
+      message: OK
+- request:
+    body: '{"operationName": "getCompanyFilings", "variables": {"symbol": "SHOP",
+      "fromDate": "2023-09-22", "toDate": "2023-09-28", "limit": 1000}, "query": "query
+      getCompanyFilings($symbol: String!, $fromDate: String, $toDate: String, $limit:
+      Int) {\n  filings: getCompanyFilings(\n  symbol: $symbol\n  fromDate: $fromDate\n  toDate:
+      $toDate\n  limit: $limit\n  ) {\nsize\nfilingDate\ndescription\nname\nurlToPdf\n}\n}"}'
+    headers:
+      Accept:
+      - '*/*'
+      Content-Type:
+      - application/json
+      authority:
+      - app-money.tmx.com
+      locale:
+      - en
+      referer:
+      - https://money.tmx.com/en/quote/SHOP
+    method: POST
+    uri: https://app-money.tmx.com/graphql
+  response:
+    body:
+      string: '{"data":{"filings":[]}}
+
+        '
+    headers:
+      Access-Control-Allow-Origin:
+      - '*'
+      Connection:
+      - keep-alive
+      Content-Length:
+      - '24'
+      Content-Security-Policy:
+      - frame-ancestors 'none'; default-src 'self'
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Fri, 28 Jun 2024 14:41:24 GMT
+      Etag:
+      - W/"18-YqxSvZ09xIbNEA8V1atJvD3G14s"
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Vary:
+      - Origin, Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-DNS-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-XSS-Protection:
+      - 1; mode=block
+    status:
+      code: 200
+      message: OK
+- request:
+    body: '{"operationName": "getCompanyFilings", "variables": {"symbol": "SHOP",
+      "fromDate": "2023-08-18", "toDate": "2023-08-24", "limit": 1000}, "query": "query
+      getCompanyFilings($symbol: String!, $fromDate: String, $toDate: String, $limit:
+      Int) {\n  filings: getCompanyFilings(\n  symbol: $symbol\n  fromDate: $fromDate\n  toDate:
+      $toDate\n  limit: $limit\n  ) {\nsize\nfilingDate\ndescription\nname\nurlToPdf\n}\n}"}'
+    headers:
+      Accept:
+      - '*/*'
+      Content-Type:
+      - application/json
+      authority:
+      - app-money.tmx.com
+      locale:
+      - en
+      referer:
+      - https://money.tmx.com/en/quote/SHOP
+    method: POST
+    uri: https://app-money.tmx.com/graphql
+  response:
+    body:
+      string: '{"data":{"filings":[]}}
+
+        '
+    headers:
+      Access-Control-Allow-Origin:
+      - '*'
+      Connection:
+      - keep-alive
+      Content-Length:
+      - '24'
+      Content-Security-Policy:
+      - frame-ancestors 'none'; default-src 'self'
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Fri, 28 Jun 2024 14:41:24 GMT
+      Etag:
+      - W/"18-YqxSvZ09xIbNEA8V1atJvD3G14s"
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Vary:
+      - Origin, Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-DNS-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-XSS-Protection:
+      - 1; mode=block
+    status:
+      code: 200
+      message: OK
+- request:
+    body: '{"operationName": "getCompanyFilings", "variables": {"symbol": "SHOP",
+      "fromDate": "2023-09-08", "toDate": "2023-09-14", "limit": 1000}, "query": "query
+      getCompanyFilings($symbol: String!, $fromDate: String, $toDate: String, $limit:
+      Int) {\n  filings: getCompanyFilings(\n  symbol: $symbol\n  fromDate: $fromDate\n  toDate:
+      $toDate\n  limit: $limit\n  ) {\nsize\nfilingDate\ndescription\nname\nurlToPdf\n}\n}"}'
+    headers:
+      Accept:
+      - '*/*'
+      Content-Type:
+      - application/json
+      authority:
+      - app-money.tmx.com
+      locale:
+      - en
+      referer:
+      - https://money.tmx.com/en/quote/SHOP
+    method: POST
+    uri: https://app-money.tmx.com/graphql
+  response:
+    body:
+      string: '{"data":{"filings":[]}}
+
+        '
+    headers:
+      Access-Control-Allow-Origin:
+      - '*'
+      Connection:
+      - keep-alive
+      Content-Length:
+      - '24'
+      Content-Security-Policy:
+      - frame-ancestors 'none'; default-src 'self'
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Fri, 28 Jun 2024 14:41:24 GMT
+      Etag:
+      - W/"18-YqxSvZ09xIbNEA8V1atJvD3G14s"
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Vary:
+      - Origin, Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-DNS-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-XSS-Protection:
+      - 1; mode=block
+    status:
+      code: 200
+      message: OK
+- request:
+    body: '{"operationName": "getCompanyFilings", "variables": {"symbol": "SHOP",
+      "fromDate": "2023-08-11", "toDate": "2023-08-17", "limit": 1000}, "query": "query
+      getCompanyFilings($symbol: String!, $fromDate: String, $toDate: String, $limit:
+      Int) {\n  filings: getCompanyFilings(\n  symbol: $symbol\n  fromDate: $fromDate\n  toDate:
+      $toDate\n  limit: $limit\n  ) {\nsize\nfilingDate\ndescription\nname\nurlToPdf\n}\n}"}'
+    headers:
+      Accept:
+      - '*/*'
+      Content-Type:
+      - application/json
+      authority:
+      - app-money.tmx.com
+      locale:
+      - en
+      referer:
+      - https://money.tmx.com/en/quote/SHOP
+    method: POST
+    uri: https://app-money.tmx.com/graphql
+  response:
+    body:
+      string: '{"data":{"filings":[]}}
+
+        '
+    headers:
+      Access-Control-Allow-Origin:
+      - '*'
+      Connection:
+      - keep-alive
+      Content-Length:
+      - '24'
+      Content-Security-Policy:
+      - frame-ancestors 'none'; default-src 'self'
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Fri, 28 Jun 2024 14:41:24 GMT
+      Etag:
+      - W/"18-YqxSvZ09xIbNEA8V1atJvD3G14s"
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Vary:
+      - Origin, Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-DNS-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-XSS-Protection:
+      - 1; mode=block
+    status:
+      code: 200
+      message: OK
+- request:
+    body: '{"operationName": "getCompanyFilings", "variables": {"symbol": "SHOP",
+      "fromDate": "2023-08-04", "toDate": "2023-08-10", "limit": 1000}, "query": "query
+      getCompanyFilings($symbol: String!, $fromDate: String, $toDate: String, $limit:
+      Int) {\n  filings: getCompanyFilings(\n  symbol: $symbol\n  fromDate: $fromDate\n  toDate:
+      $toDate\n  limit: $limit\n  ) {\nsize\nfilingDate\ndescription\nname\nurlToPdf\n}\n}"}'
+    headers:
+      Accept:
+      - '*/*'
+      Content-Type:
+      - application/json
+      authority:
+      - app-money.tmx.com
+      locale:
+      - en
+      referer:
+      - https://money.tmx.com/en/quote/SHOP
+    method: POST
+    uri: https://app-money.tmx.com/graphql
+  response:
+    body:
+      string: '{"data":{"filings":[]}}
+
+        '
+    headers:
+      Access-Control-Allow-Origin:
+      - '*'
+      Connection:
+      - keep-alive
+      Content-Length:
+      - '24'
+      Content-Security-Policy:
+      - frame-ancestors 'none'; default-src 'self'
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Fri, 28 Jun 2024 14:41:24 GMT
+      Etag:
+      - W/"18-YqxSvZ09xIbNEA8V1atJvD3G14s"
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Vary:
+      - Origin, Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-DNS-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-XSS-Protection:
+      - 1; mode=block
+    status:
+      code: 200
+      message: OK
+- request:
+    body: '{"operationName": "getCompanyFilings", "variables": {"symbol": "SHOP",
+      "fromDate": "2023-09-15", "toDate": "2023-09-21", "limit": 1000}, "query": "query
+      getCompanyFilings($symbol: String!, $fromDate: String, $toDate: String, $limit:
+      Int) {\n  filings: getCompanyFilings(\n  symbol: $symbol\n  fromDate: $fromDate\n  toDate:
+      $toDate\n  limit: $limit\n  ) {\nsize\nfilingDate\ndescription\nname\nurlToPdf\n}\n}"}'
+    headers:
+      Accept:
+      - '*/*'
+      Content-Type:
+      - application/json
+      authority:
+      - app-money.tmx.com
+      locale:
+      - en
+      referer:
+      - https://money.tmx.com/en/quote/SHOP
+    method: POST
+    uri: https://app-money.tmx.com/graphql
+  response:
+    body:
+      string: '{"data":{"filings":[]}}
+
+        '
+    headers:
+      Access-Control-Allow-Origin:
+      - '*'
+      Connection:
+      - keep-alive
+      Content-Length:
+      - '24'
+      Content-Security-Policy:
+      - frame-ancestors 'none'; default-src 'self'
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Fri, 28 Jun 2024 14:41:24 GMT
+      Etag:
+      - W/"18-YqxSvZ09xIbNEA8V1atJvD3G14s"
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Vary:
+      - Origin, Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-DNS-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-XSS-Protection:
+      - 1; mode=block
+    status:
+      code: 200
+      message: OK
+- request:
+    body: '{"operationName": "getCompanyFilings", "variables": {"symbol": "SHOP",
+      "fromDate": "2023-07-07", "toDate": "2023-07-13", "limit": 1000}, "query": "query
+      getCompanyFilings($symbol: String!, $fromDate: String, $toDate: String, $limit:
+      Int) {\n  filings: getCompanyFilings(\n  symbol: $symbol\n  fromDate: $fromDate\n  toDate:
+      $toDate\n  limit: $limit\n  ) {\nsize\nfilingDate\ndescription\nname\nurlToPdf\n}\n}"}'
+    headers:
+      Accept:
+      - '*/*'
+      Content-Type:
+      - application/json
+      authority:
+      - app-money.tmx.com
+      locale:
+      - en
+      referer:
+      - https://money.tmx.com/en/quote/SHOP
+    method: POST
+    uri: https://app-money.tmx.com/graphql
+  response:
+    body:
+      string: '{"data":{"filings":[]}}
+
+        '
+    headers:
+      Access-Control-Allow-Origin:
+      - '*'
+      Connection:
+      - keep-alive
+      Content-Length:
+      - '24'
+      Content-Security-Policy:
+      - frame-ancestors 'none'; default-src 'self'
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Fri, 28 Jun 2024 14:41:24 GMT
+      Etag:
+      - W/"18-YqxSvZ09xIbNEA8V1atJvD3G14s"
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Vary:
+      - Origin, Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-DNS-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-XSS-Protection:
+      - 1; mode=block
+    status:
+      code: 200
+      message: OK
+- request:
+    body: '{"operationName": "getCompanyFilings", "variables": {"symbol": "SHOP",
+      "fromDate": "2023-07-21", "toDate": "2023-07-27", "limit": 1000}, "query": "query
+      getCompanyFilings($symbol: String!, $fromDate: String, $toDate: String, $limit:
+      Int) {\n  filings: getCompanyFilings(\n  symbol: $symbol\n  fromDate: $fromDate\n  toDate:
+      $toDate\n  limit: $limit\n  ) {\nsize\nfilingDate\ndescription\nname\nurlToPdf\n}\n}"}'
+    headers:
+      Accept:
+      - '*/*'
+      Content-Type:
+      - application/json
+      authority:
+      - app-money.tmx.com
+      locale:
+      - en
+      referer:
+      - https://money.tmx.com/en/quote/SHOP
+    method: POST
+    uri: https://app-money.tmx.com/graphql
+  response:
+    body:
+      string: '{"data":{"filings":[]}}
+
+        '
+    headers:
+      Access-Control-Allow-Origin:
+      - '*'
+      Connection:
+      - keep-alive
+      Content-Length:
+      - '24'
+      Content-Security-Policy:
+      - frame-ancestors 'none'; default-src 'self'
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Fri, 28 Jun 2024 14:41:24 GMT
+      Etag:
+      - W/"18-YqxSvZ09xIbNEA8V1atJvD3G14s"
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Vary:
+      - Origin, Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-DNS-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-XSS-Protection:
+      - 1; mode=block
+    status:
+      code: 200
+      message: OK
+- request:
+    body: '{"operationName": "getCompanyFilings", "variables": {"symbol": "SHOP",
+      "fromDate": "2023-09-01", "toDate": "2023-09-07", "limit": 1000}, "query": "query
+      getCompanyFilings($symbol: String!, $fromDate: String, $toDate: String, $limit:
+      Int) {\n  filings: getCompanyFilings(\n  symbol: $symbol\n  fromDate: $fromDate\n  toDate:
+      $toDate\n  limit: $limit\n  ) {\nsize\nfilingDate\ndescription\nname\nurlToPdf\n}\n}"}'
+    headers:
+      Accept:
+      - '*/*'
+      Content-Type:
+      - application/json
+      authority:
+      - app-money.tmx.com
+      locale:
+      - en
+      referer:
+      - https://money.tmx.com/en/quote/SHOP
+    method: POST
+    uri: https://app-money.tmx.com/graphql
+  response:
+    body:
+      string: '{"data":{"filings":[]}}
+
+        '
+    headers:
+      Access-Control-Allow-Origin:
+      - '*'
+      Connection:
+      - keep-alive
+      Content-Length:
+      - '24'
+      Content-Security-Policy:
+      - frame-ancestors 'none'; default-src 'self'
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Fri, 28 Jun 2024 14:41:24 GMT
+      Etag:
+      - W/"18-YqxSvZ09xIbNEA8V1atJvD3G14s"
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Vary:
+      - Origin, Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-DNS-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-XSS-Protection:
+      - 1; mode=block
+    status:
+      code: 200
+      message: OK
+- request:
+    body: '{"operationName": "getCompanyFilings", "variables": {"symbol": "SHOP",
+      "fromDate": "2023-07-14", "toDate": "2023-07-20", "limit": 1000}, "query": "query
+      getCompanyFilings($symbol: String!, $fromDate: String, $toDate: String, $limit:
+      Int) {\n  filings: getCompanyFilings(\n  symbol: $symbol\n  fromDate: $fromDate\n  toDate:
+      $toDate\n  limit: $limit\n  ) {\nsize\nfilingDate\ndescription\nname\nurlToPdf\n}\n}"}'
+    headers:
+      Accept:
+      - '*/*'
+      Content-Type:
+      - application/json
+      authority:
+      - app-money.tmx.com
+      locale:
+      - en
+      referer:
+      - https://money.tmx.com/en/quote/SHOP
+    method: POST
+    uri: https://app-money.tmx.com/graphql
+  response:
+    body:
+      string: '{"data":{"filings":[]}}
+
+        '
+    headers:
+      Access-Control-Allow-Origin:
+      - '*'
+      Connection:
+      - keep-alive
+      Content-Length:
+      - '24'
+      Content-Security-Policy:
+      - frame-ancestors 'none'; default-src 'self'
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Fri, 28 Jun 2024 14:41:24 GMT
+      Etag:
+      - W/"18-YqxSvZ09xIbNEA8V1atJvD3G14s"
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Vary:
+      - Origin, Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-DNS-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-XSS-Protection:
+      - 1; mode=block
+    status:
+      code: 200
+      message: OK
+- request:
+    body: '{"operationName": "getCompanyFilings", "variables": {"symbol": "SHOP",
+      "fromDate": "2023-06-30", "toDate": "2023-07-06", "limit": 1000}, "query": "query
+      getCompanyFilings($symbol: String!, $fromDate: String, $toDate: String, $limit:
+      Int) {\n  filings: getCompanyFilings(\n  symbol: $symbol\n  fromDate: $fromDate\n  toDate:
+      $toDate\n  limit: $limit\n  ) {\nsize\nfilingDate\ndescription\nname\nurlToPdf\n}\n}"}'
+    headers:
+      Accept:
+      - '*/*'
+      Content-Type:
+      - application/json
+      authority:
+      - app-money.tmx.com
+      locale:
+      - en
+      referer:
+      - https://money.tmx.com/en/quote/SHOP
+    method: POST
+    uri: https://app-money.tmx.com/graphql
+  response:
+    body:
+      string: '{"data":{"filings":[]}}
+
+        '
+    headers:
+      Access-Control-Allow-Origin:
+      - '*'
+      Connection:
+      - keep-alive
+      Content-Length:
+      - '24'
+      Content-Security-Policy:
+      - frame-ancestors 'none'; default-src 'self'
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Fri, 28 Jun 2024 14:41:24 GMT
+      Etag:
+      - W/"18-YqxSvZ09xIbNEA8V1atJvD3G14s"
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Vary:
+      - Origin, Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-DNS-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-XSS-Protection:
+      - 1; mode=block
+    status:
+      code: 200
+      message: OK
+- request:
+    body: '{"operationName": "getCompanyFilings", "variables": {"symbol": "SHOP",
+      "fromDate": "2023-09-29", "toDate": "2023-09-30", "limit": 1000}, "query": "query
+      getCompanyFilings($symbol: String!, $fromDate: String, $toDate: String, $limit:
+      Int) {\n  filings: getCompanyFilings(\n  symbol: $symbol\n  fromDate: $fromDate\n  toDate:
+      $toDate\n  limit: $limit\n  ) {\nsize\nfilingDate\ndescription\nname\nurlToPdf\n}\n}"}'
+    headers:
+      Accept:
+      - '*/*'
+      Content-Type:
+      - application/json
+      authority:
+      - app-money.tmx.com
+      locale:
+      - en
+      referer:
+      - https://money.tmx.com/en/quote/SHOP
+    method: POST
+    uri: https://app-money.tmx.com/graphql
+  response:
+    body:
+      string: '{"data":{"filings":[]}}
+
+        '
+    headers:
+      Access-Control-Allow-Origin:
+      - '*'
+      Connection:
+      - keep-alive
+      Content-Length:
+      - '24'
+      Content-Security-Policy:
+      - frame-ancestors 'none'; default-src 'self'
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Fri, 28 Jun 2024 14:41:24 GMT
+      Etag:
+      - W/"18-YqxSvZ09xIbNEA8V1atJvD3G14s"
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Vary:
+      - Origin, Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-DNS-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-XSS-Protection:
+      - 1; mode=block
+    status:
+      code: 200
+      message: OK
+version: 1
+
+```
+
+## High-Level Overview
+
+This is a .yaml file containing 797 lines of code.
+
+## Detailed Structure
+
+Standard text file.
+
+## Key Components
+
+No major components extracted.
+
+## Usage & Examples
+
+See source code for usage details.
+
+## Related Files
+
+No direct file references found.
+
+## Notes
+- Generated: 2025-11-18T07:54:42.115016
+- Generator: World's Best Repo Book Generator v1.0.0

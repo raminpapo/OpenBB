@@ -1,0 +1,44 @@
+# Keywords: openbb_platform/obbject_extensions/charting/openbb_charting/__init__.py
+
+## Extracted Keywords (40 total)
+
+- **Extension** - Appears in `openbb_platform/obbject_extensions/charting/openbb_charting/__init__.py`
+- **OBBject** - Appears in `openbb_platform/obbject_extensions/charting/openbb_charting/__init__.py`
+- **_charting** - Appears in `openbb_platform/obbject_extensions/charting/openbb_charting/__init__.py`
+- **app** - Appears in `openbb_platform/obbject_extensions/charting/openbb_charting/__init__.py`
+- **category** - Appears in `openbb_platform/obbject_extensions/charting/openbb_charting/__init__.py`
+- **charting** - Appears in `openbb_platform/obbject_extensions/charting/openbb_charting/__init__.py`
+- **charts** - Appears in `openbb_platform/obbject_extensions/charting/openbb_charting/__init__.py`
+- **create** - Appears in `openbb_platform/obbject_extensions/charting/openbb_charting/__init__.py`
+- **custom** - Appears in `openbb_platform/obbject_extensions/charting/openbb_charting/__init__.py`
+- **data** - Appears in `openbb_platform/obbject_extensions/charting/openbb_charting/__init__.py`
+- **def** - Appears in `openbb_platform/obbject_extensions/charting/openbb_charting/__init__.py`
+- **description** - Appears in `openbb_platform/obbject_extensions/charting/openbb_charting/__init__.py`
+- **disable** - Appears in `openbb_platform/obbject_extensions/charting/openbb_charting/__init__.py`
+- **ext** - Appears in `openbb_platform/obbject_extensions/charting/openbb_charting/__init__.py`
+- **extension** - Appears in `openbb_platform/obbject_extensions/charting/openbb_charting/__init__.py`
+- **filterwarnings** - Appears in `openbb_platform/obbject_extensions/charting/openbb_charting/__init__.py`
+- **for** - Appears in `openbb_platform/obbject_extensions/charting/openbb_charting/__init__.py`
+- **from** - Appears in `openbb_platform/obbject_extensions/charting/openbb_charting/__init__.py`
+- **get** - Appears in `openbb_platform/obbject_extensions/charting/openbb_charting/__init__.py`
+- **get_charting_module** - Appears in `openbb_platform/obbject_extensions/charting/openbb_charting/__init__.py`
+- **ignore** - Appears in `openbb_platform/obbject_extensions/charting/openbb_charting/__init__.py`
+- **import** - Appears in `openbb_platform/obbject_extensions/charting/openbb_charting/__init__.py`
+- **import_module** - Appears in `openbb_platform/obbject_extensions/charting/openbb_charting/__init__.py`
+- **importlib** - Appears in `openbb_platform/obbject_extensions/charting/openbb_charting/__init__.py`
+- **model** - Appears in `openbb_platform/obbject_extensions/charting/openbb_charting/__init__.py`
+- **module** - Appears in `openbb_platform/obbject_extensions/charting/openbb_charting/__init__.py`
+- **name** - Appears in `openbb_platform/obbject_extensions/charting/openbb_charting/__init__.py`
+- **obbject** - Appears in `openbb_platform/obbject_extensions/charting/openbb_charting/__init__.py`
+- **obbject_accessor** - Appears in `openbb_platform/obbject_extensions/charting/openbb_charting/__init__.py`
+- **openbb** - Appears in `openbb_platform/obbject_extensions/charting/openbb_charting/__init__.py`
+- **openbb_charting** - Appears in `openbb_platform/obbject_extensions/charting/openbb_charting/__init__.py`
+- **openbb_core** - Appears in `openbb_platform/obbject_extensions/charting/openbb_charting/__init__.py`
+- **openbb_core.app.model.extension** - Appears in `openbb_platform/obbject_extensions/charting/openbb_charting/__init__.py`
+- **outside** - Appears in `openbb_platform/obbject_extensions/charting/openbb_charting/__init__.py`
+- **pylint** - Appears in `openbb_platform/obbject_extensions/charting/openbb_charting/__init__.py`
+- **return** - Appears in `openbb_platform/obbject_extensions/charting/openbb_charting/__init__.py`
+- **the** - Appears in `openbb_platform/obbject_extensions/charting/openbb_charting/__init__.py`
+- **toplevel** - Appears in `openbb_platform/obbject_extensions/charting/openbb_charting/__init__.py`
+- **userwarning** - Appears in `openbb_platform/obbject_extensions/charting/openbb_charting/__init__.py`
+- **warnings** - Appears in `openbb_platform/obbject_extensions/charting/openbb_charting/__init__.py`

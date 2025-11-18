@@ -1,0 +1,124 @@
+# Documentation: openbb_platform/core/openbb_core/provider/standard_models/money_measures.py
+
+## File Metadata
+- **Path**: `openbb_platform/core/openbb_core/provider/standard_models/money_measures.py`
+- **Size**: 1,774 characters, 52 lines
+- **Words**: 176
+- **Extension**: .py
+- **Classification**: Text file
+
+## Original Source
+
+```python
+"""Money Measures Standard Model."""
+
+from datetime import date as dateType
+
+from openbb_core.provider.abstract.data import Data
+from openbb_core.provider.abstract.query_params import QueryParams
+from openbb_core.provider.utils.descriptions import (
+    DATA_DESCRIPTIONS,
+    QUERY_DESCRIPTIONS,
+)
+from pydantic import Field
+
+
+class MoneyMeasuresQueryParams(QueryParams):
+    """Treasury Rates Query."""
+
+    start_date: dateType | None = Field(
+        default=None,
+        description=QUERY_DESCRIPTIONS.get("start_date", ""),
+    )
+    end_date: dateType | None = Field(
+        default=None,
+        description=QUERY_DESCRIPTIONS.get("end_date", ""),
+    )
+    adjusted: bool | None = Field(
+        default=True, description="Whether to return seasonally adjusted data."
+    )
+
+
+class MoneyMeasuresData(Data):
+    """Money Measures Data."""
+
+    month: dateType = Field(description=DATA_DESCRIPTIONS.get("date", ""))
+    M1: float = Field(description="Value of the M1 money supply in billions.")
+    M2: float = Field(description="Value of the M2 money supply in billions.")
+    currency: float | None = Field(
+        description="Value of currency in circulation in billions.", default=None
+    )
+    demand_deposits: float | None = Field(
+        description="Value of demand deposits in billions.", default=None
+    )
+    retail_money_market_funds: float | None = Field(
+        description="Value of retail money market funds in billions.", default=None
+    )
+    other_liquid_deposits: float | None = Field(
+        description="Value of other liquid deposits in billions.", default=None
+    )
+    small_denomination_time_deposits: float | None = Field(
+        description="Value of small denomination time deposits in billions.",
+        default=None,
+    )
+
+```
+
+## High-Level Overview
+
+Money Measures Standard Model.
+
+from datetime import date as dateType
+
+from openbb_core.provider.abstract.data import Data
+from openbb_core.provider.abstract.query_params import QueryParams
+from openbb_core.provider.utils.descriptions import (
+DATA_DESCRIPTIONS,
+QUERY_DESCRIPTIONS,
+)
+from pydantic import Field
+
+
+class MoneyMeasuresQueryParams(QueryParams):
+Treasury Rates Query.
+Money Measures Data.
+
+month: dateType = Field(description=DATA_DESCRIPTIONS.get("date", ""))
+M1: float = Field(description="Value of the M1 money supply in billions.")
+M2: float = Field(description="Value of the M2 money supply in billions.")
+
+## Detailed Structure
+
+### Python File Structure
+
+**Classes** (2):
+`MoneyMeasuresQueryParams`, `MoneyMeasuresData`
+
+**Functions** (0):
+None
+
+**Imports** (9):
+`datetime`, `date`, `openbb_core.provider.abstract.data`, `Data`, `openbb_core.provider.abstract.query_params`, `QueryParams`, `openbb_core.provider.utils.descriptions`, `pydantic`, `Field`
+
+
+## Key Components
+
+**Class `MoneyMeasuresQueryParams`**: Treasury Rates Query.
+
+**Class `MoneyMeasuresData`**: Money Measures Data.
+
+## Usage & Examples
+
+See source code for usage details.
+
+## Related Files
+
+- `datetime`
+- `openbb_core.provider.abstract.data`
+- `openbb_core.provider.abstract.query_params`
+- `openbb_core.provider.utils.descriptions`
+- `pydantic`
+
+## Notes
+- Generated: 2025-11-18T07:54:35.699358
+- Generator: World's Best Repo Book Generator v1.0.0

@@ -1,0 +1,52 @@
+# Keywords: openbb_platform/core/openbb_core/provider/standard_models/etf_holdings.py
+
+## Extracted Keywords (48 total)
+
+- **Data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_holdings.py`
+- **EtfHoldingsData** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_holdings.py`
+- **EtfHoldingsQueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_holdings.py`
+- **Field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_holdings.py`
+- **QueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_holdings.py`
+- **abstract** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_holdings.py`
+- **asset** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_holdings.py`
+- **class** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_holdings.py`
+- **classmethod** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_holdings.py`
+- **cls** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_holdings.py`
+- **convert** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_holdings.py`
+- **data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_holdings.py`
+- **data_descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_holdings.py`
+- **def** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_holdings.py`
+- **default** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_holdings.py`
+- **description** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_holdings.py`
+- **descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_holdings.py`
+- **etf** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_holdings.py`
+- **etfholdingsdata** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_holdings.py`
+- **etfholdingsqueryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_holdings.py`
+- **field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_holdings.py`
+- **field_validator** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_holdings.py`
+- **from** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_holdings.py`
+- **get** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_holdings.py`
+- **holdings** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_holdings.py`
+- **import** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_holdings.py`
+- **model** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_holdings.py`
+- **name** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_holdings.py`
+- **none** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_holdings.py`
+- **openbb_core** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_holdings.py`
+- **openbb_core.provider.abstract.data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_holdings.py`
+- **openbb_core.provider.abstract.query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_holdings.py`
+- **openbb_core.provider.utils.descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_holdings.py`
+- **provider** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_holdings.py`
+- **pydantic** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_holdings.py`
+- **query** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_holdings.py`
+- **query_descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_holdings.py`
+- **query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_holdings.py`
+- **queryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_holdings.py`
+- **return** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_holdings.py`
+- **standard** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_holdings.py`
+- **str** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_holdings.py`
+- **symbol** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_holdings.py`
+- **the** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_holdings.py`
+- **to_upper** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_holdings.py`
+- **upper** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_holdings.py`
+- **uppercase** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_holdings.py`
+- **utils** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/etf_holdings.py`

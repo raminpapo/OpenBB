@@ -1,0 +1,57 @@
+# Keywords: openbb_platform/core/openbb_core/provider/standard_models/economic_indicators.py
+
+## Extracted Keywords (53 total)
+
+- **Data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/economic_indicators.py`
+- **EconomicIndicatorsData** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/economic_indicators.py`
+- **EconomicIndicatorsQueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/economic_indicators.py`
+- **Field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/economic_indicators.py`
+- **QueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/economic_indicators.py`
+- **abstract** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/economic_indicators.py`
+- **available** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/economic_indicators.py`
+- **class** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/economic_indicators.py`
+- **country** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/economic_indicators.py`
+- **data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/economic_indicators.py`
+- **data_descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/economic_indicators.py`
+- **date** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/economic_indicators.py`
+- **datetime** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/economic_indicators.py`
+- **datetype** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/economic_indicators.py`
+- **default** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/economic_indicators.py`
+- **description** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/economic_indicators.py`
+- **descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/economic_indicators.py`
+- **economic** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/economic_indicators.py`
+- **economicindicatorsdata** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/economic_indicators.py`
+- **economicindicatorsqueryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/economic_indicators.py`
+- **end_date** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/economic_indicators.py`
+- **field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/economic_indicators.py`
+- **float** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/economic_indicators.py`
+- **for** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/economic_indicators.py`
+- **from** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/economic_indicators.py`
+- **gdp** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/economic_indicators.py`
+- **get** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/economic_indicators.py`
+- **import** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/economic_indicators.py`
+- **indicator** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/economic_indicators.py`
+- **indicators** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/economic_indicators.py`
+- **int** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/economic_indicators.py`
+- **model** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/economic_indicators.py`
+- **none** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/economic_indicators.py`
+- **openbb_core** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/economic_indicators.py`
+- **openbb_core.provider.abstract.data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/economic_indicators.py`
+- **openbb_core.provider.abstract.query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/economic_indicators.py`
+- **openbb_core.provider.utils.descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/economic_indicators.py`
+- **provider** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/economic_indicators.py`
+- **pydantic** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/economic_indicators.py`
+- **query** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/economic_indicators.py`
+- **query_descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/economic_indicators.py`
+- **query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/economic_indicators.py`
+- **queryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/economic_indicators.py`
+- **represented** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/economic_indicators.py`
+- **root** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/economic_indicators.py`
+- **standard** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/economic_indicators.py`
+- **start_date** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/economic_indicators.py`
+- **str** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/economic_indicators.py`
+- **symbol** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/economic_indicators.py`
+- **symbol_root** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/economic_indicators.py`
+- **the** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/economic_indicators.py`
+- **utils** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/economic_indicators.py`
+- **value** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/economic_indicators.py`

@@ -1,0 +1,41 @@
+# Keywords: frontend-components/plotly/src/components/Icons/CloseCircle.tsx
+
+## Extracted Keywords (37 total)
+
+- **CloseCircleIcon** - Appears in `frontend-components/plotly/src/components/Icons/CloseCircle.tsx`
+- **aria** - Appears in `frontend-components/plotly/src/components/Icons/CloseCircle.tsx`
+- **closecircleicon** - Appears in `frontend-components/plotly/src/components/Icons/CloseCircle.tsx`
+- **const** - Appears in `frontend-components/plotly/src/components/Icons/CloseCircle.tsx`
+- **currentcolor** - Appears in `frontend-components/plotly/src/components/Icons/CloseCircle.tsx`
+- **default** - Appears in `frontend-components/plotly/src/components/Icons/CloseCircle.tsx`
+- **export** - Appears in `frontend-components/plotly/src/components/Icons/CloseCircle.tsx`
+- **fill** - Appears in `frontend-components/plotly/src/components/Icons/CloseCircle.tsx`
+- **from** - Appears in `frontend-components/plotly/src/components/Icons/CloseCircle.tsx`
+- **height** - Appears in `frontend-components/plotly/src/components/Icons/CloseCircle.tsx`
+- **http** - Appears in `frontend-components/plotly/src/components/Icons/CloseCircle.tsx`
+- **import** - Appears in `frontend-components/plotly/src/components/Icons/CloseCircle.tsx`
+- **interface** - Appears in `frontend-components/plotly/src/components/Icons/CloseCircle.tsx`
+- **labelledby** - Appears in `frontend-components/plotly/src/components/Icons/CloseCircle.tsx`
+- **none** - Appears in `frontend-components/plotly/src/components/Icons/CloseCircle.tsx`
+- **null** - Appears in `frontend-components/plotly/src/components/Icons/CloseCircle.tsx`
+- **org** - Appears in `frontend-components/plotly/src/components/Icons/CloseCircle.tsx`
+- **path** - Appears in `frontend-components/plotly/src/components/Icons/CloseCircle.tsx`
+- **props** - Appears in `frontend-components/plotly/src/components/Icons/CloseCircle.tsx`
+- **react** - Appears in `frontend-components/plotly/src/components/Icons/CloseCircle.tsx`
+- **round** - Appears in `frontend-components/plotly/src/components/Icons/CloseCircle.tsx`
+- **string** - Appears in `frontend-components/plotly/src/components/Icons/CloseCircle.tsx`
+- **stroke** - Appears in `frontend-components/plotly/src/components/Icons/CloseCircle.tsx`
+- **strokelinecap** - Appears in `frontend-components/plotly/src/components/Icons/CloseCircle.tsx`
+- **strokelinejoin** - Appears in `frontend-components/plotly/src/components/Icons/CloseCircle.tsx`
+- **strokewidth** - Appears in `frontend-components/plotly/src/components/Icons/CloseCircle.tsx`
+- **svg** - Appears in `frontend-components/plotly/src/components/Icons/CloseCircle.tsx`
+- **svgprops** - Appears in `frontend-components/plotly/src/components/Icons/CloseCircle.tsx`
+- **svgrprops** - Appears in `frontend-components/plotly/src/components/Icons/CloseCircle.tsx`
+- **svgsvgelement** - Appears in `frontend-components/plotly/src/components/Icons/CloseCircle.tsx`
+- **title** - Appears in `frontend-components/plotly/src/components/Icons/CloseCircle.tsx`
+- **titleid** - Appears in `frontend-components/plotly/src/components/Icons/CloseCircle.tsx`
+- **type** - Appears in `frontend-components/plotly/src/components/Icons/CloseCircle.tsx`
+- **viewbox** - Appears in `frontend-components/plotly/src/components/Icons/CloseCircle.tsx`
+- **width** - Appears in `frontend-components/plotly/src/components/Icons/CloseCircle.tsx`
+- **www** - Appears in `frontend-components/plotly/src/components/Icons/CloseCircle.tsx`
+- **xmlns** - Appears in `frontend-components/plotly/src/components/Icons/CloseCircle.tsx`

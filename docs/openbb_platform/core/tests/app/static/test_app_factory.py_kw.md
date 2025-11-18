@@ -1,0 +1,50 @@
+# Keywords: openbb_platform/core/tests/app/static/test_app_factory.py
+
+## Extracted Keywords (46 total)
+
+- **Coverage** - Appears in `openbb_platform/core/tests/app/static/test_app_factory.py`
+- **SystemSettings** - Appears in `openbb_platform/core/tests/app/static/test_app_factory.py`
+- **UserSettings** - Appears in `openbb_platform/core/tests/app/static/test_app_factory.py`
+- **app** - Appears in `openbb_platform/core/tests/app/static/test_app_factory.py`
+- **app_factory** - Appears in `openbb_platform/core/tests/app/static/test_app_factory.py`
+- **assert** - Appears in `openbb_platform/core/tests/app/static/test_app_factory.py`
+- **coverage** - Appears in `openbb_platform/core/tests/app/static/test_app_factory.py`
+- **create_app** - Appears in `openbb_platform/core/tests/app/static/test_app_factory.py`
+- **def** - Appears in `openbb_platform/core/tests/app/static/test_app_factory.py`
+- **dict** - Appears in `openbb_platform/core/tests/app/static/test_app_factory.py`
+- **disable** - Appears in `openbb_platform/core/tests/app/static/test_app_factory.py`
+- **factory** - Appears in `openbb_platform/core/tests/app/static/test_app_factory.py`
+- **fixture** - Appears in `openbb_platform/core/tests/app/static/test_app_factory.py`
+- **from** - Appears in `openbb_platform/core/tests/app/static/test_app_factory.py`
+- **import** - Appears in `openbb_platform/core/tests/app/static/test_app_factory.py`
+- **init** - Appears in `openbb_platform/core/tests/app/static/test_app_factory.py`
+- **isinstance** - Appears in `openbb_platform/core/tests/app/static/test_app_factory.py`
+- **model** - Appears in `openbb_platform/core/tests/app/static/test_app_factory.py`
+- **module** - Appears in `openbb_platform/core/tests/app/static/test_app_factory.py`
+- **name** - Appears in `openbb_platform/core/tests/app/static/test_app_factory.py`
+- **openbb_core** - Appears in `openbb_platform/core/tests/app/static/test_app_factory.py`
+- **openbb_core.app.model.system_settings** - Appears in `openbb_platform/core/tests/app/static/test_app_factory.py`
+- **openbb_core.app.model.user_settings** - Appears in `openbb_platform/core/tests/app/static/test_app_factory.py`
+- **openbb_core.app.static.app_factory** - Appears in `openbb_platform/core/tests/app/static/test_app_factory.py`
+- **openbb_core.app.static.coverage** - Appears in `openbb_platform/core/tests/app/static/test_app_factory.py`
+- **outer** - Appears in `openbb_platform/core/tests/app/static/test_app_factory.py`
+- **pylint** - Appears in `openbb_platform/core/tests/app/static/test_app_factory.py`
+- **pytest** - Appears in `openbb_platform/core/tests/app/static/test_app_factory.py`
+- **redefined** - Appears in `openbb_platform/core/tests/app/static/test_app_factory.py`
+- **reference** - Appears in `openbb_platform/core/tests/app/static/test_app_factory.py`
+- **return** - Appears in `openbb_platform/core/tests/app/static/test_app_factory.py`
+- **scope** - Appears in `openbb_platform/core/tests/app/static/test_app_factory.py`
+- **settings** - Appears in `openbb_platform/core/tests/app/static/test_app_factory.py`
+- **static** - Appears in `openbb_platform/core/tests/app/static/test_app_factory.py`
+- **system** - Appears in `openbb_platform/core/tests/app/static/test_app_factory.py`
+- **system_settings** - Appears in `openbb_platform/core/tests/app/static/test_app_factory.py`
+- **systemsettings** - Appears in `openbb_platform/core/tests/app/static/test_app_factory.py`
+- **test** - Appears in `openbb_platform/core/tests/app/static/test_app_factory.py`
+- **test_app_coverage** - Appears in `openbb_platform/core/tests/app/static/test_app_factory.py`
+- **test_app_factory_init** - Appears in `openbb_platform/core/tests/app/static/test_app_factory.py`
+- **test_app_reference** - Appears in `openbb_platform/core/tests/app/static/test_app_factory.py`
+- **test_app_system_settings** - Appears in `openbb_platform/core/tests/app/static/test_app_factory.py`
+- **test_app_user_settings** - Appears in `openbb_platform/core/tests/app/static/test_app_factory.py`
+- **user** - Appears in `openbb_platform/core/tests/app/static/test_app_factory.py`
+- **user_settings** - Appears in `openbb_platform/core/tests/app/static/test_app_factory.py`
+- **usersettings** - Appears in `openbb_platform/core/tests/app/static/test_app_factory.py`

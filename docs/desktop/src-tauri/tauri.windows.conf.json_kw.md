@@ -1,0 +1,49 @@
+# Keywords: desktop/src-tauri/tauri.windows.conf.json
+
+## Extracted Keywords (45 total)
+
+- **beforebundlecommand** - Appears in `desktop/src-tauri/tauri.windows.conf.json`
+- **bmp** - Appears in `desktop/src-tauri/tauri.windows.conf.json`
+- **build** - Appears in `desktop/src-tauri/tauri.windows.conf.json`
+- **bundle** - Appears in `desktop/src-tauri/tauri.windows.conf.json`
+- **cargo** - Appears in `desktop/src-tauri/tauri.windows.conf.json`
+- **category** - Appears in `desktop/src-tauri/tauri.windows.conf.json`
+- **cdx** - Appears in `desktop/src-tauri/tauri.windows.conf.json`
+- **currentuser** - Appears in `desktop/src-tauri/tauri.windows.conf.json`
+- **data** - Appears in `desktop/src-tauri/tauri.windows.conf.json`
+- **dll** - Appears in `desktop/src-tauri/tauri.windows.conf.json`
+- **downloadbootstrapper** - Appears in `desktop/src-tauri/tauri.windows.conf.json`
+- **file** - Appears in `desktop/src-tauri/tauri.windows.conf.json`
+- **finance** - Appears in `desktop/src-tauri/tauri.windows.conf.json`
+- **ico** - Appears in `desktop/src-tauri/tauri.windows.conf.json`
+- **icon** - Appears in `desktop/src-tauri/tauri.windows.conf.json`
+- **icons** - Appears in `desktop/src-tauri/tauri.windows.conf.json`
+- **installericon** - Appears in `desktop/src-tauri/tauri.windows.conf.json`
+- **installmode** - Appears in `desktop/src-tauri/tauri.windows.conf.json`
+- **libcrypto** - Appears in `desktop/src-tauri/tauri.windows.conf.json`
+- **libssl** - Appears in `desktop/src-tauri/tauri.windows.conf.json`
+- **npm** - Appears in `desktop/src-tauri/tauri.windows.conf.json`
+- **nsis** - Appears in `desktop/src-tauri/tauri.windows.conf.json`
+- **open** - Appears in `desktop/src-tauri/tauri.windows.conf.json`
+- **passive** - Appears in `desktop/src-tauri/tauri.windows.conf.json`
+- **platform** - Appears in `desktop/src-tauri/tauri.windows.conf.json`
+- **plugins** - Appears in `desktop/src-tauri/tauri.windows.conf.json`
+- **ps1** - Appears in `desktop/src-tauri/tauri.windows.conf.json`
+- **pwsh** - Appears in `desktop/src-tauri/tauri.windows.conf.json`
+- **resources** - Appears in `desktop/src-tauri/tauri.windows.conf.json`
+- **sbom** - Appears in `desktop/src-tauri/tauri.windows.conf.json`
+- **scripts** - Appears in `desktop/src-tauri/tauri.windows.conf.json`
+- **sidebarimage** - Appears in `desktop/src-tauri/tauri.windows.conf.json`
+- **sign** - Appears in `desktop/src-tauri/tauri.windows.conf.json`
+- **silent** - Appears in `desktop/src-tauri/tauri.windows.conf.json`
+- **src** - Appears in `desktop/src-tauri/tauri.windows.conf.json`
+- **targets** - Appears in `desktop/src-tauri/tauri.windows.conf.json`
+- **tauri** - Appears in `desktop/src-tauri/tauri.windows.conf.json`
+- **true** - Appears in `desktop/src-tauri/tauri.windows.conf.json`
+- **type** - Appears in `desktop/src-tauri/tauri.windows.conf.json`
+- **updater** - Appears in `desktop/src-tauri/tauri.windows.conf.json`
+- **webviewinstallmode** - Appears in `desktop/src-tauri/tauri.windows.conf.json`
+- **windows** - Appears in `desktop/src-tauri/tauri.windows.conf.json`
+- **windows_vertical** - Appears in `desktop/src-tauri/tauri.windows.conf.json`
+- **x64** - Appears in `desktop/src-tauri/tauri.windows.conf.json`
+- **xml** - Appears in `desktop/src-tauri/tauri.windows.conf.json`

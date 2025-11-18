@@ -1,0 +1,41 @@
+# Keywords: desktop/tsconfig.json
+
+## Extracted Keywords (37 total)
+
+- **allowimportingtsextensions** - Appears in `desktop/tsconfig.json`
+- **baseurl** - Appears in `desktop/tsconfig.json`
+- **bundler** - Appears in `desktop/tsconfig.json`
+- **compileroptions** - Appears in `desktop/tsconfig.json`
+- **dom** - Appears in `desktop/tsconfig.json`
+- **es2020** - Appears in `desktop/tsconfig.json`
+- **esmoduleinterop** - Appears in `desktop/tsconfig.json`
+- **esnext** - Appears in `desktop/tsconfig.json`
+- **forceconsistentcasinginfilenames** - Appears in `desktop/tsconfig.json`
+- **include** - Appears in `desktop/tsconfig.json`
+- **isolatedmodules** - Appears in `desktop/tsconfig.json`
+- **iterable** - Appears in `desktop/tsconfig.json`
+- **json** - Appears in `desktop/tsconfig.json`
+- **jsx** - Appears in `desktop/tsconfig.json`
+- **lib** - Appears in `desktop/tsconfig.json`
+- **module** - Appears in `desktop/tsconfig.json`
+- **moduleresolution** - Appears in `desktop/tsconfig.json`
+- **node** - Appears in `desktop/tsconfig.json`
+- **noemit** - Appears in `desktop/tsconfig.json`
+- **nofallthroughcasesinswitch** - Appears in `desktop/tsconfig.json`
+- **noimplicitany** - Appears in `desktop/tsconfig.json`
+- **nounusedlocals** - Appears in `desktop/tsconfig.json`
+- **nounusedparameters** - Appears in `desktop/tsconfig.json`
+- **path** - Appears in `desktop/tsconfig.json`
+- **paths** - Appears in `desktop/tsconfig.json`
+- **react** - Appears in `desktop/tsconfig.json`
+- **references** - Appears in `desktop/tsconfig.json`
+- **resolvejsonmodule** - Appears in `desktop/tsconfig.json`
+- **skiplibcheck** - Appears in `desktop/tsconfig.json`
+- **src** - Appears in `desktop/tsconfig.json`
+- **strict** - Appears in `desktop/tsconfig.json`
+- **strictnullchecks** - Appears in `desktop/tsconfig.json`
+- **target** - Appears in `desktop/tsconfig.json`
+- **true** - Appears in `desktop/tsconfig.json`
+- **tsconfig** - Appears in `desktop/tsconfig.json`
+- **tsx** - Appears in `desktop/tsconfig.json`
+- **usedefineforclassfields** - Appears in `desktop/tsconfig.json`

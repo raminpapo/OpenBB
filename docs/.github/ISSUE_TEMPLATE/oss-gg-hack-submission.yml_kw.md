@@ -1,0 +1,55 @@
+# Keywords: .github/ISSUE_TEMPLATE/oss-gg-hack-submission.yml
+
+## Extracted Keywords (51 total)
+
+- **add** - Appears in `.github/ISSUE_TEMPLATE/oss-gg-hack-submission.yml`
+- **are** - Appears in `.github/ISSUE_TEMPLATE/oss-gg-hack-submission.yml`
+- **assigned** - Appears in `.github/ISSUE_TEMPLATE/oss-gg-hack-submission.yml`
+- **assignees** - Appears in `.github/ISSUE_TEMPLATE/oss-gg-hack-submission.yml`
+- **attributes** - Appears in `.github/ISSUE_TEMPLATE/oss-gg-hack-submission.yml`
+- **body** - Appears in `.github/ISSUE_TEMPLATE/oss-gg-hack-submission.yml`
+- **challenge** - Appears in `.github/ISSUE_TEMPLATE/oss-gg-hack-submission.yml`
+- **completed** - Appears in `.github/ISSUE_TEMPLATE/oss-gg-hack-submission.yml`
+- **content** - Appears in `.github/ISSUE_TEMPLATE/oss-gg-hack-submission.yml`
+- **contribution** - Appears in `.github/ISSUE_TEMPLATE/oss-gg-hack-submission.yml`
+- **description** - Appears in `.github/ISSUE_TEMPLATE/oss-gg-hack-submission.yml`
+- **for** - Appears in `.github/ISSUE_TEMPLATE/oss-gg-hack-submission.yml`
+- **hack** - Appears in `.github/ISSUE_TEMPLATE/oss-gg-hack-submission.yml`
+- **hackathon** - Appears in `.github/ISSUE_TEMPLATE/oss-gg-hack-submission.yml`
+- **hacktoberfest** - Appears in `.github/ISSUE_TEMPLATE/oss-gg-hack-submission.yml`
+- **how** - Appears in `.github/ISSUE_TEMPLATE/oss-gg-hack-submission.yml`
+- **interacted** - Appears in `.github/ISSUE_TEMPLATE/oss-gg-hack-submission.yml`
+- **label** - Appears in `.github/ISSUE_TEMPLATE/oss-gg-hack-submission.yml`
+- **labels** - Appears in `.github/ISSUE_TEMPLATE/oss-gg-hack-submission.yml`
+- **links** - Appears in `.github/ISSUE_TEMPLATE/oss-gg-hack-submission.yml`
+- **loom** - Appears in `.github/ISSUE_TEMPLATE/oss-gg-hack-submission.yml`
+- **many** - Appears in `.github/ISSUE_TEMPLATE/oss-gg-hack-submission.yml`
+- **name** - Appears in `.github/ISSUE_TEMPLATE/oss-gg-hack-submission.yml`
+- **oss** - Appears in `.github/ISSUE_TEMPLATE/oss-gg-hack-submission.yml`
+- **performed** - Appears in `.github/ISSUE_TEMPLATE/oss-gg-hack-submission.yml`
+- **player** - Appears in `.github/ISSUE_TEMPLATE/oss-gg-hack-submission.yml`
+- **points** - Appears in `.github/ISSUE_TEMPLATE/oss-gg-hack-submission.yml`
+- **proof** - Appears in `.github/ISSUE_TEMPLATE/oss-gg-hack-submission.yml`
+- **provide** - Appears in `.github/ISSUE_TEMPLATE/oss-gg-hack-submission.yml`
+- **quest** - Appears in `.github/ISSUE_TEMPLATE/oss-gg-hack-submission.yml`
+- **recordings** - Appears in `.github/ISSUE_TEMPLATE/oss-gg-hack-submission.yml`
+- **required** - Appears in `.github/ISSUE_TEMPLATE/oss-gg-hack-submission.yml`
+- **screenshots** - Appears in `.github/ISSUE_TEMPLATE/oss-gg-hack-submission.yml`
+- **shared** - Appears in `.github/ISSUE_TEMPLATE/oss-gg-hack-submission.yml`
+- **side** - Appears in `.github/ISSUE_TEMPLATE/oss-gg-hack-submission.yml`
+- **solving** - Appears in `.github/ISSUE_TEMPLATE/oss-gg-hack-submission.yml`
+- **submission** - Appears in `.github/ISSUE_TEMPLATE/oss-gg-hack-submission.yml`
+- **submit** - Appears in `.github/ISSUE_TEMPLATE/oss-gg-hack-submission.yml`
+- **task** - Appears in `.github/ISSUE_TEMPLATE/oss-gg-hack-submission.yml`
+- **textarea** - Appears in `.github/ISSUE_TEMPLATE/oss-gg-hack-submission.yml`
+- **that** - Appears in `.github/ISSUE_TEMPLATE/oss-gg-hack-submission.yml`
+- **the** - Appears in `.github/ISSUE_TEMPLATE/oss-gg-hack-submission.yml`
+- **this** - Appears in `.github/ISSUE_TEMPLATE/oss-gg-hack-submission.yml`
+- **title** - Appears in `.github/ISSUE_TEMPLATE/oss-gg-hack-submission.yml`
+- **true** - Appears in `.github/ISSUE_TEMPLATE/oss-gg-hack-submission.yml`
+- **type** - Appears in `.github/ISSUE_TEMPLATE/oss-gg-hack-submission.yml`
+- **validations** - Appears in `.github/ISSUE_TEMPLATE/oss-gg-hack-submission.yml`
+- **what** - Appears in `.github/ISSUE_TEMPLATE/oss-gg-hack-submission.yml`
+- **with** - Appears in `.github/ISSUE_TEMPLATE/oss-gg-hack-submission.yml`
+- **you** - Appears in `.github/ISSUE_TEMPLATE/oss-gg-hack-submission.yml`
+- **your** - Appears in `.github/ISSUE_TEMPLATE/oss-gg-hack-submission.yml`

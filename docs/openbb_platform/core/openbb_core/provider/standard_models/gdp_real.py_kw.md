@@ -1,0 +1,52 @@
+# Keywords: openbb_platform/core/openbb_core/provider/standard_models/gdp_real.py
+
+## Extracted Keywords (48 total)
+
+- **Data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_real.py`
+- **Field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_real.py`
+- **GdpRealData** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_real.py`
+- **GdpRealQueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_real.py`
+- **QueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_real.py`
+- **abstract** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_real.py`
+- **and** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_real.py`
+- **class** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_real.py`
+- **country** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_real.py`
+- **data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_real.py`
+- **data_descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_real.py`
+- **date** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_real.py`
+- **datetime** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_real.py`
+- **datetype** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_real.py`
+- **default** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_real.py`
+- **description** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_real.py`
+- **descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_real.py`
+- **end_date** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_real.py`
+- **field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_real.py`
+- **float** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_real.py`
+- **for** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_real.py`
+- **from** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_real.py`
+- **gdp** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_real.py`
+- **gdprealdata** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_real.py`
+- **gdprealqueryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_real.py`
+- **get** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_real.py`
+- **import** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_real.py`
+- **int** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_real.py`
+- **model** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_real.py`
+- **none** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_real.py`
+- **openbb_core** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_real.py`
+- **openbb_core.provider.abstract.data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_real.py`
+- **openbb_core.provider.abstract.query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_real.py`
+- **openbb_core.provider.utils.descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_real.py`
+- **provider** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_real.py`
+- **pydantic** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_real.py`
+- **query** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_real.py`
+- **query_descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_real.py`
+- **query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_real.py`
+- **queryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_real.py`
+- **real** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_real.py`
+- **represented** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_real.py`
+- **standard** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_real.py`
+- **start_date** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_real.py`
+- **str** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_real.py`
+- **the** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_real.py`
+- **utils** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_real.py`
+- **value** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_real.py`

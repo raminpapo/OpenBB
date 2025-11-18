@@ -1,0 +1,47 @@
+# Keywords: openbb_platform/core/tests/app/static/utils/test_linters.py
+
+## Extracted Keywords (43 total)
+
+- **aapl** - Appears in `openbb_platform/core/tests/app/static/utils/test_linters.py`
+- **app** - Appears in `openbb_platform/core/tests/app/static/utils/test_linters.py`
+- **assert** - Appears in `openbb_platform/core/tests/app/static/utils/test_linters.py`
+- **black** - Appears in `openbb_platform/core/tests/app/static/utils/test_linters.py`
+- **def** - Appears in `openbb_platform/core/tests/app/static/utils/test_linters.py`
+- **directory** - Appears in `openbb_platform/core/tests/app/static/utils/test_linters.py`
+- **disable** - Appears in `openbb_platform/core/tests/app/static/utils/test_linters.py`
+- **file** - Appears in `openbb_platform/core/tests/app/static/utils/test_linters.py`
+- **fixture** - Appears in `openbb_platform/core/tests/app/static/utils/test_linters.py`
+- **from** - Appears in `openbb_platform/core/tests/app/static/utils/test_linters.py`
+- **import** - Appears in `openbb_platform/core/tests/app/static/utils/test_linters.py`
+- **init** - Appears in `openbb_platform/core/tests/app/static/utils/test_linters.py`
+- **linter** - Appears in `openbb_platform/core/tests/app/static/utils/test_linters.py`
+- **linters** - Appears in `openbb_platform/core/tests/app/static/utils/test_linters.py`
+- **mktemp** - Appears in `openbb_platform/core/tests/app/static/utils/test_linters.py`
+- **module** - Appears in `openbb_platform/core/tests/app/static/utils/test_linters.py`
+- **name** - Appears in `openbb_platform/core/tests/app/static/utils/test_linters.py`
+- **openbb_core** - Appears in `openbb_platform/core/tests/app/static/utils/test_linters.py`
+- **openbb_core.app.static.package_builder** - Appears in `openbb_platform/core/tests/app/static/utils/test_linters.py`
+- **outer** - Appears in `openbb_platform/core/tests/app/static/utils/test_linters.py`
+- **package** - Appears in `openbb_platform/core/tests/app/static/utils/test_linters.py`
+- **package_builder** - Appears in `openbb_platform/core/tests/app/static/utils/test_linters.py`
+- **print** - Appears in `openbb_platform/core/tests/app/static/utils/test_linters.py`
+- **print_separator** - Appears in `openbb_platform/core/tests/app/static/utils/test_linters.py`
+- **pylint** - Appears in `openbb_platform/core/tests/app/static/utils/test_linters.py`
+- **pytest** - Appears in `openbb_platform/core/tests/app/static/utils/test_linters.py`
+- **redefined** - Appears in `openbb_platform/core/tests/app/static/utils/test_linters.py`
+- **return** - Appears in `openbb_platform/core/tests/app/static/utils/test_linters.py`
+- **ruff** - Appears in `openbb_platform/core/tests/app/static/utils/test_linters.py`
+- **run** - Appears in `openbb_platform/core/tests/app/static/utils/test_linters.py`
+- **scope** - Appears in `openbb_platform/core/tests/app/static/utils/test_linters.py`
+- **separator** - Appears in `openbb_platform/core/tests/app/static/utils/test_linters.py`
+- **static** - Appears in `openbb_platform/core/tests/app/static/utils/test_linters.py`
+- **symbol** - Appears in `openbb_platform/core/tests/app/static/utils/test_linters.py`
+- **temporary** - Appears in `openbb_platform/core/tests/app/static/utils/test_linters.py`
+- **test** - Appears in `openbb_platform/core/tests/app/static/utils/test_linters.py`
+- **test_black** - Appears in `openbb_platform/core/tests/app/static/utils/test_linters.py`
+- **test_linters_init** - Appears in `openbb_platform/core/tests/app/static/utils/test_linters.py`
+- **test_print_separator** - Appears in `openbb_platform/core/tests/app/static/utils/test_linters.py`
+- **test_ruff** - Appears in `openbb_platform/core/tests/app/static/utils/test_linters.py`
+- **test_run** - Appears in `openbb_platform/core/tests/app/static/utils/test_linters.py`
+- **tmp_package_dir** - Appears in `openbb_platform/core/tests/app/static/utils/test_linters.py`
+- **tmp_path_factory** - Appears in `openbb_platform/core/tests/app/static/utils/test_linters.py`

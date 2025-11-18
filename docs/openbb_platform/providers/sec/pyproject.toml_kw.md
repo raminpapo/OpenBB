@@ -1,0 +1,44 @@
+# Keywords: openbb_platform/providers/sec/pyproject.toml
+
+## Extracted Keywords (40 total)
+
+- **agpl** - Appears in `openbb_platform/providers/sec/pyproject.toml`
+- **aiohttp** - Appears in `openbb_platform/providers/sec/pyproject.toml`
+- **aiosqlite** - Appears in `openbb_platform/providers/sec/pyproject.toml`
+- **api** - Appears in `openbb_platform/providers/sec/pyproject.toml`
+- **authors** - Appears in `openbb_platform/providers/sec/pyproject.toml`
+- **backend** - Appears in `openbb_platform/providers/sec/pyproject.toml`
+- **beautifulsoup4** - Appears in `openbb_platform/providers/sec/pyproject.toml`
+- **build** - Appears in `openbb_platform/providers/sec/pyproject.toml`
+- **cache** - Appears in `openbb_platform/providers/sec/pyproject.toml`
+- **client** - Appears in `openbb_platform/providers/sec/pyproject.toml`
+- **core** - Appears in `openbb_platform/providers/sec/pyproject.toml`
+- **dependencies** - Appears in `openbb_platform/providers/sec/pyproject.toml`
+- **description** - Appears in `openbb_platform/providers/sec/pyproject.toml`
+- **extension** - Appears in `openbb_platform/providers/sec/pyproject.toml`
+- **for** - Appears in `openbb_platform/providers/sec/pyproject.toml`
+- **hello** - Appears in `openbb_platform/providers/sec/pyproject.toml`
+- **include** - Appears in `openbb_platform/providers/sec/pyproject.toml`
+- **inscriptis** - Appears in `openbb_platform/providers/sec/pyproject.toml`
+- **license** - Appears in `openbb_platform/providers/sec/pyproject.toml`
+- **lxml** - Appears in `openbb_platform/providers/sec/pyproject.toml`
+- **masonry** - Appears in `openbb_platform/providers/sec/pyproject.toml`
+- **name** - Appears in `openbb_platform/providers/sec/pyproject.toml`
+- **only** - Appears in `openbb_platform/providers/sec/pyproject.toml`
+- **openbb** - Appears in `openbb_platform/providers/sec/pyproject.toml`
+- **openbb_provider_extension** - Appears in `openbb_platform/providers/sec/pyproject.toml`
+- **openbb_sec** - Appears in `openbb_platform/providers/sec/pyproject.toml`
+- **packages** - Appears in `openbb_platform/providers/sec/pyproject.toml`
+- **plugins** - Appears in `openbb_platform/providers/sec/pyproject.toml`
+- **poetry** - Appears in `openbb_platform/providers/sec/pyproject.toml`
+- **python** - Appears in `openbb_platform/providers/sec/pyproject.toml`
+- **readme** - Appears in `openbb_platform/providers/sec/pyproject.toml`
+- **requires** - Appears in `openbb_platform/providers/sec/pyproject.toml`
+- **sec** - Appears in `openbb_platform/providers/sec/pyproject.toml`
+- **sec_provider** - Appears in `openbb_platform/providers/sec/pyproject.toml`
+- **system** - Appears in `openbb_platform/providers/sec/pyproject.toml`
+- **team** - Appears in `openbb_platform/providers/sec/pyproject.toml`
+- **tool** - Appears in `openbb_platform/providers/sec/pyproject.toml`
+- **trafilatura** - Appears in `openbb_platform/providers/sec/pyproject.toml`
+- **version** - Appears in `openbb_platform/providers/sec/pyproject.toml`
+- **xmltodict** - Appears in `openbb_platform/providers/sec/pyproject.toml`

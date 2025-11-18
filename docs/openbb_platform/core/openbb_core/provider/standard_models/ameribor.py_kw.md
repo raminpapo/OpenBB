@@ -1,0 +1,57 @@
+# Keywords: openbb_platform/core/openbb_core/provider/standard_models/ameribor.py
+
+## Extracted Keywords (53 total)
+
+- **AmeriborData** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/ameribor.py`
+- **AmeriborQueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/ameribor.py`
+- **Data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/ameribor.py`
+- **Field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/ameribor.py`
+- **QueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/ameribor.py`
+- **abstract** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/ameribor.py`
+- **ameribor** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/ameribor.py`
+- **ameribordata** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/ameribor.py`
+- **ameriborqueryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/ameribor.py`
+- **class** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/ameribor.py`
+- **data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/ameribor.py`
+- **data_descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/ameribor.py`
+- **date** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/ameribor.py`
+- **datetime** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/ameribor.py`
+- **datetype** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/ameribor.py`
+- **default** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/ameribor.py`
+- **description** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/ameribor.py`
+- **descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/ameribor.py`
+- **end_date** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/ameribor.py`
+- **field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/ameribor.py`
+- **float** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/ameribor.py`
+- **from** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/ameribor.py`
+- **frontend_multiply** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/ameribor.py`
+- **get** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/ameribor.py`
+- **import** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/ameribor.py`
+- **interest** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/ameribor.py`
+- **item** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/ameribor.py`
+- **json_schema_extra** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/ameribor.py`
+- **length** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/ameribor.py`
+- **maturity** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/ameribor.py`
+- **model** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/ameribor.py`
+- **none** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/ameribor.py`
+- **openbb_core** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/ameribor.py`
+- **openbb_core.provider.abstract.data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/ameribor.py`
+- **openbb_core.provider.abstract.query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/ameribor.py`
+- **openbb_core.provider.utils.descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/ameribor.py`
+- **percent** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/ameribor.py`
+- **provider** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/ameribor.py`
+- **pydantic** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/ameribor.py`
+- **query** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/ameribor.py`
+- **query_descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/ameribor.py`
+- **query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/ameribor.py`
+- **queryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/ameribor.py`
+- **rate** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/ameribor.py`
+- **series** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/ameribor.py`
+- **standard** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/ameribor.py`
+- **start_date** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/ameribor.py`
+- **str** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/ameribor.py`
+- **symbol** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/ameribor.py`
+- **the** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/ameribor.py`
+- **title** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/ameribor.py`
+- **unit_measurement** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/ameribor.py`
+- **utils** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/ameribor.py`

@@ -1,0 +1,44 @@
+# Keywords: .github/scripts/noxfile.py
+
+## Extracted Keywords (40 total)
+
+- **Path** - Appears in `.github/scripts/noxfile.py`
+- **__file__** - Appears in `.github/scripts/noxfile.py`
+- **cli** - Appears in `.github/scripts/noxfile.py`
+- **cli_dir** - Appears in `.github/scripts/noxfile.py`
+- **cli_tests** - Appears in `.github/scripts/noxfile.py`
+- **core** - Appears in `.github/scripts/noxfile.py`
+- **cov** - Appears in `.github/scripts/noxfile.py`
+- **def** - Appears in `.github/scripts/noxfile.py`
+- **dev_install** - Appears in `.github/scripts/noxfile.py`
+- **extensions** - Appears in `.github/scripts/noxfile.py`
+- **external** - Appears in `.github/scripts/noxfile.py`
+- **for** - Appears in `.github/scripts/noxfile.py`
+- **from** - Appears in `.github/scripts/noxfile.py`
+- **import** - Appears in `.github/scripts/noxfile.py`
+- **install** - Appears in `.github/scripts/noxfile.py`
+- **integration** - Appears in `.github/scripts/noxfile.py`
+- **not** - Appears in `.github/scripts/noxfile.py`
+- **nox** - Appears in `.github/scripts/noxfile.py`
+- **openbb_platform** - Appears in `.github/scripts/noxfile.py`
+- **parent** - Appears in `.github/scripts/noxfile.py`
+- **path** - Appears in `.github/scripts/noxfile.py`
+- **pathlib** - Appears in `.github/scripts/noxfile.py`
+- **platform_dir** - Appears in `.github/scripts/noxfile.py`
+- **platform_tests** - Appears in `.github/scripts/noxfile.py`
+- **poetry** - Appears in `.github/scripts/noxfile.py`
+- **providers** - Appears in `.github/scripts/noxfile.py`
+- **pytest** - Appears in `.github/scripts/noxfile.py`
+- **python** - Appears in `.github/scripts/noxfile.py`
+- **root_dir** - Appears in `.github/scripts/noxfile.py`
+- **run** - Appears in `.github/scripts/noxfile.py`
+- **session** - Appears in `.github/scripts/noxfile.py`
+- **sessions** - Appears in `.github/scripts/noxfile.py`
+- **str** - Appears in `.github/scripts/noxfile.py`
+- **suite** - Appears in `.github/scripts/noxfile.py`
+- **test** - Appears in `.github/scripts/noxfile.py`
+- **tests** - Appears in `.github/scripts/noxfile.py`
+- **the** - Appears in `.github/scripts/noxfile.py`
+- **true** - Appears in `.github/scripts/noxfile.py`
+- **unit_test_cli** - Appears in `.github/scripts/noxfile.py`
+- **unit_test_platform** - Appears in `.github/scripts/noxfile.py`

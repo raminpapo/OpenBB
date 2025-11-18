@@ -1,0 +1,41 @@
+# Keywords: openbb_platform/providers/congress_gov/pyproject.toml
+
+## Extracted Keywords (37 total)
+
+- **api** - Appears in `openbb_platform/providers/congress_gov/pyproject.toml`
+- **authors** - Appears in `openbb_platform/providers/congress_gov/pyproject.toml`
+- **backend** - Appears in `openbb_platform/providers/congress_gov/pyproject.toml`
+- **build** - Appears in `openbb_platform/providers/congress_gov/pyproject.toml`
+- **congress** - Appears in `openbb_platform/providers/congress_gov/pyproject.toml`
+- **congress_gov** - Appears in `openbb_platform/providers/congress_gov/pyproject.toml`
+- **congress_gov_provider** - Appears in `openbb_platform/providers/congress_gov/pyproject.toml`
+- **congress_gov_router** - Appears in `openbb_platform/providers/congress_gov/pyproject.toml`
+- **core** - Appears in `openbb_platform/providers/congress_gov/pyproject.toml`
+- **dependencies** - Appears in `openbb_platform/providers/congress_gov/pyproject.toml`
+- **description** - Appears in `openbb_platform/providers/congress_gov/pyproject.toml`
+- **extension** - Appears in `openbb_platform/providers/congress_gov/pyproject.toml`
+- **for** - Appears in `openbb_platform/providers/congress_gov/pyproject.toml`
+- **gov** - Appears in `openbb_platform/providers/congress_gov/pyproject.toml`
+- **hello** - Appears in `openbb_platform/providers/congress_gov/pyproject.toml`
+- **include** - Appears in `openbb_platform/providers/congress_gov/pyproject.toml`
+- **masonry** - Appears in `openbb_platform/providers/congress_gov/pyproject.toml`
+- **name** - Appears in `openbb_platform/providers/congress_gov/pyproject.toml`
+- **openbb** - Appears in `openbb_platform/providers/congress_gov/pyproject.toml`
+- **openbb_congress_gov** - Appears in `openbb_platform/providers/congress_gov/pyproject.toml`
+- **openbb_core_extension** - Appears in `openbb_platform/providers/congress_gov/pyproject.toml`
+- **openbb_provider_extension** - Appears in `openbb_platform/providers/congress_gov/pyproject.toml`
+- **packages** - Appears in `openbb_platform/providers/congress_gov/pyproject.toml`
+- **platform** - Appears in `openbb_platform/providers/congress_gov/pyproject.toml`
+- **plugins** - Appears in `openbb_platform/providers/congress_gov/pyproject.toml`
+- **poetry** - Appears in `openbb_platform/providers/congress_gov/pyproject.toml`
+- **provider** - Appears in `openbb_platform/providers/congress_gov/pyproject.toml`
+- **python** - Appears in `openbb_platform/providers/congress_gov/pyproject.toml`
+- **readme** - Appears in `openbb_platform/providers/congress_gov/pyproject.toml`
+- **requires** - Appears in `openbb_platform/providers/congress_gov/pyproject.toml`
+- **router** - Appears in `openbb_platform/providers/congress_gov/pyproject.toml`
+- **system** - Appears in `openbb_platform/providers/congress_gov/pyproject.toml`
+- **team** - Appears in `openbb_platform/providers/congress_gov/pyproject.toml`
+- **the** - Appears in `openbb_platform/providers/congress_gov/pyproject.toml`
+- **tool** - Appears in `openbb_platform/providers/congress_gov/pyproject.toml`
+- **uscongress** - Appears in `openbb_platform/providers/congress_gov/pyproject.toml`
+- **version** - Appears in `openbb_platform/providers/congress_gov/pyproject.toml`

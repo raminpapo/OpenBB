@@ -1,0 +1,42 @@
+# Keywords: frontend-components/plotly/src/components/Icons/Info.tsx
+
+## Extracted Keywords (38 total)
+
+- **InfoIcon** - Appears in `frontend-components/plotly/src/components/Icons/Info.tsx`
+- **aria** - Appears in `frontend-components/plotly/src/components/Icons/Info.tsx`
+- **const** - Appears in `frontend-components/plotly/src/components/Icons/Info.tsx`
+- **currentcolor** - Appears in `frontend-components/plotly/src/components/Icons/Info.tsx`
+- **default** - Appears in `frontend-components/plotly/src/components/Icons/Info.tsx`
+- **export** - Appears in `frontend-components/plotly/src/components/Icons/Info.tsx`
+- **fill** - Appears in `frontend-components/plotly/src/components/Icons/Info.tsx`
+- **from** - Appears in `frontend-components/plotly/src/components/Icons/Info.tsx`
+- **height** - Appears in `frontend-components/plotly/src/components/Icons/Info.tsx`
+- **http** - Appears in `frontend-components/plotly/src/components/Icons/Info.tsx`
+- **import** - Appears in `frontend-components/plotly/src/components/Icons/Info.tsx`
+- **infoicon** - Appears in `frontend-components/plotly/src/components/Icons/Info.tsx`
+- **interface** - Appears in `frontend-components/plotly/src/components/Icons/Info.tsx`
+- **labelledby** - Appears in `frontend-components/plotly/src/components/Icons/Info.tsx`
+- **m12** - Appears in `frontend-components/plotly/src/components/Icons/Info.tsx`
+- **none** - Appears in `frontend-components/plotly/src/components/Icons/Info.tsx`
+- **null** - Appears in `frontend-components/plotly/src/components/Icons/Info.tsx`
+- **org** - Appears in `frontend-components/plotly/src/components/Icons/Info.tsx`
+- **path** - Appears in `frontend-components/plotly/src/components/Icons/Info.tsx`
+- **props** - Appears in `frontend-components/plotly/src/components/Icons/Info.tsx`
+- **react** - Appears in `frontend-components/plotly/src/components/Icons/Info.tsx`
+- **round** - Appears in `frontend-components/plotly/src/components/Icons/Info.tsx`
+- **string** - Appears in `frontend-components/plotly/src/components/Icons/Info.tsx`
+- **stroke** - Appears in `frontend-components/plotly/src/components/Icons/Info.tsx`
+- **strokelinecap** - Appears in `frontend-components/plotly/src/components/Icons/Info.tsx`
+- **strokelinejoin** - Appears in `frontend-components/plotly/src/components/Icons/Info.tsx`
+- **strokewidth** - Appears in `frontend-components/plotly/src/components/Icons/Info.tsx`
+- **svg** - Appears in `frontend-components/plotly/src/components/Icons/Info.tsx`
+- **svgprops** - Appears in `frontend-components/plotly/src/components/Icons/Info.tsx`
+- **svgrprops** - Appears in `frontend-components/plotly/src/components/Icons/Info.tsx`
+- **svgsvgelement** - Appears in `frontend-components/plotly/src/components/Icons/Info.tsx`
+- **title** - Appears in `frontend-components/plotly/src/components/Icons/Info.tsx`
+- **titleid** - Appears in `frontend-components/plotly/src/components/Icons/Info.tsx`
+- **type** - Appears in `frontend-components/plotly/src/components/Icons/Info.tsx`
+- **viewbox** - Appears in `frontend-components/plotly/src/components/Icons/Info.tsx`
+- **width** - Appears in `frontend-components/plotly/src/components/Icons/Info.tsx`
+- **www** - Appears in `frontend-components/plotly/src/components/Icons/Info.tsx`
+- **xmlns** - Appears in `frontend-components/plotly/src/components/Icons/Info.tsx`

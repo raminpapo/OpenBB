@@ -1,0 +1,44 @@
+# Keywords: openbb_platform/core/tests/app/model/abstract/test_singleton.py
+
+## Extracted Keywords (40 total)
+
+- **AnotherClass** - Appears in `openbb_platform/core/tests/app/model/abstract/test_singleton.py`
+- **MyClass** - Appears in `openbb_platform/core/tests/app/model/abstract/test_singleton.py`
+- **SingletonMeta** - Appears in `openbb_platform/core/tests/app/model/abstract/test_singleton.py`
+- **__init__** - Appears in `openbb_platform/core/tests/app/model/abstract/test_singleton.py`
+- **abstract** - Appears in `openbb_platform/core/tests/app/model/abstract/test_singleton.py`
+- **act** - Appears in `openbb_platform/core/tests/app/model/abstract/test_singleton.py`
+- **anotherclass** - Appears in `openbb_platform/core/tests/app/model/abstract/test_singleton.py`
+- **app** - Appears in `openbb_platform/core/tests/app/model/abstract/test_singleton.py`
+- **arrange** - Appears in `openbb_platform/core/tests/app/model/abstract/test_singleton.py`
+- **assert** - Appears in `openbb_platform/core/tests/app/model/abstract/test_singleton.py`
+- **class** - Appears in `openbb_platform/core/tests/app/model/abstract/test_singleton.py`
+- **classes** - Appears in `openbb_platform/core/tests/app/model/abstract/test_singleton.py`
+- **creation** - Appears in `openbb_platform/core/tests/app/model/abstract/test_singleton.py`
+- **data** - Appears in `openbb_platform/core/tests/app/model/abstract/test_singleton.py`
+- **def** - Appears in `openbb_platform/core/tests/app/model/abstract/test_singleton.py`
+- **for** - Appears in `openbb_platform/core/tests/app/model/abstract/test_singleton.py`
+- **from** - Appears in `openbb_platform/core/tests/app/model/abstract/test_singleton.py`
+- **import** - Appears in `openbb_platform/core/tests/app/model/abstract/test_singleton.py`
+- **initialize** - Appears in `openbb_platform/core/tests/app/model/abstract/test_singleton.py`
+- **instance** - Appears in `openbb_platform/core/tests/app/model/abstract/test_singleton.py`
+- **instance1** - Appears in `openbb_platform/core/tests/app/model/abstract/test_singleton.py`
+- **instance2** - Appears in `openbb_platform/core/tests/app/model/abstract/test_singleton.py`
+- **metaclass** - Appears in `openbb_platform/core/tests/app/model/abstract/test_singleton.py`
+- **model** - Appears in `openbb_platform/core/tests/app/model/abstract/test_singleton.py`
+- **multiple** - Appears in `openbb_platform/core/tests/app/model/abstract/test_singleton.py`
+- **myclass** - Appears in `openbb_platform/core/tests/app/model/abstract/test_singleton.py`
+- **not** - Appears in `openbb_platform/core/tests/app/model/abstract/test_singleton.py`
+- **openbb_core** - Appears in `openbb_platform/core/tests/app/model/abstract/test_singleton.py`
+- **openbb_core.app.model.abstract.singleton** - Appears in `openbb_platform/core/tests/app/model/abstract/test_singleton.py`
+- **self** - Appears in `openbb_platform/core/tests/app/model/abstract/test_singleton.py`
+- **simple** - Appears in `openbb_platform/core/tests/app/model/abstract/test_singleton.py`
+- **singleton** - Appears in `openbb_platform/core/tests/app/model/abstract/test_singleton.py`
+- **singletonmeta** - Appears in `openbb_platform/core/tests/app/model/abstract/test_singleton.py`
+- **test** - Appears in `openbb_platform/core/tests/app/model/abstract/test_singleton.py`
+- **test_singleton_instance_creation** - Appears in `openbb_platform/core/tests/app/model/abstract/test_singleton.py`
+- **test_singleton_multiple_classes** - Appears in `openbb_platform/core/tests/app/model/abstract/test_singleton.py`
+- **tests** - Appears in `openbb_platform/core/tests/app/model/abstract/test_singleton.py`
+- **the** - Appears in `openbb_platform/core/tests/app/model/abstract/test_singleton.py`
+- **value** - Appears in `openbb_platform/core/tests/app/model/abstract/test_singleton.py`
+- **with** - Appears in `openbb_platform/core/tests/app/model/abstract/test_singleton.py`

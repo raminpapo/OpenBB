@@ -1,0 +1,46 @@
+# Keywords: openbb_platform/core/openbb_core/provider/standard_models/currency_pairs.py
+
+## Extracted Keywords (42 total)
+
+- **CurrencyPairsData** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/currency_pairs.py`
+- **CurrencyPairsQueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/currency_pairs.py`
+- **DATA_DESCRIPTIONS** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/currency_pairs.py`
+- **Data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/currency_pairs.py`
+- **Field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/currency_pairs.py`
+- **QueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/currency_pairs.py`
+- **abstract** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/currency_pairs.py`
+- **available** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/currency_pairs.py`
+- **class** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/currency_pairs.py`
+- **currency** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/currency_pairs.py`
+- **currencypairsdata** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/currency_pairs.py`
+- **currencypairsqueryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/currency_pairs.py`
+- **data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/currency_pairs.py`
+- **data_descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/currency_pairs.py`
+- **default** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/currency_pairs.py`
+- **description** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/currency_pairs.py`
+- **descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/currency_pairs.py`
+- **field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/currency_pairs.py`
+- **for** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/currency_pairs.py`
+- **from** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/currency_pairs.py`
+- **get** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/currency_pairs.py`
+- **import** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/currency_pairs.py`
+- **model** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/currency_pairs.py`
+- **name** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/currency_pairs.py`
+- **none** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/currency_pairs.py`
+- **openbb_core** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/currency_pairs.py`
+- **openbb_core.provider.abstract.data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/currency_pairs.py`
+- **openbb_core.provider.abstract.query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/currency_pairs.py`
+- **openbb_core.provider.utils.descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/currency_pairs.py`
+- **pair** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/currency_pairs.py`
+- **pairs** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/currency_pairs.py`
+- **provider** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/currency_pairs.py`
+- **pydantic** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/currency_pairs.py`
+- **query** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/currency_pairs.py`
+- **query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/currency_pairs.py`
+- **queryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/currency_pairs.py`
+- **search** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/currency_pairs.py`
+- **standard** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/currency_pairs.py`
+- **str** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/currency_pairs.py`
+- **symbol** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/currency_pairs.py`
+- **the** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/currency_pairs.py`
+- **utils** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/currency_pairs.py`

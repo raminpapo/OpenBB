@@ -1,0 +1,55 @@
+# Keywords: openbb_platform/extensions/mcp_server/openbb_mcp_server/models/tools.py
+
+## Extracted Keywords (51 total)
+
+- **BaseModel** - Appears in `openbb_platform/extensions/mcp_server/openbb_mcp_server/models/tools.py`
+- **CategoryInfo** - Appears in `openbb_platform/extensions/mcp_server/openbb_mcp_server/models/tools.py`
+- **Literal** - Appears in `openbb_platform/extensions/mcp_server/openbb_mcp_server/models/tools.py`
+- **SubcategoryInfo** - Appears in `openbb_platform/extensions/mcp_server/openbb_mcp_server/models/tools.py`
+- **ToggleResult** - Appears in `openbb_platform/extensions/mcp_server/openbb_mcp_server/models/tools.py`
+- **ToolInfo** - Appears in `openbb_platform/extensions/mcp_server/openbb_mcp_server/models/tools.py`
+- **about** - Appears in `openbb_platform/extensions/mcp_server/openbb_mcp_server/models/tools.py`
+- **action** - Appears in `openbb_platform/extensions/mcp_server/openbb_mcp_server/models/tools.py`
+- **activate** - Appears in `openbb_platform/extensions/mcp_server/openbb_mcp_server/models/tools.py`
+- **activated** - Appears in `openbb_platform/extensions/mcp_server/openbb_mcp_server/models/tools.py`
+- **active** - Appears in `openbb_platform/extensions/mcp_server/openbb_mcp_server/models/tools.py`
+- **basemodel** - Appears in `openbb_platform/extensions/mcp_server/openbb_mcp_server/models/tools.py`
+- **bool** - Appears in `openbb_platform/extensions/mcp_server/openbb_mcp_server/models/tools.py`
+- **category** - Appears in `openbb_platform/extensions/mcp_server/openbb_mcp_server/models/tools.py`
+- **categoryinfo** - Appears in `openbb_platform/extensions/mcp_server/openbb_mcp_server/models/tools.py`
+- **class** - Appears in `openbb_platform/extensions/mcp_server/openbb_mcp_server/models/tools.py`
+- **deactivate** - Appears in `openbb_platform/extensions/mcp_server/openbb_mcp_server/models/tools.py`
+- **deactivated** - Appears in `openbb_platform/extensions/mcp_server/openbb_mcp_server/models/tools.py`
+- **description** - Appears in `openbb_platform/extensions/mcp_server/openbb_mcp_server/models/tools.py`
+- **failed** - Appears in `openbb_platform/extensions/mcp_server/openbb_mcp_server/models/tools.py`
+- **for** - Appears in `openbb_platform/extensions/mcp_server/openbb_mcp_server/models/tools.py`
+- **from** - Appears in `openbb_platform/extensions/mcp_server/openbb_mcp_server/models/tools.py`
+- **import** - Appears in `openbb_platform/extensions/mcp_server/openbb_mcp_server/models/tools.py`
+- **information** - Appears in `openbb_platform/extensions/mcp_server/openbb_mcp_server/models/tools.py`
+- **int** - Appears in `openbb_platform/extensions/mcp_server/openbb_mcp_server/models/tools.py`
+- **list** - Appears in `openbb_platform/extensions/mcp_server/openbb_mcp_server/models/tools.py`
+- **literal** - Appears in `openbb_platform/extensions/mcp_server/openbb_mcp_server/models/tools.py`
+- **mcp** - Appears in `openbb_platform/extensions/mcp_server/openbb_mcp_server/models/tools.py`
+- **message** - Appears in `openbb_platform/extensions/mcp_server/openbb_mcp_server/models/tools.py`
+- **metadata** - Appears in `openbb_platform/extensions/mcp_server/openbb_mcp_server/models/tools.py`
+- **models** - Appears in `openbb_platform/extensions/mcp_server/openbb_mcp_server/models/tools.py`
+- **more** - Appears in `openbb_platform/extensions/mcp_server/openbb_mcp_server/models/tools.py`
+- **name** - Appears in `openbb_platform/extensions/mcp_server/openbb_mcp_server/models/tools.py`
+- **one** - Appears in `openbb_platform/extensions/mcp_server/openbb_mcp_server/models/tools.py`
+- **pydantic** - Appears in `openbb_platform/extensions/mcp_server/openbb_mcp_server/models/tools.py`
+- **request** - Appears in `openbb_platform/extensions/mcp_server/openbb_mcp_server/models/tools.py`
+- **result** - Appears in `openbb_platform/extensions/mcp_server/openbb_mcp_server/models/tools.py`
+- **server** - Appears in `openbb_platform/extensions/mcp_server/openbb_mcp_server/models/tools.py`
+- **single** - Appears in `openbb_platform/extensions/mcp_server/openbb_mcp_server/models/tools.py`
+- **str** - Appears in `openbb_platform/extensions/mcp_server/openbb_mcp_server/models/tools.py`
+- **subcategories** - Appears in `openbb_platform/extensions/mcp_server/openbb_mcp_server/models/tools.py`
+- **subcategory** - Appears in `openbb_platform/extensions/mcp_server/openbb_mcp_server/models/tools.py`
+- **subcategoryinfo** - Appears in `openbb_platform/extensions/mcp_server/openbb_mcp_server/models/tools.py`
+- **successful** - Appears in `openbb_platform/extensions/mcp_server/openbb_mcp_server/models/tools.py`
+- **toggleresult** - Appears in `openbb_platform/extensions/mcp_server/openbb_mcp_server/models/tools.py`
+- **tool** - Appears in `openbb_platform/extensions/mcp_server/openbb_mcp_server/models/tools.py`
+- **tool_count** - Appears in `openbb_platform/extensions/mcp_server/openbb_mcp_server/models/tools.py`
+- **toolinfo** - Appears in `openbb_platform/extensions/mcp_server/openbb_mcp_server/models/tools.py`
+- **tools** - Appears in `openbb_platform/extensions/mcp_server/openbb_mcp_server/models/tools.py`
+- **total_tools** - Appears in `openbb_platform/extensions/mcp_server/openbb_mcp_server/models/tools.py`
+- **typing** - Appears in `openbb_platform/extensions/mcp_server/openbb_mcp_server/models/tools.py`

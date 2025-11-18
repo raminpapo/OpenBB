@@ -1,0 +1,43 @@
+# Keywords: openbb_platform/extensions/index/openbb_index/index_views.py
+
+## Extracted Keywords (39 total)
+
+- **IndexViews** - Appears in `openbb_platform/extensions/index/openbb_index/index_views.py`
+- **TYPE_CHECKING** - Appears in `openbb_platform/extensions/index/openbb_index/index_views.py`
+- **any** - Appears in `openbb_platform/extensions/index/openbb_index/index_views.py`
+- **chart** - Appears in `openbb_platform/extensions/index/openbb_index/index_views.py`
+- **charts** - Appears in `openbb_platform/extensions/index/openbb_index/index_views.py`
+- **class** - Appears in `openbb_platform/extensions/index/openbb_index/index_views.py`
+- **core** - Appears in `openbb_platform/extensions/index/openbb_index/index_views.py`
+- **def** - Appears in `openbb_platform/extensions/index/openbb_index/index_views.py`
+- **dict** - Appears in `openbb_platform/extensions/index/openbb_index/index_views.py`
+- **disable** - Appears in `openbb_platform/extensions/index/openbb_index/index_views.py`
+- **extension** - Appears in `openbb_platform/extensions/index/openbb_index/index_views.py`
+- **for** - Appears in `openbb_platform/extensions/index/openbb_index/index_views.py`
+- **from** - Appears in `openbb_platform/extensions/index/openbb_index/index_views.py`
+- **historical** - Appears in `openbb_platform/extensions/index/openbb_index/index_views.py`
+- **import** - Appears in `openbb_platform/extensions/index/openbb_index/index_views.py`
+- **index** - Appears in `openbb_platform/extensions/index/openbb_index/index_views.py`
+- **index_price_historical** - Appears in `openbb_platform/extensions/index/openbb_index/index_views.py`
+- **indexviews** - Appears in `openbb_platform/extensions/index/openbb_index/index_views.py`
+- **kwargs** - Appears in `openbb_platform/extensions/index/openbb_index/index_views.py`
+- **noqa** - Appears in `openbb_platform/extensions/index/openbb_index/index_views.py`
+- **openbb_charting** - Appears in `openbb_platform/extensions/index/openbb_index/index_views.py`
+- **openbb_charting.charts.price_historical** - Appears in `openbb_platform/extensions/index/openbb_index/index_views.py`
+- **openbb_charting.core.openbb_figure** - Appears in `openbb_platform/extensions/index/openbb_index/index_views.py`
+- **openbb_figure** - Appears in `openbb_platform/extensions/index/openbb_index/index_views.py`
+- **openbbfigure** - Appears in `openbb_platform/extensions/index/openbb_index/index_views.py`
+- **outside** - Appears in `openbb_platform/extensions/index/openbb_index/index_views.py`
+- **plr0912** - Appears in `openbb_platform/extensions/index/openbb_index/index_views.py`
+- **price** - Appears in `openbb_platform/extensions/index/openbb_index/index_views.py`
+- **price_historical** - Appears in `openbb_platform/extensions/index/openbb_index/index_views.py`
+- **pylint** - Appears in `openbb_platform/extensions/index/openbb_index/index_views.py`
+- **return** - Appears in `openbb_platform/extensions/index/openbb_index/index_views.py`
+- **staticmethod** - Appears in `openbb_platform/extensions/index/openbb_index/index_views.py`
+- **str** - Appears in `openbb_platform/extensions/index/openbb_index/index_views.py`
+- **the** - Appears in `openbb_platform/extensions/index/openbb_index/index_views.py`
+- **toplevel** - Appears in `openbb_platform/extensions/index/openbb_index/index_views.py`
+- **tuple** - Appears in `openbb_platform/extensions/index/openbb_index/index_views.py`
+- **type_checking** - Appears in `openbb_platform/extensions/index/openbb_index/index_views.py`
+- **typing** - Appears in `openbb_platform/extensions/index/openbb_index/index_views.py`
+- **views** - Appears in `openbb_platform/extensions/index/openbb_index/index_views.py`

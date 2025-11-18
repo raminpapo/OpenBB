@@ -1,0 +1,57 @@
+# Keywords: openbb_platform/core/openbb_core/provider/standard_models/retail_prices.py
+
+## Extracted Keywords (53 total)
+
+- **Data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/retail_prices.py`
+- **Field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/retail_prices.py`
+- **QueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/retail_prices.py`
+- **RetailPricesData** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/retail_prices.py`
+- **RetailPricesQueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/retail_prices.py`
+- **abstract** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/retail_prices.py`
+- **basket** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/retail_prices.py`
+- **change** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/retail_prices.py`
+- **class** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/retail_prices.py`
+- **country** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/retail_prices.py`
+- **data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/retail_prices.py`
+- **data_descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/retail_prices.py`
+- **date** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/retail_prices.py`
+- **datetime** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/retail_prices.py`
+- **datetype** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/retail_prices.py`
+- **default** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/retail_prices.py`
+- **description** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/retail_prices.py`
+- **descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/retail_prices.py`
+- **end_date** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/retail_prices.py`
+- **field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/retail_prices.py`
+- **float** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/retail_prices.py`
+- **from** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/retail_prices.py`
+- **get** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/retail_prices.py`
+- **import** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/retail_prices.py`
+- **item** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/retail_prices.py`
+- **items** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/retail_prices.py`
+- **model** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/retail_prices.py`
+- **none** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/retail_prices.py`
+- **openbb_core** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/retail_prices.py`
+- **openbb_core.provider.abstract.data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/retail_prices.py`
+- **openbb_core.provider.abstract.query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/retail_prices.py`
+- **openbb_core.provider.utils.descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/retail_prices.py`
+- **per** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/retail_prices.py`
+- **price** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/retail_prices.py`
+- **prices** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/retail_prices.py`
+- **provider** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/retail_prices.py`
+- **pydantic** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/retail_prices.py`
+- **query** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/retail_prices.py`
+- **query_descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/retail_prices.py`
+- **query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/retail_prices.py`
+- **queryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/retail_prices.py`
+- **retail** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/retail_prices.py`
+- **retailpricesdata** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/retail_prices.py`
+- **retailpricesqueryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/retail_prices.py`
+- **standard** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/retail_prices.py`
+- **start_date** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/retail_prices.py`
+- **str** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/retail_prices.py`
+- **symbol** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/retail_prices.py`
+- **the** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/retail_prices.py`
+- **unit** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/retail_prices.py`
+- **united_states** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/retail_prices.py`
+- **utils** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/retail_prices.py`
+- **value** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/retail_prices.py`

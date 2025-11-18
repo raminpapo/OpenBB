@@ -1,0 +1,42 @@
+# Keywords: desktop/index.html
+
+## Extracted Keywords (38 total)
+
+- **app** - Appears in `desktop/index.html`
+- **assets** - Appears in `desktop/index.html`
+- **body** - Appears in `desktop/index.html`
+- **charset** - Appears in `desktop/index.html`
+- **class** - Appears in `desktop/index.html`
+- **content** - Appears in `desktop/index.html`
+- **dark** - Appears in `desktop/index.html`
+- **device** - Appears in `desktop/index.html`
+- **div** - Appears in `desktop/index.html`
+- **doctype** - Appears in `desktop/index.html`
+- **head** - Appears in `desktop/index.html`
+- **href** - Appears in `desktop/index.html`
+- **html** - Appears in `desktop/index.html`
+- **ico** - Appears in `desktop/index.html`
+- **icon** - Appears in `desktop/index.html`
+- **icons** - Appears in `desktop/index.html`
+- **image** - Appears in `desktop/index.html`
+- **initial** - Appears in `desktop/index.html`
+- **lang** - Appears in `desktop/index.html`
+- **link** - Appears in `desktop/index.html`
+- **main** - Appears in `desktop/index.html`
+- **meta** - Appears in `desktop/index.html`
+- **module** - Appears in `desktop/index.html`
+- **name** - Appears in `desktop/index.html`
+- **openbb** - Appears in `desktop/index.html`
+- **platform** - Appears in `desktop/index.html`
+- **rel** - Appears in `desktop/index.html`
+- **scale** - Appears in `desktop/index.html`
+- **script** - Appears in `desktop/index.html`
+- **src** - Appears in `desktop/index.html`
+- **svg** - Appears in `desktop/index.html`
+- **title** - Appears in `desktop/index.html`
+- **tsx** - Appears in `desktop/index.html`
+- **type** - Appears in `desktop/index.html`
+- **utf** - Appears in `desktop/index.html`
+- **viewport** - Appears in `desktop/index.html`
+- **width** - Appears in `desktop/index.html`
+- **xml** - Appears in `desktop/index.html`

@@ -1,0 +1,52 @@
+# Keywords: openbb_platform/core/openbb_core/provider/standard_models/gdp_forecast.py
+
+## Extracted Keywords (48 total)
+
+- **Data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_forecast.py`
+- **Field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_forecast.py`
+- **GdpForecastData** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_forecast.py`
+- **GdpForecastQueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_forecast.py`
+- **QueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_forecast.py`
+- **abstract** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_forecast.py`
+- **and** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_forecast.py`
+- **class** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_forecast.py`
+- **country** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_forecast.py`
+- **data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_forecast.py`
+- **data_descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_forecast.py`
+- **date** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_forecast.py`
+- **datetime** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_forecast.py`
+- **datetype** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_forecast.py`
+- **default** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_forecast.py`
+- **description** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_forecast.py`
+- **descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_forecast.py`
+- **end_date** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_forecast.py`
+- **field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_forecast.py`
+- **float** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_forecast.py`
+- **for** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_forecast.py`
+- **forecast** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_forecast.py`
+- **forecasted** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_forecast.py`
+- **from** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_forecast.py`
+- **gdp** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_forecast.py`
+- **gdpforecastdata** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_forecast.py`
+- **gdpforecastqueryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_forecast.py`
+- **get** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_forecast.py`
+- **import** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_forecast.py`
+- **int** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_forecast.py`
+- **model** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_forecast.py`
+- **none** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_forecast.py`
+- **openbb_core** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_forecast.py`
+- **openbb_core.provider.abstract.data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_forecast.py`
+- **openbb_core.provider.abstract.query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_forecast.py`
+- **openbb_core.provider.utils.descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_forecast.py`
+- **provider** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_forecast.py`
+- **pydantic** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_forecast.py`
+- **query** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_forecast.py`
+- **query_descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_forecast.py`
+- **query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_forecast.py`
+- **queryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_forecast.py`
+- **standard** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_forecast.py`
+- **start_date** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_forecast.py`
+- **str** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_forecast.py`
+- **the** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_forecast.py`
+- **utils** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_forecast.py`
+- **value** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/gdp_forecast.py`

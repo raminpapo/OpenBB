@@ -1,0 +1,42 @@
+# Keywords: openbb_platform/providers/finviz/openbb_finviz/utils/presets/buffet_like.ini
+
+## Extracted Keywords (38 total)
+
+- **author** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/buffet_like.ini`
+- **buffet** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/buffet_like.ini`
+- **cap** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/buffet_like.ini`
+- **cash** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/buffet_like.ini`
+- **debt** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/buffet_like.ini`
+- **description** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/buffet_like.ini`
+- **descriptive** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/buffet_like.ini`
+- **dividend** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/buffet_like.ini`
+- **eps** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/buffet_like.ini`
+- **equity** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/buffet_like.ini`
+- **flow** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/buffet_like.ini`
+- **for** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/buffet_like.ini`
+- **free** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/buffet_like.ini`
+- **fundamental** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/buffet_like.ini`
+- **general** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/buffet_like.ini`
+- **growth** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/buffet_like.ini`
+- **growthnext** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/buffet_like.ini`
+- **growthpast** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/buffet_like.ini`
+- **investment** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/buffet_like.ini`
+- **invsting** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/buffet_like.ini`
+- **like** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/buffet_like.ini`
+- **long** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/buffet_like.ini`
+- **market** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/buffet_like.ini`
+- **mid** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/buffet_like.ini`
+- **over** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/buffet_like.ini`
+- **positive** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/buffet_like.ini`
+- **preset** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/buffet_like.ini`
+- **price** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/buffet_like.ini`
+- **return** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/buffet_like.ini`
+- **sales** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/buffet_like.ini`
+- **screener** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/buffet_like.ini`
+- **technical** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/buffet_like.ini`
+- **term** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/buffet_like.ini`
+- **traceabl3** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/buffet_like.ini`
+- **under** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/buffet_like.ini`
+- **value** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/buffet_like.ini`
+- **years** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/buffet_like.ini`
+- **yield** - Appears in `openbb_platform/providers/finviz/openbb_finviz/utils/presets/buffet_like.ini`

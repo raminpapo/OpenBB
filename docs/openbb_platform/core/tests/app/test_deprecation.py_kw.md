@@ -1,0 +1,53 @@
+# Keywords: openbb_platform/core/tests/app/test_deprecation.py
+
+## Extracted Keywords (49 total)
+
+- **DeprecatedCommandsTest** - Appears in `openbb_platform/core/tests/app/test_deprecation.py`
+- **PathHandler** - Appears in `openbb_platform/core/tests/app/test_deprecation.py`
+- **VERSION** - Appears in `openbb_platform/core/tests/app/test_deprecation.py`
+- **app** - Appears in `openbb_platform/core/tests/app/test_deprecation.py`
+- **assert** - Appears in `openbb_platform/core/tests/app/test_deprecation.py`
+- **build_route_map** - Appears in `openbb_platform/core/tests/app/test_deprecation.py`
+- **class** - Appears in `openbb_platform/core/tests/app/test_deprecation.py`
+- **commands** - Appears in `openbb_platform/core/tests/app/test_deprecation.py`
+- **current** - Appears in `openbb_platform/core/tests/app/test_deprecation.py`
+- **current_major_minor** - Appears in `openbb_platform/core/tests/app/test_deprecation.py`
+- **def** - Appears in `openbb_platform/core/tests/app/test_deprecation.py`
+- **deprecated** - Appears in `openbb_platform/core/tests/app/test_deprecation.py`
+- **deprecatedcommandstest** - Appears in `openbb_platform/core/tests/app/test_deprecation.py`
+- **deprecation_message** - Appears in `openbb_platform/core/tests/app/test_deprecation.py`
+- **expected** - Appears in `openbb_platform/core/tests/app/test_deprecation.py`
+- **expected_removal** - Appears in `openbb_platform/core/tests/app/test_deprecation.py`
+- **false** - Appears in `openbb_platform/core/tests/app/test_deprecation.py`
+- **for** - Appears in `openbb_platform/core/tests/app/test_deprecation.py`
+- **from** - Appears in `openbb_platform/core/tests/app/test_deprecation.py`
+- **get_major_minor** - Appears in `openbb_platform/core/tests/app/test_deprecation.py`
+- **getattr** - Appears in `openbb_platform/core/tests/app/test_deprecation.py`
+- **hasattr** - Appears in `openbb_platform/core/tests/app/test_deprecation.py`
+- **import** - Appears in `openbb_platform/core/tests/app/test_deprecation.py`
+- **items** - Appears in `openbb_platform/core/tests/app/test_deprecation.py`
+- **matches** - Appears in `openbb_platform/core/tests/app/test_deprecation.py`
+- **metadata** - Appears in `openbb_platform/core/tests/app/test_deprecation.py`
+- **obb_deprecation_warning** - Appears in `openbb_platform/core/tests/app/test_deprecation.py`
+- **openbb_core** - Appears in `openbb_platform/core/tests/app/test_deprecation.py`
+- **openbb_core.app.static.package_builder** - Appears in `openbb_platform/core/tests/app/test_deprecation.py`
+- **openbb_core.app.version** - Appears in `openbb_platform/core/tests/app/test_deprecation.py`
+- **package_builder** - Appears in `openbb_platform/core/tests/app/test_deprecation.py`
+- **path** - Appears in `openbb_platform/core/tests/app/test_deprecation.py`
+- **pathhandler** - Appears in `openbb_platform/core/tests/app/test_deprecation.py`
+- **please** - Appears in `openbb_platform/core/tests/app/test_deprecation.py`
+- **removal** - Appears in `openbb_platform/core/tests/app/test_deprecation.py`
+- **remove** - Appears in `openbb_platform/core/tests/app/test_deprecation.py`
+- **route** - Appears in `openbb_platform/core/tests/app/test_deprecation.py`
+- **route_map** - Appears in `openbb_platform/core/tests/app/test_deprecation.py`
+- **self** - Appears in `openbb_platform/core/tests/app/test_deprecation.py`
+- **static** - Appears in `openbb_platform/core/tests/app/test_deprecation.py`
+- **subtest** - Appears in `openbb_platform/core/tests/app/test_deprecation.py`
+- **summary** - Appears in `openbb_platform/core/tests/app/test_deprecation.py`
+- **test** - Appears in `openbb_platform/core/tests/app/test_deprecation.py`
+- **test_deprecated_commands** - Appears in `openbb_platform/core/tests/app/test_deprecation.py`
+- **testcase** - Appears in `openbb_platform/core/tests/app/test_deprecation.py`
+- **the** - Appears in `openbb_platform/core/tests/app/test_deprecation.py`
+- **unittest** - Appears in `openbb_platform/core/tests/app/test_deprecation.py`
+- **version** - Appears in `openbb_platform/core/tests/app/test_deprecation.py`
+- **with** - Appears in `openbb_platform/core/tests/app/test_deprecation.py`

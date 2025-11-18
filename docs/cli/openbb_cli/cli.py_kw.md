@@ -1,0 +1,52 @@
+# Keywords: cli/openbb_cli/cli.py
+
+## Extracted Keywords (48 total)
+
+- **__main__** - Appears in `cli/openbb_cli/cli.py`
+- **__name__** - Appears in `cli/openbb_cli/cli.py`
+- **argv** - Appears in `cli/openbb_cli/cli.py`
+- **bootstrap** - Appears in `cli/openbb_cli/cli.py`
+- **change_logging_sub_app** - Appears in `cli/openbb_cli/cli.py`
+- **cli** - Appears in `cli/openbb_cli/cli.py`
+- **cli_controller** - Appears in `cli/openbb_cli/cli.py`
+- **config** - Appears in `cli/openbb_cli/cli.py`
+- **controllers** - Appears in `cli/openbb_cli/cli.py`
+- **debug** - Appears in `cli/openbb_cli/cli.py`
+- **def** - Appears in `cli/openbb_cli/cli.py`
+- **dev** - Appears in `cli/openbb_cli/cli.py`
+- **disable** - Appears in `cli/openbb_cli/cli.py`
+- **entry** - Appears in `cli/openbb_cli/cli.py`
+- **error** - Appears in `cli/openbb_cli/cli.py`
+- **except** - Appears in `cli/openbb_cli/cli.py`
+- **exception** - Appears in `cli/openbb_cli/cli.py`
+- **finally** - Appears in `cli/openbb_cli/cli.py`
+- **for** - Appears in `cli/openbb_cli/cli.py`
+- **from** - Appears in `cli/openbb_cli/cli.py`
+- **import** - Appears in `cli/openbb_cli/cli.py`
+- **initial_logging_sub_app** - Appears in `cli/openbb_cli/cli.py`
+- **launch** - Appears in `cli/openbb_cli/cli.py`
+- **loading** - Appears in `cli/openbb_cli/cli.py`
+- **logging** - Appears in `cli/openbb_cli/cli.py`
+- **main** - Appears in `cli/openbb_cli/cli.py`
+- **noqa** - Appears in `cli/openbb_cli/cli.py`
+- **occurred** - Appears in `cli/openbb_cli/cli.py`
+- **openbb** - Appears in `cli/openbb_cli/cli.py`
+- **openbb_cli** - Appears in `cli/openbb_cli/cli.py`
+- **openbb_cli.config.setup** - Appears in `cli/openbb_cli/cli.py`
+- **openbb_cli.controllers.cli_controller** - Appears in `cli/openbb_cli/cli.py`
+- **openbb_cli.utils.utils** - Appears in `cli/openbb_cli/cli.py`
+- **outside** - Appears in `cli/openbb_cli/cli.py`
+- **platform** - Appears in `cli/openbb_cli/cli.py`
+- **point** - Appears in `cli/openbb_cli/cli.py`
+- **print** - Appears in `cli/openbb_cli/cli.py`
+- **pylint** - Appears in `cli/openbb_cli/cli.py`
+- **reset_logging_sub_app** - Appears in `cli/openbb_cli/cli.py`
+- **setup** - Appears in `cli/openbb_cli/cli.py`
+- **sys** - Appears in `cli/openbb_cli/cli.py`
+- **t201** - Appears in `cli/openbb_cli/cli.py`
+- **the** - Appears in `cli/openbb_cli/cli.py`
+- **toplevel** - Appears in `cli/openbb_cli/cli.py`
+- **try** - Appears in `cli/openbb_cli/cli.py`
+- **unexpected** - Appears in `cli/openbb_cli/cli.py`
+- **use** - Appears in `cli/openbb_cli/cli.py`
+- **utils** - Appears in `cli/openbb_cli/cli.py`

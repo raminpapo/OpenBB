@@ -1,0 +1,54 @@
+# Keywords: openbb_platform/core/openbb_core/provider/standard_models/bls_search.py
+
+## Extracted Keywords (50 total)
+
+- **DATA_DESCRIPTIONS** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/bls_search.py`
+- **Data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/bls_search.py`
+- **Field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/bls_search.py`
+- **QueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/bls_search.py`
+- **SearchData** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/bls_search.py`
+- **SearchQueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/bls_search.py`
+- **abstract** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/bls_search.py`
+- **bls** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/bls_search.py`
+- **class** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/bls_search.py`
+- **colon** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/bls_search.py`
+- **data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/bls_search.py`
+- **data_descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/bls_search.py`
+- **default** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/bls_search.py`
+- **description** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/bls_search.py`
+- **descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/bls_search.py`
+- **field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/bls_search.py`
+- **from** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/bls_search.py`
+- **get** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/bls_search.py`
+- **import** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/bls_search.py`
+- **model** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/bls_search.py`
+- **multiple** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/bls_search.py`
+- **name** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/bls_search.py`
+- **none** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/bls_search.py`
+- **openbb_core** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/bls_search.py`
+- **openbb_core.provider.abstract.data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/bls_search.py`
+- **openbb_core.provider.abstract.query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/bls_search.py`
+- **openbb_core.provider.utils.descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/bls_search.py`
+- **operator** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/bls_search.py`
+- **params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/bls_search.py`
+- **provider** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/bls_search.py`
+- **pydantic** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/bls_search.py`
+- **queries** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/bls_search.py`
+- **query** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/bls_search.py`
+- **query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/bls_search.py`
+- **queryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/bls_search.py`
+- **search** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/bls_search.py`
+- **searchdata** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/bls_search.py`
+- **searchqueryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/bls_search.py`
+- **semi** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/bls_search.py`
+- **separate** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/bls_search.py`
+- **series** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/bls_search.py`
+- **str** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/bls_search.py`
+- **survey** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/bls_search.py`
+- **survey_name** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/bls_search.py`
+- **symbol** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/bls_search.py`
+- **the** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/bls_search.py`
+- **title** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/bls_search.py`
+- **use** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/bls_search.py`
+- **utils** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/bls_search.py`
+- **word** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/bls_search.py`

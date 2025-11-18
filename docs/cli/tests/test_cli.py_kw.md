@@ -1,0 +1,47 @@
+# Keywords: cli/tests/test_cli.py
+
+## Extracted Keywords (43 total)
+
+- **and** - Appears in `cli/tests/test_cli.py`
+- **arguments** - Appears in `cli/tests/test_cli.py`
+- **argv** - Appears in `cli/tests/test_cli.py`
+- **assert_called_once** - Appears in `cli/tests/test_cli.py`
+- **assert_called_once_with** - Appears in `cli/tests/test_cli.py`
+- **bootstrap** - Appears in `cli/tests/test_cli.py`
+- **cli** - Appears in `cli/tests/test_cli.py`
+- **cli_controller** - Appears in `cli/tests/test_cli.py`
+- **config** - Appears in `cli/tests/test_cli.py`
+- **controllers** - Appears in `cli/tests/test_cli.py`
+- **debug** - Appears in `cli/tests/test_cli.py`
+- **def** - Appears in `cli/tests/test_cli.py`
+- **dev** - Appears in `cli/tests/test_cli.py`
+- **false** - Appears in `cli/tests/test_cli.py`
+- **flag** - Appears in `cli/tests/test_cli.py`
+- **flags** - Appears in `cli/tests/test_cli.py`
+- **from** - Appears in `cli/tests/test_cli.py`
+- **function** - Appears in `cli/tests/test_cli.py`
+- **import** - Appears in `cli/tests/test_cli.py`
+- **launch** - Appears in `cli/tests/test_cli.py`
+- **main** - Appears in `cli/tests/test_cli.py`
+- **mock** - Appears in `cli/tests/test_cli.py`
+- **mock_bootstrap** - Appears in `cli/tests/test_cli.py`
+- **mock_launch** - Appears in `cli/tests/test_cli.py`
+- **module** - Appears in `cli/tests/test_cli.py`
+- **only** - Appears in `cli/tests/test_cli.py`
+- **openbb** - Appears in `cli/tests/test_cli.py`
+- **openbb_cli** - Appears in `cli/tests/test_cli.py`
+- **openbb_cli.cli** - Appears in `cli/tests/test_cli.py`
+- **patch** - Appears in `cli/tests/test_cli.py`
+- **setup** - Appears in `cli/tests/test_cli.py`
+- **sys** - Appears in `cli/tests/test_cli.py`
+- **test** - Appears in `cli/tests/test_cli.py`
+- **test_main_with_debug_only** - Appears in `cli/tests/test_cli.py`
+- **test_main_with_dev_and_debug** - Appears in `cli/tests/test_cli.py`
+- **test_main_with_dev_only** - Appears in `cli/tests/test_cli.py`
+- **test_main_without_arguments** - Appears in `cli/tests/test_cli.py`
+- **the** - Appears in `cli/tests/test_cli.py`
+- **true** - Appears in `cli/tests/test_cli.py`
+- **unittest** - Appears in `cli/tests/test_cli.py`
+- **unittest.mock** - Appears in `cli/tests/test_cli.py`
+- **with** - Appears in `cli/tests/test_cli.py`
+- **without** - Appears in `cli/tests/test_cli.py`

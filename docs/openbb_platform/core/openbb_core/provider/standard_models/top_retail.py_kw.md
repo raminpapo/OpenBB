@@ -1,0 +1,51 @@
+# Keywords: openbb_platform/core/openbb_core/provider/standard_models/top_retail.py
+
+## Extracted Keywords (47 total)
+
+- **Data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/top_retail.py`
+- **Field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/top_retail.py`
+- **QueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/top_retail.py`
+- **TopRetailData** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/top_retail.py`
+- **TopRetailQueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/top_retail.py`
+- **abstract** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/top_retail.py`
+- **activity** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/top_retail.py`
+- **bearish** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/top_retail.py`
+- **bullish** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/top_retail.py`
+- **class** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/top_retail.py`
+- **data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/top_retail.py`
+- **data_descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/top_retail.py`
+- **date** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/top_retail.py`
+- **datetime** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/top_retail.py`
+- **datetype** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/top_retail.py`
+- **default** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/top_retail.py`
+- **description** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/top_retail.py`
+- **descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/top_retail.py`
+- **field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/top_retail.py`
+- **float** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/top_retail.py`
+- **from** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/top_retail.py`
+- **get** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/top_retail.py`
+- **import** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/top_retail.py`
+- **int** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/top_retail.py`
+- **limit** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/top_retail.py`
+- **model** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/top_retail.py`
+- **openbb_core** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/top_retail.py`
+- **openbb_core.provider.abstract.data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/top_retail.py`
+- **openbb_core.provider.abstract.query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/top_retail.py`
+- **openbb_core.provider.utils.descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/top_retail.py`
+- **provider** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/top_retail.py`
+- **pydantic** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/top_retail.py`
+- **query** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/top_retail.py`
+- **query_descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/top_retail.py`
+- **query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/top_retail.py`
+- **queryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/top_retail.py`
+- **retail** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/top_retail.py`
+- **search** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/top_retail.py`
+- **sentiment** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/top_retail.py`
+- **standard** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/top_retail.py`
+- **str** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/top_retail.py`
+- **symbol** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/top_retail.py`
+- **the** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/top_retail.py`
+- **top** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/top_retail.py`
+- **topretaildata** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/top_retail.py`
+- **topretailqueryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/top_retail.py`
+- **utils** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/top_retail.py`

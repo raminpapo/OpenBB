@@ -1,0 +1,254 @@
+# Documentation: openbb_platform/core/tests/app/test_extension_loader.py
+
+## File Metadata
+- **Path**: `openbb_platform/core/tests/app/test_extension_loader.py`
+- **Size**: 5,870 characters, 183 lines
+- **Words**: 466
+- **Extension**: .py
+- **Classification**: Text file
+
+## Original Source
+
+```python
+"""Tests for the ExtensionLoader class."""
+
+from unittest.mock import patch
+
+import pytest
+from openbb_core.app.extension_loader import EntryPoint, ExtensionLoader, OpenBBGroups
+
+
+@pytest.fixture(autouse=True)
+def setup_and_teardown():
+    """
+    Fixture to run before and after each test function.
+
+    This is necessary to reset the singleton instance of ExtensionLoader.
+    """
+    # Code to run before each test function
+    yield  # This is where the test function runs
+    # Code to run after each test function
+    # pylint: disable=protected-access
+    ExtensionLoader._instances = {}
+
+
+def test_extension_loader():
+    """Smoke test for extension loader."""
+    extension_loader = ExtensionLoader()
+    assert extension_loader is not None
+
+
+def test_extension_loader_singleton_prop():
+    """Test the singleton property of extension loader."""
+    extension_loader = ExtensionLoader()
+    extension_loader2 = ExtensionLoader()
+    assert extension_loader is extension_loader2
+
+
+def test_openbb_groups():
+    """Test the OpenBBGroups enum."""
+    assert len(OpenBBGroups) == 3
+    assert OpenBBGroups.core.value == "openbb_core_extension"
+    assert OpenBBGroups.provider.value == "openbb_provider_extension"
+    assert OpenBBGroups.obbject.value == "openbb_obbject_extension"
+
+
+def test_obbject_entry_points():
+    """Test the obbject entry points property."""
+    el = ExtensionLoader()
+    assert isinstance(el.obbject_entry_points, list)
+
+    for ep in el.obbject_entry_points:
+        assert ep.group == OpenBBGroups.obbject.value
+
+
+def test_core_entry_points():
+    """Test the core entry points property."""
+    el = ExtensionLoader()
+    assert isinstance(el.core_entry_points, list)
+    for ep in el.core_entry_points:
+        assert ep.group == OpenBBGroups.core.value
+
+
+def test_provider_entry_points():
+    """Test the provider entry points property."""
+    el = ExtensionLoader()
+    assert isinstance(el.provider_entry_points, list)
+    for ep in el.provider_entry_points:
+        assert ep.group == OpenBBGroups.provider.value
+
+
+def test_sorted_entry_points():
+    """Test the _sorted_entry_points method."""
+    # pylint: disable=protected-access
+    core_entry_points = ExtensionLoader._sorted_entry_points(OpenBBGroups.core.value)
+    for ep in core_entry_points:
+        assert ep.group == OpenBBGroups.core.value
+
+
+def test_get_entry_point():
+    """Test the _get_entry_point method."""
+    el = ExtensionLoader()
+    # pylint: disable=protected-access
+    result = el._get_entry_point(el.provider_entry_points, "fmp")
+    if result:
+        assert result.group == OpenBBGroups.provider.value
+        assert result.name == "fmp"
+
+    # pylint: disable=protected-access
+    result = el._get_entry_point(el.core_entry_points, "equity")
+    if result:
+        assert result.group == OpenBBGroups.core.value
+        assert result.name == "equity"
+
+
+def test_get_entry_point_not_found():
+    """Test the _get_entry_point method when the extension is not found."""
+    el = ExtensionLoader()
+    # pylint: disable=protected-access
+    result = el._get_entry_point(el.core_entry_points, "random_extension")
+    assert result is None
+
+
+@patch("openbb_core.app.extension_loader.ExtensionLoader._get_entry_point")
+def test_get_obbject_entry_point(mock_get_entry_point):
+    """Test the get_obbject_entry_point method."""
+
+    mock_get_entry_point.return_value = EntryPoint(
+        name="mock_extension", group=OpenBBGroups.obbject.value, value="mock"
+    )
+
+    el = ExtensionLoader()
+    result = el.get_obbject_entry_point("mock_extension")
+    if result:
+        assert result.group == OpenBBGroups.obbject.value
+        assert result.name == "mock_extension"
+
+
+@patch("openbb_core.app.extension_loader.ExtensionLoader._get_entry_point")
+def test_get_entry_point_core(mock_get_entry_point):
+    """Test the get_core_entry_point method."""
+
+    mock_get_entry_point.return_value = EntryPoint(
+        name="mock_extension", group=OpenBBGroups.obbject.value, value="mock"
+    )
+
+    el = ExtensionLoader()
+    result = el.get_core_entry_point("mock_extension")
+    if result:
+        assert result.group == OpenBBGroups.obbject.value
+        assert result.name == "mock_extension"
+
+
+@patch("openbb_core.app.extension_loader.ExtensionLoader._get_entry_point")
+def test_get_entry_point_provider(mock_get_entry_point):
+    """Test the get_core_entry_point method."""
+
+    mock_get_entry_point.return_value = EntryPoint(
+        name="mock_extension", group=OpenBBGroups.obbject.value, value="mock"
+    )
+
+    el = ExtensionLoader()
+    result = el.get_provider_entry_point("mock_extension")
+    if result:
+        assert result.group == OpenBBGroups.obbject.value
+        assert result.name == "mock_extension"
+
+
+def test_obbject_objects():
+    """Test the obbject objects property."""
+    # pylint: disable=import-outside-toplevel
+    from openbb_core.app.model.extension import Extension
+
+    el = ExtensionLoader()
+    assert isinstance(el.obbject_objects, dict)
+
+    for key, value in el.obbject_objects.items():
+        assert isinstance(key, str)
+        assert isinstance(value, Extension)
+
+
+def test_core_objects():
+    """Test the core objects property."""
+    # pylint: disable=import-outside-toplevel
+    from openbb_core.app.router import Router
+
+    el = ExtensionLoader()
+    assert isinstance(el.core_objects, dict)
+
+    for key, value in el.core_objects.items():
+        assert isinstance(key, str)
+        assert isinstance(value, Router)
+
+
+def test_provider_objects():
+    """Test the provider objects property."""
+    # pylint: disable=import-outside-toplevel
+    from openbb_core.provider.abstract.provider import Provider
+
+    el = ExtensionLoader()
+    assert isinstance(el.provider_objects, dict)
+
+    for key, value in el.provider_objects.items():
+        assert isinstance(key, str)
+        assert isinstance(value, Provider)
+
+```
+
+## High-Level Overview
+
+Tests for the ExtensionLoader class.
+
+from unittest.mock import patch
+
+import pytest
+from openbb_core.app.extension_loader import EntryPoint, ExtensionLoader, OpenBBGroups
+
+
+@pytest.fixture(autouse=True)
+def setup_and_teardown():
+
+
+# Code to run before each test function
+yield  # This is where the test function runs
+# Code to run after each test function
+# pylint: disable=protected-access
+ExtensionLoader._instances = {}
+
+
+def test_extension_loader():
+
+## Detailed Structure
+
+### Python File Structure
+
+**Classes** (0):
+None
+
+**Functions** (16):
+`setup_and_teardown`, `test_extension_loader`, `test_extension_loader_singleton_prop`, `test_openbb_groups`, `test_obbject_entry_points`, `test_core_entry_points`, `test_provider_entry_points`, `test_sorted_entry_points`, `test_get_entry_point`, `test_get_entry_point_not_found`, `test_get_obbject_entry_point`, `test_get_entry_point_core`, `test_get_entry_point_provider`, `test_obbject_objects`, `test_core_objects`, `test_provider_objects`
+
+**Imports** (11):
+`unittest.mock`, `patch`, `pytest`, `openbb_core.app.extension_loader`, `EntryPoint`, `openbb_core.app.model.extension`, `Extension`, `openbb_core.app.router`, `Router`, `openbb_core.provider.abstract.provider`, `Provider`
+
+
+## Key Components
+
+No major components extracted.
+
+## Usage & Examples
+
+See source code for usage details.
+
+## Related Files
+
+- `unittest.mock`
+- `pytest`
+- `openbb_core.app.extension_loader`
+- `openbb_core.app.model.extension`
+- `openbb_core.app.router`
+- `openbb_core.provider.abstract.provider`
+
+## Notes
+- Generated: 2025-11-18T07:54:35.868430
+- Generator: World's Best Repo Book Generator v1.0.0

@@ -1,0 +1,43 @@
+# Keywords: openbb_platform/extensions/mcp_server/pyproject.toml
+
+## Extracted Keywords (39 total)
+
+- **agpl** - Appears in `openbb_platform/extensions/mcp_server/pyproject.toml`
+- **api** - Appears in `openbb_platform/extensions/mcp_server/pyproject.toml`
+- **app** - Appears in `openbb_platform/extensions/mcp_server/pyproject.toml`
+- **authors** - Appears in `openbb_platform/extensions/mcp_server/pyproject.toml`
+- **backend** - Appears in `openbb_platform/extensions/mcp_server/pyproject.toml`
+- **build** - Appears in `openbb_platform/extensions/mcp_server/pyproject.toml`
+- **com** - Appears in `openbb_platform/extensions/mcp_server/pyproject.toml`
+- **core** - Appears in `openbb_platform/extensions/mcp_server/pyproject.toml`
+- **dependencies** - Appears in `openbb_platform/extensions/mcp_server/pyproject.toml`
+- **description** - Appears in `openbb_platform/extensions/mcp_server/pyproject.toml`
+- **docs** - Appears in `openbb_platform/extensions/mcp_server/pyproject.toml`
+- **documentation** - Appears in `openbb_platform/extensions/mcp_server/pyproject.toml`
+- **fastmcp** - Appears in `openbb_platform/extensions/mcp_server/pyproject.toml`
+- **finance** - Appears in `openbb_platform/extensions/mcp_server/pyproject.toml`
+- **github** - Appears in `openbb_platform/extensions/mcp_server/pyproject.toml`
+- **hello** - Appears in `openbb_platform/extensions/mcp_server/pyproject.toml`
+- **homepage** - Appears in `openbb_platform/extensions/mcp_server/pyproject.toml`
+- **https** - Appears in `openbb_platform/extensions/mcp_server/pyproject.toml`
+- **include** - Appears in `openbb_platform/extensions/mcp_server/pyproject.toml`
+- **license** - Appears in `openbb_platform/extensions/mcp_server/pyproject.toml`
+- **main** - Appears in `openbb_platform/extensions/mcp_server/pyproject.toml`
+- **masonry** - Appears in `openbb_platform/extensions/mcp_server/pyproject.toml`
+- **mcp** - Appears in `openbb_platform/extensions/mcp_server/pyproject.toml`
+- **name** - Appears in `openbb_platform/extensions/mcp_server/pyproject.toml`
+- **only** - Appears in `openbb_platform/extensions/mcp_server/pyproject.toml`
+- **openbb** - Appears in `openbb_platform/extensions/mcp_server/pyproject.toml`
+- **openbb_mcp_server** - Appears in `openbb_platform/extensions/mcp_server/pyproject.toml`
+- **packages** - Appears in `openbb_platform/extensions/mcp_server/pyproject.toml`
+- **platform** - Appears in `openbb_platform/extensions/mcp_server/pyproject.toml`
+- **poetry** - Appears in `openbb_platform/extensions/mcp_server/pyproject.toml`
+- **python** - Appears in `openbb_platform/extensions/mcp_server/pyproject.toml`
+- **readme** - Appears in `openbb_platform/extensions/mcp_server/pyproject.toml`
+- **repository** - Appears in `openbb_platform/extensions/mcp_server/pyproject.toml`
+- **requires** - Appears in `openbb_platform/extensions/mcp_server/pyproject.toml`
+- **scripts** - Appears in `openbb_platform/extensions/mcp_server/pyproject.toml`
+- **server** - Appears in `openbb_platform/extensions/mcp_server/pyproject.toml`
+- **system** - Appears in `openbb_platform/extensions/mcp_server/pyproject.toml`
+- **tool** - Appears in `openbb_platform/extensions/mcp_server/pyproject.toml`
+- **version** - Appears in `openbb_platform/extensions/mcp_server/pyproject.toml`

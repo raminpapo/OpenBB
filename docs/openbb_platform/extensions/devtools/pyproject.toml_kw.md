@@ -1,0 +1,57 @@
+# Keywords: openbb_platform/extensions/devtools/pyproject.toml
+
+## Extracted Keywords (53 total)
+
+- **agpl** - Appears in `openbb_platform/extensions/devtools/pyproject.toml`
+- **api** - Appears in `openbb_platform/extensions/devtools/pyproject.toml`
+- **asyncio** - Appears in `openbb_platform/extensions/devtools/pyproject.toml`
+- **authors** - Appears in `openbb_platform/extensions/devtools/pyproject.toml`
+- **backend** - Appears in `openbb_platform/extensions/devtools/pyproject.toml`
+- **bandit** - Appears in `openbb_platform/extensions/devtools/pyproject.toml`
+- **black** - Appears in `openbb_platform/extensions/devtools/pyproject.toml`
+- **build** - Appears in `openbb_platform/extensions/devtools/pyproject.toml`
+- **codespell** - Appears in `openbb_platform/extensions/devtools/pyproject.toml`
+- **commit** - Appears in `openbb_platform/extensions/devtools/pyproject.toml`
+- **core** - Appears in `openbb_platform/extensions/devtools/pyproject.toml`
+- **cov** - Appears in `openbb_platform/extensions/devtools/pyproject.toml`
+- **dateutil** - Appears in `openbb_platform/extensions/devtools/pyproject.toml`
+- **dependencies** - Appears in `openbb_platform/extensions/devtools/pyproject.toml`
+- **description** - Appears in `openbb_platform/extensions/devtools/pyproject.toml`
+- **developers** - Appears in `openbb_platform/extensions/devtools/pyproject.toml`
+- **devtools** - Appears in `openbb_platform/extensions/devtools/pyproject.toml`
+- **explicitly** - Appears in `openbb_platform/extensions/devtools/pyproject.toml`
+- **for** - Appears in `openbb_platform/extensions/devtools/pyproject.toml`
+- **forces** - Appears in `openbb_platform/extensions/devtools/pyproject.toml`
+- **hello** - Appears in `openbb_platform/extensions/devtools/pyproject.toml`
+- **include** - Appears in `openbb_platform/extensions/devtools/pyproject.toml`
+- **ipykernel** - Appears in `openbb_platform/extensions/devtools/pyproject.toml`
+- **license** - Appears in `openbb_platform/extensions/devtools/pyproject.toml`
+- **masonry** - Appears in `openbb_platform/extensions/devtools/pyproject.toml`
+- **mypy** - Appears in `openbb_platform/extensions/devtools/pyproject.toml`
+- **name** - Appears in `openbb_platform/extensions/devtools/pyproject.toml`
+- **only** - Appears in `openbb_platform/extensions/devtools/pyproject.toml`
+- **openbb** - Appears in `openbb_platform/extensions/devtools/pyproject.toml`
+- **openbb_devtools** - Appears in `openbb_platform/extensions/devtools/pyproject.toml`
+- **order** - Appears in `openbb_platform/extensions/devtools/pyproject.toml`
+- **packages** - Appears in `openbb_platform/extensions/devtools/pyproject.toml`
+- **platform** - Appears in `openbb_platform/extensions/devtools/pyproject.toml`
+- **poetry** - Appears in `openbb_platform/extensions/devtools/pyproject.toml`
+- **pre** - Appears in `openbb_platform/extensions/devtools/pyproject.toml`
+- **pydocstyle** - Appears in `openbb_platform/extensions/devtools/pyproject.toml`
+- **pylint** - Appears in `openbb_platform/extensions/devtools/pyproject.toml`
+- **pytest** - Appears in `openbb_platform/extensions/devtools/pyproject.toml`
+- **python** - Appears in `openbb_platform/extensions/devtools/pyproject.toml`
+- **readme** - Appears in `openbb_platform/extensions/devtools/pyproject.toml`
+- **recorder** - Appears in `openbb_platform/extensions/devtools/pyproject.toml`
+- **requires** - Appears in `openbb_platform/extensions/devtools/pyproject.toml`
+- **ruff** - Appears in `openbb_platform/extensions/devtools/pyproject.toml`
+- **scipy** - Appears in `openbb_platform/extensions/devtools/pyproject.toml`
+- **subtests** - Appears in `openbb_platform/extensions/devtools/pyproject.toml`
+- **system** - Appears in `openbb_platform/extensions/devtools/pyproject.toml`
+- **team** - Appears in `openbb_platform/extensions/devtools/pyproject.toml`
+- **toml** - Appears in `openbb_platform/extensions/devtools/pyproject.toml`
+- **tool** - Appears in `openbb_platform/extensions/devtools/pyproject.toml`
+- **tools** - Appears in `openbb_platform/extensions/devtools/pyproject.toml`
+- **tox** - Appears in `openbb_platform/extensions/devtools/pyproject.toml`
+- **types** - Appears in `openbb_platform/extensions/devtools/pyproject.toml`
+- **version** - Appears in `openbb_platform/extensions/devtools/pyproject.toml`

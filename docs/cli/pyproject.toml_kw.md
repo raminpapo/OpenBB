@@ -1,0 +1,52 @@
+# Keywords: cli/pyproject.toml
+
+## Extracted Keywords (48 total)
+
+- **agpl** - Appears in `cli/pyproject.toml`
+- **all** - Appears in `cli/pyproject.toml`
+- **anywhere** - Appears in `cli/pyproject.toml`
+- **api** - Appears in `cli/pyproject.toml`
+- **authors** - Appears in `cli/pyproject.toml`
+- **backend** - Appears in `cli/pyproject.toml`
+- **build** - Appears in `cli/pyproject.toml`
+- **cli** - Appears in `cli/pyproject.toml`
+- **com** - Appears in `cli/pyproject.toml`
+- **core** - Appears in `cli/pyproject.toml`
+- **dependencies** - Appears in `cli/pyproject.toml`
+- **description** - Appears in `cli/pyproject.toml`
+- **docs** - Appears in `cli/pyproject.toml`
+- **documentation** - Appears in `cli/pyproject.toml`
+- **dotenv** - Appears in `cli/pyproject.toml`
+- **everyone** - Appears in `cli/pyproject.toml`
+- **extras** - Appears in `cli/pyproject.toml`
+- **finance** - Appears in `cli/pyproject.toml`
+- **for** - Appears in `cli/pyproject.toml`
+- **github** - Appears in `cli/pyproject.toml`
+- **hello** - Appears in `cli/pyproject.toml`
+- **homepage** - Appears in `cli/pyproject.toml`
+- **https** - Appears in `cli/pyproject.toml`
+- **include** - Appears in `cli/pyproject.toml`
+- **investment** - Appears in `cli/pyproject.toml`
+- **license** - Appears in `cli/pyproject.toml`
+- **main** - Appears in `cli/pyproject.toml`
+- **masonry** - Appears in `cli/pyproject.toml`
+- **name** - Appears in `cli/pyproject.toml`
+- **only** - Appears in `cli/pyproject.toml`
+- **openbb** - Appears in `cli/pyproject.toml`
+- **openbb_cli** - Appears in `cli/pyproject.toml`
+- **openpyxl** - Appears in `cli/pyproject.toml`
+- **packages** - Appears in `cli/pyproject.toml`
+- **poetry** - Appears in `cli/pyproject.toml`
+- **prompt** - Appears in `cli/pyproject.toml`
+- **python** - Appears in `cli/pyproject.toml`
+- **pywry** - Appears in `cli/pyproject.toml`
+- **readme** - Appears in `cli/pyproject.toml`
+- **repository** - Appears in `cli/pyproject.toml`
+- **requires** - Appears in `cli/pyproject.toml`
+- **research** - Appears in `cli/pyproject.toml`
+- **rich** - Appears in `cli/pyproject.toml`
+- **scripts** - Appears in `cli/pyproject.toml`
+- **system** - Appears in `cli/pyproject.toml`
+- **tool** - Appears in `cli/pyproject.toml`
+- **toolkit** - Appears in `cli/pyproject.toml`
+- **version** - Appears in `cli/pyproject.toml`

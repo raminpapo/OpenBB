@@ -1,0 +1,41 @@
+# Keywords: frontend-components/tables/src/components/Icons/Warning.tsx
+
+## Extracted Keywords (37 total)
+
+- **WarningIcon** - Appears in `frontend-components/tables/src/components/Icons/Warning.tsx`
+- **aria** - Appears in `frontend-components/tables/src/components/Icons/Warning.tsx`
+- **const** - Appears in `frontend-components/tables/src/components/Icons/Warning.tsx`
+- **currentcolor** - Appears in `frontend-components/tables/src/components/Icons/Warning.tsx`
+- **default** - Appears in `frontend-components/tables/src/components/Icons/Warning.tsx`
+- **export** - Appears in `frontend-components/tables/src/components/Icons/Warning.tsx`
+- **fill** - Appears in `frontend-components/tables/src/components/Icons/Warning.tsx`
+- **from** - Appears in `frontend-components/tables/src/components/Icons/Warning.tsx`
+- **height** - Appears in `frontend-components/tables/src/components/Icons/Warning.tsx`
+- **http** - Appears in `frontend-components/tables/src/components/Icons/Warning.tsx`
+- **import** - Appears in `frontend-components/tables/src/components/Icons/Warning.tsx`
+- **interface** - Appears in `frontend-components/tables/src/components/Icons/Warning.tsx`
+- **labelledby** - Appears in `frontend-components/tables/src/components/Icons/Warning.tsx`
+- **none** - Appears in `frontend-components/tables/src/components/Icons/Warning.tsx`
+- **null** - Appears in `frontend-components/tables/src/components/Icons/Warning.tsx`
+- **org** - Appears in `frontend-components/tables/src/components/Icons/Warning.tsx`
+- **path** - Appears in `frontend-components/tables/src/components/Icons/Warning.tsx`
+- **props** - Appears in `frontend-components/tables/src/components/Icons/Warning.tsx`
+- **react** - Appears in `frontend-components/tables/src/components/Icons/Warning.tsx`
+- **round** - Appears in `frontend-components/tables/src/components/Icons/Warning.tsx`
+- **string** - Appears in `frontend-components/tables/src/components/Icons/Warning.tsx`
+- **stroke** - Appears in `frontend-components/tables/src/components/Icons/Warning.tsx`
+- **strokelinecap** - Appears in `frontend-components/tables/src/components/Icons/Warning.tsx`
+- **strokelinejoin** - Appears in `frontend-components/tables/src/components/Icons/Warning.tsx`
+- **strokewidth** - Appears in `frontend-components/tables/src/components/Icons/Warning.tsx`
+- **svg** - Appears in `frontend-components/tables/src/components/Icons/Warning.tsx`
+- **svgprops** - Appears in `frontend-components/tables/src/components/Icons/Warning.tsx`
+- **svgrprops** - Appears in `frontend-components/tables/src/components/Icons/Warning.tsx`
+- **svgsvgelement** - Appears in `frontend-components/tables/src/components/Icons/Warning.tsx`
+- **title** - Appears in `frontend-components/tables/src/components/Icons/Warning.tsx`
+- **titleid** - Appears in `frontend-components/tables/src/components/Icons/Warning.tsx`
+- **type** - Appears in `frontend-components/tables/src/components/Icons/Warning.tsx`
+- **viewbox** - Appears in `frontend-components/tables/src/components/Icons/Warning.tsx`
+- **warningicon** - Appears in `frontend-components/tables/src/components/Icons/Warning.tsx`
+- **width** - Appears in `frontend-components/tables/src/components/Icons/Warning.tsx`
+- **www** - Appears in `frontend-components/tables/src/components/Icons/Warning.tsx`
+- **xmlns** - Appears in `frontend-components/tables/src/components/Icons/Warning.tsx`

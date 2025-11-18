@@ -1,0 +1,50 @@
+# Keywords: openbb_platform/core/openbb_core/provider/standard_models/maritime_chokepoint_volume.py
+
+## Extracted Keywords (46 total)
+
+- **Data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/maritime_chokepoint_volume.py`
+- **Field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/maritime_chokepoint_volume.py`
+- **MaritimeChokePointVolumeData** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/maritime_chokepoint_volume.py`
+- **MaritimeChokePointVolumeQueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/maritime_chokepoint_volume.py`
+- **QueryParams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/maritime_chokepoint_volume.py`
+- **abstract** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/maritime_chokepoint_volume.py`
+- **and** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/maritime_chokepoint_volume.py`
+- **calls** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/maritime_chokepoint_volume.py`
+- **chokepoint** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/maritime_chokepoint_volume.py`
+- **class** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/maritime_chokepoint_volume.py`
+- **data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/maritime_chokepoint_volume.py`
+- **data_descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/maritime_chokepoint_volume.py`
+- **date** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/maritime_chokepoint_volume.py`
+- **datetime** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/maritime_chokepoint_volume.py`
+- **datetype** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/maritime_chokepoint_volume.py`
+- **default** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/maritime_chokepoint_volume.py`
+- **description** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/maritime_chokepoint_volume.py`
+- **descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/maritime_chokepoint_volume.py`
+- **end_date** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/maritime_chokepoint_volume.py`
+- **estimates** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/maritime_chokepoint_volume.py`
+- **field** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/maritime_chokepoint_volume.py`
+- **from** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/maritime_chokepoint_volume.py`
+- **get** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/maritime_chokepoint_volume.py`
+- **import** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/maritime_chokepoint_volume.py`
+- **maritime** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/maritime_chokepoint_volume.py`
+- **maritimechokepointvolume** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/maritime_chokepoint_volume.py`
+- **maritimechokepointvolumedata** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/maritime_chokepoint_volume.py`
+- **maritimechokepointvolumequeryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/maritime_chokepoint_volume.py`
+- **none** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/maritime_chokepoint_volume.py`
+- **openbb_core** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/maritime_chokepoint_volume.py`
+- **openbb_core.provider.abstract.data** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/maritime_chokepoint_volume.py`
+- **openbb_core.provider.abstract.query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/maritime_chokepoint_volume.py`
+- **openbb_core.provider.utils.descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/maritime_chokepoint_volume.py`
+- **provider** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/maritime_chokepoint_volume.py`
+- **pydantic** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/maritime_chokepoint_volume.py`
+- **query** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/maritime_chokepoint_volume.py`
+- **query_descriptions** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/maritime_chokepoint_volume.py`
+- **query_params** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/maritime_chokepoint_volume.py`
+- **queryparams** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/maritime_chokepoint_volume.py`
+- **series** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/maritime_chokepoint_volume.py`
+- **start_date** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/maritime_chokepoint_volume.py`
+- **time** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/maritime_chokepoint_volume.py`
+- **trade** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/maritime_chokepoint_volume.py`
+- **transit** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/maritime_chokepoint_volume.py`
+- **utils** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/maritime_chokepoint_volume.py`
+- **volume** - Appears in `openbb_platform/core/openbb_core/provider/standard_models/maritime_chokepoint_volume.py`

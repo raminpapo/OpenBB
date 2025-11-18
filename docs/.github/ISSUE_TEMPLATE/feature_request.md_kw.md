@@ -1,0 +1,54 @@
+# Keywords: .github/ISSUE_TEMPLATE/feature_request.md
+
+## Extracted Keywords (50 total)
+
+- **about** - Appears in `.github/ISSUE_TEMPLATE/feature_request.md`
+- **add** - Appears in `.github/ISSUE_TEMPLATE/feature_request.md`
+- **additional** - Appears in `.github/ISSUE_TEMPLATE/feature_request.md`
+- **alternatives** - Appears in `.github/ISSUE_TEMPLATE/feature_request.md`
+- **any** - Appears in `.github/ISSUE_TEMPLATE/feature_request.md`
+- **are** - Appears in `.github/ISSUE_TEMPLATE/feature_request.md`
+- **assignees** - Appears in `.github/ISSUE_TEMPLATE/feature_request.md`
+- **best** - Appears in `.github/ISSUE_TEMPLATE/feature_request.md`
+- **clear** - Appears in `.github/ISSUE_TEMPLATE/feature_request.md`
+- **considered** - Appears in `.github/ISSUE_TEMPLATE/feature_request.md`
+- **considering** - Appears in `.github/ISSUE_TEMPLATE/feature_request.md`
+- **describe** - Appears in `.github/ISSUE_TEMPLATE/feature_request.md`
+- **description** - Appears in `.github/ISSUE_TEMPLATE/feature_request.md`
+- **feature** - Appears in `.github/ISSUE_TEMPLATE/feature_request.md`
+- **for** - Appears in `.github/ISSUE_TEMPLATE/feature_request.md`
+- **from** - Appears in `.github/ISSUE_TEMPLATE/feature_request.md`
+- **having** - Appears in `.github/ISSUE_TEMPLATE/feature_request.md`
+- **here** - Appears in `.github/ISSUE_TEMPLATE/feature_request.md`
+- **idea** - Appears in `.github/ISSUE_TEMPLATE/feature_request.md`
+- **information** - Appears in `.github/ISSUE_TEMPLATE/feature_request.md`
+- **inputs** - Appears in `.github/ISSUE_TEMPLATE/feature_request.md`
+- **labels** - Appears in `.github/ISSUE_TEMPLATE/feature_request.md`
+- **lacking** - Appears in `.github/ISSUE_TEMPLATE/feature_request.md`
+- **like** - Appears in `.github/ISSUE_TEMPLATE/feature_request.md`
+- **list** - Appears in `.github/ISSUE_TEMPLATE/feature_request.md`
+- **name** - Appears in `.github/ISSUE_TEMPLATE/feature_request.md`
+- **need** - Appears in `.github/ISSUE_TEMPLATE/feature_request.md`
+- **not** - Appears in `.github/ISSUE_TEMPLATE/feature_request.md`
+- **other** - Appears in `.github/ISSUE_TEMPLATE/feature_request.md`
+- **output** - Appears in `.github/ISSUE_TEMPLATE/feature_request.md`
+- **problem** - Appears in `.github/ISSUE_TEMPLATE/feature_request.md`
+- **project** - Appears in `.github/ISSUE_TEMPLATE/feature_request.md`
+- **request** - Appears in `.github/ISSUE_TEMPLATE/feature_request.md`
+- **screenshots** - Appears in `.github/ISSUE_TEMPLATE/feature_request.md`
+- **solution** - Appears in `.github/ISSUE_TEMPLATE/feature_request.md`
+- **suggest** - Appears in `.github/ISSUE_TEMPLATE/feature_request.md`
+- **the** - Appears in `.github/ISSUE_TEMPLATE/feature_request.md`
+- **them** - Appears in `.github/ISSUE_TEMPLATE/feature_request.md`
+- **there** - Appears in `.github/ISSUE_TEMPLATE/feature_request.md`
+- **think** - Appears in `.github/ISSUE_TEMPLATE/feature_request.md`
+- **this** - Appears in `.github/ISSUE_TEMPLATE/feature_request.md`
+- **title** - Appears in `.github/ISSUE_TEMPLATE/feature_request.md`
+- **type** - Appears in `.github/ISSUE_TEMPLATE/feature_request.md`
+- **user** - Appears in `.github/ISSUE_TEMPLATE/feature_request.md`
+- **what** - Appears in `.github/ISSUE_TEMPLATE/feature_request.md`
+- **why** - Appears in `.github/ISSUE_TEMPLATE/feature_request.md`
+- **worth** - Appears in `.github/ISSUE_TEMPLATE/feature_request.md`
+- **would** - Appears in `.github/ISSUE_TEMPLATE/feature_request.md`
+- **you** - Appears in `.github/ISSUE_TEMPLATE/feature_request.md`
+- **your** - Appears in `.github/ISSUE_TEMPLATE/feature_request.md`

@@ -1,0 +1,43 @@
+# Keywords: openbb_platform/extensions/crypto/openbb_crypto/crypto_views.py
+
+## Extracted Keywords (39 total)
+
+- **CryptoViews** - Appears in `openbb_platform/extensions/crypto/openbb_crypto/crypto_views.py`
+- **TYPE_CHECKING** - Appears in `openbb_platform/extensions/crypto/openbb_crypto/crypto_views.py`
+- **any** - Appears in `openbb_platform/extensions/crypto/openbb_crypto/crypto_views.py`
+- **chart** - Appears in `openbb_platform/extensions/crypto/openbb_crypto/crypto_views.py`
+- **charts** - Appears in `openbb_platform/extensions/crypto/openbb_crypto/crypto_views.py`
+- **class** - Appears in `openbb_platform/extensions/crypto/openbb_crypto/crypto_views.py`
+- **core** - Appears in `openbb_platform/extensions/crypto/openbb_crypto/crypto_views.py`
+- **crypto** - Appears in `openbb_platform/extensions/crypto/openbb_crypto/crypto_views.py`
+- **crypto_price_historical** - Appears in `openbb_platform/extensions/crypto/openbb_crypto/crypto_views.py`
+- **cryptoviews** - Appears in `openbb_platform/extensions/crypto/openbb_crypto/crypto_views.py`
+- **def** - Appears in `openbb_platform/extensions/crypto/openbb_crypto/crypto_views.py`
+- **dict** - Appears in `openbb_platform/extensions/crypto/openbb_crypto/crypto_views.py`
+- **disable** - Appears in `openbb_platform/extensions/crypto/openbb_crypto/crypto_views.py`
+- **extension** - Appears in `openbb_platform/extensions/crypto/openbb_crypto/crypto_views.py`
+- **for** - Appears in `openbb_platform/extensions/crypto/openbb_crypto/crypto_views.py`
+- **from** - Appears in `openbb_platform/extensions/crypto/openbb_crypto/crypto_views.py`
+- **historical** - Appears in `openbb_platform/extensions/crypto/openbb_crypto/crypto_views.py`
+- **import** - Appears in `openbb_platform/extensions/crypto/openbb_crypto/crypto_views.py`
+- **kwargs** - Appears in `openbb_platform/extensions/crypto/openbb_crypto/crypto_views.py`
+- **noqa** - Appears in `openbb_platform/extensions/crypto/openbb_crypto/crypto_views.py`
+- **openbb_charting** - Appears in `openbb_platform/extensions/crypto/openbb_crypto/crypto_views.py`
+- **openbb_charting.charts.price_historical** - Appears in `openbb_platform/extensions/crypto/openbb_crypto/crypto_views.py`
+- **openbb_charting.core.openbb_figure** - Appears in `openbb_platform/extensions/crypto/openbb_crypto/crypto_views.py`
+- **openbb_figure** - Appears in `openbb_platform/extensions/crypto/openbb_crypto/crypto_views.py`
+- **openbbfigure** - Appears in `openbb_platform/extensions/crypto/openbb_crypto/crypto_views.py`
+- **outside** - Appears in `openbb_platform/extensions/crypto/openbb_crypto/crypto_views.py`
+- **plr0912** - Appears in `openbb_platform/extensions/crypto/openbb_crypto/crypto_views.py`
+- **price** - Appears in `openbb_platform/extensions/crypto/openbb_crypto/crypto_views.py`
+- **price_historical** - Appears in `openbb_platform/extensions/crypto/openbb_crypto/crypto_views.py`
+- **pylint** - Appears in `openbb_platform/extensions/crypto/openbb_crypto/crypto_views.py`
+- **return** - Appears in `openbb_platform/extensions/crypto/openbb_crypto/crypto_views.py`
+- **staticmethod** - Appears in `openbb_platform/extensions/crypto/openbb_crypto/crypto_views.py`
+- **str** - Appears in `openbb_platform/extensions/crypto/openbb_crypto/crypto_views.py`
+- **the** - Appears in `openbb_platform/extensions/crypto/openbb_crypto/crypto_views.py`
+- **toplevel** - Appears in `openbb_platform/extensions/crypto/openbb_crypto/crypto_views.py`
+- **tuple** - Appears in `openbb_platform/extensions/crypto/openbb_crypto/crypto_views.py`
+- **type_checking** - Appears in `openbb_platform/extensions/crypto/openbb_crypto/crypto_views.py`
+- **typing** - Appears in `openbb_platform/extensions/crypto/openbb_crypto/crypto_views.py`
+- **views** - Appears in `openbb_platform/extensions/crypto/openbb_crypto/crypto_views.py`

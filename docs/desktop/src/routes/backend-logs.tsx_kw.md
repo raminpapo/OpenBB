@@ -1,0 +1,47 @@
+# Keywords: desktop/src/routes/backend-logs.tsx
+
+## Extracted Keywords (43 total)
+
+- **BackendLogsWrapper** - Appears in `desktop/src/routes/backend-logs.tsx`
+- **Route** - Appears in `desktop/src/routes/backend-logs.tsx`
+- **add** - Appears in `desktop/src/routes/backend-logs.tsx`
+- **backend** - Appears in `desktop/src/routes/backend-logs.tsx`
+- **backendlogspage** - Appears in `desktop/src/routes/backend-logs.tsx`
+- **backendlogswrapper** - Appears in `desktop/src/routes/backend-logs.tsx`
+- **body** - Appears in `desktop/src/routes/backend-logs.tsx`
+- **class** - Appears in `desktop/src/routes/backend-logs.tsx`
+- **classlist** - Appears in `desktop/src/routes/backend-logs.tsx`
+- **cleanup** - Appears in `desktop/src/routes/backend-logs.tsx`
+- **component** - Appears in `desktop/src/routes/backend-logs.tsx`
+- **components** - Appears in `desktop/src/routes/backend-logs.tsx`
+- **const** - Appears in `desktop/src/routes/backend-logs.tsx`
+- **createfileroute** - Appears in `desktop/src/routes/backend-logs.tsx`
+- **default** - Appears in `desktop/src/routes/backend-logs.tsx`
+- **define** - Appears in `desktop/src/routes/backend-logs.tsx`
+- **document** - Appears in `desktop/src/routes/backend-logs.tsx`
+- **export** - Appears in `desktop/src/routes/backend-logs.tsx`
+- **for** - Appears in `desktop/src/routes/backend-logs.tsx`
+- **from** - Appears in `desktop/src/routes/backend-logs.tsx`
+- **function** - Appears in `desktop/src/routes/backend-logs.tsx`
+- **handle** - Appears in `desktop/src/routes/backend-logs.tsx`
+- **import** - Appears in `desktop/src/routes/backend-logs.tsx`
+- **jupyter** - Appears in `desktop/src/routes/backend-logs.tsx`
+- **logs** - Appears in `desktop/src/routes/backend-logs.tsx`
+- **mounts** - Appears in `desktop/src/routes/backend-logs.tsx`
+- **properly** - Appears in `desktop/src/routes/backend-logs.tsx`
+- **react** - Appears in `desktop/src/routes/backend-logs.tsx`
+- **record** - Appears in `desktop/src/routes/backend-logs.tsx`
+- **remove** - Appears in `desktop/src/routes/backend-logs.tsx`
+- **return** - Appears in `desktop/src/routes/backend-logs.tsx`
+- **route** - Appears in `desktop/src/routes/backend-logs.tsx`
+- **router** - Appears in `desktop/src/routes/backend-logs.tsx`
+- **search** - Appears in `desktop/src/routes/backend-logs.tsx`
+- **string** - Appears in `desktop/src/routes/backend-logs.tsx`
+- **tanstack** - Appears in `desktop/src/routes/backend-logs.tsx`
+- **unknown** - Appears in `desktop/src/routes/backend-logs.tsx`
+- **unmounts** - Appears in `desktop/src/routes/backend-logs.tsx`
+- **useeffect** - Appears in `desktop/src/routes/backend-logs.tsx`
+- **validatesearch** - Appears in `desktop/src/routes/backend-logs.tsx`
+- **view** - Appears in `desktop/src/routes/backend-logs.tsx`
+- **when** - Appears in `desktop/src/routes/backend-logs.tsx`
+- **wrapper** - Appears in `desktop/src/routes/backend-logs.tsx`

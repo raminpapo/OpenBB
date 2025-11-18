@@ -1,0 +1,43 @@
+# Keywords: openbb_platform/extensions/technical/pyproject.toml
+
+## Extracted Keywords (39 total)
+
+- **agpl** - Appears in `openbb_platform/extensions/technical/pyproject.toml`
+- **analysis** - Appears in `openbb_platform/extensions/technical/pyproject.toml`
+- **api** - Appears in `openbb_platform/extensions/technical/pyproject.toml`
+- **authors** - Appears in `openbb_platform/extensions/technical/pyproject.toml`
+- **backend** - Appears in `openbb_platform/extensions/technical/pyproject.toml`
+- **build** - Appears in `openbb_platform/extensions/technical/pyproject.toml`
+- **core** - Appears in `openbb_platform/extensions/technical/pyproject.toml`
+- **dependencies** - Appears in `openbb_platform/extensions/technical/pyproject.toml`
+- **description** - Appears in `openbb_platform/extensions/technical/pyproject.toml`
+- **extension** - Appears in `openbb_platform/extensions/technical/pyproject.toml`
+- **for** - Appears in `openbb_platform/extensions/technical/pyproject.toml`
+- **hello** - Appears in `openbb_platform/extensions/technical/pyproject.toml`
+- **include** - Appears in `openbb_platform/extensions/technical/pyproject.toml`
+- **learn** - Appears in `openbb_platform/extensions/technical/pyproject.toml`
+- **license** - Appears in `openbb_platform/extensions/technical/pyproject.toml`
+- **masonry** - Appears in `openbb_platform/extensions/technical/pyproject.toml`
+- **name** - Appears in `openbb_platform/extensions/technical/pyproject.toml`
+- **only** - Appears in `openbb_platform/extensions/technical/pyproject.toml`
+- **openbb** - Appears in `openbb_platform/extensions/technical/pyproject.toml`
+- **openbb_charting_extension** - Appears in `openbb_platform/extensions/technical/pyproject.toml`
+- **openbb_core_extension** - Appears in `openbb_platform/extensions/technical/pyproject.toml`
+- **openbb_technical** - Appears in `openbb_platform/extensions/technical/pyproject.toml`
+- **packages** - Appears in `openbb_platform/extensions/technical/pyproject.toml`
+- **pandas** - Appears in `openbb_platform/extensions/technical/pyproject.toml`
+- **plugins** - Appears in `openbb_platform/extensions/technical/pyproject.toml`
+- **poetry** - Appears in `openbb_platform/extensions/technical/pyproject.toml`
+- **python** - Appears in `openbb_platform/extensions/technical/pyproject.toml`
+- **readme** - Appears in `openbb_platform/extensions/technical/pyproject.toml`
+- **requires** - Appears in `openbb_platform/extensions/technical/pyproject.toml`
+- **router** - Appears in `openbb_platform/extensions/technical/pyproject.toml`
+- **scikit** - Appears in `openbb_platform/extensions/technical/pyproject.toml`
+- **system** - Appears in `openbb_platform/extensions/technical/pyproject.toml`
+- **team** - Appears in `openbb_platform/extensions/technical/pyproject.toml`
+- **technical** - Appears in `openbb_platform/extensions/technical/pyproject.toml`
+- **technical_router** - Appears in `openbb_platform/extensions/technical/pyproject.toml`
+- **technical_views** - Appears in `openbb_platform/extensions/technical/pyproject.toml`
+- **technicalviews** - Appears in `openbb_platform/extensions/technical/pyproject.toml`
+- **tool** - Appears in `openbb_platform/extensions/technical/pyproject.toml`
+- **version** - Appears in `openbb_platform/extensions/technical/pyproject.toml`

@@ -1,0 +1,45 @@
+# Keywords: openbb_platform/core/tests/provider/test_registry_map.py
+
+## Extracted Keywords (41 total)
+
+- **RegistryMap** - Appears in `openbb_platform/core/tests/provider/test_registry_map.py`
+- **_get_available_providers** - Appears in `openbb_platform/core/tests/provider/test_registry_map.py`
+- **_get_credentials** - Appears in `openbb_platform/core/tests/provider/test_registry_map.py`
+- **_get_map** - Appears in `openbb_platform/core/tests/provider/test_registry_map.py`
+- **assert** - Appears in `openbb_platform/core/tests/provider/test_registry_map.py`
+- **available_providers** - Appears in `openbb_platform/core/tests/provider/test_registry_map.py`
+- **behaves** - Appears in `openbb_platform/core/tests/provider/test_registry_map.py`
+- **credentials** - Appears in `openbb_platform/core/tests/provider/test_registry_map.py`
+- **def** - Appears in `openbb_platform/core/tests/provider/test_registry_map.py`
+- **disable** - Appears in `openbb_platform/core/tests/provider/test_registry_map.py`
+- **equityhistorical** - Appears in `openbb_platform/core/tests/provider/test_registry_map.py`
+- **expected** - Appears in `openbb_platform/core/tests/provider/test_registry_map.py`
+- **fixture** - Appears in `openbb_platform/core/tests/provider/test_registry_map.py`
+- **fmp** - Appears in `openbb_platform/core/tests/provider/test_registry_map.py`
+- **fmp_api_key** - Appears in `openbb_platform/core/tests/provider/test_registry_map.py`
+- **from** - Appears in `openbb_platform/core/tests/provider/test_registry_map.py`
+- **import** - Appears in `openbb_platform/core/tests/provider/test_registry_map.py`
+- **len** - Appears in `openbb_platform/core/tests/provider/test_registry_map.py`
+- **load_registry_map** - Appears in `openbb_platform/core/tests/provider/test_registry_map.py`
+- **map** - Appears in `openbb_platform/core/tests/provider/test_registry_map.py`
+- **method** - Appears in `openbb_platform/core/tests/provider/test_registry_map.py`
+- **mock** - Appears in `openbb_platform/core/tests/provider/test_registry_map.py`
+- **models** - Appears in `openbb_platform/core/tests/provider/test_registry_map.py`
+- **openbb_core** - Appears in `openbb_platform/core/tests/provider/test_registry_map.py`
+- **openbb_core.provider.registry_map** - Appears in `openbb_platform/core/tests/provider/test_registry_map.py`
+- **original_models** - Appears in `openbb_platform/core/tests/provider/test_registry_map.py`
+- **provider** - Appears in `openbb_platform/core/tests/provider/test_registry_map.py`
+- **pylint** - Appears in `openbb_platform/core/tests/provider/test_registry_map.py`
+- **pytest** - Appears in `openbb_platform/core/tests/provider/test_registry_map.py`
+- **registry** - Appears in `openbb_platform/core/tests/provider/test_registry_map.py`
+- **registry_map** - Appears in `openbb_platform/core/tests/provider/test_registry_map.py`
+- **registrymap** - Appears in `openbb_platform/core/tests/provider/test_registry_map.py`
+- **required_creds** - Appears in `openbb_platform/core/tests/provider/test_registry_map.py`
+- **return** - Appears in `openbb_platform/core/tests/provider/test_registry_map.py`
+- **standard_extra** - Appears in `openbb_platform/core/tests/provider/test_registry_map.py`
+- **test** - Appears in `openbb_platform/core/tests/provider/test_registry_map.py`
+- **test_get_available_providers** - Appears in `openbb_platform/core/tests/provider/test_registry_map.py`
+- **test_get_credentials** - Appears in `openbb_platform/core/tests/provider/test_registry_map.py`
+- **test_map_and_models** - Appears in `openbb_platform/core/tests/provider/test_registry_map.py`
+- **the** - Appears in `openbb_platform/core/tests/provider/test_registry_map.py`
+- **w0621** - Appears in `openbb_platform/core/tests/provider/test_registry_map.py`

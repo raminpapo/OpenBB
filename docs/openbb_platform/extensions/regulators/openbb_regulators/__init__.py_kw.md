@@ -1,0 +1,7 @@
+# Keywords: openbb_platform/extensions/regulators/openbb_regulators/__init__.py
+
+## Extracted Keywords (3 total)
+
+- **extension** - Appears in `openbb_platform/extensions/regulators/openbb_regulators/__init__.py`
+- **openbb** - Appears in `openbb_platform/extensions/regulators/openbb_regulators/__init__.py`
+- **regulators** - Appears in `openbb_platform/extensions/regulators/openbb_regulators/__init__.py`
