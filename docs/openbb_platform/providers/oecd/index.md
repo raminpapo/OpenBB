@@ -1,0 +1,42 @@
+# Folder Index: openbb_platform/providers/oecd
+
+**Path**: `openbb_platform/providers/oecd`
+
+---
+
+## Overview
+
+This folder contains 4 files and 2 subdirectories.
+
+---
+
+## Files in This Folder
+
+
+### Config Files
+
+- [`pyproject.toml`](./pyproject.toml_docs.md) (519.0 B)
+
+### Documentation Files
+
+- [`README.md`](./README.md_docs.md) (301.0 B)
+
+### Python Files
+
+- [`__init__.py`](./__init__.py_docs.md) (41.0 B)
+
+### Text Files
+
+- [`poetry.lock`](./poetry.lock_docs.md) (207.4 KB)
+
+---
+
+## Subdirectories
+
+- [`openbb_oecd/`](./openbb_oecd/index.md)
+- [`tests/`](./tests/index.md)
+
+
+---
+
+**Generated**: 2025-11-19T02:17:17.828036Z

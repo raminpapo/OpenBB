@@ -1,0 +1,34 @@
+{
+  "generator": "World's Best Repo Book Generator v1.0",
+  "generated_at": "2025-11-19T02:20:00Z",
+  "repo_source": "/home/user/OpenBB",
+  "repo_name": "OpenBB",
+  "repo_fingerprint": "f3344c910576ef0bc793b4759f74e27a7c1ae35c",
+  "files_scanned": 2186,
+  "text_files": 2112,
+  "binary_files": 74,
+  "folders": 536,
+  "docs_created": 5717,
+  "docs_size_mb": 152.66,
+  "words_estimated": 25000000,
+  "bytes_written": 160074213,
+  "checksums_generated": 5717,
+  "keywords_extracted": 33025,
+  "errors": [],
+  "artifacts": {
+    "manifest": "docs/manifest.json",
+    "index": "docs/index.md",
+    "keywords": "docs/keywords.md",
+    "comprehensive_book": "docs/comprehensive_book.md",
+    "verification_report": "docs/verification_report.md",
+    "readme": "docs/README.md"
+  },
+  "structure": {
+    "per_file_docs": 2112,
+    "per_file_keywords": 2112,
+    "per_folder_index": 497,
+    "per_folder_doc": 497,
+    "per_folder_sub": 497,
+    "global_files": 6
+  }
+}

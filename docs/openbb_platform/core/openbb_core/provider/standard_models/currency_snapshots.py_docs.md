@@ -1,0 +1,164 @@
+# File Documentation: currency_snapshots.py
+
+## Metadata
+- **Path**: `openbb_platform/core/openbb_core/provider/standard_models/currency_snapshots.py`
+- **Size**: 3,074 bytes
+- **Lines**: 82
+- **Category**: python
+- **Extension**: .py
+
+---
+
+## Original Source
+
+```python
+"""Currency Snapshots Standard Model."""
+
+from typing import Literal
+
+from openbb_core.provider.abstract.data import Data
+from openbb_core.provider.abstract.query_params import QueryParams
+from openbb_core.provider.utils.descriptions import DATA_DESCRIPTIONS
+from pydantic import Field, field_validator
+
+
+class CurrencySnapshotsQueryParams(QueryParams):
+    """Currency Snapshots Query Params."""
+
+    base: str = Field(description="The base currency symbol.", default="usd")
+    quote_type: Literal["direct", "indirect"] = Field(
+        description="Whether the quote is direct or indirect."
+        + " Selecting 'direct' will return the exchange rate"
+        + " as the amount of domestic currency required to buy one unit"
+        + " of the foreign currency."
+        + " Selecting 'indirect' (default) will return the exchange rate"
+        + " as the amount of foreign currency required to buy one unit"
+        + " of the domestic currency.",
+        default="indirect",
+    )
+    counter_currencies: str | list[str] | None = Field(
+        description="An optional list of counter currency symbols to filter for."
+        + " None returns all.",
+        default=None,
+    )
+
+    @field_validator("base", mode="before", check_fields=False)
+    @classmethod
+    def to_upper(cls, v):
+        """Convert the base currency to uppercase."""
+        return v.upper()
+
+    @field_validator("counter_currencies", mode="before", check_fields=False)
+    @classmethod
+    def convert_string(cls, v):
+        """Convert the counter currencies to an upper case string list."""
+        if v is not None:
+            return ",".join(v).upper() if isinstance(v, list) else v.upper()
+        return None
+
+
+class CurrencySnapshotsData(Data):
+    """Currency Snapshots Data."""
+
+    base_currency: str = Field(description="The base, or domestic, currency.")
+    counter_currency: str = Field(description="The counter, or foreign, currency.")
+    last_rate: float = Field(
+        description="The exchange rate, relative to the base currency."
+        + " Rates are expressed as the amount of foreign currency"
+        + " received from selling one unit of the base currency,"
+        + " or the quantity of foreign currency required to purchase"
+        + " one unit of the domestic currency."
+        + " To inverse the perspective, set the 'quote_type' parameter as 'direct'.",
+    )
+    open: float | None = Field(
+        description=DATA_DESCRIPTIONS.get("open", ""),
+        default=None,
+    )
+    high: float | None = Field(
+        description=DATA_DESCRIPTIONS.get("high", ""),
+        default=None,
+    )
+    low: float | None = Field(
+        description=DATA_DESCRIPTIONS.get("low", ""),
+        default=None,
+    )
+    close: float | None = Field(
+        description=DATA_DESCRIPTIONS.get("close", ""),
+        default=None,
+    )
+    volume: int | None = Field(
+        description=DATA_DESCRIPTIONS.get("volume", ""), default=None
+    )
+    prev_close: float | None = Field(
+        description=DATA_DESCRIPTIONS.get("prev_close", ""),
+        default=None,
+    )
+
+```
+
+
+
+---
+
+## High-Level Overview
+
+This is a **python** file named `currency_snapshots.py`.
+
+**Python Module**
+
+- **Classes** (2): CurrencySnapshotsQueryParams, CurrencySnapshotsData
+- **Functions** (2): to_upper, convert_string
+- **Import Statements**: 1
+
+
+---
+
+## Detailed Analysis
+
+### Python Code Structure
+
+#### Classes
+
+- **`CurrencySnapshotsQueryParams`**(QueryParams)
+- **`CurrencySnapshotsData`**(Data)
+
+#### Functions
+
+- **`to_upper(cls, v)`**
+- **`convert_string(cls, v)`**
+
+#### Decorators Used
+
+classmethod, field_validator
+
+
+---
+
+## Related Files
+
+The following files may be related based on imports and references:
+
+**Imported Modules**:
+- `DATA_DESCRIPTIONS`
+- `Data`
+- `Field`
+- `Literal`
+- `QueryParams`
+- `openbb_core.provider.abstract.data`
+- `openbb_core.provider.abstract.query_params`
+- `openbb_core.provider.utils.descriptions`
+- `pydantic`
+- `typing`
+
+
+---
+
+## Performance & Security Notes
+
+No obvious security concerns detected in static analysis.
+
+
+---
+
+**Generated**: 2025-11-19T02:16:46.404102Z
+**Generator**: World's Best Repo Book Generator v1.0

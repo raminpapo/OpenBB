@@ -1,0 +1,187 @@
+# File Documentation: rest_api.py
+
+## Metadata
+- **Path**: `openbb_platform/core/openbb_core/api/rest_api.py`
+- **Size**: 3,807 bytes
+- **Lines**: 106
+- **Category**: python
+- **Extension**: .py
+
+---
+
+## Original Source
+
+```python
+"""REST API for the OpenBB Platform."""
+
+import logging
+from contextlib import asynccontextmanager
+
+from fastapi import FastAPI
+from fastapi.middleware.cors import CORSMiddleware
+from openbb_core.api.app_loader import AppLoader
+from openbb_core.api.router.commands import router as router_commands
+from openbb_core.api.router.coverage import router as router_coverage
+from openbb_core.api.router.system import router as router_system
+from openbb_core.app.service.auth_service import AuthService
+from openbb_core.app.service.system_service import SystemService
+from openbb_core.env import Env
+
+logger = logging.getLogger("uvicorn.error")
+
+system = SystemService().system_settings
+
+
+@asynccontextmanager
+async def lifespan(_: FastAPI):
+    """Startup event."""
+    auth = "ENABLED" if Env().API_AUTH else "DISABLED"
+    banner = rf"""
+
+                   ███╗
+  █████████████████╔══█████████████████╗       OpenBB Platform v{system.version}
+  ███╔══════════███║  ███╔══════════███║
+  █████████████████║  █████████████████║       Authentication: {auth}
+  ╚═════════════███║  ███╔═════════════╝
+     ██████████████║  ██████████████╗
+     ███╔═══════███║  ███╔═══════███║
+     ██████████████║  ██████████████║
+     ╚═════════════╝  ╚═════════════╝
+Investment research for everyone, anywhere.
+
+    https://my.openbb.co/app/platform
+
+"""
+    logger.info(banner)
+    yield
+
+
+app = FastAPI(
+    title=system.api_settings.title,
+    description=system.api_settings.description,
+    version=system.api_settings.version,
+    terms_of_service=system.api_settings.terms_of_service,
+    contact={
+        "name": system.api_settings.contact_name,
+        "url": system.api_settings.contact_url,
+        "email": system.api_settings.contact_email,
+    },
+    license_info={
+        "name": system.api_settings.license_name,
+        "url": system.api_settings.license_url,
+    },
+    servers=[
+        {
+            "url": s.url,
+            "description": s.description,
+        }
+        for s in system.api_settings.servers
+    ],
+    lifespan=lifespan,
+)
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=system.api_settings.cors.allow_origins,
+    allow_methods=system.api_settings.cors.allow_methods,
+    allow_headers=system.api_settings.cors.allow_headers,
+)
+AppLoader.add_routers(
+    app=app,
+    routers=(
+        [AuthService().router, router_system, router_coverage, router_commands]
+        if Env().DEV_MODE
+        else (
+            [router_commands, router_coverage]
+            if hasattr(router_commands, "routes") and router_commands.routes
+            else [router_commands]
+        )
+    ),
+    prefix=system.api_settings.prefix,
+)
+AppLoader.add_openapi_tags(app)
+AppLoader.add_exception_handlers(app)
+
+
+if __name__ == "__main__":
+    # pylint: disable=import-outside-toplevel
+    import uvicorn
+
+    # This initializes the OpenBB environment variables so they can be read before uvicorn is run.
+    Env()
+    uvicorn_kwargs = system.python_settings.model_dump().get("uvicorn", {})
+    uvicorn_reload = uvicorn_kwargs.pop("reload", None)
+
+    if uvicorn_reload is None or uvicorn_reload:
+        uvicorn_kwargs["reload"] = True
+
+    uvicorn_app = uvicorn_kwargs.pop("app", "openbb_core.api.rest_api:app")
+
+    uvicorn.run(uvicorn_app, **uvicorn_kwargs)
+
+```
+
+
+
+---
+
+## High-Level Overview
+
+This is a **python** file named `rest_api.py`.
+
+**Python Module**
+
+- **Functions** (1): lifespan
+- **Import Statements**: 2
+
+
+---
+
+## Detailed Analysis
+
+### Python Code Structure
+
+
+#### Functions
+
+- **`lifespan(_: FastAPI)`**
+
+#### Decorators Used
+
+asynccontextmanager
+
+
+---
+
+## Related Files
+
+The following files may be related based on imports and references:
+
+**Imported Modules**:
+- `AppLoader`
+- `AuthService`
+- `CORSMiddleware`
+- `Env`
+- `FastAPI`
+- `SystemService`
+- `asynccontextmanager`
+- `contextlib`
+- `fastapi`
+- `fastapi.middleware.cors`
+- `logging`
+- `openbb_core.api.app_loader`
+- `openbb_core.api.router.commands`
+- `openbb_core.api.router.coverage`
+- `openbb_core.api.router.system`
+
+
+---
+
+## Performance & Security Notes
+
+No obvious security concerns detected in static analysis.
+
+
+---
+
+**Generated**: 2025-11-19T02:16:46.189454Z
+**Generator**: World's Best Repo Book Generator v1.0

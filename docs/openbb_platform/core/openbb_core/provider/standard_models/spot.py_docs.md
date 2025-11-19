@@ -1,0 +1,120 @@
+# File Documentation: spot.py
+
+## Metadata
+- **Path**: `openbb_platform/core/openbb_core/provider/standard_models/spot.py`
+- **Size**: 1,293 bytes
+- **Lines**: 45
+- **Category**: python
+- **Extension**: .py
+
+---
+
+## Original Source
+
+```python
+"""Spot Rate Standard Model."""
+
+from datetime import (
+    date as dateType,
+)
+
+from openbb_core.provider.abstract.data import Data
+from openbb_core.provider.abstract.query_params import QueryParams
+from openbb_core.provider.utils.descriptions import (
+    DATA_DESCRIPTIONS,
+    QUERY_DESCRIPTIONS,
+)
+from pydantic import Field, field_validator
+
+
+class SpotRateQueryParams(QueryParams):
+    """Spot Rate Query."""
+
+    start_date: dateType | None = Field(
+        default=None,
+        description=QUERY_DESCRIPTIONS.get("start_date", ""),
+    )
+    end_date: dateType | None = Field(
+        default=None,
+        description=QUERY_DESCRIPTIONS.get("end_date", ""),
+    )
+    maturity: float | str = Field(default=10.0, description="Maturities in years.")
+    category: str = Field(
+        default="spot_rate",
+        description="Rate category. Options: spot_rate, par_yield.",
+    )
+
+    @field_validator("category", mode="before", check_fields=False)
+    @classmethod
+    def to_lower(cls, v: str | None) -> str | None:
+        """Convert field to lowercase."""
+        return v.lower() if v else v
+
+
+class SpotRateData(Data):
+    """Spot Rate Data."""
+
+    date: dateType = Field(description=DATA_DESCRIPTIONS.get("date", ""))
+    rate: float | None = Field(description="Spot Rate.")
+
+```
+
+
+
+---
+
+## High-Level Overview
+
+This is a **python** file named `spot.py`.
+
+**Python Module**
+
+- **Classes** (2): SpotRateQueryParams, SpotRateData
+- **Functions** (1): to_lower
+- **Import Statements**: 2
+
+
+---
+
+## Detailed Analysis
+
+### Python Code Structure
+
+#### Classes
+
+- **`SpotRateQueryParams`**(QueryParams)
+- **`SpotRateData`**(Data)
+
+#### Decorators Used
+
+classmethod, field_validator
+
+
+---
+
+## Related Files
+
+The following files may be related based on imports and references:
+
+**Imported Modules**:
+- `Data`
+- `Field`
+- `QueryParams`
+- `datetime`
+- `openbb_core.provider.abstract.data`
+- `openbb_core.provider.abstract.query_params`
+- `openbb_core.provider.utils.descriptions`
+- `pydantic`
+
+
+---
+
+## Performance & Security Notes
+
+No obvious security concerns detected in static analysis.
+
+
+---
+
+**Generated**: 2025-11-19T02:16:46.578451Z
+**Generator**: World's Best Repo Book Generator v1.0

@@ -1,0 +1,475 @@
+# Keywords: nport_disclosure.py
+
+**File**: `openbb_platform/providers/sec/openbb_sec/models/nport_disclosure.py`
+**Total Keywords**: 380
+
+---
+
+## Keyword Index (A→Z)
+
+
+### A
+
+- **abstract** → [`nport_disclosure.py_docs.md#abstract`](./nport_disclosure.py_docs.md#abstract)
+- **additional** → [`nport_disclosure.py_docs.md#additional`](./nport_disclosure.py_docs.md#additional)
+- **aextract_data** → [`nport_disclosure.py_docs.md#aextract_data`](./nport_disclosure.py_docs.md#aextract_data)
+- **aiohttp_client_cache** → [`nport_disclosure.py_docs.md#aiohttp_client_cache`](./nport_disclosure.py_docs.md#aiohttp_client_cache)
+- **amake_request** → [`nport_disclosure.py_docs.md#amake_request`](./nport_disclosure.py_docs.md#amake_request)
+- **amount** → [`nport_disclosure.py_docs.md#amount`](./nport_disclosure.py_docs.md#amount)
+- **annotated_result** → [`nport_disclosure.py_docs.md#annotated_result`](./nport_disclosure.py_docs.md#annotated_result)
+- **AnnotatedResult** → [`nport_disclosure.py_docs.md#annotatedresult`](./nport_disclosure.py_docs.md#annotatedresult)
+- **annualized** → [`nport_disclosure.py_docs.md#annualized`](./nport_disclosure.py_docs.md#annualized)
+- **annualized_return** → [`nport_disclosure.py_docs.md#annualized_return`](./nport_disclosure.py_docs.md#annualized_return)
+- **Any** → [`nport_disclosure.py_docs.md#any`](./nport_disclosure.py_docs.md#any)
+- **Archives** → [`nport_disclosure.py_docs.md#archives`](./nport_disclosure.py_docs.md#archives)
+- **argument** → [`nport_disclosure.py_docs.md#argument`](./nport_disclosure.py_docs.md#argument)
+- **arrears** → [`nport_disclosure.py_docs.md#arrears`](./nport_disclosure.py_docs.md#arrears)
+- **ascending** → [`nport_disclosure.py_docs.md#ascending`](./nport_disclosure.py_docs.md#ascending)
+- **asset** → [`nport_disclosure.py_docs.md#asset`](./nport_disclosure.py_docs.md#asset)
+- **asset_category** → [`nport_disclosure.py_docs.md#asset_category`](./nport_disclosure.py_docs.md#asset_category)
+- **asset_conditional** → [`nport_disclosure.py_docs.md#asset_conditional`](./nport_disclosure.py_docs.md#asset_conditional)
+- **associated** → [`nport_disclosure.py_docs.md#associated`](./nport_disclosure.py_docs.md#associated)
+- **astype** → [`nport_disclosure.py_docs.md#astype`](./nport_disclosure.py_docs.md#astype)
+- **async** → [`nport_disclosure.py_docs.md#async`](./nport_disclosure.py_docs.md#async)
+- **asyncio** → [`nport_disclosure.py_docs.md#asyncio`](./nport_disclosure.py_docs.md#asyncio)
+- **await** → [`nport_disclosure.py_docs.md#await`](./nport_disclosure.py_docs.md#await)
+- **axis** → [`nport_disclosure.py_docs.md#axis`](./nport_disclosure.py_docs.md#axis)
+
+### B
+
+- **before** → [`nport_disclosure.py_docs.md#before`](./nport_disclosure.py_docs.md#before)
+- **belong** → [`nport_disclosure.py_docs.md#belong`](./nport_disclosure.py_docs.md#belong)
+- **bool** → [`nport_disclosure.py_docs.md#bool`](./nport_disclosure.py_docs.md#bool)
+- **borrower** → [`nport_disclosure.py_docs.md#borrower`](./nport_disclosure.py_docs.md#borrower)
+- **borrowers** → [`nport_disclosure.py_docs.md#borrowers`](./nport_disclosure.py_docs.md#borrowers)
+- **bought** → [`nport_disclosure.py_docs.md#bought`](./nport_disclosure.py_docs.md#bought)
+- **branches** → [`nport_disclosure.py_docs.md#branches`](./nport_disclosure.py_docs.md#branches)
+- **break** → [`nport_disclosure.py_docs.md#break`](./nport_disclosure.py_docs.md#break)
+
+### C
+
+- **cache** → [`nport_disclosure.py_docs.md#cache`](./nport_disclosure.py_docs.md#cache)
+- **cache_dir** → [`nport_disclosure.py_docs.md#cache_dir`](./nport_disclosure.py_docs.md#cache_dir)
+- **CachedSession** → [`nport_disclosure.py_docs.md#cachedsession`](./nport_disclosure.py_docs.md#cachedsession)
+- **callback** → [`nport_disclosure.py_docs.md#callback`](./nport_disclosure.py_docs.md#callback)
+- **case** → [`nport_disclosure.py_docs.md#case`](./nport_disclosure.py_docs.md#case)
+- **cash_and_equivalents** → [`nport_disclosure.py_docs.md#cash_and_equivalents`](./nport_disclosure.py_docs.md#cash_and_equivalents)
+- **category** → [`nport_disclosure.py_docs.md#category`](./nport_disclosure.py_docs.md#category)
+- **Check** → [`nport_disclosure.py_docs.md#check`](./nport_disclosure.py_docs.md#check)
+- **check_fields** → [`nport_disclosure.py_docs.md#check_fields`](./nport_disclosure.py_docs.md#check_fields)
+- **classmethod** → [`nport_disclosure.py_docs.md#classmethod`](./nport_disclosure.py_docs.md#classmethod)
+- **cleared** → [`nport_disclosure.py_docs.md#cleared`](./nport_disclosure.py_docs.md#cleared)
+- **cleared_cent_cparty** → [`nport_disclosure.py_docs.md#cleared_cent_cparty`](./nport_disclosure.py_docs.md#cleared_cent_cparty)
+- **close** → [`nport_disclosure.py_docs.md#close`](./nport_disclosure.py_docs.md#close)
+- **collateral** → [`nport_disclosure.py_docs.md#collateral`](./nport_disclosure.py_docs.md#collateral)
+- **collateral_amount** → [`nport_disclosure.py_docs.md#collateral_amount`](./nport_disclosure.py_docs.md#collateral_amount)
+- **collateral_currency** → [`nport_disclosure.py_docs.md#collateral_currency`](./nport_disclosure.py_docs.md#collateral_currency)
+- **collateral_type** → [`nport_disclosure.py_docs.md#collateral_type`](./nport_disclosure.py_docs.md#collateral_type)
+- **columns** → [`nport_disclosure.py_docs.md#columns`](./nport_disclosure.py_docs.md#columns)
+- **Conditionally** → [`nport_disclosure.py_docs.md#conditionally`](./nport_disclosure.py_docs.md#conditionally)
+- **continue** → [`nport_disclosure.py_docs.md#continue`](./nport_disclosure.py_docs.md#continue)
+- **contract** → [`nport_disclosure.py_docs.md#contract`](./nport_disclosure.py_docs.md#contract)
+- **counterparties** → [`nport_disclosure.py_docs.md#counterparties`](./nport_disclosure.py_docs.md#counterparties)
+- **counterparty** → [`nport_disclosure.py_docs.md#counterparty`](./nport_disclosure.py_docs.md#counterparty)
+- **country** → [`nport_disclosure.py_docs.md#country`](./nport_disclosure.py_docs.md#country)
+- **coupon** → [`nport_disclosure.py_docs.md#coupon`](./nport_disclosure.py_docs.md#coupon)
+- **coupon_kind** → [`nport_disclosure.py_docs.md#coupon_kind`](./nport_disclosure.py_docs.md#coupon_kind)
+- **creation** → [`nport_disclosure.py_docs.md#creation`](./nport_disclosure.py_docs.md#creation)
+- **credentials** → [`nport_disclosure.py_docs.md#credentials`](./nport_disclosure.py_docs.md#credentials)
+- **currency** → [`nport_disclosure.py_docs.md#currency`](./nport_disclosure.py_docs.md#currency)
+- **currency_amount_bought** → [`nport_disclosure.py_docs.md#currency_amount_bought`](./nport_disclosure.py_docs.md#currency_amount_bought)
+- **currency_amount_sold** → [`nport_disclosure.py_docs.md#currency_amount_sold`](./nport_disclosure.py_docs.md#currency_amount_sold)
+- **currency_bought** → [`nport_disclosure.py_docs.md#currency_bought`](./nport_disclosure.py_docs.md#currency_bought)
+- **currency_conditional** → [`nport_disclosure.py_docs.md#currency_conditional`](./nport_disclosure.py_docs.md#currency_conditional)
+- **currency_sold** → [`nport_disclosure.py_docs.md#currency_sold`](./nport_disclosure.py_docs.md#currency_sold)
+- **current_month** → [`nport_disclosure.py_docs.md#current_month`](./nport_disclosure.py_docs.md#current_month)
+
+### D
+
+- **data** → [`nport_disclosure.py_docs.md#data`](./nport_disclosure.py_docs.md#data)
+- **Data** → [`nport_disclosure.py_docs.md#data`](./nport_disclosure.py_docs.md#data)
+- **DataFrame** → [`nport_disclosure.py_docs.md#dataframe`](./nport_disclosure.py_docs.md#dataframe)
+- **date** → [`nport_disclosure.py_docs.md#date`](./nport_disclosure.py_docs.md#date)
+- **dates** → [`nport_disclosure.py_docs.md#dates`](./nport_disclosure.py_docs.md#dates)
+- **datetime** → [`nport_disclosure.py_docs.md#datetime`](./nport_disclosure.py_docs.md#datetime)
+- **debt** → [`nport_disclosure.py_docs.md#debt`](./nport_disclosure.py_docs.md#debt)
+- **debt_sec** → [`nport_disclosure.py_docs.md#debt_sec`](./nport_disclosure.py_docs.md#debt_sec)
+- **deeply** → [`nport_disclosure.py_docs.md#deeply`](./nport_disclosure.py_docs.md#deeply)
+- **default** → [`nport_disclosure.py_docs.md#default`](./nport_disclosure.py_docs.md#default)
+- **defaulted** → [`nport_disclosure.py_docs.md#defaulted`](./nport_disclosure.py_docs.md#defaulted)
+- **delta** → [`nport_disclosure.py_docs.md#delta`](./nport_disclosure.py_docs.md#delta)
+- **Derivative** → [`nport_disclosure.py_docs.md#derivative`](./nport_disclosure.py_docs.md#derivative)
+- **derivative** → [`nport_disclosure.py_docs.md#derivative`](./nport_disclosure.py_docs.md#derivative)
+- **derivative_category** → [`nport_disclosure.py_docs.md#derivative_category`](./nport_disclosure.py_docs.md#derivative_category)
+- **derivative_info** → [`nport_disclosure.py_docs.md#derivative_info`](./nport_disclosure.py_docs.md#derivative_info)
+- **derivative_payoff** → [`nport_disclosure.py_docs.md#derivative_payoff`](./nport_disclosure.py_docs.md#derivative_payoff)
+- **desc** → [`nport_disclosure.py_docs.md#desc`](./nport_disclosure.py_docs.md#desc)
+- **description** → [`nport_disclosure.py_docs.md#description`](./nport_disclosure.py_docs.md#description)
+- **dict** → [`nport_disclosure.py_docs.md#dict`](./nport_disclosure.py_docs.md#dict)
+- **disable** → [`nport_disclosure.py_docs.md#disable`](./nport_disclosure.py_docs.md#disable)
+- **Disclosure** → [`nport_disclosure.py_docs.md#disclosure`](./nport_disclosure.py_docs.md#disclosure)
+- **doesn** → [`nport_disclosure.py_docs.md#doesn`](./nport_disclosure.py_docs.md#doesn)
+- **drop** → [`nport_disclosure.py_docs.md#drop`](./nport_disclosure.py_docs.md#drop)
+- **Drop** → [`nport_disclosure.py_docs.md#drop`](./nport_disclosure.py_docs.md#drop)
+
+### E
+
+- **edgar** → [`nport_disclosure.py_docs.md#edgar`](./nport_disclosure.py_docs.md#edgar)
+- **else** → [`nport_disclosure.py_docs.md#else`](./nport_disclosure.py_docs.md#else)
+- **empty** → [`nport_disclosure.py_docs.md#empty`](./nport_disclosure.py_docs.md#empty)
+- **EmptyDataError** → [`nport_disclosure.py_docs.md#emptydataerror`](./nport_disclosure.py_docs.md#emptydataerror)
+- **endpoint** → [`nport_disclosure.py_docs.md#endpoint`](./nport_disclosure.py_docs.md#endpoint)
+- **error** → [`nport_disclosure.py_docs.md#error`](./nport_disclosure.py_docs.md#error)
+- **Error** → [`nport_disclosure.py_docs.md#error`](./nport_disclosure.py_docs.md#error)
+- **errors** → [`nport_disclosure.py_docs.md#errors`](./nport_disclosure.py_docs.md#errors)
+- **except** → [`nport_disclosure.py_docs.md#except`](./nport_disclosure.py_docs.md#except)
+- **Exception** → [`nport_disclosure.py_docs.md#exception`](./nport_disclosure.py_docs.md#exception)
+- **exchange** → [`nport_disclosure.py_docs.md#exchange`](./nport_disclosure.py_docs.md#exchange)
+- **exchange_currency** → [`nport_disclosure.py_docs.md#exchange_currency`](./nport_disclosure.py_docs.md#exchange_currency)
+- **exchange_rate** → [`nport_disclosure.py_docs.md#exchange_rate`](./nport_disclosure.py_docs.md#exchange_rate)
+- **exercise** → [`nport_disclosure.py_docs.md#exercise`](./nport_disclosure.py_docs.md#exercise)
+- **exercise_currency** → [`nport_disclosure.py_docs.md#exercise_currency`](./nport_disclosure.py_docs.md#exercise_currency)
+- **exercise_price** → [`nport_disclosure.py_docs.md#exercise_price`](./nport_disclosure.py_docs.md#exercise_price)
+- **expiry** → [`nport_disclosure.py_docs.md#expiry`](./nport_disclosure.py_docs.md#expiry)
+- **expiry_date** → [`nport_disclosure.py_docs.md#expiry_date`](./nport_disclosure.py_docs.md#expiry_date)
+- **Extract** → [`nport_disclosure.py_docs.md#extract`](./nport_disclosure.py_docs.md#extract)
+- **extracting** → [`nport_disclosure.py_docs.md#extracting`](./nport_disclosure.py_docs.md#extracting)
+
+### F
+
+- **fair_value_level** → [`nport_disclosure.py_docs.md#fair_value_level`](./nport_disclosure.py_docs.md#fair_value_level)
+- **fetcher** → [`nport_disclosure.py_docs.md#fetcher`](./nport_disclosure.py_docs.md#fetcher)
+- **Fetcher** → [`nport_disclosure.py_docs.md#fetcher`](./nport_disclosure.py_docs.md#fetcher)
+- **Field** → [`nport_disclosure.py_docs.md#field`](./nport_disclosure.py_docs.md#field)
+- **field_validator** → [`nport_disclosure.py_docs.md#field_validator`](./nport_disclosure.py_docs.md#field_validator)
+- **filing** → [`nport_disclosure.py_docs.md#filing`](./nport_disclosure.py_docs.md#filing)
+- **filing_candidates** → [`nport_disclosure.py_docs.md#filing_candidates`](./nport_disclosure.py_docs.md#filing_candidates)
+- **filing_url** → [`nport_disclosure.py_docs.md#filing_url`](./nport_disclosure.py_docs.md#filing_url)
+- **filings** → [`nport_disclosure.py_docs.md#filings`](./nport_disclosure.py_docs.md#filings)
+- **fillna** → [`nport_disclosure.py_docs.md#fillna`](./nport_disclosure.py_docs.md#fillna)
+- **finally** → [`nport_disclosure.py_docs.md#finally`](./nport_disclosure.py_docs.md#finally)
+- **fiscal_year_end** → [`nport_disclosure.py_docs.md#fiscal_year_end`](./nport_disclosure.py_docs.md#fiscal_year_end)
+- **fixed** → [`nport_disclosure.py_docs.md#fixed`](./nport_disclosure.py_docs.md#fixed)
+- **flatten** → [`nport_disclosure.py_docs.md#flatten`](./nport_disclosure.py_docs.md#flatten)
+- **flattened** → [`nport_disclosure.py_docs.md#flattened`](./nport_disclosure.py_docs.md#flattened)
+- **float** → [`nport_disclosure.py_docs.md#float`](./nport_disclosure.py_docs.md#float)
+- **floating** → [`nport_disclosure.py_docs.md#floating`](./nport_disclosure.py_docs.md#floating)
+- **floating_rate_index_pmnt** → [`nport_disclosure.py_docs.md#floating_rate_index_pmnt`](./nport_disclosure.py_docs.md#floating_rate_index_pmnt)
+- **floating_rate_index_rec** → [`nport_disclosure.py_docs.md#floating_rate_index_rec`](./nport_disclosure.py_docs.md#floating_rate_index_rec)
+- **floating_rate_spread_pmnt** → [`nport_disclosure.py_docs.md#floating_rate_spread_pmnt`](./nport_disclosure.py_docs.md#floating_rate_spread_pmnt)
+- **floating_rate_spread_rec** → [`nport_disclosure.py_docs.md#floating_rate_spread_rec`](./nport_disclosure.py_docs.md#floating_rate_spread_rec)
+- **flow** → [`nport_disclosure.py_docs.md#flow`](./nport_disclosure.py_docs.md#flow)
+- **form** → [`nport_disclosure.py_docs.md#form`](./nport_disclosure.py_docs.md#form)
+- **Forward** → [`nport_disclosure.py_docs.md#forward`](./nport_disclosure.py_docs.md#forward)
+- **found** → [`nport_disclosure.py_docs.md#found`](./nport_disclosure.py_docs.md#found)
+- **from_records** → [`nport_disclosure.py_docs.md#from_records`](./nport_disclosure.py_docs.md#from_records)
+- **frontend_multiply** → [`nport_disclosure.py_docs.md#frontend_multiply`](./nport_disclosure.py_docs.md#frontend_multiply)
+- **fund_info** → [`nport_disclosure.py_docs.md#fund_info`](./nport_disclosure.py_docs.md#fund_info)
+- **fund_name** → [`nport_disclosure.py_docs.md#fund_name`](./nport_disclosure.py_docs.md#fund_name)
+- **futr_deriv** → [`nport_disclosure.py_docs.md#futr_deriv`](./nport_disclosure.py_docs.md#futr_deriv)
+- **fwd_deriv** → [`nport_disclosure.py_docs.md#fwd_deriv`](./nport_disclosure.py_docs.md#fwd_deriv)
+
+### G
+
+- **gain** → [`nport_disclosure.py_docs.md#gain`](./nport_disclosure.py_docs.md#gain)
+- **gains** → [`nport_disclosure.py_docs.md#gains`](./nport_disclosure.py_docs.md#gains)
+- **gen_info** → [`nport_disclosure.py_docs.md#gen_info`](./nport_disclosure.py_docs.md#gen_info)
+- **get_nport_candidates** → [`nport_disclosure.py_docs.md#get_nport_candidates`](./nport_disclosure.py_docs.md#get_nport_candidates)
+- **get_user_cache_directory** → [`nport_disclosure.py_docs.md#get_user_cache_directory`](./nport_disclosure.py_docs.md#get_user_cache_directory)
+- **Gets** → [`nport_disclosure.py_docs.md#gets`](./nport_disclosure.py_docs.md#gets)
+
+### H
+
+- **headers** → [`nport_disclosure.py_docs.md#headers`](./nport_disclosure.py_docs.md#headers)
+- **HEADERS** → [`nport_disclosure.py_docs.md#headers`](./nport_disclosure.py_docs.md#headers)
+- **helpers** → [`nport_disclosure.py_docs.md#helpers`](./nport_disclosure.py_docs.md#helpers)
+- **holding** → [`nport_disclosure.py_docs.md#holding`](./nport_disclosure.py_docs.md#holding)
+- **Holdings** → [`nport_disclosure.py_docs.md#holdings`](./nport_disclosure.py_docs.md#holdings)
+- **holdings** → [`nport_disclosure.py_docs.md#holdings`](./nport_disclosure.py_docs.md#holdings)
+- **Holings** → [`nport_disclosure.py_docs.md#holings`](./nport_disclosure.py_docs.md#holings)
+- **http** → [`nport_disclosure.py_docs.md#http`](./nport_disclosure.py_docs.md#http)
+- **https** → [`nport_disclosure.py_docs.md#https`](./nport_disclosure.py_docs.md#https)
+
+### I
+
+- **identifiers** → [`nport_disclosure.py_docs.md#identifiers`](./nport_disclosure.py_docs.md#identifiers)
+- **idxmin** → [`nport_disclosure.py_docs.md#idxmin`](./nport_disclosure.py_docs.md#idxmin)
+- **ignore** → [`nport_disclosure.py_docs.md#ignore`](./nport_disclosure.py_docs.md#ignore)
+- **iloc** → [`nport_disclosure.py_docs.md#iloc`](./nport_disclosure.py_docs.md#iloc)
+- **Implement** → [`nport_disclosure.py_docs.md#implement`](./nport_disclosure.py_docs.md#implement)
+- **in_arrears** → [`nport_disclosure.py_docs.md#in_arrears`](./nport_disclosure.py_docs.md#in_arrears)
+- **index** → [`nport_disclosure.py_docs.md#index`](./nport_disclosure.py_docs.md#index)
+- **information** → [`nport_disclosure.py_docs.md#information`](./nport_disclosure.py_docs.md#information)
+- **int64** → [`nport_disclosure.py_docs.md#int64`](./nport_disclosure.py_docs.md#int64)
+- **is_cleared** → [`nport_disclosure.py_docs.md#is_cleared`](./nport_disclosure.py_docs.md#is_cleared)
+- **is_default** → [`nport_disclosure.py_docs.md#is_default`](./nport_disclosure.py_docs.md#is_default)
+- **is_paid_kind** → [`nport_disclosure.py_docs.md#is_paid_kind`](./nport_disclosure.py_docs.md#is_paid_kind)
+- **is_restricted** → [`nport_disclosure.py_docs.md#is_restricted`](./nport_disclosure.py_docs.md#is_restricted)
+- **is_tri_party** → [`nport_disclosure.py_docs.md#is_tri_party`](./nport_disclosure.py_docs.md#is_tri_party)
+- **isin** → [`nport_disclosure.py_docs.md#isin`](./nport_disclosure.py_docs.md#isin)
+- **isinstance** → [`nport_disclosure.py_docs.md#isinstance`](./nport_disclosure.py_docs.md#isinstance)
+- **issuer_category** → [`nport_disclosure.py_docs.md#issuer_category`](./nport_disclosure.py_docs.md#issuer_category)
+- **issuer_conditional** → [`nport_disclosure.py_docs.md#issuer_conditional`](./nport_disclosure.py_docs.md#issuer_conditional)
+- **items** → [`nport_disclosure.py_docs.md#items`](./nport_disclosure.py_docs.md#items)
+
+### J
+
+- **json_schema_extra** → [`nport_disclosure.py_docs.md#json_schema_extra`](./nport_disclosure.py_docs.md#json_schema_extra)
+
+### K
+
+- **kind** → [`nport_disclosure.py_docs.md#kind`](./nport_disclosure.py_docs.md#kind)
+- **kwargs** → [`nport_disclosure.py_docs.md#kwargs`](./nport_disclosure.py_docs.md#kwargs)
+
+### L
+
+- **list** → [`nport_disclosure.py_docs.md#list`](./nport_disclosure.py_docs.md#list)
+- **loan_by_fund_condition** → [`nport_disclosure.py_docs.md#loan_by_fund_condition`](./nport_disclosure.py_docs.md#loan_by_fund_condition)
+- **loan_value** → [`nport_disclosure.py_docs.md#loan_value`](./nport_disclosure.py_docs.md#loan_value)
+- **locals** → [`nport_disclosure.py_docs.md#locals`](./nport_disclosure.py_docs.md#locals)
+- **loss** → [`nport_disclosure.py_docs.md#loss`](./nport_disclosure.py_docs.md#loss)
+
+### M
+
+- **many** → [`nport_disclosure.py_docs.md#many`](./nport_disclosure.py_docs.md#many)
+- **maturity** → [`nport_disclosure.py_docs.md#maturity`](./nport_disclosure.py_docs.md#maturity)
+- **maturity_date** → [`nport_disclosure.py_docs.md#maturity_date`](./nport_disclosure.py_docs.md#maturity_date)
+- **mechanism** → [`nport_disclosure.py_docs.md#mechanism`](./nport_disclosure.py_docs.md#mechanism)
+- **metadata** → [`nport_disclosure.py_docs.md#metadata`](./nport_disclosure.py_docs.md#metadata)
+- **mode** → [`nport_disclosure.py_docs.md#mode`](./nport_disclosure.py_docs.md#mode)
+- **model** → [`nport_disclosure.py_docs.md#model`](./nport_disclosure.py_docs.md#model)
+- **Model** → [`nport_disclosure.py_docs.md#model`](./nport_disclosure.py_docs.md#model)
+- **model_validate** → [`nport_disclosure.py_docs.md#model_validate`](./nport_disclosure.py_docs.md#model_validate)
+- **model_validator** → [`nport_disclosure.py_docs.md#model_validator`](./nport_disclosure.py_docs.md#model_validator)
+- **month_1** → [`nport_disclosure.py_docs.md#month_1`](./nport_disclosure.py_docs.md#month_1)
+- **month_2** → [`nport_disclosure.py_docs.md#month_2`](./nport_disclosure.py_docs.md#month_2)
+- **month_3** → [`nport_disclosure.py_docs.md#month_3`](./nport_disclosure.py_docs.md#month_3)
+- **MonthEnd** → [`nport_disclosure.py_docs.md#monthend`](./nport_disclosure.py_docs.md#monthend)
+
+### N
+
+- **name** → [`nport_disclosure.py_docs.md#name`](./nport_disclosure.py_docs.md#name)
+- **nearest** → [`nport_disclosure.py_docs.md#nearest`](./nport_disclosure.py_docs.md#nearest)
+- **nested** → [`nport_disclosure.py_docs.md#nested`](./nport_disclosure.py_docs.md#nested)
+- **net_assets** → [`nport_disclosure.py_docs.md#net_assets`](./nport_disclosure.py_docs.md#net_assets)
+- **new_date** → [`nport_disclosure.py_docs.md#new_date`](./nport_disclosure.py_docs.md#new_date)
+- **noqa** → [`nport_disclosure.py_docs.md#noqa`](./nport_disclosure.py_docs.md#noqa)
+- **Normalize** → [`nport_disclosure.py_docs.md#normalize`](./nport_disclosure.py_docs.md#normalize)
+- **normalize_percent** → [`nport_disclosure.py_docs.md#normalize_percent`](./nport_disclosure.py_docs.md#normalize_percent)
+- **notional** → [`nport_disclosure.py_docs.md#notional`](./nport_disclosure.py_docs.md#notional)
+- **notional_amount** → [`nport_disclosure.py_docs.md#notional_amount`](./nport_disclosure.py_docs.md#notional_amount)
+- **notional_currency** → [`nport_disclosure.py_docs.md#notional_currency`](./nport_disclosure.py_docs.md#notional_currency)
+- **NPORT** → [`nport_disclosure.py_docs.md#nport`](./nport_disclosure.py_docs.md#nport)
+- **nport_disclosure** → [`nport_disclosure.py_docs.md#nport_disclosure`](./nport_disclosure.py_docs.md#nport_disclosure)
+- **NportDisclosureData** → [`nport_disclosure.py_docs.md#nportdisclosuredata`](./nport_disclosure.py_docs.md#nportdisclosuredata)
+- **NportDisclosureQueryParams** → [`nport_disclosure.py_docs.md#nportdisclosurequeryparams`](./nport_disclosure.py_docs.md#nportdisclosurequeryparams)
+- **number** → [`nport_disclosure.py_docs.md#number`](./nport_disclosure.py_docs.md#number)
+
+### O
+
+- **offsets** → [`nport_disclosure.py_docs.md#offsets`](./nport_disclosure.py_docs.md#offsets)
+- **openbb_core** → [`nport_disclosure.py_docs.md#openbb_core`](./nport_disclosure.py_docs.md#openbb_core)
+- **openbb_sec** → [`nport_disclosure.py_docs.md#openbb_sec`](./nport_disclosure.py_docs.md#openbb_sec)
+- **OpenBBError** → [`nport_disclosure.py_docs.md#openbberror`](./nport_disclosure.py_docs.md#openbberror)
+- **option** → [`nport_disclosure.py_docs.md#option`](./nport_disclosure.py_docs.md#option)
+- **option_swaption_warrant_deriv** → [`nport_disclosure.py_docs.md#option_swaption_warrant_deriv`](./nport_disclosure.py_docs.md#option_swaption_warrant_deriv)
+- **option_type** → [`nport_disclosure.py_docs.md#option_type`](./nport_disclosure.py_docs.md#option_type)
+- **orient** → [`nport_disclosure.py_docs.md#orient`](./nport_disclosure.py_docs.md#orient)
+- **other** → [`nport_disclosure.py_docs.md#other`](./nport_disclosure.py_docs.md#other)
+- **other_id** → [`nport_disclosure.py_docs.md#other_id`](./nport_disclosure.py_docs.md#other_id)
+- **outside** → [`nport_disclosure.py_docs.md#outside`](./nport_disclosure.py_docs.md#outside)
+
+### P
+
+- **paid** → [`nport_disclosure.py_docs.md#paid`](./nport_disclosure.py_docs.md#paid)
+- **pandas** → [`nport_disclosure.py_docs.md#pandas`](./nport_disclosure.py_docs.md#pandas)
+- **params** → [`nport_disclosure.py_docs.md#params`](./nport_disclosure.py_docs.md#params)
+- **Parse** → [`nport_disclosure.py_docs.md#parse`](./nport_disclosure.py_docs.md#parse)
+- **parse** → [`nport_disclosure.py_docs.md#parse`](./nport_disclosure.py_docs.md#parse)
+- **party** → [`nport_disclosure.py_docs.md#party`](./nport_disclosure.py_docs.md#party)
+- **payment** → [`nport_disclosure.py_docs.md#payment`](./nport_disclosure.py_docs.md#payment)
+- **payment_amount_pmnt** → [`nport_disclosure.py_docs.md#payment_amount_pmnt`](./nport_disclosure.py_docs.md#payment_amount_pmnt)
+- **payment_amount_rec** → [`nport_disclosure.py_docs.md#payment_amount_rec`](./nport_disclosure.py_docs.md#payment_amount_rec)
+- **payment_currency** → [`nport_disclosure.py_docs.md#payment_currency`](./nport_disclosure.py_docs.md#payment_currency)
+- **payments** → [`nport_disclosure.py_docs.md#payments`](./nport_disclosure.py_docs.md#payments)
+- **payoff** → [`nport_disclosure.py_docs.md#payoff`](./nport_disclosure.py_docs.md#payoff)
+- **payoff_profile** → [`nport_disclosure.py_docs.md#payoff_profile`](./nport_disclosure.py_docs.md#payoff_profile)
+- **percent** → [`nport_disclosure.py_docs.md#percent`](./nport_disclosure.py_docs.md#percent)
+- **period_ending** → [`nport_disclosure.py_docs.md#period_ending`](./nport_disclosure.py_docs.md#period_ending)
+- **PLR0912** → [`nport_disclosure.py_docs.md#plr0912`](./nport_disclosure.py_docs.md#plr0912)
+- **Port** → [`nport_disclosure.py_docs.md#port`](./nport_disclosure.py_docs.md#port)
+- **portion** → [`nport_disclosure.py_docs.md#portion`](./nport_disclosure.py_docs.md#portion)
+- **price** → [`nport_disclosure.py_docs.md#price`](./nport_disclosure.py_docs.md#price)
+- **primary_doc** → [`nport_disclosure.py_docs.md#primary_doc`](./nport_disclosure.py_docs.md#primary_doc)
+- **principal** → [`nport_disclosure.py_docs.md#principal`](./nport_disclosure.py_docs.md#principal)
+- **principal_amount** → [`nport_disclosure.py_docs.md#principal_amount`](./nport_disclosure.py_docs.md#principal_amount)
+- **principal_currency** → [`nport_disclosure.py_docs.md#principal_currency`](./nport_disclosure.py_docs.md#principal_currency)
+- **profile** → [`nport_disclosure.py_docs.md#profile`](./nport_disclosure.py_docs.md#profile)
+- **provider** → [`nport_disclosure.py_docs.md#provider`](./nport_disclosure.py_docs.md#provider)
+- **pydantic** → [`nport_disclosure.py_docs.md#pydantic`](./nport_disclosure.py_docs.md#pydantic)
+- **pylint** → [`nport_disclosure.py_docs.md#pylint`](./nport_disclosure.py_docs.md#pylint)
+
+### Q
+
+- **quarter** → [`nport_disclosure.py_docs.md#quarter`](./nport_disclosure.py_docs.md#quarter)
+- **QuarterEnd** → [`nport_disclosure.py_docs.md#quarterend`](./nport_disclosure.py_docs.md#quarterend)
+- **query** → [`nport_disclosure.py_docs.md#query`](./nport_disclosure.py_docs.md#query)
+- **Query** → [`nport_disclosure.py_docs.md#query`](./nport_disclosure.py_docs.md#query)
+
+### R
+
+- **raise** → [`nport_disclosure.py_docs.md#raise`](./nport_disclosure.py_docs.md#raise)
+- **range** → [`nport_disclosure.py_docs.md#range`](./nport_disclosure.py_docs.md#range)
+- **rate** → [`nport_disclosure.py_docs.md#rate`](./nport_disclosure.py_docs.md#rate)
+- **rate_tenor_pmnt** → [`nport_disclosure.py_docs.md#rate_tenor_pmnt`](./nport_disclosure.py_docs.md#rate_tenor_pmnt)
+- **rate_tenor_rec** → [`nport_disclosure.py_docs.md#rate_tenor_rec`](./nport_disclosure.py_docs.md#rate_tenor_rec)
+- **rate_tenor_unit_pmnt** → [`nport_disclosure.py_docs.md#rate_tenor_unit_pmnt`](./nport_disclosure.py_docs.md#rate_tenor_unit_pmnt)
+- **rate_tenor_unit_rec** → [`nport_disclosure.py_docs.md#rate_tenor_unit_rec`](./nport_disclosure.py_docs.md#rate_tenor_unit_rec)
+- **rate_type** → [`nport_disclosure.py_docs.md#rate_type`](./nport_disclosure.py_docs.md#rate_type)
+- **rate_type_pmnt** → [`nport_disclosure.py_docs.md#rate_type_pmnt`](./nport_disclosure.py_docs.md#rate_type_pmnt)
+- **rate_type_rec** → [`nport_disclosure.py_docs.md#rate_type_rec`](./nport_disclosure.py_docs.md#rate_type_rec)
+- **read** → [`nport_disclosure.py_docs.md#read`](./nport_disclosure.py_docs.md#read)
+- **realized** → [`nport_disclosure.py_docs.md#realized`](./nport_disclosure.py_docs.md#realized)
+- **receivable** → [`nport_disclosure.py_docs.md#receivable`](./nport_disclosure.py_docs.md#receivable)
+- **receive** → [`nport_disclosure.py_docs.md#receive`](./nport_disclosure.py_docs.md#receive)
+- **receive_currency** → [`nport_disclosure.py_docs.md#receive_currency`](./nport_disclosure.py_docs.md#receive_currency)
+- **received** → [`nport_disclosure.py_docs.md#received`](./nport_disclosure.py_docs.md#received)
+- **records** → [`nport_disclosure.py_docs.md#records`](./nport_disclosure.py_docs.md#records)
+- **redemption** → [`nport_disclosure.py_docs.md#redemption`](./nport_disclosure.py_docs.md#redemption)
+- **RemoteDisconnected** → [`nport_disclosure.py_docs.md#remotedisconnected`](./nport_disclosure.py_docs.md#remotedisconnected)
+- **replace** → [`nport_disclosure.py_docs.md#replace`](./nport_disclosure.py_docs.md#replace)
+- **replace_zero** → [`nport_disclosure.py_docs.md#replace_zero`](./nport_disclosure.py_docs.md#replace_zero)
+- **repo** → [`nport_disclosure.py_docs.md#repo`](./nport_disclosure.py_docs.md#repo)
+- **repo_type** → [`nport_disclosure.py_docs.md#repo_type`](./nport_disclosure.py_docs.md#repo_type)
+- **repurchase_agrmt** → [`nport_disclosure.py_docs.md#repurchase_agrmt`](./nport_disclosure.py_docs.md#repurchase_agrmt)
+- **repurchase_collateral** → [`nport_disclosure.py_docs.md#repurchase_collateral`](./nport_disclosure.py_docs.md#repurchase_collateral)
+- **request** → [`nport_disclosure.py_docs.md#request`](./nport_disclosure.py_docs.md#request)
+- **requested** → [`nport_disclosure.py_docs.md#requested`](./nport_disclosure.py_docs.md#requested)
+- **reset** → [`nport_disclosure.py_docs.md#reset`](./nport_disclosure.py_docs.md#reset)
+- **reset_date_pmnt** → [`nport_disclosure.py_docs.md#reset_date_pmnt`](./nport_disclosure.py_docs.md#reset_date_pmnt)
+- **reset_date_rec** → [`nport_disclosure.py_docs.md#reset_date_rec`](./nport_disclosure.py_docs.md#reset_date_rec)
+- **reset_date_unit_pmnt** → [`nport_disclosure.py_docs.md#reset_date_unit_pmnt`](./nport_disclosure.py_docs.md#reset_date_unit_pmnt)
+- **reset_date_unit_rec** → [`nport_disclosure.py_docs.md#reset_date_unit_rec`](./nport_disclosure.py_docs.md#reset_date_unit_rec)
+- **Response** → [`nport_disclosure.py_docs.md#response`](./nport_disclosure.py_docs.md#response)
+- **response** → [`nport_disclosure.py_docs.md#response`](./nport_disclosure.py_docs.md#response)
+- **response_callback** → [`nport_disclosure.py_docs.md#response_callback`](./nport_disclosure.py_docs.md#response_callback)
+- **result** → [`nport_disclosure.py_docs.md#result`](./nport_disclosure.py_docs.md#result)
+- **results** → [`nport_disclosure.py_docs.md#results`](./nport_disclosure.py_docs.md#results)
+- **retries** → [`nport_disclosure.py_docs.md#retries`](./nport_disclosure.py_docs.md#retries)
+- **retry** → [`nport_disclosure.py_docs.md#retry`](./nport_disclosure.py_docs.md#retry)
+- **Retrying** → [`nport_disclosure.py_docs.md#retrying`](./nport_disclosure.py_docs.md#retrying)
+- **return_info** → [`nport_disclosure.py_docs.md#return_info`](./nport_disclosure.py_docs.md#return_info)
+- **returned** → [`nport_disclosure.py_docs.md#returned`](./nport_disclosure.py_docs.md#returned)
+- **returns** → [`nport_disclosure.py_docs.md#returns`](./nport_disclosure.py_docs.md#returns)
+- **reveivable** → [`nport_disclosure.py_docs.md#reveivable`](./nport_disclosure.py_docs.md#reveivable)
+- **rtn1** → [`nport_disclosure.py_docs.md#rtn1`](./nport_disclosure.py_docs.md#rtn1)
+- **rtn2** → [`nport_disclosure.py_docs.md#rtn2`](./nport_disclosure.py_docs.md#rtn2)
+- **rtn3** → [`nport_disclosure.py_docs.md#rtn3`](./nport_disclosure.py_docs.md#rtn3)
+
+### S
+
+- **sales** → [`nport_disclosure.py_docs.md#sales`](./nport_disclosure.py_docs.md#sales)
+- **SEC** → [`nport_disclosure.py_docs.md#sec`](./nport_disclosure.py_docs.md#sec)
+- **sec_etf** → [`nport_disclosure.py_docs.md#sec_etf`](./nport_disclosure.py_docs.md#sec_etf)
+- **SecNportDisclosureData** → [`nport_disclosure.py_docs.md#secnportdisclosuredata`](./nport_disclosure.py_docs.md#secnportdisclosuredata)
+- **SecNportDisclosureFetcher** → [`nport_disclosure.py_docs.md#secnportdisclosurefetcher`](./nport_disclosure.py_docs.md#secnportdisclosurefetcher)
+- **SecNportDisclosureQueryParams** → [`nport_disclosure.py_docs.md#secnportdisclosurequeryparams`](./nport_disclosure.py_docs.md#secnportdisclosurequeryparams)
+- **security** → [`nport_disclosure.py_docs.md#security`](./nport_disclosure.py_docs.md#security)
+- **security_lending** → [`nport_disclosure.py_docs.md#security_lending`](./nport_disclosure.py_docs.md#security_lending)
+- **Series** → [`nport_disclosure.py_docs.md#series`](./nport_disclosure.py_docs.md#series)
+- **series_id** → [`nport_disclosure.py_docs.md#series_id`](./nport_disclosure.py_docs.md#series_id)
+- **session** → [`nport_disclosure.py_docs.md#session`](./nport_disclosure.py_docs.md#session)
+- **shares** → [`nport_disclosure.py_docs.md#shares`](./nport_disclosure.py_docs.md#shares)
+- **shares_per_contract** → [`nport_disclosure.py_docs.md#shares_per_contract`](./nport_disclosure.py_docs.md#shares_per_contract)
+- **sleep** → [`nport_disclosure.py_docs.md#sleep`](./nport_disclosure.py_docs.md#sleep)
+- **sold** → [`nport_disclosure.py_docs.md#sold`](./nport_disclosure.py_docs.md#sold)
+- **sort_values** → [`nport_disclosure.py_docs.md#sort_values`](./nport_disclosure.py_docs.md#sort_values)
+- **Source** → [`nport_disclosure.py_docs.md#source`](./nport_disclosure.py_docs.md#source)
+- **spread** → [`nport_disclosure.py_docs.md#spread`](./nport_disclosure.py_docs.md#spread)
+- **SQLiteBackend** → [`nport_disclosure.py_docs.md#sqlitebackend`](./nport_disclosure.py_docs.md#sqlitebackend)
+- **standard_models** → [`nport_disclosure.py_docs.md#standard_models`](./nport_disclosure.py_docs.md#standard_models)
+- **statements** → [`nport_disclosure.py_docs.md#statements`](./nport_disclosure.py_docs.md#statements)
+- **staticmethod** → [`nport_disclosure.py_docs.md#staticmethod`](./nport_disclosure.py_docs.md#staticmethod)
+- **strftime** → [`nport_disclosure.py_docs.md#strftime`](./nport_disclosure.py_docs.md#strftime)
+- **swap** → [`nport_disclosure.py_docs.md#swap`](./nport_disclosure.py_docs.md#swap)
+- **swap_deriv** → [`nport_disclosure.py_docs.md#swap_deriv`](./nport_disclosure.py_docs.md#swap_deriv)
+- **swap_description** → [`nport_disclosure.py_docs.md#swap_description`](./nport_disclosure.py_docs.md#swap_description)
+- **symbol** → [`nport_disclosure.py_docs.md#symbol`](./nport_disclosure.py_docs.md#symbol)
+
+### T
+
+- **table** → [`nport_disclosure.py_docs.md#table`](./nport_disclosure.py_docs.md#table)
+- **tenor** → [`nport_disclosure.py_docs.md#tenor`](./nport_disclosure.py_docs.md#tenor)
+- **termination** → [`nport_disclosure.py_docs.md#termination`](./nport_disclosure.py_docs.md#termination)
+- **text** → [`nport_disclosure.py_docs.md#text`](./nport_disclosure.py_docs.md#text)
+- **Timestamp** → [`nport_disclosure.py_docs.md#timestamp`](./nport_disclosure.py_docs.md#timestamp)
+- **title** → [`nport_disclosure.py_docs.md#title`](./nport_disclosure.py_docs.md#title)
+- **to_datetime** → [`nport_disclosure.py_docs.md#to_datetime`](./nport_disclosure.py_docs.md#to_datetime)
+- **to_dict** → [`nport_disclosure.py_docs.md#to_dict`](./nport_disclosure.py_docs.md#to_dict)
+- **to_drop** → [`nport_disclosure.py_docs.md#to_drop`](./nport_disclosure.py_docs.md#to_drop)
+- **to_list** → [`nport_disclosure.py_docs.md#to_list`](./nport_disclosure.py_docs.md#to_list)
+- **toplevel** → [`nport_disclosure.py_docs.md#toplevel`](./nport_disclosure.py_docs.md#toplevel)
+- **total_assets** → [`nport_disclosure.py_docs.md#total_assets`](./nport_disclosure.py_docs.md#total_assets)
+- **total_liabilities** → [`nport_disclosure.py_docs.md#total_liabilities`](./nport_disclosure.py_docs.md#total_liabilities)
+- **Transform** → [`nport_disclosure.py_docs.md#transform`](./nport_disclosure.py_docs.md#transform)
+- **transform_data** → [`nport_disclosure.py_docs.md#transform_data`](./nport_disclosure.py_docs.md#transform_data)
+- **transform_query** → [`nport_disclosure.py_docs.md#transform_query`](./nport_disclosure.py_docs.md#transform_query)
+- **tseries** → [`nport_disclosure.py_docs.md#tseries`](./nport_disclosure.py_docs.md#tseries)
+- **type** → [`nport_disclosure.py_docs.md#type`](./nport_disclosure.py_docs.md#type)
+- **typing** → [`nport_disclosure.py_docs.md#typing`](./nport_disclosure.py_docs.md#typing)
+
+### U
+
+- **underlying** → [`nport_disclosure.py_docs.md#underlying`](./nport_disclosure.py_docs.md#underlying)
+- **underlying_name** → [`nport_disclosure.py_docs.md#underlying_name`](./nport_disclosure.py_docs.md#underlying_name)
+- **unit** → [`nport_disclosure.py_docs.md#unit`](./nport_disclosure.py_docs.md#unit)
+- **unit_measurement** → [`nport_disclosure.py_docs.md#unit_measurement`](./nport_disclosure.py_docs.md#unit_measurement)
+- **unrealized** → [`nport_disclosure.py_docs.md#unrealized`](./nport_disclosure.py_docs.md#unrealized)
+- **unrealized_gain** → [`nport_disclosure.py_docs.md#unrealized_gain`](./nport_disclosure.py_docs.md#unrealized_gain)
+- **unused** → [`nport_disclosure.py_docs.md#unused`](./nport_disclosure.py_docs.md#unused)
+- **upfront** → [`nport_disclosure.py_docs.md#upfront`](./nport_disclosure.py_docs.md#upfront)
+- **upfront_payment** → [`nport_disclosure.py_docs.md#upfront_payment`](./nport_disclosure.py_docs.md#upfront_payment)
+- **upfront_receive** → [`nport_disclosure.py_docs.md#upfront_receive`](./nport_disclosure.py_docs.md#upfront_receive)
+- **URL** → [`nport_disclosure.py_docs.md#url`](./nport_disclosure.py_docs.md#url)
+- **use_cache** → [`nport_disclosure.py_docs.md#use_cache`](./nport_disclosure.py_docs.md#use_cache)
+- **utils** → [`nport_disclosure.py_docs.md#utils`](./nport_disclosure.py_docs.md#utils)
+
+### V
+
+- **value** → [`nport_disclosure.py_docs.md#value`](./nport_disclosure.py_docs.md#value)
+- **values** → [`nport_disclosure.py_docs.md#values`](./nport_disclosure.py_docs.md#values)
+
+### W
+
+- **W0718** → [`nport_disclosure.py_docs.md#w0718`](./nport_disclosure.py_docs.md#w0718)
+- **warn** → [`nport_disclosure.py_docs.md#warn`](./nport_disclosure.py_docs.md#warn)
+- **warnings** → [`nport_disclosure.py_docs.md#warnings`](./nport_disclosure.py_docs.md#warnings)
+- **weight** → [`nport_disclosure.py_docs.md#weight`](./nport_disclosure.py_docs.md#weight)
+- **Whether** → [`nport_disclosure.py_docs.md#whether`](./nport_disclosure.py_docs.md#whether)
+
+### X
+
+- **xmltodict** → [`nport_disclosure.py_docs.md#xmltodict`](./nport_disclosure.py_docs.md#xmltodict)
+- **XXXX** → [`nport_disclosure.py_docs.md#xxxx`](./nport_disclosure.py_docs.md#xxxx)
+
+### Y
+
+- **year** → [`nport_disclosure.py_docs.md#year`](./nport_disclosure.py_docs.md#year)
+
+### Z
+
+- **zero** → [`nport_disclosure.py_docs.md#zero`](./nport_disclosure.py_docs.md#zero)
+
+### _
+
+- **__alias_dict__** → [`nport_disclosure.py_docs.md#__alias_dict__`](./nport_disclosure.py_docs.md#__alias_dict__)
+- **__date** → [`nport_disclosure.py_docs.md#__date`](./nport_disclosure.py_docs.md#__date)
+- **__dates** → [`nport_disclosure.py_docs.md#__dates`](./nport_disclosure.py_docs.md#__dates)
+- **__nearest** → [`nport_disclosure.py_docs.md#__nearest`](./nport_disclosure.py_docs.md#__nearest)
+- **__nearest_date** → [`nport_disclosure.py_docs.md#__nearest_date`](./nport_disclosure.py_docs.md#__nearest_date)
+- **_borrowers** → [`nport_disclosure.py_docs.md#_borrowers`](./nport_disclosure.py_docs.md#_borrowers)
+
+
+---
+
+**Generated**: 2025-11-19T02:16:52.001468Z

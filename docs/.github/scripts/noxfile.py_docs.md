@@ -1,0 +1,120 @@
+# File Documentation: noxfile.py
+
+## Metadata
+- **Path**: `.github/scripts/noxfile.py`
+- **Size**: 1,186 bytes
+- **Lines**: 50
+- **Category**: python
+- **Extension**: .py
+
+---
+
+## Original Source
+
+```python
+"""Nox sessions."""
+
+from pathlib import Path
+
+import nox
+
+ROOT_DIR = Path(__file__).parent.parent.parent
+PLATFORM_DIR = ROOT_DIR / "openbb_platform"
+PLATFORM_TESTS = [str(PLATFORM_DIR / p) for p in ["tests", "core", "providers", "extensions"]]
+CLI_DIR = ROOT_DIR / "cli"
+CLI_TESTS = CLI_DIR / "tests"
+
+
+@nox.session(python=["3.10", "3.11", "3.12", "3.13"])
+def unit_test_platform(session):
+    """Run the test suite."""
+    session.install("poetry")
+    session.run(
+        "python",
+        str(PLATFORM_DIR / "dev_install.py"),
+        "-e",
+        external=True,
+    )
+    session.install("pytest")
+    session.install("pytest-cov")
+
+    session.run(
+        "pytest",
+        *PLATFORM_TESTS,
+        f"--cov={PLATFORM_DIR}",
+        "-m",
+        "not integration",
+    )
+
+
+@nox.session(python=["3.10", "3.11", "3.12", "3.13"])
+def unit_test_cli(session):
+    """Run the test suite."""
+    session.install("poetry")
+    session.run(
+        "python",
+        str(PLATFORM_DIR / "dev_install.py"),
+        "-e",
+        "--cli",
+        external=True,
+    )
+    session.install("pytest")
+    session.install("pytest-cov")
+    session.run("pytest", CLI_TESTS, f"--cov={CLI_DIR}")
+
+```
+
+
+
+---
+
+## High-Level Overview
+
+This is a **python** file named `noxfile.py`.
+
+**Python Module**
+
+- **Functions** (2): unit_test_platform, unit_test_cli
+- **Import Statements**: 1
+
+
+---
+
+## Detailed Analysis
+
+### Python Code Structure
+
+
+#### Functions
+
+- **`unit_test_platform(session)`**
+- **`unit_test_cli(session)`**
+
+#### Decorators Used
+
+nox
+
+
+---
+
+## Related Files
+
+The following files may be related based on imports and references:
+
+**Imported Modules**:
+- `Path`
+- `nox`
+- `pathlib`
+
+
+---
+
+## Performance & Security Notes
+
+No obvious security concerns detected in static analysis.
+
+
+---
+
+**Generated**: 2025-11-19T02:15:18.733603Z
+**Generator**: World's Best Repo Book Generator v1.0

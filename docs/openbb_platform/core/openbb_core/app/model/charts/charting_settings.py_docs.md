@@ -1,0 +1,137 @@
+# File Documentation: charting_settings.py
+
+## Metadata
+- **Path**: `openbb_platform/core/openbb_core/app/model/charts/charting_settings.py`
+- **Size**: 2,086 bytes
+- **Lines**: 56
+- **Category**: python
+- **Extension**: .py
+
+---
+
+## Original Source
+
+```python
+"""Charting settings."""
+
+import importlib
+from pathlib import Path
+from typing import TYPE_CHECKING, Optional
+
+from openbb_core.env import Env
+
+if TYPE_CHECKING:
+    from openbb_core.app.model.system_settings import SystemSettings
+    from openbb_core.app.model.user_settings import UserSettings
+
+
+# pylint: disable=too-many-instance-attributes
+class ChartingSettings:
+    """Charting settings."""
+
+    def __init__(
+        self,
+        user_settings: Optional["UserSettings"] = None,
+        system_settings: Optional["SystemSettings"] = None,
+    ):
+        """Initialize charting settings."""
+        user_settings_module = importlib.import_module(
+            "openbb_core.app.model.user_settings", "UserSettings"
+        )
+        system_settings_module = importlib.import_module(
+            "openbb_core.app.model.system_settings", "SystemSettings"
+        )
+
+        UserSettings = user_settings_module.UserSettings
+        SystemSettings = system_settings_module.SystemSettings
+        user_settings = user_settings or UserSettings()
+        system_settings = system_settings or SystemSettings()
+
+        user_data_directory = (
+            str(Path.home() / "OpenBBUserData")
+            if not user_settings.preferences
+            else user_settings.preferences.data_directory
+        )
+
+        # System
+        self.logging_suppress: bool = system_settings.logging_suppress
+        self.version: str = system_settings.version
+        self.python_version: str = system_settings.python_version
+        self.test_mode = system_settings.test_mode
+        self.debug_mode: bool = system_settings.debug_mode or Env().DEBUG_MODE
+        self.headless: bool = system_settings.headless
+        # User
+        self.user_data_directory: str = user_data_directory
+        self.user_exports_directory = user_settings.preferences.export_directory
+        self.user_styles_directory = user_settings.preferences.user_styles_directory
+        # Theme
+        self.chart_style: str = user_settings.preferences.chart_style
+        self.table_style = user_settings.preferences.table_style
+
+```
+
+
+
+---
+
+## High-Level Overview
+
+This is a **python** file named `charting_settings.py`.
+
+**Python Module**
+
+- **Classes** (1): ChartingSettings
+- **Functions** (1): __init__
+- **Import Statements**: 2
+
+
+---
+
+## Detailed Analysis
+
+### Python Code Structure
+
+#### Classes
+
+- **`ChartingSettings`**
+
+#### Functions
+
+- **`__init__(
+        self,
+        user_settings: Optional["UserSettings"] = None,
+        system_settings: Optional["SystemSettings"] = None,
+    )`**
+
+
+---
+
+## Related Files
+
+The following files may be related based on imports and references:
+
+**Imported Modules**:
+- `Env`
+- `Path`
+- `SystemSettings`
+- `TYPE_CHECKING`
+- `UserSettings`
+- `importlib`
+- `openbb_core.app.model.system_settings`
+- `openbb_core.app.model.user_settings`
+- `openbb_core.env`
+- `pathlib`
+- `typing`
+
+
+---
+
+## Performance & Security Notes
+
+No obvious security concerns detected in static analysis.
+
+
+---
+
+**Generated**: 2025-11-19T02:16:46.279463Z
+**Generator**: World's Best Repo Book Generator v1.0

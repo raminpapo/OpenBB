@@ -1,0 +1,98 @@
+# File Documentation: test_intrinio_currency_pairs_fetcher_urllib3_v2.yaml
+
+## Metadata
+- **Path**: `openbb_platform/providers/intrinio/tests/record/http/test_intrinio_fetchers/test_intrinio_currency_pairs_fetcher_urllib3_v2.yaml`
+- **Size**: 1,221 bytes
+- **Lines**: 40
+- **Category**: config
+- **Extension**: .yaml
+
+---
+
+## Original Source
+
+```yaml
+interactions:
+- request:
+    body: null
+    headers:
+      Accept:
+      - application/json
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+    method: GET
+    uri: https://api-v2.intrinio.com/forex/pairs?api_key=MOCK_API_KEY
+  response:
+    body:
+      string: !!binary |
+        H4sIAFs7fWYAA5SUwU7CQBCG32XPPAG3KmAjsZJiE60xBmsPXEQLHAzh3f3HvTDDP9nuse33bXf+
+        nZ1T+N5sh32Yvp5Ct/vswzQUzey2mIVJ+Njs+/fuOAz9V/cbP+Dtz3F3UK8FPk+UXi4ydMBav1+9
+        jNcF1nrVZmxeYK036wxd4AsdUfDaY6Cp2kHx2h3d1I7VHP1/Tyl93tSxSqvjA9MF1jpvG0c3bSM6
+        jc7TdXSg7m5W43WBtc6jc/Tr6KrH5XhdYKPTpvX01ka3nmf8XWCtP9UZtQusdX5lHN1cGRwE77p4
+        nKmuA8W7ztFN14lOu87TddeB4m3j6KZtQPFzd3Rz7qB48o5uksdqPLq4p1R0otPoPF1HB4pH5+gm
+        OlC8dkc3taOH+d/jTUj9Havx6OKeUtGJTqPzdB2d6FWZoQPWernM2LzAWufROfp1dA/P1XhdYK3z
+        SevoZtKC4qPS0c2oBMVHpaObUQmqLerxusAXOh558nFRnvzb+Q8AAP//AwC8qfa84wkAAA==
+    headers:
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json
+      Date:
+      - Thu, 27 Jun 2024 10:13:47 GMT
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Origin,Accept-Encoding
+    status:
+      code: 200
+      message: OK
+version: 1
+
+```
+
+
+
+---
+
+## High-Level Overview
+
+This is a **config** file named `test_intrinio_currency_pairs_fetcher_urllib3_v2.yaml`.
+
+**Configuration File**
+
+This file contains configuration settings for the project.
+
+
+---
+
+## Detailed Analysis
+
+### Configuration Structure
+
+This configuration file defines settings and parameters for the project.
+
+
+---
+
+## Related Files
+
+The following files may be related based on imports and references:
+
+*No direct imports detected.*
+
+
+---
+
+## Performance & Security Notes
+
+No obvious security concerns detected in static analysis.
+
+
+---
+
+**Generated**: 2025-11-19T02:16:51.505580Z
+**Generator**: World's Best Repo Book Generator v1.0

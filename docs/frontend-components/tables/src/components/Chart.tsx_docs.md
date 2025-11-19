@@ -1,0 +1,168 @@
+# File Documentation: Chart.tsx
+
+## Metadata
+- **Path**: `frontend-components/tables/src/components/Chart.tsx`
+- **Size**: 1,985 bytes
+- **Lines**: 113
+- **Category**: javascript
+- **Extension**: .tsx
+
+---
+
+## Original Source
+
+```tsx
+//@ts-ignore
+import Plot from "react-plotly.js";
+
+const COLORS = [
+  "rgb(31,119,180)",
+  "rgb(255,127,14)",
+  "rgb(44,160,44)",
+  "rgb(214,39,40)",
+  "rgb(148,103,189)",
+  "rgb(140,86,75)",
+  "rgb(227,119,194)",
+  "rgb(127,127,127)",
+];
+
+const plot_layout = {
+  height: window.innerHeight * 0.7,
+  width: window.innerWidth * 0.8,
+  font: {
+    color: "#F5EFF3",
+    size: 16,
+  },
+  annotationdefaults: {
+    showarrow: false,
+  },
+  autotypenumbers: "strict",
+  colorway: [
+    "#ffed00",
+    "#ef7d00",
+    "#e4003a",
+    "#c13246",
+    "#822661",
+    "#48277c",
+    "#005ca9",
+    "#00aaff",
+    "#9b30d9",
+    "#af005f",
+    "#5f00af",
+    "#af87ff",
+  ],
+  xaxis: {
+    automargin: true,
+    autorange: true,
+    rangeslider: {
+      visible: false,
+    },
+    showgrid: true,
+    showline: true,
+    tickfont: {
+      size: 14,
+    },
+    zeroline: false,
+    tick0: 1,
+    title: {
+      standoff: 20,
+    },
+    linecolor: "#F5EFF3",
+    mirror: true,
+    ticks: "outside",
+  },
+  yaxis: {
+    anchor: "x",
+    automargin: true,
+    fixedrange: false,
+    zeroline: false,
+    showgrid: true,
+    showline: true,
+    side: "right",
+    tick0: 0.5,
+    title: {
+      standoff: 20,
+    },
+    gridcolor: "#283442",
+    linecolor: "#F5EFF3",
+    mirror: true,
+    ticks: "outside",
+  },
+  plot_bgcolor: "rgba(0,0,0,1)",
+  paper_bgcolor: "rgba(0,0,0,1)",
+  dragmode: "pan",
+};
+
+
+export default function Chart({ values }: { values: number[][] }) {
+  if (!values) return null;
+  console.log(values);
+  const data = values.map((value, idx) => ({
+    x: value.map((_, i) => i),
+    y: value,
+    type: "bar",
+    showlegend: false,
+    marker: {
+      color: COLORS[idx],
+      opacity: 0.6,
+      line: {
+        color: COLORS[idx],
+        width: 1.5,
+      },
+    },
+  }));
+  console.log(data);
+  return (
+    <Plot
+      data={data}
+      layout={plot_layout}
+      config={{
+        displaylogo: false,
+        responsive: true,
+        scrollZoom: true,
+      }}
+    />
+  );
+}
+
+```
+
+
+
+---
+
+## High-Level Overview
+
+This is a **javascript** file named `Chart.tsx`.
+
+This file contains 113 lines of code/text.
+
+
+---
+
+## Detailed Analysis
+
+This file contains code or text data. See the original source above for full details.
+
+
+---
+
+## Related Files
+
+The following files may be related based on imports and references:
+
+**Imported Modules**:
+- `Plot`
+
+
+---
+
+## Performance & Security Notes
+
+No obvious security concerns detected in static analysis.
+
+
+---
+
+**Generated**: 2025-11-19T02:16:46.070005Z
+**Generator**: World's Best Repo Book Generator v1.0
